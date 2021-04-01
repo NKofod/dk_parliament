@@ -44,7 +44,6 @@ def write_constituencies(inlist,data):
         for i in tmp_data:
             tmp_list.append(str(r"\item " + i.text + "\n"))
         tmp_list.append(str(r"\end{itemize}" + "\n"))
-        tmp_list = write_section_to_outfile(tmp_list,"Kandidaturer",data,2,["career","nominations"])
     else:
         tmp_list.append(str(r"\subsubsection*{Medlemsperioder}" + "\n"))
         tmp_list.append(str(r"\begin{itemize}" + "\n"))
@@ -90,7 +89,7 @@ def write_section_to_outfile(inlist,title,data,search_level, searches,output = "
             for item in tmp_data:
                 item = remove_special_characters(item.text)
                 tmp_list.append(str(r"\item " + item + "\n"))
-            tmp_list.append(str(r"\end{itemize]"+"\n"))
+            tmp_list.append(str(r"\end{itemize}"+"\n"))
         elif output == "enumerate":
             tmp_list.append(str(r"\begin{enumerate}" + "\n"))
             for item in tmp_data:
@@ -101,7 +100,8 @@ def write_section_to_outfile(inlist,title,data,search_level, searches,output = "
             for item in tmp_data:
                 item = remove_special_characters(item.text)
                 tmp_list.append(str(item + "\n\n"))
-        outlist.extrend(tmp_list)
+        outlist.extend(tmp_list)
+        #print(outlist)
         return outlist
     else:
         return outlist
@@ -178,19 +178,20 @@ def write_tex_head(data):
 
 def create_folders_and_files(data):
     import os
+    import re
     if not os.path.isdir("./party_{}".format(data.find("partyshortname").text)):
         os.mkdir("./party_{}".format(data.find("partyshortname").text))
         os.system("cp -r cv ./party_{}/".format(data.find("partyshortname").text))
         os.system("cp -r fonts ./party_{}/".format(data.find("partyshortname").text))
         os.system("cp awesome-cv.cls ./party_{}/".format(data.find("partyshortname").text))
 
-    print("creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
-    # picture_url = re.sub("^.+?ft.dk:443", "https://www.ft.dk",
-    #                      str(data.find("picturemires").text))
-    # picture_name = data.find("firstname").text + "_" + data.find(
-    #     "lastname").text + "_profile.jpg"
-    # os.system("wget --output-document='./party_{}/{}' {}".format(data.find("partyshortname").text, picture_name,
-    #                                                              picture_url))
+    print("Creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
+    picture_url = re.sub("^.+?ft.dk:443", "https://www.ft.dk",
+                         str(data.find("picturemires").text))
+    picture_name = data.find("firstname").text + "_" + data.find(
+        "lastname").text + "_profile.jpg"
+    os.system("wget --output-document='./party_{}/{}' {}".format(data.find("partyshortname").text, picture_name,
+                                                                 picture_url))
     outlist = write_tex_head(data)
     # print(outlist)
     outlist = write_background_to_outfile(outlist,data)
@@ -200,66 +201,53 @@ def create_folders_and_files(data):
     outlist = write_section_to_outfile(outlist,"Ordførerskaber",data,1,["spokesmen"])
     outlist = write_section_to_outfile(outlist,"Parlamentariske Tillidsposter", data, 2, ["career", "parliamentarypositionsoftrust"])
     outlist = write_constituencies(outlist,data)
+    outlist = write_section_to_outfile(outlist,"Erhvervserfaring",data,1,["occupations"])
     outlist = write_section_to_outfile(outlist, "Publikationer", data, 1, ["publications"])
     outlist.append(str(r"\end{cvletter}" + "\n"))
     outlist.append(str(r"\end{document}"))
-    print(outlist)
+    #¤print(outlist)
     return outlist
 
+def run_writing_loop(data,memberlist,count):
+    import re
+    from bs4 import BeautifulSoup as soup
 
-
+    for i in range(len(data)):
+        try:
+            xml_data = soup(data[i]["biografi"], "lxml").find("body").find("member")
+            if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(xml_data.find("currentconstituency").text)) != None:
+                memberlist.append("({}) {} {}".format(xml_data.find("partyshortname").text,
+                                                           xml_data.find("firstname").text,
+                                                           xml_data.find("lastname").text))
+                print_list = create_folders_and_files(xml_data)
+                count += 1
+                with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text,
+                                                        xml_data.find("firstname").text,
+                                                        xml_data.find("lastname").text), "w") as f:
+                    for line in print_list:
+                        f.write(line)
+        except AttributeError:
+            pass
+        except TypeError:
+            pass
+    return memberlist,count
 def main_function():
     import requests
-    from bs4 import BeautifulSoup as soup
     import json
-    import re
     url = "https://oda.ft.dk/api/Akt%C3%B8r?$inlinecount=allpages&$filter=typeid%20eq%205"
     data = json.loads(requests.get(url).content)
     list_of_members = []
+    counter = 0
     while True:
         try:
             url = data["odata.nextLink"]
             data_json = data["value"]
-            for i in range(len(data_json)):
-                try:
-                    xml_data = soup(data_json[i]["biografi"], "lxml").find("body").find("member")
-                    if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(xml_data.find("currentconstituency").text)) != None:
-                        list_of_members.append("({}) {} {}".format(xml_data.find("partyshortname").text,
-                                                                   xml_data.find("firstname").text,
-                                                                    xml_data.find("lastname").text))
-                        print_list = create_folders_and_files(xml_data)
-                        with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text,
-                                                                xml_data.find("firstname").text,
-                                                                xml_data.find("lastname").text), "w") as f:
-                            for line in print_list:
-                                f.write(line)
-                except AttributeError:
-                    pass
-                except TypeError:
-                    pass
+            list_of_members,counter = run_writing_loop(data_json,list_of_members,counter)
             data = requests.get(url)
             data = json.loads(data.content)
         except KeyError:
-            print("reached last page")
             data_json = data["value"]
-            for i in range(len(data_json)):
-                try:
-                    xml_data = soup(data_json[i]["biografi"], "lxml").find("body").find("member")
-                    if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(data.find("currentconstituency").text)) != None:
-                        list_of_members.append("({}) {} {}".format(data.find("partyshortname").text,
-                                                                data.find("firstname").text,
-                                                                data.find("lastname").text))
-                        print_list = create_folders_and_files(xml_data)
-                        with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text,
-                                                                xml_data.find("firstname").text,
-                                                                xml_data.find("lastname").text), "w") as f:
-                            for line in print_list:
-                                f.write(line)
-
-                except AttributeError:
-                    pass
-                except TypeError:
-                    pass
+            list_of_members,counter = run_writing_loop(data_json,list_of_members,counter)
             break
         
     return

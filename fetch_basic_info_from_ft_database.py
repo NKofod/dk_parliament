@@ -44,7 +44,8 @@ while True:
                                 #f.write("{} {}\n".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
                                 for i in pre_text:
                                     f.write(str(i)+"\n")
-                                tmp_string = r"\name{" + str(xml_data.find("firstname").text) + r"}{" + str(xml_data.find("lastname").text) + "}\n"
+                                tmp_string = r"\name{" + str(xml_data.find("firstname").text) + r"}{" + str(
+                                    xml_data.find("lastname").text) + "}\n"
                                 f.write(tmp_string)
                                 if xml_data.find("ministerphone") != None:
                                     tmp_string = r"\mobile{" + str(xml_data.find("ministerphone").text) + "}\n"
@@ -58,10 +59,10 @@ while True:
                                 else:
                                     pass
                                 if xml_data.find("twitterprofiles") != None:
-                                    tmp_data =
-                                    tmp_data = tmp_data
-                                    tmp_data = tmp_data
-                                    tmp_string = r"\twitter{" + str(xml_data.find("twitterprofiles").find("twitterurl").find("desciption").text) + "}\n"
+                                    tmp_data = xml_data.find("twitterprofiles")
+                                    tmp_data = tmp_data.find("twitterurl")
+                                    tmp_data = tmp_data.find("desciption")
+                                    tmp_string = r"\twitter{" + str(tmp_data.text) + "}\n"
                                     #print(tmp_data)
                                     f.write(tmp_string)
                                 else:
