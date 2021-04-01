@@ -21,13 +21,15 @@ def remove_special_characters(string):
     # Takes an input string with 0 or more html codes for special characters
     # and replaces them with the special characters in the output string
     tmp_string = string
-    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&", r"\_"]
+    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&"]
     search_list = ["&oslash;", "&aelig;", "&nbsp;", "&aring;",
                    "&Aring;", "&Oslash;", "&Aelig;", "&laquo;",
-                   "&raquo;", "&nbsp;", "&amp;", "_"]
+                   "&raquo;", "&nbsp;", "&amp;"]
     for word in range(len(search_list)):
         while re.search(search_list[word], tmp_string) is not None:
             tmp_string = re.sub(search_list[word], sub_list[word], tmp_string)
+        while re.search("\d_",tmp_string) is not None:
+            tmp_string = re.sub("_","\_",tmp_string)
     return tmp_string
 
 
@@ -137,8 +139,8 @@ def write_tex_head(data):
                 r"\setbool{acvSectionColorHighlight}{true}", r"\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}",
                 r"\recipient{}{}", str(r"\name{" + str(data.find("firstname").text) + r"}{" +
                                        str(data.find("lastname").text) + "}\n")]
-    # print(pre_text)
-    # print(pre_text)
+    # print("Finished Pre-text")
+    # # print(pre_text)
     if data.find("ministerphone") is not None:
         pre_text.append(str(r"\mobile{" + str(data.find("ministerphone").text) + "}\n"))
     elif data.find("phonefolketinget") is not None:
@@ -147,6 +149,7 @@ def write_tex_head(data):
         pre_text.append(str(r"\mobile{" + str(data.find("mobilephone").text) + "}\n"))
     else:
         pass
+    # print("Finished Phone")
     if data.find("twitterprofiles") is not None:
         tmp_string = remove_special_characters(str(data.find("twitterprofiles").
                                                    find("twitterurl").
@@ -154,11 +157,13 @@ def write_tex_head(data):
         pre_text.append(str(r"\twitter{" + tmp_string + "}\n"))
     else:
         pass
+    # print("Finished Twitter")
     if data.find("email") is not None:
         tmp_string = remove_special_characters(str(data.find("emails").find("email").text))
         pre_text.append(str(r"\email{" + tmp_string + "}\n"))
     else:
         pass
+    # print("Finished Email")
     pre_text.extend(
         [str(r"\position{Medlem af Folketingent{\enskip\cdotp\enskip}" + str(data.find("party").text) + "}\n"),
          str(r"\address{}" + "\n"),
@@ -176,11 +181,12 @@ def write_tex_head(data):
              data.find("firstname").text, data.find("lastname").text) + r"}" + "}{}\n"),
          str(r"\makelettertitle" + "\n"),
          str(r"\begin{cvletter}" + "\n")])
-    # print(pre_text)
+    # # print(pre_text)
     return pre_text
 
 
 def create_folders_and_files(data):
+    import time
     import os
     import re
     if not os.path.isdir("./party_{}".format(data.find("partyshortname").text)):
@@ -188,8 +194,7 @@ def create_folders_and_files(data):
         os.system("cp -r cv ./party_{}/".format(data.find("partyshortname").text))
         os.system("cp -r fonts ./party_{}/".format(data.find("partyshortname").text))
         os.system("cp awesome-cv.cls ./party_{}/".format(data.find("partyshortname").text))
-
-    print("Creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
+    # print("Creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
     picture_url = re.sub("^.+?ft.dk:443", "https://www.ft.dk",
                          str(data.find("picturemires").text))
     picture_name = data.find("firstname").text + "_" + data.find(
@@ -197,22 +202,31 @@ def create_folders_and_files(data):
     os.system("wget --output-document='./party_{}/{}' {}".format(data.find("partyshortname").text, picture_name,
                                                                  picture_url))
     outlist = write_tex_head(data)
-    # print(outlist)
+    # print("Finished with tex_head")
+    # # print(outlist)
     outlist = write_background_to_outfile(outlist, data)
+    # print("Finished with background")
     outlist = write_section_to_outfile(outlist, "Uddannelse", data, 1, ["educations"], section_type="lettersection")
+    # print("Finished with Uddannelse")
     outlist.append(str(r"\lettersection{Parlamentarisk Karriere}" + "\n"))
     outlist = write_section_to_outfile(outlist, "Ministerposter", data, 2, ["careers", "ministers"])
+    # print("Finished with Ministerposter")
     outlist = write_section_to_outfile(outlist, "Ordførerskaber", data, 1, ["spokesmen"])
+    # print("Finished with Ordførerskaber")
     outlist = write_section_to_outfile(outlist, "Parlamentariske Tillidsposter", data, 2,
                                        ["career", "parliamentarypositionsoftrust"])
+    # print("Finished with Parlamentariske Tillidsposter")
     outlist = write_constituencies(outlist, data)
+    # print("Finished with Constituencies")
     outlist = write_section_to_outfile(outlist, "Erhvervserfaring", data, 1, ["occupations"],
                                        section_type="lettersection")
+    # print("Finished with Erhvervserfaring")
     outlist = write_section_to_outfile(outlist, "Publikationer", data, 1, ["publications"],
                                        section_type="lettersection")
+    # print("Finished with Publikationer")
     outlist.append(str(r"\end{cvletter}" + "\n"))
     outlist.append(str(r"\end{document}"))
-    # ¤print(outlist)
+    # ¤# print(outlist)
     return outlist
 
 
