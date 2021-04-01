@@ -1,19 +1,19 @@
-### Provides the functions to fetch data on the current members of
-### the Danish Parliament using the Open Data of the Parliament.
-### There may thus be minor inaccuracies in the output, due to
-### delays in updating on the part of the parliament's Open Data
-### service.
+"""Provides the functions to fetch data on the current members of
+the Danish Parliament using the Open Data of the Parliament.
+There may thus be minor inaccuracies in the output, due to
+delays in updating on the part of the parliament's Open Data
+service.
 
-### It provides output as a number of folders, named by the party
-### short name (eg. "S" for the Social Democrats), containing a number
-### of .tex files with the output and the images necessary for the
-### output files. To get pdf output, run XeLaTeX on each of the files.
-### Also provided in the output is a list of members output in .txt
-### sorted alphabetically by party and name
+It provides output as a number of folders, named by the party
+short name (eg. "S" for the Social Democrats), containing a number
+of .tex files with the output and the images necessary for the
+output files. To get pdf output, run XeLaTeX on each of the files.
+Also provided in the output is a list of members output in .txt
+sorted alphabetically by party and name
 
-### A note of caution: As this fetches directly from the Danish Parliament's
-### Open Data database, the material is in Danish and translation functionality
-### has not yet been implemented.
+A note of caution: As this fetches directly from the Danish Parliament's
+Open Data database, the material is in Danish and translation functionality
+has not yet been implemented."""
 
 def remove_special_characters(string):
     import re
