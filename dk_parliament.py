@@ -20,10 +20,10 @@ def remove_special_characters(string):
     # Takes an input string with 0 or more html codes for special characters
     # and replaces them with the special characters in the output string
     tmp_string = string
-    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«","»", " ", "\&"]
+    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«","»", " ", "\&","\_"]
     search_list = ["&oslash;", "&aelig;", "&nbsp;", "&aring;",
                    "&Aring;", "&Oslash;","&Aelig;", "&laquo;",
-                   "&raquo;","&nbsp;", "&amp;"]
+                   "&raquo;","&nbsp;", "&amp;","_"]
     for word in range(len(search_list)):
         while re.search(search_list[word], tmp_string) != None:
             tmp_string = re.sub(search_list[word], sub_list[word], tmp_string)
@@ -53,7 +53,7 @@ def write_constituencies(inlist,data):
     outlist.extend(tmp_list)
     return outlist
 
-def write_section_to_outfile(inlist,title,data,search_level, searches,output = "itemize"):
+def write_section_to_outfile(inlist,title,data,search_level, searches,output = "itemize", section_type = "subsection*"):
     # Writes a section to the LaTeX outfile
     # after checking for the existence of the
     # relevant data in the given XML data.
@@ -82,7 +82,7 @@ def write_section_to_outfile(inlist,title,data,search_level, searches,output = "
             break
     # If the data is present, continue, else break and end the function
     if tmp_var == True:
-        tmp_list.append(str(r"\subsection{" + title + r"}"+"\n"))
+        tmp_list.append(str("\{}".format(section_type) + "{" + title + r"}"+"\n"))
         tmp_data = tmp_data.children
         if output == "itemize":
             tmp_list.append(str(r"\begin{itemize}" + "\n"))
@@ -148,13 +148,15 @@ def write_tex_head(data):
     else:
         pass
     if data.find("twitterprofiles") != None:
-        pre_text.append(str(r"\twitter{" + str(data.find("twitterprofiles").
+        tmp_string = remove_special_characters(str(data.find("twitterprofiles").
                                                 find("twitterurl").
-                                                find("desciption").text) + "}\n"))
+                                                find("desciption").text))
+        pre_text.append(str(r"\twitter{" + tmp_string + "}\n"))
     else:
         pass
     if data.find("email") != None:
-        pre_text.append(str(r"\email{" + str(data.find("emails").find("email").text) + "}\n"))
+        tmp_string = remove_special_characters(str(data.find("emails").find("email").text))
+        pre_text.append(str(r"\email{" + tmp_string + "}\n"))
     else:
         pass
     pre_text.extend([str(r"\position{Medlem af Folketingent{\enskip\cdotp\enskip}" + str(data.find("party").text) + "}\n"),
@@ -195,14 +197,14 @@ def create_folders_and_files(data):
     outlist = write_tex_head(data)
     # print(outlist)
     outlist = write_background_to_outfile(outlist,data)
+    outlist = write_section_to_outfile(outlist, "Uddannelse", data, 1, ["educations"], section_type="lettersection")
     outlist.append(str(r"\lettersection{Parlamentarisk Karriere}" + "\n"))
-    outlist = write_section_to_outfile(outlist,"Uddannelse",data,1,["educations"])
     outlist = write_section_to_outfile(outlist,"Ministerposter",data,2,["careers","ministers"])
     outlist = write_section_to_outfile(outlist,"Ordførerskaber",data,1,["spokesmen"])
     outlist = write_section_to_outfile(outlist,"Parlamentariske Tillidsposter", data, 2, ["career", "parliamentarypositionsoftrust"])
     outlist = write_constituencies(outlist,data)
-    outlist = write_section_to_outfile(outlist,"Erhvervserfaring",data,1,["occupations"])
-    outlist = write_section_to_outfile(outlist, "Publikationer", data, 1, ["publications"])
+    outlist = write_section_to_outfile(outlist,"Erhvervserfaring",data,1,["occupations"],section_type="lettersection")
+    outlist = write_section_to_outfile(outlist, "Publikationer", data, 1, ["publications"],section_type="lettersection")
     outlist.append(str(r"\end{cvletter}" + "\n"))
     outlist.append(str(r"\end{document}"))
     #¤print(outlist)
@@ -249,7 +251,9 @@ def main_function():
             data_json = data["value"]
             list_of_members,counter = run_writing_loop(data_json,list_of_members,counter)
             break
-        
+    with open("Current_members.txt","w") as f:
+        for i in list_of_members:
+            f.write(i)
     return
 
 main_function()
