@@ -8,8 +8,8 @@ url = "https://oda.ft.dk/api/Akt%C3%B8r?$inlinecount=allpages&$filter=typeid%20e
 data = requests.get(url)
 data = json.loads(data.content)
 counter = 0
-pre_text = [r"\documentclass[11pt, a5paper]{awesome-cv}",r"\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",r"\fontdir[../fonts/]",r"\colorlet{awesome}{awesome-red}",r"\setbool{acvSectionColorHighlight}{true}",r"\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}",r"\recipient{}{}" ]
-
+pre_text = [r"\documentclass[11pt, a4paper]{awesome-cv}",r"\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",r"\fontdir[../fonts/]",r"\colorlet{awesome}{awesome-red}",r"\setbool{acvSectionColorHighlight}{true}",r"\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}",r"\recipient{}{}" ]
+list_of_members = []
 while True:
     try:
         url = data["odata.nextLink"]
@@ -20,8 +20,9 @@ while True:
                 if xml_data.find("currentconstituency") != None:
                     if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(xml_data.find("currentconstituency").text)) != None:
                         print("{} {}".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
+                        list_of_members.append("({}) {} {}".format(xml_data.find("partyshortname").text,xml_data.find("firstname").text, xml_data.find("lastname").text))
                         print(xml_data.find("currentconstituency").text)
-                        pre_text = [r"\documentclass[11pt, a5paper]{awesome-cv}",
+                        pre_text = [r"\documentclass[11pt, a4paper]{awesome-cv}",
                                     r"\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",
                                     r"\fontdir[fonts/]", str(r"\colorlet{awesome}{" + "{}-colour".format(xml_data.find("partyshortname").text) + "}"),
                                     r"\setbool{acvSectionColorHighlight}{true}",
@@ -37,14 +38,13 @@ while True:
                             os.system(
                                 "wget --output-document='./party_{}/{}' {}".format(xml_data.find("partyshortname").text,
                                                                                    picture_name, picture_url))
-                            time.sleep(3)
+                            # time.sleep(3)
                             with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text, xml_data.find("firstname").text, xml_data.find("lastname").text), "w") as f:
                                 f.write("""%!TEX TS-program = xelatex \n%!TEX encoding = UTF-8 Unicode\n""")
                                 #f.write("{} {}\n".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
                                 for i in pre_text:
                                     f.write(str(i)+"\n")
-                                tmp_string = r"\name{" + str(xml_data.find("firstname").text) + r"}{" + str(
-                                    xml_data.find("lastname").text) + "}\n"
+                                tmp_string = r"\name{" + str(xml_data.find("firstname").text) + r"}{" + str(xml_data.find("lastname").text) + "}\n"
                                 f.write(tmp_string)
                                 if xml_data.find("ministerphone") != None:
                                     tmp_string = r"\mobile{" + str(xml_data.find("ministerphone").text) + "}\n"
@@ -58,10 +58,10 @@ while True:
                                 else:
                                     pass
                                 if xml_data.find("twitterprofiles") != None:
-                                    tmp_data = xml_data.find("twitterprofiles")
-                                    tmp_data = tmp_data.find("twitterurl")
-                                    tmp_data = tmp_data.find("desciption")
-                                    tmp_string = r"\twitter{" + str(tmp_data.text) + "}\n"
+                                    tmp_data =
+                                    tmp_data = tmp_data
+                                    tmp_data = tmp_data
+                                    tmp_string = r"\twitter{" + str(xml_data.find("twitterprofiles").find("twitterurl").find("desciption").text) + "}\n"
                                     #print(tmp_data)
                                     f.write(tmp_string)
                                 else:
@@ -210,7 +210,7 @@ while True:
                             os.system(
                                 "wget --output-document='./party_{}/{}' {}".format(xml_data.find("partyshortname").text,
                                                                                    picture_name, picture_url))
-                            time.sleep(3)
+                            # time.sleep(3)
                             with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text, xml_data.find("firstname").text, xml_data.find("lastname").text), "w") as f:
                                 f.write("""%!TEX TS-program = xelatex \n%!TEX encoding = UTF-8 Unicode\n""")
                                 #f.write("{} {}\n".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
@@ -395,8 +395,8 @@ while True:
                 xml_data = soup(data_json[i]["biografi"], "lxml").find("body").find("member")
                 if xml_data.find("currentconstituency") != None:
                     if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}",str(xml_data.find("currentconstituency").text)) != None:
-
-                        pre_text = [r"\documentclass[11pt, a5paper]{awesome-cv}",
+                        list_of_members.append("({}) {} {}".format(xml_data.find("partyshortname").text,xml_data.find("firstname").text, xml_data.find("lastname").text))
+                        pre_text = [r"\documentclass[11pt, a4paper]{awesome-cv}",
                                     r"\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",
                                     r"\fontdir[fonts/]", str(r"\colorlet{awesome}{" + "{}-colour".format(
                                 xml_data.find("partyshortname").text) + "}"),
@@ -413,7 +413,7 @@ while True:
                             print(picture_name)
 
                             os.system("wget --output-document='./party_{}/{}' {}".format(xml_data.find("partyshortname").text,picture_name, picture_url))
-                            time.sleep(3)
+                            # time.sleep(3)
                             with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text, xml_data.find("firstname").text, xml_data.find("lastname").text), "w") as f:
                                 f.write("""%!TEX TS-program = xelatex \n%!TEX encoding = UTF-8 Unicode\n""")
                                 #f.write("{} {}\n".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
@@ -588,7 +588,7 @@ while True:
                                 "wget --output-document='./party_{}/{}' {}".format(xml_data.find("partyshortname").text,
                                                                                    picture_name, picture_url))
 
-                            time.sleep(3)
+                            # time.sleep(3)
                             with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text, xml_data.find("firstname").text, xml_data.find("lastname").text), "w") as f:
                                 f.write("""%!TEX TS-program = xelatex \n%!TEX encoding = UTF-8 Unicode\n""")
                                 #f.write("{} {}\n".format(xml_data.find("firstname").text, xml_data.find("lastname").text))
@@ -757,5 +757,8 @@ while True:
         break
 print(counter)
 
+with open("Current_members.txt", "w") as f:
+    for i in sorted(list_of_members):
+        f.write(i+"\n")
 
 

@@ -15,6 +15,3 @@
 #     for i in tmp_list:
 #         f.write(i)
     
-import wikipedia
-wikipedia.set_lang("en")
-print(wikipedia.page("Marianne Jelved").content)
