@@ -21,10 +21,10 @@ def remove_special_characters(string):
     # Takes an input string with 0 or more html codes for special characters
     # and replaces them with the special characters in the output string
     tmp_string = string
-    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&"]
+    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&","É"," og "]
     search_list = ["&oslash;", "&aelig;", "&nbsp;", "&aring;",
                    "&Aring;", "&Oslash;", "&Aelig;", "&laquo;",
-                   "&raquo;", "&nbsp;", "&amp;"]
+                   "&raquo;", "&nbsp;", "&amp;","&Eacute;"," & "]
     for word in range(len(search_list)):
         while re.search(search_list[word], tmp_string) is not None:
             tmp_string = re.sub(search_list[word], sub_list[word], tmp_string)
@@ -100,14 +100,14 @@ def write_section_to_outfile(inlist, title, data, search_level, searches, output
 
 def create_folders_and_files(data):
     import os
+    import subprocess
     import re
     import json
     basic_info_dict = {"party-short": "{}".format(data.find("partyshortname").text),
                        "first-name": "{}".format(data.find("firstname").text),
                        "last-name": "{}".format(data.find("lastname").text),
                        "phone": "",
-                       "twitter": "",
-                       "email": "".format(remove_special_characters(str(data.find("emails").find("email").text))),
+                       "email": "{}".format(remove_special_characters(str(data.find("emails").find("email").text))),
                        "position": "",
                        "party": "{}".format(data.find("party").text)}
 
@@ -129,10 +129,13 @@ def create_folders_and_files(data):
                                                                     picture_name,
                                                                     picture_url))
 
-    for i in ["ministerPhone", "phoneFolketinget", "mobilePhone"]:
+    for i in ["ministerphone", "phonefolketinget", "mobilephone"]:
         if data.find(i) is not None:
             basic_info_dict["phone"] = str(data.find(i).text)
+            print(basic_info_dict["phone"])
             break
+    print(basic_info_dict)
+
     if re.search("minister|folketing|statsrevisor|præsidium", str(data.find("profession").text), re.IGNORECASE):
         basic_info_dict["position"] = str(data.find("profession").text)
     else:
