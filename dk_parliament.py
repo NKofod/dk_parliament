@@ -10,18 +10,11 @@ of .tex files with the output and the images necessary for the
 output files. To get pdf output, run XeLaTeX on each of the files.
 Also provided in the output is a list of members output in .txt
 sorted alphabetically by party and name
-<<<<<<< HEAD
-
-A note of caution: As this fetches directly from the Danish Parliament's
-Open Data database, the material is in Danish and translation functionality
-has not yet been implemented."""
-=======
 
 A note of caution: As this fetches directly from the Danish Parliament's
 Open Data database, the material is in Danish and translation functionality
 has not yet been implemented."""
 
->>>>>>> adding_vote_stats
 
 def remove_special_characters(string):
     import re
