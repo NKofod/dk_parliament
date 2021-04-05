@@ -1,0 +1,98 @@
+{ "Baggrund":
+  { "search_level": 2,
+    "searches": ["personalinformation","memberdata"],
+    "output": "paragraph",
+    "section_type": "lettersection",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Uddannelse":
+  { "search_level": 1,
+    "searches": ["educations"],
+    "output": "itemize",
+    "section_type": "lettersection",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Parlamentarisk Karriere":
+  { "search_level": 0,
+    "searches": [],
+    "output": "itemize",
+    "section_type": "lettersection",
+    "only_header": true,
+    "constituencies": false
+  },
+  "Ministerposter":
+  { "search_level": 2,
+    "searches": ["careers", "ministers"],
+    "output": "itemize",
+    "section_type": "subsection*",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Ordførerskaber":
+  { "search_level": 1,
+    "searches": ["spokesmen"],
+    "output": "itemize",
+    "section_type": "subsection*",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Parlamentariske Tillidsposter":
+  { "search_level": 2,
+    "searches": ["career","parliamentarypositionsoftrust"],
+    "output": "itemize",
+    "section_type": "subsection*",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Folketinget":
+  { "search_level": 0,
+    "searches": [],
+    "output": "itemize",
+    "section_type": "subsection*",
+    "only_header": true,
+    "constituencies": false
+
+  },
+  "Medlemsperioder":
+  { "search_level": 2,
+    "searches": ["career","constituencies"],
+    "output": "itemize",
+    "section_type": "subsubsection*",
+    "only_header": false,
+    "constituencies": true
+  },
+  "Kandidaturer":
+  { "search_level": 2,
+    "searches": ["career","nominations"],
+    "output": "itemize",
+    "section_type": "subsubsection*",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Folketingets Præsidium":
+  { "search_level": 2,
+    "searches": ["career","presidiums"],
+    "output": "itemize",
+    "section_type": "subsection*",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Erhvervserfaring":
+  { "search_level": 1,
+    "searches": ["occupations"],
+    "output": "itemize",
+    "section_type": "lettersection",
+    "only_header": false,
+    "constituencies": false
+  },
+  "Publikationer":
+  { "search_level": 1,
+    "searches": ["publications"],
+    "output": "paragraph",
+    "section_type": "lettersection",
+    "only_header": false,
+    "constituencies": false
+  }
+}

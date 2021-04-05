@@ -10,50 +10,38 @@ of .tex files with the output and the images necessary for the
 output files. To get pdf output, run XeLaTeX on each of the files.
 Also provided in the output is a list of members output in .txt
 sorted alphabetically by party and name
+<<<<<<< HEAD
 
 A note of caution: As this fetches directly from the Danish Parliament's
 Open Data database, the material is in Danish and translation functionality
 has not yet been implemented."""
+=======
+
+A note of caution: As this fetches directly from the Danish Parliament's
+Open Data database, the material is in Danish and translation functionality
+has not yet been implemented."""
+
+>>>>>>> adding_vote_stats
 
 def remove_special_characters(string):
     import re
     # Takes an input string with 0 or more html codes for special characters
     # and replaces them with the special characters in the output string
     tmp_string = string
-    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«","»", " ", "\&","\_"]
+    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&","É"," og "]
     search_list = ["&oslash;", "&aelig;", "&nbsp;", "&aring;",
-                   "&Aring;", "&Oslash;","&Aelig;", "&laquo;",
-                   "&raquo;","&nbsp;", "&amp;","_"]
+                   "&Aring;", "&Oslash;", "&Aelig;", "&laquo;",
+                   "&raquo;", "&nbsp;", "&amp;","&Eacute;"," & "]
     for word in range(len(search_list)):
-        while re.search(search_list[word], tmp_string) != None:
+        while re.search(search_list[word], tmp_string) is not None:
             tmp_string = re.sub(search_list[word], sub_list[word], tmp_string)
+        while re.search("\w_", tmp_string) is not None:
+            tmp_string = re.sub("_", "\_", tmp_string)
     return tmp_string
 
-def write_constituencies(inlist,data):
-    # Write the parliamentary career and current constituency of the given
-    # member of parliament
-    tmp_list = []
-    outlist = list(inlist)
-    tmp_list.append(str(r"\subsection*{Folketinget}" + "\n"))
-    tmp_list = write_section_to_outfile(tmp_list, "Folketingets Præsidium", data, 2, ["career", "presidiums"])
-    if data.find("career").find("constituencies") != None:
-        tmp_list.append(str(r"\subsubsection*{Medlemsperioder}" + "\n"))
-        tmp_data = data.find("career").find("constituencies").children
-        tmp_list.append(str(r"\begin{itemize}" + "\n"))
-        tmp_list.append(str(r"\item " + data.find("career").find("currentconstituency").text + "\n"))
-        for i in tmp_data:
-            tmp_list.append(str(r"\item " + i.text + "\n"))
-        tmp_list.append(str(r"\end{itemize}" + "\n"))
-    else:
-        tmp_list.append(str(r"\subsubsection*{Medlemsperioder}" + "\n"))
-        tmp_list.append(str(r"\begin{itemize}" + "\n"))
-        tmp_list.append(str(r"\item " + data.find("career").find("currentconstituency").text + "\n"))
-        tmp_list.append(str(r"\end{itemize}" + "\n"))
-    tmp_list = write_section_to_outfile(tmp_list, "Kandidaturer", data, 2, ["career", "nominations"])
-    outlist.extend(tmp_list)
-    return outlist
 
-def write_section_to_outfile(inlist,title,data,search_level, searches,output = "itemize", section_type = "subsection*"):
+def write_section_to_outfile(inlist, title, data, search_level, searches, output="itemize",
+                             section_type="subsection*", only_header=False, constituencies=False):
     # Writes a section to the LaTeX outfile
     # after checking for the existence of the
     # relevant data in the given XML data.
@@ -67,29 +55,34 @@ def write_section_to_outfile(inlist,title,data,search_level, searches,output = "
     tmp_var = True
     tmp_list = []
     outlist = list(inlist)
+    if only_header:
+        outlist.append(str("\{}".format(section_type) + "{" + title + "}\n"))
+        return outlist
     # Check for the existence of the relevant data iteratively
     # through the levels of searches specified
+    tmp_data = data
     for i in range(search_level):
-        tmp_data = data
         # Check for the existence of the given level of search data
         # Simultaneously, if data is present, assign the search
         # result to a variable for later processing
-        if tmp_data.find("{}".format(searches[i])) != None:
+        if tmp_data.find("{}".format(searches[i])) is not None:
             tmp_var = True
             tmp_data = tmp_data.find("{}".format(searches[i]))
         else:
             tmp_var = False
             break
     # If the data is present, continue, else break and end the function
-    if tmp_var == True:
-        tmp_list.append(str("\{}".format(section_type) + "{" + title + r"}"+"\n"))
+    if tmp_var is True:
+        tmp_list.append(str("\{}".format(section_type) + "{" + title + r"}" + "\n"))
         tmp_data = tmp_data.children
         if output == "itemize":
             tmp_list.append(str(r"\begin{itemize}" + "\n"))
+            if constituencies:
+                tmp_list.append(str(r"\item " + data.find("career").find("currentconstituency").text + "\n"))
             for item in tmp_data:
                 item = remove_special_characters(item.text)
                 tmp_list.append(str(r"\item " + item + "\n"))
-            tmp_list.append(str(r"\end{itemize}"+"\n"))
+            tmp_list.append(str(r"\end{itemize}" + "\n"))
         elif output == "enumerate":
             tmp_list.append(str(r"\begin{enumerate}" + "\n"))
             for item in tmp_data:
@@ -101,138 +94,110 @@ def write_section_to_outfile(inlist,title,data,search_level, searches,output = "
                 item = remove_special_characters(item.text)
                 tmp_list.append(str(item + "\n\n"))
         outlist.extend(tmp_list)
-        #print(outlist)
         return outlist
     else:
-        return outlist
-
-
-def write_background_to_outfile(outlist,data):
-    # Writes a section to the LaTeX outfile containing the background of the MP in question
-    # Takes as input a filename (file, str) and the data being searched (data,var)
-    if data.find("personalinformation").find("memberdata").find("p") != None:
-        tmp_string = remove_special_characters(data.find("personalinformation").find("memberdata").find("p").text)
-        outlist.extend([str(r"\lettersection{Baggrund}" + "\n"),str(tmp_string + "\n")])
-        return outlist
-    elif data.find("personalinformation").find("memberdata") != None:
-        tmp_string = remove_special_characters(data.find("personalinformation").find("memberdata").text)
-        outlist.extend([str(r"\lettersection{Baggrund}" + "\n"), str(tmp_string + "\n")])
-        return outlist
-    else:
+        if constituencies:
+            tmp_list.append(str(r"\subsubsection*{Medlemsperioder}" + "\n"))
+            tmp_list.append(str(r"\begin{itemize}" + "\n"))
+            tmp_list.append(str(r"\item " + data.find("career").find("currentconstituency").text + "\n"))
+            tmp_list.append(str(r"\end{itemize}" + "\n"))
+            outlist.extend(tmp_list)
         return outlist
 
-
-def write_tex_head(data):
-    # Writes the head of the LaTeX file
-    # with import of necessary packages and
-    # the necessary preamble
-    # Takes as input the outfile name and
-    # the data being searched through
-    pre_text = ["""%!TEX TS-program = xelatex \n%!TEX encoding = UTF-8 Unicode\n""",
-                r"\documentclass[11pt, a4paper]{awesome-cv}",
-                r"\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",
-                r"\fontdir[fonts/]",
-                str(r"\colorlet{awesome}{" + "{}-colour".format(data.find("partyshortname").text) + "}"),
-                r"\setbool{acvSectionColorHighlight}{true}",
-                r"\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}", r"\recipient{}{}"]
-    # print(pre_text)
-    pre_text.append(str(r"\name{" + str(data.find("firstname").text) + r"}{" +
-                                str(data.find("lastname").text) + "}\n"))
-    # print(pre_text)
-    if data.find("ministerphone") != None:
-        pre_text.append(str(r"\mobile{" + str(data.find("ministerphone").text) + "}\n"))
-    elif data.find("phonefolketinget") != None:
-        pre_text.append(str(r"\mobile{" + str(data.find("phonefolketinget").text) + "}\n"))
-    elif data.find("mobilephone") != None:
-        pre_text.append(str(r"\mobile{" + str(data.find("mobilephone").text) + "}\n"))
-    else:
-        pass
-    if data.find("twitterprofiles") != None:
-        tmp_string = remove_special_characters(str(data.find("twitterprofiles").
-                                                find("twitterurl").
-                                                find("desciption").text))
-        pre_text.append(str(r"\twitter{" + tmp_string + "}\n"))
-    else:
-        pass
-    if data.find("email") != None:
-        tmp_string = remove_special_characters(str(data.find("emails").find("email").text))
-        pre_text.append(str(r"\email{" + tmp_string + "}\n"))
-    else:
-        pass
-    pre_text.extend([str(r"\position{Medlem af Folketingent{\enskip\cdotp\enskip}" + str(data.find("party").text) + "}\n"),
-                        str(r"\address{}"+"\n"),
-                        str(r'\photo[circle,noedge,left]{"./' + data.find("firstname").text + "_" + data.find(
-                            "lastname").text + "_profile.jpg" + '"}\n'),
-                        str(r"\letterdate{\today}"+"\n"),
-                        str(r"\lettertitle{" + "{} {} - Blå Bog".format(
-                            data.find("firstname").text, data.find("lastname").text) + r"}"),
-                        str("\letteropening{}\n"),
-                        str("\letterclosing{}\n"),
-                        str("\letterenclosure[Attached]{Stemme Statistik}\n"),
-                        str(r"\begin{document}" + "\n"),
-                        str(r"\makecvheader[R]"+"\n"),
-                        str(r"\makecvfooter{\today}{"+r"\lettertitle{" + "{} {} - Blå Bog".format(
-                            data.find("firstname").text, data.find("lastname").text) + r"}"+"}{}\n"),
-                        str(r"\makelettertitle"+"\n"),
-                        str(r"\begin{cvletter}"+"\n")])
-    #print(pre_text)
-    return pre_text
 
 def create_folders_and_files(data):
     import os
+    import subprocess
     import re
-    if not os.path.isdir("./party_{}".format(data.find("partyshortname").text)):
-        os.mkdir("./party_{}".format(data.find("partyshortname").text))
-        os.system("cp -r cv ./party_{}/".format(data.find("partyshortname").text))
-        os.system("cp -r fonts ./party_{}/".format(data.find("partyshortname").text))
-        os.system("cp awesome-cv.cls ./party_{}/".format(data.find("partyshortname").text))
+    import json
+    basic_info_dict = {"party-short": "{}".format(data.find("partyshortname").text),
+                       "first-name": "{}".format(data.find("firstname").text),
+                       "last-name": "{}".format(data.find("lastname").text),
+                       "phone": "",
+                       "email": "{}".format(remove_special_characters(str(data.find("emails").find("email").text))),
+                       "position": "",
+                       "party": "{}".format(data.find("party").text)}
 
-    print("Creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
+    if not os.path.isdir("./party_{}".format(basic_info_dict["party-short"])):
+        os.mkdir("./party_{}".format(basic_info_dict["party-short"]))
+        os.system("cp -r cv ./party_{}/".format(basic_info_dict["party-short"]))
+        os.system("cp -r fonts ./party_{}/".format(basic_info_dict["party-short"]))
+        os.system("cp awesome-cv.cls ./party_{}/".format(basic_info_dict["party-short"]))
+    # print("Creating {} {}".format(data.find("firstname").text, data.find("lastname").text))
+    os.system("cp base_file.tex './party_{}/{}_{}.tex'".format( basic_info_dict["party-short"],
+                                                                basic_info_dict["first-name"],
+                                                                basic_info_dict["last-name"]))
     picture_url = re.sub("^.+?ft.dk:443", "https://www.ft.dk",
                          str(data.find("picturemires").text))
-    picture_name = data.find("firstname").text + "_" + data.find(
-        "lastname").text + "_profile.jpg"
-    os.system("wget --output-document='./party_{}/{}' {}".format(data.find("partyshortname").text, picture_name,
-                                                                 picture_url))
-    outlist = write_tex_head(data)
-    # print(outlist)
-    outlist = write_background_to_outfile(outlist,data)
-    outlist = write_section_to_outfile(outlist, "Uddannelse", data, 1, ["educations"], section_type="lettersection")
-    outlist.append(str(r"\lettersection{Parlamentarisk Karriere}" + "\n"))
-    outlist = write_section_to_outfile(outlist,"Ministerposter",data,2,["careers","ministers"])
-    outlist = write_section_to_outfile(outlist,"Ordførerskaber",data,1,["spokesmen"])
-    outlist = write_section_to_outfile(outlist,"Parlamentariske Tillidsposter", data, 2, ["career", "parliamentarypositionsoftrust"])
-    outlist = write_constituencies(outlist,data)
-    outlist = write_section_to_outfile(outlist,"Erhvervserfaring",data,1,["occupations"],section_type="lettersection")
-    outlist = write_section_to_outfile(outlist, "Publikationer", data, 1, ["publications"],section_type="lettersection")
+    picture_name = "{}_{}_profile.jpg".format(basic_info_dict["first-name"], basic_info_dict["last-name"])
+    if not os.path.isfile("./party_{}/{}'".format(  basic_info_dict["party-short"],
+                                                    picture_name)):
+        os.system("wget --output-document='./party_{}/{}' {}".format(basic_info_dict["party-short"],
+                                                                    picture_name,
+                                                                    picture_url))
+
+    for i in ["ministerphone", "phonefolketinget", "mobilephone"]:
+        if data.find(i) is not None:
+            basic_info_dict["phone"] = str(data.find(i).text)
+            print(basic_info_dict["phone"])
+            break
+    print(basic_info_dict)
+
+    if re.search("minister|folketing|statsrevisor|præsidium", str(data.find("profession").text), re.IGNORECASE):
+        basic_info_dict["position"] = str(data.find("profession").text)
+    else:
+        basic_info_dict["position"] = "Medlem af Folketinget"
+    for i in basic_info_dict.keys():
+        os.system("sed -i 's/---{}---/{}/g' './party_{}/{}_{}.tex'".format( i,
+                                                                            basic_info_dict[i],
+                                                                            basic_info_dict["party-short"],
+                                                                            basic_info_dict["first-name"],
+                                                                            basic_info_dict["last-name"]))
+    outlist = []
+    json_file = open("sections.json", "r")
+    out_dictionary = json.load(json_file)
+    for i in out_dictionary.keys():
+        outlist = write_section_to_outfile(outlist,
+                                           i,
+                                           data,
+                                           out_dictionary[i]["search_level"],
+                                           out_dictionary[i]["searches"],
+                                           output=out_dictionary[i]["output"],
+                                           section_type=out_dictionary[i]["section_type"],
+                                           only_header=out_dictionary[i]["only_header"],
+                                           constituencies=out_dictionary[i]["constituencies"])
+
     outlist.append(str(r"\end{cvletter}" + "\n"))
     outlist.append(str(r"\end{document}"))
-    #¤print(outlist)
+    # ¤# print(outlist)
     return outlist
 
-def run_writing_loop(data,memberlist,count):
+
+def run_writing_loop(data, memberlist, count):
     import re
-    from bs4 import BeautifulSoup as soup
+    from bs4 import BeautifulSoup as Soup
 
     for i in range(len(data)):
         try:
-            xml_data = soup(data[i]["biografi"], "lxml").find("body").find("member")
-            if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(xml_data.find("currentconstituency").text)) != None:
+            xml_data = Soup(data[i]["biografi"], "lxml").find("body").find("member")
+            if re.search(r"^.+?\d{1,2}\.\s\w+?\s\d{4}", str(xml_data.find("currentconstituency").text)) is not None:
                 memberlist.append("({}) {} {}".format(xml_data.find("partyshortname").text,
-                                                           xml_data.find("firstname").text,
-                                                           xml_data.find("lastname").text))
+                                                      xml_data.find("firstname").text,
+                                                      xml_data.find("lastname").text))
                 print_list = create_folders_and_files(xml_data)
                 count += 1
                 with open("./party_{}/{}_{}.tex".format(xml_data.find("partyshortname").text,
                                                         xml_data.find("firstname").text,
-                                                        xml_data.find("lastname").text), "w") as f:
+                                                        xml_data.find("lastname").text), "a") as f:
                     for line in print_list:
                         f.write(line)
         except AttributeError:
             pass
         except TypeError:
             pass
-    return memberlist,count
+    return memberlist, count
+
+
 def main_function():
     import requests
     import json
@@ -244,16 +209,17 @@ def main_function():
         try:
             url = data["odata.nextLink"]
             data_json = data["value"]
-            list_of_members,counter = run_writing_loop(data_json,list_of_members,counter)
+            list_of_members, counter = run_writing_loop(data_json, list_of_members, counter)
             data = requests.get(url)
             data = json.loads(data.content)
         except KeyError:
             data_json = data["value"]
-            list_of_members,counter = run_writing_loop(data_json,list_of_members,counter)
+            list_of_members, counter = run_writing_loop(data_json, list_of_members, counter)
             break
-    with open("Current_members.txt","w") as f:
+    with open("Current_members.txt", "w") as f:
         for i in list_of_members:
             f.write(i)
     return
+
 
 main_function()
