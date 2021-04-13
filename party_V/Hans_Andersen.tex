@@ -1,0 +1,25 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+\documentclass[11pt, a4paper]{awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[fonts/]
+\colorlet{awesome}{V-colour}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\recipient{}{}
+\name{Hans}{Andersen}
+\mobile{+45 3337 4539}
+\email{hans.andersen@ft.dk}
+\position{Medlem af Folketinget{\enskip\cdotp\enskip}Venstre}
+\address{}
+\photo[circle,noedge,left]{"./Hans_Andersen_profile.jpg"}
+\letterdate{\today}
+\lettertitle{Hans Andersen - Blå Bog}
+\letteropening{}
+\letterclosing{}
+\letterenclosure[Attached]{Stemme Statistik}
+\begin{document}
+\makecvheader[R]
+\makecvfooter{\today}{\lettertitle{Hans Andersen - Blå Bog}}{}
+\makelettertitle
+\begin{cvletter}
