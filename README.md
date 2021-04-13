@@ -2,7 +2,7 @@
 The dk_parliament python script allows you to quickly create visually appealing infosheets on sitting members of the Danish Parliament. It uses Python and XeLaTex to accomplish this. It is also a work in progress. 
 
 ## Current functionality 
-Currently the main script, dk_parliament.py, can fetch the basic info and pictures from the Danish Parliament's Open Data database and output .tex files, which must then be compiled using XeLaTex for the intended output pdfs. 
+Currently the main script, dk_parliament.py, can fetch the basic info and pictures from the Danish Parliament's Open Data database and output .tex files, which must then be compiled using XeLaTex for the intended output pdfs. The current layout is based on the [Awesome-CV class of posquit()](https://github.com/posquit0/Awesome-CV)
 
 ## Current work
 Currently the main priority is adding the personal election results of each member of parliament to the basic info sheet output by the script.
