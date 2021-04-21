@@ -5,8 +5,59 @@
     "results": {
 
     }
+  },
+  "2014": {
+    "type": "new",
+    "link": "https://www.kmdvalg.dk/ev/2014/Default.htm",
+    "results": {
+
+    }
+  },
+  "2009": {
+    "type": "new",
+    "link": "https://www.kmdvalg.dk/ev/2009/dk.htm",
+    "results": {
+
+    }
+  },
+  "2004": {
+    "type": "new",
+    "link": "https://www.kmdvalg.dk/ev/2004/",
+    "results": {
+
+    }
   }
 },
+  "rv":  {
+    "2017": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/rv/2017/KMDValgRV.html",
+      "results": {
+
+      }
+    },
+    "2013": {
+      "type": "old",
+      "link": "https://www.kmdvalg.dk/rv/2013/Default.htm",
+      "results": {
+
+      }
+    },
+    "2009": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/rv/2009/rdk.htm",
+      "results": {
+
+      }
+    },
+    "2005": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/rv/2005/rdk.htm",
+      "results": {
+
+      }
+    }
+  },
   "kv":  {
     "2017": {
       "type": "new",
@@ -14,12 +65,31 @@
       "results": {
 
       }
-    }
-  },
-  "rv": {
-    "2017": {
+    },
+    "2013": {
+      "type": "old",
+      "link": "https://www.kmdvalg.dk/kv/2013/Default.htm",
+      "results": {
+
+      }
+    },
+    "2009": {
       "type": "new",
-      "link": "https://www.kmdvalg.dk/rv/2017/KMDValgRV.html",
+      "link": "https://www.kmdvalg.dk/kv/2009/adk.htm",
+      "results": {
+
+      }
+    },
+    "2005": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/kv/2005/adk.htm",
+      "results": {
+
+      }
+    },
+    "2001": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/kv/2001/",
       "results": {
 
       }
@@ -29,6 +99,50 @@
     "2019": {
       "type": "new",
       "link": "https://www.kmdvalg.dk/fv/2019/KMDValgFV.html",
+      "results": {
+
+      }
+    },
+    "2015": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/fv/2015/KMDValgFV.html",
+      "results": {
+
+      }
+    },
+    "2011": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/fv/2011/",
+      "results": {
+
+      }
+    },
+    "2007": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/fv/2007/dk.htm",
+      "results": {
+
+      }
+    },
+    "2005": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/fv/2005/dk.htm",
+      "results": {
+
+      }
+    },
+    "2001": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/fv/2001/",
+      "results": {
+
+      }
+    }
+  },
+  "av": {
+    "2001": {
+      "type": "new",
+      "link": "https://www.kmdvalg.dk/av/2001/",
       "results": {
 
       }

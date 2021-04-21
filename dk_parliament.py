@@ -211,7 +211,7 @@ def main_function():
             break
     with open("Current_members.txt", "w") as f:
         for i in list_of_members:
-            f.write(i)
+            f.write(f"{i}\n")
     return
 
 
