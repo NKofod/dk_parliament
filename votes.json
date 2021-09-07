@@ -1,0 +1,7745 @@
+{
+    "1": null,
+    "2": {
+        "sagid": 1449,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 2
+    },
+    "3": {
+        "sagid": 5604,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Jesper Petersen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 3
+    },
+    "4": {
+        "sagid": 5904,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 4
+    },
+    "5": {
+        "sagid": 1449,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 5
+    },
+    "6": {
+        "sagid": 5384,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 6
+    },
+    "7": {
+        "sagid": 930,
+        "sponsors": [
+            {
+                "name": "Charlotte Dyremose",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mai Mercado",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 7
+    },
+    "8": {
+        "sagid": 910,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 8
+    },
+    "9": {
+        "sagid": 1451,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 9
+    },
+    "10": {
+        "sagid": 780,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 10
+    },
+    "11": {
+        "sagid": 1118,
+        "sponsors": [
+            {
+                "name": "Sofie Carsten Nielsen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 11
+    },
+    "12": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 12
+    },
+    "13": {
+        "sagid": 820,
+        "sponsors": [
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 13
+    },
+    "14": {
+        "sagid": 4597,
+        "sponsors": [
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Preben Bang Henriksen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 14
+    },
+    "15": {
+        "sagid": 827,
+        "sponsors": [
+            {
+                "name": "Alex Ahrendtsen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Flemming Damgaard Larsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Lars Barfoed",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 15
+    },
+    "16": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 16
+    },
+    "17": {
+        "sagid": 795,
+        "sponsors": [
+            {
+                "name": "Uffe Elbæk",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 17
+    },
+    "18": {
+        "sagid": 890,
+        "sponsors": [
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 18
+    },
+    "19": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 19
+    },
+    "20": {
+        "sagid": 987,
+        "sponsors": [
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 20
+    },
+    "21": {
+        "sagid": 913,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Pernille Vigsø Bagge",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 21
+    },
+    "22": {
+        "sagid": 877,
+        "sponsors": [
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 22
+    },
+    "23": {
+        "sagid": 1011,
+        "sponsors": [
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mai Mercado",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 23
+    },
+    "24": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 24
+    },
+    "25": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 25
+    },
+    "26": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 26
+    },
+    "27": {
+        "sagid": 823,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 27
+    },
+    "28": {
+        "sagid": 1110,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 28
+    },
+    "29": {
+        "sagid": 1111,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 29
+    },
+    "30": {
+        "sagid": 878,
+        "sponsors": [
+            {
+                "name": "Eigil Andersen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 30
+    },
+    "31": {
+        "sagid": 1227,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 31
+    },
+    "32": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 32
+    },
+    "33": {
+        "sagid": 1052,
+        "sponsors": [
+            {
+                "name": "Kirsten Brosbøl",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 33
+    },
+    "34": {
+        "sagid": 1116,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 34
+    },
+    "35": {
+        "sagid": 4979,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 35
+    },
+    "36": {
+        "sagid": 948,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 36
+    },
+    "37": {
+        "sagid": 944,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 37
+    },
+    "38": {
+        "sagid": 900,
+        "sponsors": [
+            {
+                "name": "Lars Dohn",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 38
+    },
+    "39": {
+        "sagid": 1108,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 39
+    },
+    "40": {
+        "sagid": 1184,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 40
+    },
+    "41": {
+        "sagid": 1112,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 41
+    },
+    "42": {
+        "sagid": 512,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 42
+    },
+    "43": {
+        "sagid": 1447,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 43
+    },
+    "44": {
+        "sagid": 1448,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 44
+    },
+    "45": {
+        "sagid": 787,
+        "sponsors": [
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 45
+    },
+    "46": {
+        "sagid": 1051,
+        "sponsors": [
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 46
+    },
+    "47": {
+        "sagid": 1114,
+        "sponsors": [
+            {
+                "name": "Nick Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 47
+    },
+    "48": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 48
+    },
+    "49": {
+        "sagid": 716,
+        "sponsors": [
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 49
+    },
+    "50": {
+        "sagid": 888,
+        "sponsors": [
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Torsten Schack Pedersen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 50
+    },
+    "51": {
+        "sagid": 1370,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Trine Mach",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Jonas Dahl",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 51
+    },
+    "52": {
+        "sagid": 1310,
+        "sponsors": [],
+        "vote_id": 52
+    },
+    "53": {
+        "sagid": 1190,
+        "sponsors": [
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "René Christensen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Mikkel Dencker",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 53
+    },
+    "54": {
+        "sagid": 1465,
+        "sponsors": [],
+        "vote_id": 54
+    },
+    "55": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 55
+    },
+    "56": {
+        "sagid": 1262,
+        "sponsors": [
+            {
+                "name": "Dan Jørgensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 56
+    },
+    "57": {
+        "sagid": 1450,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 57
+    },
+    "58": {
+        "sagid": 778,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 58
+    },
+    "59": {
+        "sagid": 77,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 59
+    },
+    "60": {
+        "sagid": 782,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 60
+    },
+    "61": {
+        "sagid": 943,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 61
+    },
+    "62": {
+        "sagid": 201,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 62
+    },
+    "63": {
+        "sagid": 1186,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 63
+    },
+    "64": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 64
+    },
+    "65": {
+        "sagid": 821,
+        "sponsors": [
+            {
+                "name": "Alex Ahrendtsen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Michael Aastrup Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Lars Barfoed",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 65
+    },
+    "66": {
+        "sagid": 737,
+        "sponsors": [
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 66
+    },
+    "67": {
+        "sagid": 840,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Lars Dohn",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 67
+    },
+    "68": {
+        "sagid": 923,
+        "sponsors": [
+            {
+                "name": "Lars Dohn",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 68
+    },
+    "69": {
+        "sagid": 906,
+        "sponsors": [
+            {
+                "name": "Mai Mercado",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Karin Nødgaard",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 69
+    },
+    "70": {
+        "sagid": 250,
+        "sponsors": [
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 70
+    },
+    "71": {
+        "sagid": 4706,
+        "sponsors": [
+            {
+                "name": "Torsten Schack Pedersen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 71
+    },
+    "72": {
+        "sagid": 1183,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 72
+    },
+    "73": {
+        "sagid": 518,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 73
+    },
+    "74": {
+        "sagid": 792,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 74
+    },
+    "75": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 75
+    },
+    "76": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 76
+    },
+    "77": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 77
+    },
+    "78": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 78
+    },
+    "79": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 79
+    },
+    "80": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 80
+    },
+    "81": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 81
+    },
+    "82": {
+        "sagid": 1114,
+        "sponsors": [
+            {
+                "name": "Nick Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 82
+    },
+    "83": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 83
+    },
+    "84": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 84
+    },
+    "85": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 85
+    },
+    "86": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 86
+    },
+    "87": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 87
+    },
+    "88": {
+        "sagid": 1143,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 88
+    },
+    "89": {
+        "sagid": 1469,
+        "sponsors": [
+            {
+                "name": "Maja Panduro",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 89
+    },
+    "90": {
+        "sagid": 1458,
+        "sponsors": [
+            {
+                "name": "Steen Gade",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Lars Christian Lilleholt",
+                "party": "Venstre"
+            },
+            {
+                "name": "Jens Joel",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Lone Loklindt",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 90
+    },
+    "91": {
+        "sagid": 1460,
+        "sponsors": [
+            {
+                "name": "Anni Matthiesen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Annette Lind",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Lotte Rod",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 91
+    },
+    "92": {
+        "sagid": 1185,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 92
+    },
+    "93": {
+        "sagid": 869,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 93
+    },
+    "94": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 94
+    },
+    "95": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 95
+    },
+    "96": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 96
+    },
+    "97": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 97
+    },
+    "98": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 98
+    },
+    "99": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 99
+    },
+    "100": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 100
+    },
+    "101": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 101
+    },
+    "102": {
+        "sagid": 72,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 102
+    },
+    "103": {
+        "sagid": 85,
+        "sponsors": [
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 103
+    },
+    "104": {
+        "sagid": 1198,
+        "sponsors": [
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 104
+    },
+    "105": {
+        "sagid": 59,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 105
+    },
+    "106": {
+        "sagid": 943,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 106
+    },
+    "107": {
+        "sagid": 943,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 107
+    },
+    "108": {
+        "sagid": 943,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 108
+    },
+    "109": {
+        "sagid": 943,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 109
+    },
+    "110": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 110
+    },
+    "111": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 111
+    },
+    "112": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 112
+    },
+    "113": {
+        "sagid": 1187,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 113
+    },
+    "114": {
+        "sagid": 1227,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 114
+    },
+    "115": {
+        "sagid": 4976,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 115
+    },
+    "116": {
+        "sagid": 785,
+        "sponsors": [
+            {
+                "name": "Nick Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 116
+    },
+    "117": {
+        "sagid": 789,
+        "sponsors": [
+            {
+                "name": "Nick Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 117
+    },
+    "118": {
+        "sagid": 630,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 118
+    },
+    "119": {
+        "sagid": 1393,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 119
+    },
+    "120": {
+        "sagid": 1394,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 120
+    },
+    "121": {
+        "sagid": 1113,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 121
+    },
+    "122": {
+        "sagid": 1109,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 122
+    },
+    "123": {
+        "sagid": 151,
+        "sponsors": [
+            {
+                "name": "Kristian Pihl Lorentzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Villum Christensen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 123
+    },
+    "124": {
+        "sagid": 889,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 124
+    },
+    "125": {
+        "sagid": 544,
+        "sponsors": [
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            }
+        ],
+        "vote_id": 125
+    },
+    "126": {
+        "sagid": 4519,
+        "sponsors": [
+            {
+                "name": "Jan E. Jørgensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Preben Bang Henriksen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Flemming Damgaard Larsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Jørn Dohrmann",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 126
+    },
+    "127": {
+        "sagid": 474,
+        "sponsors": [
+            {
+                "name": "Kristian Pihl Lorentzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Villum Christensen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 127
+    },
+    "128": {
+        "sagid": 892,
+        "sponsors": [
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 128
+    },
+    "129": {
+        "sagid": 1108,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 129
+    },
+    "130": {
+        "sagid": 869,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 130
+    },
+    "131": {
+        "sagid": 1456,
+        "sponsors": [
+            {
+                "name": "Lennart Damsbo-Andersen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karsten Hønge",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 131
+    },
+    "132": {
+        "sagid": 1454,
+        "sponsors": [
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karina Lorentzen Dehnhardt",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Uffe Elbæk",
+                "party": "Uden for folketingsgrupperne"
+            }
+        ],
+        "vote_id": 132
+    },
+    "133": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 133
+    },
+    "134": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 134
+    },
+    "135": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 135
+    },
+    "136": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 136
+    },
+    "137": {
+        "sagid": 433,
+        "sponsors": [],
+        "vote_id": 137
+    },
+    "138": {
+        "sagid": 208,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 138
+    },
+    "139": {
+        "sagid": 634,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 139
+    },
+    "140": {
+        "sagid": 708,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 140
+    },
+    "141": {
+        "sagid": 508,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 141
+    },
+    "142": {
+        "sagid": 633,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 142
+    },
+    "143": {
+        "sagid": 796,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 143
+    },
+    "144": {
+        "sagid": 781,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 144
+    },
+    "145": {
+        "sagid": 783,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 145
+    },
+    "146": {
+        "sagid": 630,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 146
+    },
+    "147": {
+        "sagid": 1413,
+        "sponsors": [
+            {
+                "name": "Rasmus Prehn",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karsten Hønge",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 147
+    },
+    "148": {
+        "sagid": 1434,
+        "sponsors": [
+            {
+                "name": "Pernille Rosenkrantz-Theil",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Pernille Vigsø Bagge",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 148
+    },
+    "149": {
+        "sagid": 1430,
+        "sponsors": [],
+        "vote_id": 149
+    },
+    "150": {
+        "sagid": 503,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 150
+    },
+    "151": {
+        "sagid": 791,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 151
+    },
+    "152": {
+        "sagid": 793,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 152
+    },
+    "153": {
+        "sagid": 794,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 153
+    },
+    "154": {
+        "sagid": 790,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 154
+    },
+    "155": {
+        "sagid": 914,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 155
+    },
+    "156": {
+        "sagid": 527,
+        "sponsors": [
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            }
+        ],
+        "vote_id": 156
+    },
+    "157": {
+        "sagid": 796,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 157
+    },
+    "158": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 158
+    },
+    "159": {
+        "sagid": 4978,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 159
+    },
+    "160": {
+        "sagid": 519,
+        "sponsors": [
+            {
+                "name": "Sofie Carsten Nielsen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 160
+    },
+    "161": {
+        "sagid": 1422,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 161
+    },
+    "162": {
+        "sagid": 210,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 162
+    },
+    "163": {
+        "sagid": 632,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 163
+    },
+    "164": {
+        "sagid": 707,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 164
+    },
+    "165": {
+        "sagid": 516,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 165
+    },
+    "166": {
+        "sagid": 318,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 166
+    },
+    "167": {
+        "sagid": 520,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 167
+    },
+    "168": {
+        "sagid": 438,
+        "sponsors": [
+            {
+                "name": "Bent Bøgsted",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "René Christensen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Jens Henrik Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 168
+    },
+    "169": {
+        "sagid": 511,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 169
+    },
+    "170": {
+        "sagid": 510,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 170
+    },
+    "171": {
+        "sagid": 1422,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 171
+    },
+    "172": {
+        "sagid": 210,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 172
+    },
+    "173": {
+        "sagid": 210,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 173
+    },
+    "174": {
+        "sagid": 1295,
+        "sponsors": [
+            {
+                "name": "Jakob Ellemann-Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Lisbeth Bech-Nielsen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 174
+    },
+    "175": {
+        "sagid": 631,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 175
+    },
+    "176": {
+        "sagid": 506,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 176
+    },
+    "177": {
+        "sagid": 788,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 177
+    },
+    "178": {
+        "sagid": 204,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 178
+    },
+    "179": {
+        "sagid": 4220,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 179
+    },
+    "180": {
+        "sagid": 320,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 180
+    },
+    "181": {
+        "sagid": 1137,
+        "sponsors": [
+            {
+                "name": "Flemming Møller Mortensen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Claus Hjort Frederiksen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Villum Christensen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Per Stig Møller",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Sara Olsvig",
+                "party": "Inuit Ataqatigiit"
+            },
+            {
+                "name": "Doris Jakobsen",
+                "party": "Siumut"
+            },
+            {
+                "name": "Edmund Joensen",
+                "party": "Sambandsflokkurin"
+            },
+            {
+                "name": "Sjúrður Skaale",
+                "party": "Javnaðarflokkurin"
+            },
+            {
+                "name": "Uffe Elbæk",
+                "party": "Uden for folketingsgrupperne"
+            }
+        ],
+        "vote_id": 181
+    },
+    "182": {
+        "sagid": 5269,
+        "sponsors": [
+            {
+                "name": "Kristian Pihl Lorentzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Villum Christensen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 182
+    },
+    "183": {
+        "sagid": 5271,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 183
+    },
+    "184": {
+        "sagid": 38,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 184
+    },
+    "185": {
+        "sagid": 621,
+        "sponsors": [
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 185
+    },
+    "186": {
+        "sagid": 4707,
+        "sponsors": [
+            {
+                "name": "Lars Barfoed",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Anne-Mette Winther Christiansen (udpeget af V)",
+                "party": "Venstre"
+            },
+            {
+                "name": "Alex Ahrendtsen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 186
+    },
+    "187": {
+        "sagid": 5272,
+        "sponsors": [
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Christian Langballe",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 187
+    },
+    "188": {
+        "sagid": 5270,
+        "sponsors": [
+            {
+                "name": "Edmund Joensen",
+                "party": "Sambandsflokkurin"
+            },
+            {
+                "name": "Doris Jakobsen",
+                "party": "Siumut"
+            },
+            {
+                "name": "Sara Olsvig",
+                "party": "Inuit Ataqatigiit"
+            },
+            {
+                "name": "Sjúrður Skaale",
+                "party": "Javnaðarflokkurin"
+            }
+        ],
+        "vote_id": 188
+    },
+    "189": {
+        "sagid": 507,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 189
+    },
+    "190": {
+        "sagid": 208,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 190
+    },
+    "191": {
+        "sagid": 72,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 191
+    },
+    "192": {
+        "sagid": 632,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 192
+    },
+    "193": {
+        "sagid": 1272,
+        "sponsors": [
+            {
+                "name": "Jakob Ellemann-Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Benny Engelbrecht",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Lisbeth Bech-Nielsen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Per Stig Møller",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 193
+    },
+    "194": {
+        "sagid": 1281,
+        "sponsors": [
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Jonas Dahl",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 194
+    },
+    "195": {
+        "sagid": 1289,
+        "sponsors": [
+            {
+                "name": "Jakob Ellemann-Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Benny Engelbrecht",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Lone Loklindt",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Steen Gade",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Per Stig Møller",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 195
+    },
+    "196": {
+        "sagid": 4217,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 196
+    },
+    "197": {
+        "sagid": 1065,
+        "sponsors": [
+            {
+                "name": "Liselott Blixt",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Sophie Løhde",
+                "party": "Venstre"
+            },
+            {
+                "name": "Flemming Møller Mortensen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Mai Mercado",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 197
+    },
+    "198": {
+        "sagid": 517,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 198
+    },
+    "199": {
+        "sagid": 515,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 199
+    },
+    "200": {
+        "sagid": 211,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 200
+    },
+    "201": {
+        "sagid": 74,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 201
+    },
+    "202": {
+        "sagid": 207,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 202
+    },
+    "203": {
+        "sagid": 319,
+        "sponsors": [
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 203
+    },
+    "204": {
+        "sagid": 200,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 204
+    },
+    "205": {
+        "sagid": 719,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 205
+    },
+    "206": {
+        "sagid": 721,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 206
+    },
+    "207": {
+        "sagid": 431,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 207
+    },
+    "208": {
+        "sagid": 514,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 208
+    },
+    "209": {
+        "sagid": 202,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 209
+    },
+    "210": {
+        "sagid": 5178,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 210
+    },
+    "211": {
+        "sagid": 4221,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 211
+    },
+    "212": {
+        "sagid": 504,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 212
+    },
+    "213": {
+        "sagid": 317,
+        "sponsors": [
+            {
+                "name": "Dan Jørgensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 213
+    },
+    "214": {
+        "sagid": 779,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 214
+    },
+    "215": {
+        "sagid": 1017,
+        "sponsors": [
+            {
+                "name": "Karina Adsbøl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Karen Ellemann",
+                "party": "Venstre"
+            },
+            {
+                "name": "Julie Skovsby",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Sanne Rubinke",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Thyra Frank",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mai Mercado",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 215
+    },
+    "216": {
+        "sagid": 1029,
+        "sponsors": [
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 216
+    },
+    "217": {
+        "sagid": 4446,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 217
+    },
+    "218": {
+        "sagid": 322,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 218
+    },
+    "219": {
+        "sagid": 5241,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 219
+    },
+    "220": {
+        "sagid": 720,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 220
+    },
+    "221": {
+        "sagid": 720,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 221
+    },
+    "222": {
+        "sagid": 720,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 222
+    },
+    "223": {
+        "sagid": 68,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 223
+    },
+    "224": {
+        "sagid": 730,
+        "sponsors": [
+            {
+                "name": "Annette Lind",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 224
+    },
+    "225": {
+        "sagid": 68,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 225
+    },
+    "226": {
+        "sagid": 199,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 226
+    },
+    "227": {
+        "sagid": 5241,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 227
+    },
+    "228": {
+        "sagid": 717,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 228
+    },
+    "229": {
+        "sagid": 718,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 229
+    },
+    "230": {
+        "sagid": 321,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 230
+    },
+    "231": {
+        "sagid": 69,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 231
+    },
+    "232": {
+        "sagid": 71,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 232
+    },
+    "233": {
+        "sagid": 70,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 233
+    },
+    "234": {
+        "sagid": 4899,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 234
+    },
+    "235": {
+        "sagid": 4896,
+        "sponsors": [
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 235
+    },
+    "236": {
+        "sagid": 4936,
+        "sponsors": [
+            {
+                "name": "Kristian Pihl Lorentzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 236
+    },
+    "237": {
+        "sagid": 1423,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 237
+    },
+    "238": {
+        "sagid": 209,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 238
+    },
+    "239": {
+        "sagid": 902,
+        "sponsors": [
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Liv Holm Andersen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karina Lorentzen Dehnhardt",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 239
+    },
+    "240": {
+        "sagid": 76,
+        "sponsors": [
+            {
+                "name": "Nick Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 240
+    },
+    "241": {
+        "sagid": 4446,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 241
+    },
+    "242": {
+        "sagid": 4446,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 242
+    },
+    "243": {
+        "sagid": 697,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Lisbeth Bech-Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 243
+    },
+    "244": {
+        "sagid": 693,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 244
+    },
+    "245": {
+        "sagid": 694,
+        "sponsors": [
+            {
+                "name": "Jakob Ellemann-Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 245
+    },
+    "246": {
+        "sagid": 691,
+        "sponsors": [
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 246
+    },
+    "247": {
+        "sagid": 5179,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 247
+    },
+    "248": {
+        "sagid": 73,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 248
+    },
+    "249": {
+        "sagid": 323,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 249
+    },
+    "250": {
+        "sagid": 4980,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 250
+    },
+    "251": {
+        "sagid": 4974,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 251
+    },
+    "252": {
+        "sagid": 4974,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 252
+    },
+    "253": {
+        "sagid": 4795,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 253
+    },
+    "254": {
+        "sagid": 562,
+        "sponsors": [
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Marlene Borst Hansen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karina Lorentzen Dehnhardt",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 254
+    },
+    "255": {
+        "sagid": 4795,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 255
+    },
+    "256": {
+        "sagid": 4974,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 256
+    },
+    "257": {
+        "sagid": 682,
+        "sponsors": [
+            {
+                "name": "Bjarne Laustsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Lone Loklindt",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Trine Mach",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 257
+    },
+    "258": {
+        "sagid": 66,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 258
+    },
+    "259": {
+        "sagid": 5069,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 259
+    },
+    "260": {
+        "sagid": 4810,
+        "sponsors": [
+            {
+                "name": "Preben Bang Henriksen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Thomas Danielsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kristian Jensen",
+                "party": "Venstre"
+            }
+        ],
+        "vote_id": 260
+    },
+    "261": {
+        "sagid": 266,
+        "sponsors": [
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Ole Sohn",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 261
+    },
+    "262": {
+        "sagid": 4806,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 262
+    },
+    "263": {
+        "sagid": 5071,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 263
+    },
+    "264": {
+        "sagid": 4808,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 264
+    },
+    "265": {
+        "sagid": 5103,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 265
+    },
+    "266": {
+        "sagid": 4450,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 266
+    },
+    "267": {
+        "sagid": 4452,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 267
+    },
+    "268": {
+        "sagid": 375,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Pernille Rosenkrantz-Theil",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Pernille Vigsø Bagge",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 268
+    },
+    "269": {
+        "sagid": 4796,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 269
+    },
+    "270": {
+        "sagid": 4806,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 270
+    },
+    "271": {
+        "sagid": 4889,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 271
+    },
+    "272": {
+        "sagid": 4642,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 272
+    },
+    "273": {
+        "sagid": 4642,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 273
+    },
+    "274": {
+        "sagid": 137,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 274
+    },
+    "275": {
+        "sagid": 5180,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 275
+    },
+    "276": {
+        "sagid": 4642,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 276
+    },
+    "277": {
+        "sagid": 4798,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 277
+    },
+    "278": {
+        "sagid": 4890,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 278
+    },
+    "279": {
+        "sagid": 4649,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 279
+    },
+    "280": {
+        "sagid": 4228,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 280
+    },
+    "281": {
+        "sagid": 116,
+        "sponsors": [
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Pernille Rosenkrantz-Theil",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Andreas Steenberg",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Steen Gade",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 281
+    },
+    "282": {
+        "sagid": 4977,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 282
+    },
+    "283": {
+        "sagid": 167,
+        "sponsors": [
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Søren Pind",
+                "party": "Venstre"
+            },
+            {
+                "name": "Mette Gjerskov",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Steen Gade",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 283
+    },
+    "284": {
+        "sagid": 4975,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 284
+    },
+    "285": {
+        "sagid": 4973,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 285
+    },
+    "286": {
+        "sagid": 5104,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 286
+    },
+    "287": {
+        "sagid": 4696,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 287
+    },
+    "288": {
+        "sagid": 4799,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 288
+    },
+    "289": {
+        "sagid": 4977,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 289
+    },
+    "290": {
+        "sagid": 5181,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 290
+    },
+    "291": {
+        "sagid": 5252,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 291
+    },
+    "292": {
+        "sagid": 4665,
+        "sponsors": [
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 292
+    },
+    "293": {
+        "sagid": 5240,
+        "sponsors": [
+            {
+                "name": "Jonas Dahl",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 293
+    },
+    "294": {
+        "sagid": 5165,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 294
+    },
+    "295": {
+        "sagid": 5165,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 295
+    },
+    "296": {
+        "sagid": 4639,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 296
+    },
+    "297": {
+        "sagid": 4797,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 297
+    },
+    "298": {
+        "sagid": 576,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 298
+    },
+    "299": {
+        "sagid": 4888,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 299
+    },
+    "300": {
+        "sagid": 4223,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 300
+    },
+    "301": {
+        "sagid": 4225,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 301
+    },
+    "302": {
+        "sagid": 4803,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 302
+    },
+    "303": {
+        "sagid": 4802,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 303
+    },
+    "304": {
+        "sagid": 4807,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 304
+    },
+    "305": {
+        "sagid": 4241,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 305
+    },
+    "306": {
+        "sagid": 4243,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 306
+    },
+    "307": {
+        "sagid": 4650,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 307
+    },
+    "308": {
+        "sagid": 4645,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 308
+    },
+    "309": {
+        "sagid": 4641,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 309
+    },
+    "310": {
+        "sagid": 4239,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 310
+    },
+    "311": {
+        "sagid": 4801,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 311
+    },
+    "312": {
+        "sagid": 4644,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 312
+    },
+    "313": {
+        "sagid": 5095,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 313
+    },
+    "314": {
+        "sagid": 4647,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 314
+    },
+    "315": {
+        "sagid": 4215,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 315
+    },
+    "316": {
+        "sagid": 4636,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 316
+    },
+    "317": {
+        "sagid": 5066,
+        "sponsors": [
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 317
+    },
+    "318": {
+        "sagid": 5144,
+        "sponsors": [
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 318
+    },
+    "319": {
+        "sagid": 4805,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 319
+    },
+    "320": {
+        "sagid": 4259,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 320
+    },
+    "321": {
+        "sagid": 4240,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 321
+    },
+    "322": {
+        "sagid": 5656,
+        "sponsors": [
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Jørn Dohrmann",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Morten Marinus",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 322
+    },
+    "323": {
+        "sagid": 2845,
+        "sponsors": [
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 323
+    },
+    "324": {
+        "sagid": 2523,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 324
+    },
+    "325": {
+        "sagid": 3429,
+        "sponsors": [],
+        "vote_id": 325
+    },
+    "326": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 326
+    },
+    "327": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 327
+    },
+    "328": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 328
+    },
+    "329": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 329
+    },
+    "330": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 330
+    },
+    "331": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 331
+    },
+    "332": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 332
+    },
+    "333": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 333
+    },
+    "334": {
+        "sagid": 3306,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 334
+    },
+    "335": {
+        "sagid": 3329,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 335
+    },
+    "336": {
+        "sagid": 3329,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 336
+    },
+    "337": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 337
+    },
+    "338": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 338
+    },
+    "339": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 339
+    },
+    "340": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 340
+    },
+    "341": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 341
+    },
+    "342": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 342
+    },
+    "343": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 343
+    },
+    "344": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 344
+    },
+    "345": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 345
+    },
+    "346": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 346
+    },
+    "347": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 347
+    },
+    "348": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 348
+    },
+    "349": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 349
+    },
+    "350": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 350
+    },
+    "351": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 351
+    },
+    "352": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 352
+    },
+    "353": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 353
+    },
+    "354": {
+        "sagid": 3328,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 354
+    },
+    "355": {
+        "sagid": 2639,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 355
+    },
+    "356": {
+        "sagid": 3332,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 356
+    },
+    "357": {
+        "sagid": 3306,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 357
+    },
+    "358": {
+        "sagid": 3307,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 358
+    },
+    "359": {
+        "sagid": 3308,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 359
+    },
+    "360": {
+        "sagid": 3309,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 360
+    },
+    "361": {
+        "sagid": 3326,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 361
+    },
+    "362": {
+        "sagid": 3593,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 362
+    },
+    "363": {
+        "sagid": 3324,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 363
+    },
+    "364": {
+        "sagid": 3639,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 364
+    },
+    "365": {
+        "sagid": 3640,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 365
+    },
+    "366": {
+        "sagid": 3329,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 366
+    },
+    "367": {
+        "sagid": 3321,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 367
+    },
+    "368": {
+        "sagid": 3322,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 368
+    },
+    "369": {
+        "sagid": 3333,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 369
+    },
+    "370": {
+        "sagid": 2642,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 370
+    },
+    "371": {
+        "sagid": 3325,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 371
+    },
+    "372": {
+        "sagid": 3472,
+        "sponsors": [],
+        "vote_id": 372
+    },
+    "373": {
+        "sagid": 3330,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 373
+    },
+    "374": {
+        "sagid": 2185,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 374
+    },
+    "375": {
+        "sagid": 4407,
+        "sponsors": [
+            {
+                "name": "Magnus Heunicke",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Sofie Carsten Nielsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Jonas Dahl",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 375
+    },
+    "376": {
+        "sagid": 4258,
+        "sponsors": [
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 376
+    },
+    "377": {
+        "sagid": 4862,
+        "sponsors": [
+            {
+                "name": "Peter Christensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "John Dyrby Paulsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Andreas Steenberg",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Lisbeth Bech-Nielsen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 377
+    },
+    "378": {
+        "sagid": 1419,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 378
+    },
+    "379": {
+        "sagid": 4451,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 379
+    },
+    "380": {
+        "sagid": 4451,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 380
+    },
+    "381": {
+        "sagid": 885,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 381
+    },
+    "382": {
+        "sagid": 5029,
+        "sponsors": [
+            {
+                "name": "Jane Heitmann",
+                "party": "Venstre"
+            },
+            {
+                "name": "Flemming Møller Mortensen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Liselott Blixt",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 382
+    },
+    "383": {
+        "sagid": 4219,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 383
+    },
+    "384": {
+        "sagid": 4231,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 384
+    },
+    "385": {
+        "sagid": 4222,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 385
+    },
+    "386": {
+        "sagid": 5093,
+        "sponsors": [
+            {
+                "name": "Anne-Mette Winther Christiansen (udpeget af V)",
+                "party": "Venstre"
+            },
+            {
+                "name": "Maja Panduro",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Anne Baastrup",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 386
+    },
+    "387": {
+        "sagid": 5096,
+        "sponsors": [
+            {
+                "name": "Karina Adsbøl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Anne-Mette Winther Christiansen (udpeget af V)",
+                "party": "Venstre"
+            },
+            {
+                "name": "Maja Panduro",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Anne Baastrup",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Thyra Frank",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 387
+    },
+    "388": {
+        "sagid": 4233,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 388
+    },
+    "389": {
+        "sagid": 4216,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 389
+    },
+    "390": {
+        "sagid": 4640,
+        "sponsors": [
+            {
+                "name": "Christian Friis Bach",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 390
+    },
+    "391": {
+        "sagid": 4381,
+        "sponsors": [
+            {
+                "name": "Mogens Lykketoft",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Bertel Haarder",
+                "party": "Venstre"
+            },
+            {
+                "name": "Pia Kjærsgaard",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Anne Baastrup",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 391
+    },
+    "392": {
+        "sagid": 4447,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 392
+    },
+    "393": {
+        "sagid": 4448,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 393
+    },
+    "394": {
+        "sagid": 4449,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 394
+    },
+    "395": {
+        "sagid": 4444,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 395
+    },
+    "396": {
+        "sagid": 4445,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 396
+    },
+    "397": {
+        "sagid": 4223,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 397
+    },
+    "398": {
+        "sagid": 4213,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 398
+    },
+    "399": {
+        "sagid": 4214,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 399
+    },
+    "400": {
+        "sagid": 4443,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 400
+    },
+    "401": {
+        "sagid": 1421,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 401
+    },
+    "402": {
+        "sagid": 4576,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 402
+    },
+    "403": {
+        "sagid": 4243,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 403
+    },
+    "404": {
+        "sagid": 4243,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 404
+    },
+    "405": {
+        "sagid": 581,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 405
+    },
+    "406": {
+        "sagid": 4697,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 406
+    },
+    "407": {
+        "sagid": 4226,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 407
+    },
+    "408": {
+        "sagid": 5045,
+        "sponsors": [],
+        "vote_id": 408
+    },
+    "409": {
+        "sagid": 4234,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 409
+    },
+    "410": {
+        "sagid": 5227,
+        "sponsors": [
+            {
+                "name": "Esben Lunde Larsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Kirsten Brosbøl",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jens Henrik Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Lotte Rod",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Annika Smith",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Merete Riisager",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Vivi Kier",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 410
+    },
+    "411": {
+        "sagid": 4638,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 411
+    },
+    "412": {
+        "sagid": 4242,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 412
+    },
+    "413": {
+        "sagid": 4244,
+        "sponsors": [
+            {
+                "name": "Pia Olsen Dyhr",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 413
+    },
+    "414": {
+        "sagid": 4237,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 414
+    },
+    "415": {
+        "sagid": 4241,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 415
+    },
+    "416": {
+        "sagid": 576,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 416
+    },
+    "417": {
+        "sagid": 4888,
+        "sponsors": [
+            {
+                "name": "Holger K. Nielsen",
+                "party": "Socialistisk Folkeparti"
+            }
+        ],
+        "vote_id": 417
+    },
+    "418": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 418
+    },
+    "419": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 419
+    },
+    "420": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 420
+    },
+    "421": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 421
+    },
+    "422": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 422
+    },
+    "423": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 423
+    },
+    "424": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 424
+    },
+    "425": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 425
+    },
+    "426": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 426
+    },
+    "427": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 427
+    },
+    "428": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 428
+    },
+    "429": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 429
+    },
+    "430": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 430
+    },
+    "431": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 431
+    },
+    "432": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 432
+    },
+    "433": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 433
+    },
+    "434": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 434
+    },
+    "435": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 435
+    },
+    "436": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 436
+    },
+    "437": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 437
+    },
+    "438": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 438
+    },
+    "439": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 439
+    },
+    "440": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 440
+    },
+    "441": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 441
+    },
+    "442": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 442
+    },
+    "443": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 443
+    },
+    "444": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 444
+    },
+    "445": {
+        "sagid": 4195,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 445
+    },
+    "446": {
+        "sagid": 4637,
+        "sponsors": [
+            {
+                "name": "Henrik Sass Larsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 446
+    },
+    "447": {
+        "sagid": 4643,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 447
+    },
+    "448": {
+        "sagid": 4227,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 448
+    },
+    "449": {
+        "sagid": 5225,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 449
+    },
+    "450": {
+        "sagid": 5226,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 450
+    },
+    "451": {
+        "sagid": 4229,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 451
+    },
+    "452": {
+        "sagid": 4236,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 452
+    },
+    "453": {
+        "sagid": 4232,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 453
+    },
+    "454": {
+        "sagid": 4234,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 454
+    },
+    "455": {
+        "sagid": 4238,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 455
+    },
+    "456": {
+        "sagid": 6435,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 456
+    },
+    "457": {
+        "sagid": 1761,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 457
+    },
+    "458": {
+        "sagid": 1925,
+        "sponsors": [
+            {
+                "name": "Bjarne Corydon",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 458
+    },
+    "459": {
+        "sagid": 6435,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 459
+    },
+    "460": {
+        "sagid": 2562,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 460
+    },
+    "461": {
+        "sagid": 2563,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 461
+    },
+    "462": {
+        "sagid": 2564,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 462
+    },
+    "463": {
+        "sagid": 6239,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 463
+    },
+    "464": {
+        "sagid": 6242,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 464
+    },
+    "465": {
+        "sagid": 6428,
+        "sponsors": [
+            {
+                "name": "Manu Sareen",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 465
+    },
+    "466": {
+        "sagid": 1867,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 466
+    },
+    "467": {
+        "sagid": 1679,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 467
+    },
+    "468": {
+        "sagid": 6261,
+        "sponsors": [
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            }
+        ],
+        "vote_id": 468
+    },
+    "469": {
+        "sagid": 1675,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 469
+    },
+    "470": {
+        "sagid": 6415,
+        "sponsors": [
+            {
+                "name": "Jacob Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Morten Marinus",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Leif Mikkelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 470
+    },
+    "471": {
+        "sagid": 2021,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 471
+    },
+    "472": {
+        "sagid": 2786,
+        "sponsors": [
+            {
+                "name": "Flemming Damgaard Larsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Marlene Borst Hansen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Anne Baastrup",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Per Stig Møller",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Daniel Toft Jakobsen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 472
+    },
+    "473": {
+        "sagid": 6240,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 473
+    },
+    "474": {
+        "sagid": 6238,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 474
+    },
+    "475": {
+        "sagid": 6237,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 475
+    },
+    "476": {
+        "sagid": 6235,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 476
+    },
+    "478": {
+        "sagid": 2021,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 478
+    },
+    "479": {
+        "sagid": 1677,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 479
+    },
+    "480": {
+        "sagid": 1930,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 480
+    },
+    "481": {
+        "sagid": 5944,
+        "sponsors": [
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 481
+    },
+    "482": {
+        "sagid": 1777,
+        "sponsors": [
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Lars Dohn",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 482
+    },
+    "483": {
+        "sagid": 6194,
+        "sponsors": [
+            {
+                "name": "Mikkel Dencker",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Karina Adsbøl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Hans Kristian Skibby",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 483
+    },
+    "484": {
+        "sagid": 2895,
+        "sponsors": [
+            {
+                "name": "Ole Hækkerup",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Sanne Rubinke",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 484
+    },
+    "485": {
+        "sagid": 1739,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 485
+    },
+    "486": {
+        "sagid": 1866,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 486
+    },
+    "487": {
+        "sagid": 2937,
+        "sponsors": [
+            {
+                "name": "Simon Kollerup",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jan E. Jørgensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Mikkel Dencker",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marlene Borst Hansen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Lisbeth Bech-Nielsen",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Rosa Lund",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Leif Mikkelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 487
+    },
+    "488": {
+        "sagid": 6429,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 488
+    },
+    "489": {
+        "sagid": 2506,
+        "sponsors": [],
+        "vote_id": 489
+    },
+    "490": {
+        "sagid": 1933,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 490
+    },
+    "491": {
+        "sagid": 2973,
+        "sponsors": [
+            {
+                "name": "Troels Lund Poulsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Ole Hækkerup",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Jonas Dahl",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 491
+    },
+    "492": {
+        "sagid": 2988,
+        "sponsors": [
+            {
+                "name": "Trine Bramsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Liv Holm Andersen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karina Lorentzen Dehnhardt",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 492
+    },
+    "493": {
+        "sagid": 2025,
+        "sponsors": [
+            {
+                "name": "Mette Gjerskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 493
+    },
+    "494": {
+        "sagid": 1923,
+        "sponsors": [
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 494
+    },
+    "495": {
+        "sagid": 3028,
+        "sponsors": [
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Jakob Ellemann-Jensen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Bjarne Laustsen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Nadeem Farooq",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Sanne Rubinke",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Villum Christensen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 495
+    },
+    "496": {
+        "sagid": 3095,
+        "sponsors": [
+            {
+                "name": "Liselott Blixt",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Jane Heitmann",
+                "party": "Venstre"
+            },
+            {
+                "name": "Karen J. Klint",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Joachim B. Olsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 496
+    },
+    "497": {
+        "sagid": 3097,
+        "sponsors": [
+            {
+                "name": "Liselott Blixt",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Jane Heitmann",
+                "party": "Venstre"
+            },
+            {
+                "name": "Sophie Hæstorp Andersen",
+                "party": "Not Applicable"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Joachim B. Olsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 497
+    },
+    "498": {
+        "sagid": 2186,
+        "sponsors": [
+            {
+                "name": "Carsten Hansen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 498
+    },
+    "499": {
+        "sagid": 1934,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 499
+    },
+    "500": {
+        "sagid": 1933,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 500
+    },
+    "501": {
+        "sagid": 2023,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 501
+    },
+    "502": {
+        "sagid": 6248,
+        "sponsors": [
+            {
+                "name": "Kim Christiansen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Adelsteen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Pia Kjærsgaard",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 502
+    },
+    "503": {
+        "sagid": 2020,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 503
+    },
+    "504": {
+        "sagid": 3122,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 504
+    },
+    "505": {
+        "sagid": 3123,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 505
+    },
+    "506": {
+        "sagid": 1932,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 506
+    },
+    "507": {
+        "sagid": 2020,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 507
+    },
+    "508": {
+        "sagid": 1928,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 508
+    },
+    "509": {
+        "sagid": 6208,
+        "sponsors": [
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            },
+            {
+                "name": "Liselott Blixt",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Karin Nødgaard",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 509
+    },
+    "510": {
+        "sagid": 1745,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 510
+    },
+    "511": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 511
+    },
+    "512": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 512
+    },
+    "513": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 513
+    },
+    "514": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 514
+    },
+    "515": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 515
+    },
+    "516": {
+        "sagid": 3161,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 516
+    },
+    "517": {
+        "sagid": 2030,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 517
+    },
+    "518": {
+        "sagid": 6289,
+        "sponsors": [
+            {
+                "name": "Jørgen Arbo-Bæhr",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Finn Sørensen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 518
+    },
+    "519": {
+        "sagid": 3198,
+        "sponsors": [
+            {
+                "name": "Karin Nødgaard",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 519
+    },
+    "520": {
+        "sagid": 3198,
+        "sponsors": [
+            {
+                "name": "Karin Nødgaard",
+                "party": "Dansk Folkeparti"
+            }
+        ],
+        "vote_id": 520
+    },
+    "521": {
+        "sagid": 1926,
+        "sponsors": [
+            {
+                "name": "Nicolai Wammen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 521
+    },
+    "522": {
+        "sagid": 1745,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 522
+    },
+    "523": {
+        "sagid": 1743,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 523
+    },
+    "524": {
+        "sagid": 2311,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 524
+    },
+    "525": {
+        "sagid": 2309,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 525
+    },
+    "526": {
+        "sagid": 1931,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 526
+    },
+    "527": {
+        "sagid": 1931,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 527
+    },
+    "528": {
+        "sagid": 3248,
+        "sponsors": [
+            {
+                "name": "Jan Johansen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Mette Boye",
+                "party": "Not Applicable"
+            },
+            {
+                "name": "Henning Hyllested",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 528
+    },
+    "529": {
+        "sagid": 2649,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 529
+    },
+    "530": {
+        "sagid": 2309,
+        "sponsors": [
+            {
+                "name": "Christine Antorini",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 530
+    },
+    "531": {
+        "sagid": 1931,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 531
+    },
+    "532": {
+        "sagid": 2303,
+        "sponsors": [
+            {
+                "name": "Mette Gjerskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 532
+    },
+    "533": {
+        "sagid": 2301,
+        "sponsors": [
+            {
+                "name": "Mette Gjerskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 533
+    },
+    "534": {
+        "sagid": 6432,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 534
+    },
+    "535": {
+        "sagid": 3264,
+        "sponsors": [
+            {
+                "name": "Ole Hækkerup",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Jeppe Mikkelsen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Mette Boye",
+                "party": "Not Applicable"
+            },
+            {
+                "name": "Pernille Skipper",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 535
+    },
+    "536": {
+        "sagid": 3268,
+        "sponsors": [
+            {
+                "name": "Jacob Bjerregaard",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Liv Holm Andersen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Mette Boye",
+                "party": "Not Applicable"
+            },
+            {
+                "name": "Christian Juhl",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 536
+    },
+    "537": {
+        "sagid": 3285,
+        "sponsors": [
+            {
+                "name": "Sophie Løhde",
+                "party": "Venstre"
+            },
+            {
+                "name": "Flemming Møller Mortensen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Camilla Hersom",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Özlem Sara Cekic",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Stine Brix",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 537
+    },
+    "538": {
+        "sagid": 2307,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 538
+    },
+    "539": {
+        "sagid": 2304,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 539
+    },
+    "540": {
+        "sagid": 2305,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 540
+    },
+    "541": {
+        "sagid": 2521,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 541
+    },
+    "542": {
+        "sagid": 2298,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 542
+    },
+    "543": {
+        "sagid": 2297,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 543
+    },
+    "544": {
+        "sagid": 2516,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 544
+    },
+    "545": {
+        "sagid": 2637,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 545
+    },
+    "546": {
+        "sagid": 3311,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 546
+    },
+    "547": {
+        "sagid": 3311,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 547
+    },
+    "548": {
+        "sagid": 2313,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 548
+    },
+    "549": {
+        "sagid": 2313,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 549
+    },
+    "550": {
+        "sagid": 2314,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 550
+    },
+    "551": {
+        "sagid": 3318,
+        "sponsors": [
+            {
+                "name": "Hans Andersen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Maja Panduro",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Karin Nødgaard",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Liv Holm Andersen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Anne Baastrup",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Thyra Frank",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Benedikte Kiær",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 551
+    },
+    "552": {
+        "sagid": 2308,
+        "sponsors": [
+            {
+                "name": "Margrethe Vestager",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 552
+    },
+    "553": {
+        "sagid": 2028,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 553
+    },
+    "554": {
+        "sagid": 2029,
+        "sponsors": [
+            {
+                "name": "Morten Østergaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 554
+    },
+    "555": {
+        "sagid": 2325,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 555
+    },
+    "556": {
+        "sagid": 2327,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 556
+    },
+    "557": {
+        "sagid": 2324,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 557
+    },
+    "558": {
+        "sagid": 2322,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 558
+    },
+    "559": {
+        "sagid": 3360,
+        "sponsors": [
+            {
+                "name": "Steen Gade",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Lars Christian Lilleholt",
+                "party": "Venstre"
+            },
+            {
+                "name": "Pernille Rosenkrantz-Theil",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Mikkel Dencker",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Rasmus Helveg Petersen",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Per Clausen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 559
+    },
+    "560": {
+        "sagid": 3310,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 560
+    },
+    "561": {
+        "sagid": 3312,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 561
+    },
+    "562": {
+        "sagid": 2313,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 562
+    },
+    "563": {
+        "sagid": 2314,
+        "sponsors": [
+            {
+                "name": "Henrik Dam Kristensen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 563
+    },
+    "564": {
+        "sagid": 1936,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 564
+    },
+    "565": {
+        "sagid": 2326,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 565
+    },
+    "566": {
+        "sagid": 3005,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 566
+    },
+    "567": {
+        "sagid": 2635,
+        "sponsors": [
+            {
+                "name": "Ida Auken",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 567
+    },
+    "568": {
+        "sagid": 2027,
+        "sponsors": [
+            {
+                "name": "Marianne Jelved",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 568
+    },
+    "569": {
+        "sagid": 2646,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 569
+    },
+    "570": {
+        "sagid": 2767,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 570
+    },
+    "571": {
+        "sagid": 2767,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 571
+    },
+    "572": {
+        "sagid": 3413,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 572
+    },
+    "573": {
+        "sagid": 3413,
+        "sponsors": [
+            {
+                "name": "Frank Aaen",
+                "party": "Enhedslisten"
+            },
+            {
+                "name": "Nikolaj Villumsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 573
+    },
+    "574": {
+        "sagid": 3427,
+        "sponsors": [
+            {
+                "name": "Claus Hjort Frederiksen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Ole Birk Olesen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 574
+    },
+    "575": {
+        "sagid": 2640,
+        "sponsors": [
+            {
+                "name": "Villy Søvndal",
+                "party": "Not Applicable"
+            }
+        ],
+        "vote_id": 575
+    },
+    "576": {
+        "sagid": 2646,
+        "sponsors": [
+            {
+                "name": "Karen Hækkerup",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 576
+    },
+    "577": {
+        "sagid": 2767,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 577
+    },
+    "578": {
+        "sagid": 1985,
+        "sponsors": [
+            {
+                "name": "Thomas Danielsen",
+                "party": "Venstre"
+            },
+            {
+                "name": "René Christensen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Mette Bock",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Lene Espersen",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 578
+    },
+    "579": {
+        "sagid": 2032,
+        "sponsors": [
+            {
+                "name": "Kristian Thulesen Dahl",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Søren Espersen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Martin Henriksen",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Marie Krarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Lars Barfoed",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Brian Mikkelsen",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Per Stig Møller",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 579
+    },
+    "580": {
+        "sagid": 2321,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 580
+    },
+    "581": {
+        "sagid": 1935,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 581
+    },
+    "582": {
+        "sagid": 1935,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 582
+    },
+    "583": {
+        "sagid": 2316,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 583
+    },
+    "584": {
+        "sagid": 3453,
+        "sponsors": [
+            {
+                "name": "Lennart Damsbo-Andersen",
+                "party": "Socialdemokratiet"
+            },
+            {
+                "name": "Zenia Stampe",
+                "party": "Radikale Venstre"
+            },
+            {
+                "name": "Karina Lorentzen Dehnhardt",
+                "party": "Socialistisk Folkeparti"
+            },
+            {
+                "name": "Johanne Schmidt-Nielsen",
+                "party": "Enhedslisten"
+            }
+        ],
+        "vote_id": 584
+    },
+    "585": {
+        "sagid": 2323,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 585
+    },
+    "586": {
+        "sagid": 3439,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 586
+    },
+    "587": {
+        "sagid": 3440,
+        "sponsors": [
+            {
+                "name": "Annette Vilhelmsen",
+                "party": ""
+            }
+        ],
+        "vote_id": 587
+    },
+    "588": {
+        "sagid": 2300,
+        "sponsors": [
+            {
+                "name": "Astrid Krag",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 588
+    },
+    "589": {
+        "sagid": 2648,
+        "sponsors": [
+            {
+                "name": "Mette Frederiksen",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 589
+    },
+    "590": {
+        "sagid": 2771,
+        "sponsors": [
+            {
+                "name": "Martin Lidegaard",
+                "party": "Radikale Venstre"
+            }
+        ],
+        "vote_id": 590
+    },
+    "591": {
+        "sagid": 3437,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 591
+    },
+    "592": {
+        "sagid": 3438,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 592
+    },
+    "593": {
+        "sagid": 1935,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 593
+    },
+    "594": {
+        "sagid": 2316,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 594
+    },
+    "595": {
+        "sagid": 2315,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 595
+    },
+    "596": {
+        "sagid": 3435,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 596
+    },
+    "597": {
+        "sagid": 3436,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 597
+    },
+    "598": {
+        "sagid": 5555,
+        "sponsors": [
+            {
+                "name": "Karsten Lauritzen",
+                "party": "Venstre"
+            },
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 598
+    },
+    "599": {
+        "sagid": 6509,
+        "sponsors": [
+            {
+                "name": "Peter Skaarup",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Dennis Flydtkjær",
+                "party": "Dansk Folkeparti"
+            },
+            {
+                "name": "Simon Emil Ammitzbøll-Bille",
+                "party": "Uden for folketingsgrupperne"
+            },
+            {
+                "name": "Anders Samuelsen",
+                "party": "Liberal Alliance"
+            },
+            {
+                "name": "Tom Behnke",
+                "party": "Det Konservative Folkeparti"
+            },
+            {
+                "name": "Mike Legarth",
+                "party": "Det Konservative Folkeparti"
+            }
+        ],
+        "vote_id": 599
+    },
+    "600": {
+        "sagid": 2022,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 600
+    },
+    "601": {
+        "sagid": 2022,
+        "sponsors": [
+            {
+                "name": "Morten Bødskov",
+                "party": "Socialdemokratiet"
+            }
+        ],
+        "vote_id": 601
+    }
+}

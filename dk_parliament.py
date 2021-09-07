@@ -14,23 +14,7 @@ sorted alphabetically by party and name
 A note of caution: As this fetches directly from the Danish Parliament's
 Open Data database, the material is in Danish and translation functionality
 has not yet been implemented."""
-
-
-def remove_special_characters(string):
-    import re
-    # Takes an input string with 0 or more html codes for special characters
-    # and replaces them with the special characters in the output string
-    tmp_string = string
-    sub_list = ["ø", "æ", " ", "å", "Å", "Ø", "Æ", "«", "»", " ", r"\&","É"," og "]
-    search_list = ["&oslash;", "&aelig;", "&nbsp;", "&aring;",
-                   "&Aring;", "&Oslash;", "&Aelig;", "&laquo;",
-                   "&raquo;", "&nbsp;", "&amp;","&Eacute;"," & "]
-    for word in range(len(search_list)):
-        while re.search(search_list[word], tmp_string) is not None:
-            tmp_string = re.sub(search_list[word], sub_list[word], tmp_string)
-        while re.search("\w_", tmp_string) is not None:
-            tmp_string = re.sub("_", "\_", tmp_string)
-    return tmp_string
+from utils import remove_special_characters
 
 
 def write_section_to_outfile(inlist, title, data, search_level, searches, output="itemize",
