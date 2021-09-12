@@ -72,7 +72,18 @@ def get_vote_details(vote):
         new_json = json.loads(new_data)
         for value in new_json["value"]:
             actors[value["aktørid"]] = value["rolleid"]
-        out_dict = {"vote_id": vote, "sagid": subject, "sponsors": []}
+        subject_data = json.loads(requests.get(f"https://oda.ft.dk/api/Sag({subject})").content)
+        
+        out_dict = {
+            "vote_id": vote, 
+            "period":subject_data["periodeid"],
+            "sagid": subject, 
+            "sponsors": [], 
+            "type": subject_data["typeid"], 
+            "statusid":subject_data["statusid"],
+            "title":subject_data["titel"],
+            "resume":subject_data["resume"],
+            }
         for actor in actors.keys():
             if actors[actor] == 16 or actors[actor] == 19: 
                 actor_data = requests.get(f"https://oda.ft.dk/api/Aktør({actor})").content
@@ -82,7 +93,15 @@ def get_vote_details(vote):
                     raw_soup = Soup(str(raw_soup), "lxml").find("party").text
                 except AttributeError:
                     raw_soup = "Not Applicable"
-                out_dict["sponsors"].append({"name": actor_data["navn"], "party": raw_soup})
+                if actors[actor] == 16:
+                    administration = False
+                else:
+                    administration = True
+                out_dict["sponsors"].append({"name": actor_data["navn"], "party": raw_soup, "actor_id":actor_data["id"], "administration": administration})
+            elif actors[actor] == 6:
+                actor_data = requests.get(f"https://oda.ft.dk/api/Aktør({actor})").content
+                actor_data = json.loads(actor_data)
+                out_dict["area"] = actor_data["navn"]
         return out_dict
     except JSONDecodeError: 
         return None
@@ -110,12 +129,16 @@ def get_all_votes():
     num_cores = multiprocessing.cpu_count()-1
     def processInput(vote):
         print(vote)
-        tmp_dict = get_vote_details(vote)
+        try:
+            tmp_dict = get_vote_details(vote)
+            with open(f"votes/{vote}.json", "w") as outfile:
+                outfile.write(json.dumps(tmp_dict, indent=4,sort_keys=True, ensure_ascii=False))
+        except requests.exceptions.ConnectionError:
+            processInput(vote)
         # if count % 100 == 0:
-        with open(f"votes/{vote}.json", "w") as outfile:
-            outfile.write(json.dumps(tmp_dict, indent=4,sort_keys=True, ensure_ascii=False))
+        
     Parallel(n_jobs=num_cores)(delayed(processInput)(i) for i in votes)
-
+    
     # for vote in votes: 
         # count += 1
         # print(vote)

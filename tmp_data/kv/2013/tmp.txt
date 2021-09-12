@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>KMDValg</title>
+<link href="Images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" rel="stylesheet"/>
+<link href="Content/bootstrap-theme-custom.min.css" rel="stylesheet"/>
+<link href="Content/StyleSheet.min.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="se-pre-con"></div>
+<nav class="navbar navbar-default kmd-navbar" role="navigation">
+<div class="container-fluid kmd-header">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#kmdnavbar" data-toggle="collapse" type="button">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand logo" href="/">
+<svg viewbox="0 0 135 30.28" xmlns="http://www.w3.org/2000/svg">
+<path class="cls-1" d="M434.44,297.56a.55.55,0,0,1,0-.57l9.87-12.91a1,1,0,0,0,.22-1.11,1,1,0,0,0-1-.55h-7.41a2.53,2.53,0,0,0-1.84.92s-5.89,7.68-7.65,10v-9.45a1.46,1.46,0,0,0-1.45-1.46h-5.83a1.46,1.46,0,0,0-1.45,1.46v27.36a1.46,1.46,0,0,0,1.45,1.46h5.83a1.46,1.46,0,0,0,1.45-1.46V301.18c1.83,2.38,8.08,10.63,8.08,10.63a2.69,2.69,0,0,0,1.92.88h7.29a1,1,0,0,0,.78-1.66Z" transform="translate(-376.64 -282.41)"></path>
+<rect class="cls-2" height="30.27" width="30.1"></rect>
+<path class="cls-1" d="M496.35,282.41H487a1.46,1.46,0,0,0-1.45,1.46v4.7A1.46,1.46,0,0,0,487,290H495c4.7,0,7.63,2.88,7.63,7.51s-2.88,7.51-7.7,7.51H483.57a.41.41,0,0,1-.36-.31l-3.5-21a1.62,1.62,0,0,0-1.57-1.36h-5.71a1.94,1.94,0,0,0-1.73,1.15s-4.27,10.59-5.38,13.37c-1-2.78-5.38-13.34-5.38-13.34a1.88,1.88,0,0,0-1.71-1.17h-5.29a1.73,1.73,0,0,0-1.68,1.36l-4.62,27.38a1.5,1.5,0,0,0,.33,1.05,1.33,1.33,0,0,0,1,.46h5.79a1.77,1.77,0,0,0,1.59-1.51l2-13.61c1.41,3.57,5.62,13.94,5.62,13.94a2,2,0,0,0,1.72,1.17H466a2,2,0,0,0,1.73-1.16s4.22-10.38,5.7-14l1.73,13.74a1.59,1.59,0,0,0,1.56,1.38h19.67a15.14,15.14,0,1,0,0-30.28" transform="translate(-376.64 -282.41)"></path>
+</svg>
+</a>
+</div>
+<div class="collapse navbar-collapse" id="kmdnavbar">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://kmdvalg.dk/Main/Arkiv">Tidligere valg</a></li>
+<li><a href="https://www.kmd.dk/juridiske-vilkaar" target="_blank">Vilkår</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container-fluid content-container">
+<div class="row kmd-page-header">
+<div class="col-xs-9 col-sm-9 kmd-breadcrumb">
+<ol class="breadcrumb">
+<li><a href="/">Forsiden</a></li>
+<li class="active">Kommunalvalg 2013</li>
+</ol>
+</div>
+<div class="col-xs-3 col-sm-3 kmd-page-timer" data-valg-type="KV" style="display: none">
+<svg preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="75" cy="75" fill="none" id="grey-halo" r="57" stroke="#dddddd" stroke-width="10" transform="rotate(-90,75,75)"></circle>
+<circle cx="75" cy="75" fill="none" id="tick-halo" r="47" stroke-dasharray="0,20000" stroke-width="6" transform="rotate(-90,75,75)"></circle>
+<text fill="#434444" id="myTimer" style="font-size: 30px;" text-anchor="middle" x="75" y="85">--:--</text>
+</svg>
+<span>Næste opdatering</span>
+</div>
+<div class="col-xs-12 col-sm-12 kmd-overskrift">Kommunalvalg d. 19. november 2013</div>
+</div>
+<div class="row">
+<!--KORT-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 content-block master-height">
+<div class="content-block-header">Kort <span class="content-block-sub-header">- optalte stemmer</span></div>
+<div class="map-full" id="kort">
+<div class="status-icons container-fluid" id="status-icons">
+<div class="row">
+<div class="col-xs-3">
+<span aria-hidden="true" class="glyphicon glyphicon-stop valg-status-none"></span>Ingen optælling
+                            </div>
+<div class="col-xs-3">
+<span aria-hidden="true" class="glyphicon glyphicon-stop valg-status-pending"></span>Optælling igang
+                            </div>
+<div class="col-xs-3">
+<span aria-hidden="true" class="glyphicon glyphicon-stop valg-status-tentativ"></span>Foreløbigt resultat
+                            </div>
+<div class="col-xs-3">
+<span aria-hidden="true" class="glyphicon glyphicon-stop valg-status-final"></span>Endeligt resultat
+                            </div>
+</div>
+</div>
+</div>
+</div>
+<!--Seneste opdateringer-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 content-block equal-height">
+<div class="content-block-header">Seneste ændring</div>
+<table class="table table-responsive table-condensed kmd-table kmd-table-latest-update">
+<thead>
+<tr>
+<th>Kommuner</th>
+<th>Tidspunkt</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-over-flow" title="Læsø">Læsø</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Dragør">Dragør</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Sejerslev">Morsø, Sejerslev</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Flade">Morsø, Flade</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Bjergby">Morsø, Bjergby</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Sundby">Morsø, Sundby</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Solbjerg">Morsø, Solbjerg</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Thorup">Morsø, Thorup</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Ø. Jølby">Morsø, Ø. Jølby</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Erslev">Morsø, Erslev</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Tødsø">Morsø, Tødsø</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Frøslev">Morsø, Frøslev</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Tæbring">Morsø, Tæbring</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Fredsø">Morsø, Fredsø</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr>
+<td class="text-over-flow" title="Morsø, Vils">Morsø, Vils</td>
+<td><i class="glyphicon glyphicon-stop valg-status-final"></i>11:06</td>
+<td>13-10-17</td>
+</tr>
+<tr style="height:auto;">
+<td colspan="3" style="background-color:white;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--Split Containers-->
+<div class="col-xs-12 col-sm-12 col-lg-4 split-container">
+<div class="row split-row">
+<!--Top 3 kandidater-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-12 content-block split-col kmd-top-candidates" data-area-identifier="-1">
+<div class="content-block-header">Top <span class="topnews-count"></span> kandidater <span class="content-block-sub-header">- optalte stemmer i antal</span></div>
+</div>
+<!--Top 3 partier-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-12 content-block split-col kmd-top-parties" data-area-identifier="-1">
+<div class="content-block-header">Top <span class="topnews-count"></span> partier <span class="content-block-sub-header">- optalte stemmer i procent</span></div>
+</div>
+</div>
+</div>
+</div>
+<!--kommuner-->
+<div class="row">
+<div class="col-sm-12 content-block kmd-list-items">
+<div class="content-block-header">Kommuner</div>
+<div class="row row-masonry">
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">A</div>
+<a class="list-group-item valg-status-final" href="K84982165.htm" title="Endeligt resultat">Albertslund </a>
+<a class="list-group-item valg-status-final" href="K84982201.htm" title="Endeligt resultat">Allerød </a>
+<a class="list-group-item valg-status-final" href="K84733420.htm" title="Endeligt resultat">Assens </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">B</div>
+<a class="list-group-item valg-status-final" href="K84982151.htm" title="Endeligt resultat">Ballerup </a>
+<a class="list-group-item valg-status-final" href="K84733530.htm" title="Endeligt resultat">Billund </a>
+<a class="list-group-item valg-status-final" href="K84982400.htm" title="Endeligt resultat">Bornholm </a>
+<a class="list-group-item valg-status-final" href="K84982153.htm" title="Endeligt resultat">Brøndby </a>
+<a class="list-group-item valg-status-final" href="K84712810.htm" title="Endeligt resultat">Brønderslev </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">D</div>
+<a class="list-group-item valg-status-final" href="K84982155.htm" title="Endeligt resultat">Dragør </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">E</div>
+<a class="list-group-item valg-status-final" href="K84982240.htm" title="Endeligt resultat">Egedal </a>
+<a class="list-group-item valg-status-final" href="K84733561.htm" title="Endeligt resultat">Esbjerg </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">F</div>
+<a class="list-group-item valg-status-final" href="K84733563.htm" title="Endeligt resultat">Fanø </a>
+<a class="list-group-item valg-status-final" href="K84713710.htm" title="Endeligt resultat">Favrskov </a>
+<a class="list-group-item valg-status-final" href="K84979320.htm" title="Endeligt resultat">Faxe </a>
+<a class="list-group-item valg-status-final" href="K84982210.htm" title="Endeligt resultat">Fredensborg </a>
+<a class="list-group-item valg-status-final" href="K84733607.htm" title="Endeligt resultat">Fredericia </a>
+<a class="list-group-item valg-status-final" href="K84982147.htm" title="Endeligt resultat">Frederiksberg </a>
+<a class="list-group-item valg-status-final" href="K84712813.htm" title="Endeligt resultat">Frederikshavn </a>
+<a class="list-group-item valg-status-final" href="K84982250.htm" title="Endeligt resultat">Frederikssund </a>
+<a class="list-group-item valg-status-final" href="K84982190.htm" title="Endeligt resultat">Furesø </a>
+<a class="list-group-item valg-status-final" href="K84733430.htm" title="Endeligt resultat">Faaborg-Midtfyn </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">G</div>
+<a class="list-group-item valg-status-final" href="K84982157.htm" title="Endeligt resultat">Gentofte </a>
+<a class="list-group-item valg-status-final" href="K84982159.htm" title="Endeligt resultat">Gladsaxe </a>
+<a class="list-group-item valg-status-final" href="K84982161.htm" title="Endeligt resultat">Glostrup </a>
+<a class="list-group-item valg-status-final" href="K84979253.htm" title="Endeligt resultat">Greve </a>
+<a class="list-group-item valg-status-final" href="K84982270.htm" title="Endeligt resultat">Gribskov </a>
+<a class="list-group-item valg-status-final" href="K84979376.htm" title="Endeligt resultat">Guldborgsund</a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">H</div>
+<a class="list-group-item valg-status-final" href="K84733510.htm" title="Endeligt resultat">Haderslev </a>
+<a class="list-group-item valg-status-final" href="K84982260.htm" title="Endeligt resultat">Halsnæs </a>
+<a class="list-group-item valg-status-final" href="K84713766.htm" title="Endeligt resultat">Hedensted </a>
+<a class="list-group-item valg-status-final" href="K84982217.htm" title="Endeligt resultat">Helsingør </a>
+<a class="list-group-item valg-status-final" href="K84982163.htm" title="Endeligt resultat">Herlev </a>
+<a class="list-group-item valg-status-final" href="K84713657.htm" title="Endeligt resultat">Herning </a>
+<a class="list-group-item valg-status-final" href="K84982219.htm" title="Endeligt resultat">Hillerød </a>
+<a class="list-group-item valg-status-final" href="K84712860.htm" title="Endeligt resultat">Hjørring </a>
+<a class="list-group-item valg-status-final" href="K84979316.htm" title="Endeligt resultat">Holbæk </a>
+<a class="list-group-item valg-status-final" href="K84713661.htm" title="Endeligt resultat">Holstebro </a>
+<a class="list-group-item valg-status-final" href="K84713615.htm" title="Endeligt resultat">Horsens </a>
+<a class="list-group-item valg-status-final" href="K84982167.htm" title="Endeligt resultat">Hvidovre </a>
+<a class="list-group-item valg-status-final" href="K84982169.htm" title="Endeligt resultat">Høje-Taastrup </a>
+<a class="list-group-item valg-status-final" href="K84982223.htm" title="Endeligt resultat">Hørsholm </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">I</div>
+<a class="list-group-item valg-status-final" href="K84713756.htm" title="Endeligt resultat">Ikast-Brande </a>
+<a class="list-group-item valg-status-final" href="K84982183.htm" title="Endeligt resultat">Ishøj </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">J</div>
+<a class="list-group-item valg-status-final" href="K84712849.htm" title="Endeligt resultat">Jammerbugt </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">K</div>
+<a class="list-group-item valg-status-final" href="K84979326.htm" title="Endeligt resultat">Kalundborg </a>
+<a class="list-group-item valg-status-final" href="K84733440.htm" title="Endeligt resultat">Kerteminde </a>
+<a class="list-group-item valg-status-final" href="K84733621.htm" title="Endeligt resultat">Kolding </a>
+<a class="list-group-item valg-status-final" href="K84982101.htm" title="Endeligt resultat">København </a>
+<a class="list-group-item valg-status-final" href="K84979259.htm" title="Endeligt resultat">Køge </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">L</div>
+<a class="list-group-item valg-status-final" href="K84733482.htm" title="Endeligt resultat">Langeland </a>
+<a class="list-group-item valg-status-final" href="K84979350.htm" title="Endeligt resultat">Lejre </a>
+<a class="list-group-item valg-status-final" href="K84713665.htm" title="Endeligt resultat">Lemvig </a>
+<a class="list-group-item valg-status-final" href="K84979360.htm" title="Endeligt resultat">Lolland </a>
+<a class="list-group-item valg-status-final" href="K84982173.htm" title="Endeligt resultat">Lyngby-Taarbæk </a>
+<a class="list-group-item valg-status-final" href="K84712825.htm" title="Endeligt resultat">Læsø </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">M</div>
+<a class="list-group-item valg-status-final" href="K84712846.htm" title="Endeligt resultat">Mariagerfjord </a>
+<a class="list-group-item valg-status-final" href="K84733410.htm" title="Endeligt resultat">Middelfart </a>
+<a class="list-group-item valg-status-final" href="K84712773.htm" title="Endeligt resultat">Morsø </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">N</div>
+<a class="list-group-item valg-status-final" href="K84713707.htm" title="Endeligt resultat">Norddjurs </a>
+<a class="list-group-item valg-status-final" href="K84733480.htm" title="Endeligt resultat">Nordfyns </a>
+<a class="list-group-item valg-status-final" href="K84733450.htm" title="Endeligt resultat">Nyborg </a>
+<a class="list-group-item valg-status-final" href="K84979370.htm" title="Endeligt resultat">Næstved </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">O</div>
+<a class="list-group-item valg-status-final" href="K84713727.htm" title="Endeligt resultat">Odder </a>
+<a class="list-group-item valg-status-final" href="K84733461.htm" title="Endeligt resultat">Odense </a>
+<a class="list-group-item valg-status-final" href="K84979306.htm" title="Endeligt resultat">Odsherred </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">R</div>
+<a class="list-group-item valg-status-final" href="K84713730.htm" title="Endeligt resultat">Randers </a>
+<a class="list-group-item valg-status-final" href="K84712840.htm" title="Endeligt resultat">Rebild </a>
+<a class="list-group-item valg-status-final" href="K84713760.htm" title="Endeligt resultat">Ringkøbing-Skjern</a>
+<a class="list-group-item valg-status-final" href="K84979329.htm" title="Endeligt resultat">Ringsted </a>
+<a class="list-group-item valg-status-final" href="K84979265.htm" title="Endeligt resultat">Roskilde </a>
+<a class="list-group-item valg-status-final" href="K84982230.htm" title="Endeligt resultat">Rudersdal </a>
+<a class="list-group-item valg-status-final" href="K84982175.htm" title="Endeligt resultat">Rødovre </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">S</div>
+<a class="list-group-item valg-status-final" href="K84713741.htm" title="Endeligt resultat">Samsø </a>
+<a class="list-group-item valg-status-final" href="K84713740.htm" title="Endeligt resultat">Silkeborg </a>
+<a class="list-group-item valg-status-final" href="K84713746.htm" title="Endeligt resultat">Skanderborg </a>
+<a class="list-group-item valg-status-final" href="K84713779.htm" title="Endeligt resultat">Skive </a>
+<a class="list-group-item valg-status-final" href="K84979330.htm" title="Endeligt resultat">Slagelse </a>
+<a class="list-group-item valg-status-final" href="K84979269.htm" title="Endeligt resultat">Solrød </a>
+<a class="list-group-item valg-status-final" href="K84979340.htm" title="Endeligt resultat">Sorø </a>
+<a class="list-group-item valg-status-final" href="K84979336.htm" title="Endeligt resultat">Stevns </a>
+<a class="list-group-item valg-status-final" href="K84713671.htm" title="Endeligt resultat">Struer </a>
+<a class="list-group-item valg-status-final" href="K84733479.htm" title="Endeligt resultat">Svendborg </a>
+<a class="list-group-item valg-status-final" href="K84713706.htm" title="Endeligt resultat">Syddjurs </a>
+<a class="list-group-item valg-status-final" href="K84733540.htm" title="Endeligt resultat">Sønderborg </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">T</div>
+<a class="list-group-item valg-status-final" href="K84712787.htm" title="Endeligt resultat">Thisted </a>
+<a class="list-group-item valg-status-final" href="K84733550.htm" title="Endeligt resultat">Tønder </a>
+<a class="list-group-item valg-status-final" href="K84982185.htm" title="Endeligt resultat">Tårnby </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">V</div>
+<a class="list-group-item valg-status-final" href="K84982187.htm" title="Endeligt resultat">Vallensbæk </a>
+<a class="list-group-item valg-status-final" href="K84733573.htm" title="Endeligt resultat">Varde </a>
+<a class="list-group-item valg-status-final" href="K84733575.htm" title="Endeligt resultat">Vejen </a>
+<a class="list-group-item valg-status-final" href="K84733630.htm" title="Endeligt resultat">Vejle </a>
+<a class="list-group-item valg-status-final" href="K84712820.htm" title="Endeligt resultat">Vesthimmerlands </a>
+<a class="list-group-item valg-status-final" href="K84713791.htm" title="Endeligt resultat">Viborg </a>
+<a class="list-group-item valg-status-final" href="K84979390.htm" title="Endeligt resultat">Vordingborg </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">Æ</div>
+<a class="list-group-item valg-status-final" href="K84733492.htm" title="Endeligt resultat">Ærø </a>
+</div>
+</div>
+<div class="masonry">
+<div class="list-group">
+<div class="list-group-item">Å</div>
+<a class="list-group-item valg-status-final" href="K84733580.htm" title="Endeligt resultat">Aabenraa</a>
+<a class="list-group-item valg-status-final" href="K84712851.htm" title="Endeligt resultat">Aalborg</a>
+<a class="list-group-item valg-status-final" href="K84713751.htm" title="Endeligt resultat">Aarhus</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script crossorigin="anonymous" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<!-- jQuery local fallback -->
+<script>window.jQuery || document.write('<script src="Scripts/jquery-3.1.1.min.js"><\/script>')</script>
+<script src="Scripts/jquery.mobile.custom.min.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>if (typeof ($.fn.modal) === 'undefined') { document.write('<script src="Scripts/bootstrap.min.js"><\/script>') }</script>
+<!-- Bootstrap CSS local fallback -->
+<div class="hidden" id="bootstrapCssTest"></div>
+<script>
+        $(function () {
+            if ($('#bootstrapCssTest').is(':visible')) {
+                $("head").prepend('<link rel="stylesheet" href="Content/bootstrap.min.css">');
+            }
+        });
+    </script>
+<script src="Scripts/modernizr-3.4.0.min.js" type="text/javascript"></script>
+<script src="Scripts/raphael.min.js" type="text/javascript"></script>
+<script src="Scripts/mustache.min.js" type="text/javascript"></script>
+<script src="Scripts/map-manager.min.js" type="text/javascript"></script>
+<script src="Scripts/danmark.min.js" type="text/javascript"></script>
+<script src="Scripts/coundown-timer.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+            var map = new mapManager({
+                Paper: rsr, Map: rsrGroups, CanvasId: '#kort', DisplayMode: DISPLAY_MODE.FULLKOMMUNE, KommuneStatusUrl: 'scripts/map-status.json', MapLoadedCallBack: function () {
+                    initProgressbarAndCounters('scripts/frontpage-topnews.json');
+                }
+            });
+        });
+        $(window).on("load", function () {
+            //var timer = new CountDownTimer(180, TICK_COLOR.KOMMUNE);
+        });
+    </script>
+<script src="Scripts/page-script.min.js" type="text/javascript"></script>
+<script>
+        //Tilføjet for at vise baggrundsfarve på en mobil telefon når der klikkes.
+        $(".mini-map-link").on("tap", function () {
+            if ($(this).hasClass("kommune")) {
+                $(this).css({
+                    'background-color': '#42aaff'
+                });
+            } else if ($(this).hasClass("region")) {
+                $(this).css({
+                    'background-color': '#eea711'
+                });
+            }
+        });
+    </script>
+</body>
+</html>
