@@ -1,0 +1,684 @@
+{
+    "null": [
+        {
+            "id": 2,
+            "name": "Finansministeriet",
+            "short_name": null,
+            "start": "2001-11-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 11,
+            "name": "Forsvarsministeriet",
+            "short_name": null,
+            "start": "2004-04-24T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 16,
+            "name": "Undervisningsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 27,
+            "name": "Erhvervs- og Vækstministeriet",
+            "short_name": null,
+            "start": "2011-10-03T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 32,
+            "name": "Udenrigsministeriet",
+            "short_name": null,
+            "start": "2001-11-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 37,
+            "name": "Ministeriet for Sundhed og Forebyggelse",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 42,
+            "name": "Transportministeriet",
+            "short_name": null,
+            "start": "2007-11-23T00:00:00",
+            "end": "2015-06-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 46,
+            "name": "Justitsministeriet",
+            "short_name": null,
+            "start": "2001-11-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 54,
+            "name": "Kulturministeriet",
+            "short_name": null,
+            "start": "2004-01-01T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 66,
+            "name": "Handels- og europaministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 91,
+            "name": "Ministeriet for By, Bolig og Landdistrikter",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 105,
+            "name": "Økonomi- og Indenrigsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 115,
+            "name": "Ministeriet for Forskning, Innovation og Videregående Uddannelser",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 137,
+            "name": "Beskæftigelsesministeriet",
+            "short_name": null,
+            "start": "2001-11-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 143,
+            "name": "Statsministeriet",
+            "short_name": null,
+            "start": "2001-11-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 151,
+            "name": "Miljøministeriet",
+            "short_name": null,
+            "start": "2001-09-27T00:00:00",
+            "end": "2015-06-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 166,
+            "name": "Ministeriet for Fødevarer, Landbrug og Fiskeri",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 169,
+            "name": "Social-, børne- og integrationsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 204,
+            "name": "Skatteministeriet",
+            "short_name": null,
+            "start": "1987-09-10T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 218,
+            "name": "Klima-, Energi- og Bygningsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 227,
+            "name": "Social- og Integrationsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 230,
+            "name": "Ministeriet for Ligestilling og Kirke",
+            "short_name": null,
+            "start": "2011-10-03T00:00:00",
+            "end": "2014-02-03T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 248,
+            "name": "Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 251,
+            "name": "Handels- og Udviklingsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 254,
+            "name": "Uddannelses- og Forskningsministeriet",
+            "short_name": null,
+            "start": "2014-02-03T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 285,
+            "name": "Kirkeministeriet",
+            "short_name": null,
+            "start": "2014-02-03T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 293,
+            "name": "Europaministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 295,
+            "name": "Ministeriet for Børn og Undervisning",
+            "short_name": null,
+            "start": "2011-10-03T00:00:00",
+            "end": "2013-08-08T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 299,
+            "name": "Folketinget",
+            "short_name": null,
+            "start": "2004-01-01T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 349,
+            "name": "Ministeriet for Udviklingsbistand",
+            "short_name": null,
+            "start": "2004-08-02T00:00:00",
+            "end": "2014-02-03T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 358,
+            "name": "Handels- og Investeringsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 369,
+            "name": "Ministeriet for Nordisk Samarbejde",
+            "short_name": null,
+            "start": "1994-09-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 723,
+            "name": "Indenrigs- og Sundhedsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 724,
+            "name": "Indenrigs- og Sundhedsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1333,
+            "name": "Kirkeministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1340,
+            "name": "Ministeriet for Flygtninge, Indvandrere og Integration",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1345,
+            "name": "Ministeriet for Sundhed og Forebyggelse",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1352,
+            "name": "Undervisningsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1355,
+            "name": "Velfærdsministeriet",
+            "short_name": null,
+            "start": "2007-11-23T00:00:00",
+            "end": "2009-04-07T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 1356,
+            "name": "Ministeriet for Videnskab, Teknologi og Udvikling",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1493,
+            "name": "Transport- og Energiministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1494,
+            "name": "Økonomi- og Erhvervsministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1910,
+            "name": "Ministeriet for Familie- og Forbrugeranliggender",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 1968,
+            "name": "Ministeriet for Ligestilling",
+            "short_name": null,
+            "start": "1999-07-01T00:00:00",
+            "end": "2011-10-03T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 1971,
+            "name": "Socialministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 3160,
+            "name": "Trafik- og Energiministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 3266,
+            "name": "Trafikministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 4499,
+            "name": "Folketingets Ombudsmand",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 5174,
+            "name": "Klima- og Energiministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 5175,
+            "name": "Socialministeriet",
+            "short_name": null,
+            "start": "2010-02-23T00:00:00",
+            "end": "2011-10-03T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 5180,
+            "name": "Indenrigs- og Socialministeriet",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 13161,
+            "name": "fejl",
+            "short_name": null,
+            "start": "2011-10-10T00:00:00",
+            "end": "2011-10-10T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 13162,
+            "name": "Socialministeriet (fejloprettet)",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 13582,
+            "name": "fejloprettelse",
+            "short_name": null,
+            "start": null,
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 15851,
+            "name": "Transport- og Bygningsministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15853,
+            "name": "Miljø- og Fødevareministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2020-11-19T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15855,
+            "name": "Udlændinge-, Integrations- og Boligministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15857,
+            "name": "Social- og Indenrigsministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15859,
+            "name": "Energi-, Forsynings- og Klimaministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15861,
+            "name": "Ministeriet for Børn, Undervisning og Ligestilling",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 15863,
+            "name": "Sundheds- og Ældreministeriet",
+            "short_name": null,
+            "start": "2015-06-28T00:00:00",
+            "end": "2016-11-28T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17070,
+            "name": "Økonomi- og Indenrigsministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17072,
+            "name": "fejloprettet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 17074,
+            "name": "Undervisningsministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17076,
+            "name": "Udlændinge- og Integrationsministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 17078,
+            "name": "Fejloprettet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 17080,
+            "name": "Sundheds- og Ældreministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17082,
+            "name": "Fejloprettet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 17084,
+            "name": "Børne- og Socialministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17087,
+            "name": "Transport-, Bygnings- og Boligministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": "2019-06-27T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 17089,
+            "name": "Fejloprettet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 17091,
+            "name": "Erhvervsministeriet",
+            "short_name": null,
+            "start": "2016-11-28T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 18026,
+            "name": "Folketinget",
+            "short_name": null,
+            "start": "2018-05-14T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 18029,
+            "name": "Statsrevisorerne",
+            "short_name": null,
+            "start": "2018-05-16T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 18742,
+            "name": "Social- og Indenrigsministeriet",
+            "short_name": null,
+            "start": "2019-06-27T00:00:00",
+            "end": "2021-01-21T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 18744,
+            "name": "Klima-, Energi- og Forsyningsministeriet",
+            "short_name": null,
+            "start": "2019-06-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 18750,
+            "name": "Transport- og Boligministeriet",
+            "short_name": null,
+            "start": "2019-06-27T00:00:00",
+            "end": "2021-01-21T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 18752,
+            "name": "Børne- og Undervisningsministeriet",
+            "short_name": null,
+            "start": "2019-06-27T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 18886,
+            "name": "Sundheds- og Ældreministeriet",
+            "short_name": null,
+            "start": "2019-06-27T00:00:00",
+            "end": "2021-01-21T00:00:00",
+            "periodid": null
+        },
+        {
+            "id": 19491,
+            "name": "Miljøministeriet",
+            "short_name": null,
+            "start": "2020-11-19T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 19493,
+            "name": "Ministeriet for Fødevarer, Landbrug og Fiskeri",
+            "short_name": null,
+            "start": "2020-11-19T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 19561,
+            "name": "Indenrigs- og Boligministeriet",
+            "short_name": null,
+            "start": "2020-10-01T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 19563,
+            "name": "Transportministeriet",
+            "short_name": null,
+            "start": "2021-01-21T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 19564,
+            "name": "Sundhedsministeriet",
+            "short_name": null,
+            "start": "2021-01-21T00:00:00",
+            "end": null,
+            "periodid": null
+        },
+        {
+            "id": 19566,
+            "name": "Social- og Ældreministeriet",
+            "short_name": null,
+            "start": "2021-01-21T00:00:00",
+            "end": null,
+            "periodid": null
+        }
+    ]
+}

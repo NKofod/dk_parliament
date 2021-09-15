@@ -1,0 +1,742 @@
+{
+    "Folketinget": [
+        {
+            "id": 6,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2013-10-01T00:00:00",
+            "end": "2014-10-07T00:00:00",
+            "periodid": 32
+        },
+        {
+            "id": 232,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2008-10-07T00:00:00",
+            "end": "2009-10-06T00:00:00",
+            "periodid": 26
+        },
+        {
+            "id": 342,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2012-10-02T00:00:00",
+            "end": "2013-10-01T00:00:00",
+            "periodid": 31
+        },
+        {
+            "id": 345,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2011-10-04T00:00:00",
+            "end": "2012-10-02T00:00:00",
+            "periodid": 30
+        },
+        {
+            "id": 368,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2010-10-05T00:00:00",
+            "end": "2011-09-15T00:00:00",
+            "periodid": 28
+        },
+        {
+            "id": 420,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2011-09-15T00:00:00",
+            "end": "2011-10-04T00:00:00",
+            "periodid": 29
+        },
+        {
+            "id": 423,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2004-10-05T00:00:00",
+            "end": "2005-02-08T00:00:00",
+            "periodid": 20
+        },
+        {
+            "id": 424,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2005-02-08T00:00:00",
+            "end": "2005-10-04T00:00:00",
+            "periodid": 21
+        },
+        {
+            "id": 425,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2005-10-04T00:00:00",
+            "end": "2006-10-03T00:00:00",
+            "periodid": 22
+        },
+        {
+            "id": 426,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2006-10-03T00:00:00",
+            "end": "2007-10-02T00:00:00",
+            "periodid": 23
+        },
+        {
+            "id": 427,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2007-10-02T00:00:00",
+            "end": "2007-11-13T00:00:00",
+            "periodid": 24
+        },
+        {
+            "id": 428,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2007-11-13T00:00:00",
+            "end": "2008-10-07T00:00:00",
+            "periodid": 25
+        },
+        {
+            "id": 429,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2009-10-06T00:00:00",
+            "end": "2010-10-05T00:00:00",
+            "periodid": 27
+        },
+        {
+            "id": 13635,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2014-10-07T00:00:00",
+            "end": "2015-06-18T00:00:00",
+            "periodid": 35
+        },
+        {
+            "id": 14082,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1975-10-07T00:00:00",
+            "end": "1976-10-05T00:00:00",
+            "periodid": 54
+        },
+        {
+            "id": 14259,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2003-10-07T00:00:00",
+            "end": "2004-10-05T00:00:00",
+            "periodid": 19
+        },
+        {
+            "id": 14262,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1976-10-05T00:00:00",
+            "end": "1977-02-15T00:00:00",
+            "periodid": 55
+        },
+        {
+            "id": 14290,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1977-02-15T00:00:00",
+            "end": "1977-10-04T00:00:00",
+            "periodid": 56
+        },
+        {
+            "id": 14338,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1977-10-04T00:00:00",
+            "end": "1978-10-03T00:00:00",
+            "periodid": 57
+        },
+        {
+            "id": 14387,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1978-10-03T00:00:00",
+            "end": "1979-10-02T00:00:00",
+            "periodid": 58
+        },
+        {
+            "id": 14415,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1979-10-02T00:00:00",
+            "end": "1979-10-23T00:00:00",
+            "periodid": 59
+        },
+        {
+            "id": 14431,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1979-10-23T00:00:00",
+            "end": "1980-10-07T00:00:00",
+            "periodid": 60
+        },
+        {
+            "id": 14457,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1980-10-07T00:00:00",
+            "end": "1981-10-06T00:00:00",
+            "periodid": 61
+        },
+        {
+            "id": 14478,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1981-10-06T00:00:00",
+            "end": "1981-12-08T00:00:00",
+            "periodid": 62
+        },
+        {
+            "id": 14495,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1981-12-08T00:00:00",
+            "end": "1982-10-05T00:00:00",
+            "periodid": 63
+        },
+        {
+            "id": 14523,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1982-10-05T00:00:00",
+            "end": "1983-10-04T00:00:00",
+            "periodid": 64
+        },
+        {
+            "id": 14546,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1983-10-04T00:00:00",
+            "end": "1984-01-10T00:00:00",
+            "periodid": 65
+        },
+        {
+            "id": 14564,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1984-01-10T00:00:00",
+            "end": "1984-10-02T00:00:00",
+            "periodid": 66
+        },
+        {
+            "id": 14583,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1984-10-02T00:00:00",
+            "end": "1985-10-01T00:00:00",
+            "periodid": 67
+        },
+        {
+            "id": 14596,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1985-10-01T00:00:00",
+            "end": "1986-10-07T00:00:00",
+            "periodid": 68
+        },
+        {
+            "id": 14617,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1986-10-07T00:00:00",
+            "end": "1987-09-08T00:00:00",
+            "periodid": 69
+        },
+        {
+            "id": 14632,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1987-09-08T00:00:00",
+            "end": "1987-10-06T00:00:00",
+            "periodid": 70
+        },
+        {
+            "id": 14649,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1987-10-06T00:00:00",
+            "end": "1988-05-10T00:00:00",
+            "periodid": 71
+        },
+        {
+            "id": 14663,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1988-05-10T00:00:00",
+            "end": "1988-10-04T00:00:00",
+            "periodid": 72
+        },
+        {
+            "id": 14676,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1988-10-04T00:00:00",
+            "end": "1989-10-03T00:00:00",
+            "periodid": 73
+        },
+        {
+            "id": 14690,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1989-10-03T00:00:00",
+            "end": "1990-10-02T00:00:00",
+            "periodid": 74
+        },
+        {
+            "id": 14704,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1990-10-02T00:00:00",
+            "end": "1990-12-12T00:00:00",
+            "periodid": 75
+        },
+        {
+            "id": 14720,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1990-12-12T00:00:00",
+            "end": "1991-10-01T00:00:00",
+            "periodid": 76
+        },
+        {
+            "id": 14730,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1991-10-01T00:00:00",
+            "end": "1992-10-06T00:00:00",
+            "periodid": 77
+        },
+        {
+            "id": 14742,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1992-10-06T00:00:00",
+            "end": "1993-10-05T00:00:00",
+            "periodid": 78
+        },
+        {
+            "id": 14754,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1993-10-05T00:00:00",
+            "end": "1994-09-21T00:00:00",
+            "periodid": 79
+        },
+        {
+            "id": 14764,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1994-09-21T00:00:00",
+            "end": "1994-10-04T00:00:00",
+            "periodid": 80
+        },
+        {
+            "id": 14778,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1994-10-04T00:00:00",
+            "end": "1995-10-03T00:00:00",
+            "periodid": 81
+        },
+        {
+            "id": 14789,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1995-10-03T00:00:00",
+            "end": "1996-10-01T00:00:00",
+            "periodid": 16
+        },
+        {
+            "id": 14800,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1996-10-01T00:00:00",
+            "end": "1997-10-07T00:00:00",
+            "periodid": 17
+        },
+        {
+            "id": 14811,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1997-10-07T00:00:00",
+            "end": "1998-03-11T00:00:00",
+            "periodid": 82
+        },
+        {
+            "id": 14825,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1998-03-11T00:00:00",
+            "end": "1998-10-06T00:00:00",
+            "periodid": 83
+        },
+        {
+            "id": 14841,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1998-10-06T00:00:00",
+            "end": "1999-10-05T00:00:00",
+            "periodid": 84
+        },
+        {
+            "id": 14855,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1999-10-05T00:00:00",
+            "end": "2000-10-03T00:00:00",
+            "periodid": 85
+        },
+        {
+            "id": 14872,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2000-10-03T00:00:00",
+            "end": "2001-10-02T00:00:00",
+            "periodid": 86
+        },
+        {
+            "id": 14897,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2001-10-02T00:00:00",
+            "end": "2001-11-20T00:00:00",
+            "periodid": 87
+        },
+        {
+            "id": 14917,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2001-11-20T00:00:00",
+            "end": "2002-10-08T00:00:00",
+            "periodid": 88
+        },
+        {
+            "id": 14931,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2002-10-08T00:00:00",
+            "end": "2003-10-07T00:00:00",
+            "periodid": 18
+        },
+        {
+            "id": 14976,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1953-10-06T00:00:00",
+            "end": "1954-10-05T00:00:00",
+            "periodid": 96
+        },
+        {
+            "id": 15147,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1954-10-05T00:00:00",
+            "end": "1955-10-04T00:00:00",
+            "periodid": 97
+        },
+        {
+            "id": 15162,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1955-10-04T00:00:00",
+            "end": "1956-10-02T00:00:00",
+            "periodid": 98
+        },
+        {
+            "id": 15177,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1956-10-02T00:00:00",
+            "end": "1957-05-14T00:00:00",
+            "periodid": 99
+        },
+        {
+            "id": 15190,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1957-05-14T00:00:00",
+            "end": "1957-10-01T00:00:00",
+            "periodid": 100
+        },
+        {
+            "id": 15231,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1957-10-01T00:00:00",
+            "end": "1958-10-07T00:00:00",
+            "periodid": 101
+        },
+        {
+            "id": 15251,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1958-10-07T00:00:00",
+            "end": "1959-10-06T00:00:00",
+            "periodid": 102
+        },
+        {
+            "id": 15269,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1959-10-06T00:00:00",
+            "end": "1960-10-04T00:00:00",
+            "periodid": 103
+        },
+        {
+            "id": 15290,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1960-10-04T00:00:00",
+            "end": "1960-11-15T00:00:00",
+            "periodid": 104
+        },
+        {
+            "id": 15303,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1960-11-15T00:00:00",
+            "end": "1961-10-03T00:00:00",
+            "periodid": 105
+        },
+        {
+            "id": 15351,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1961-10-03T00:00:00",
+            "end": "1962-10-02T00:00:00",
+            "periodid": 106
+        },
+        {
+            "id": 15372,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1962-10-02T00:00:00",
+            "end": "1963-10-01T00:00:00",
+            "periodid": 36
+        },
+        {
+            "id": 15390,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1963-10-01T00:00:00",
+            "end": "1964-09-22T00:00:00",
+            "periodid": 37
+        },
+        {
+            "id": 15409,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1964-09-22T00:00:00",
+            "end": "1964-10-06T00:00:00",
+            "periodid": 108
+        },
+        {
+            "id": 15452,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1964-10-06T00:00:00",
+            "end": "1965-10-05T00:00:00",
+            "periodid": 38
+        },
+        {
+            "id": 15467,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1965-10-05T00:00:00",
+            "end": "1966-10-04T00:00:00",
+            "periodid": 39
+        },
+        {
+            "id": 15481,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1966-10-04T00:00:00",
+            "end": "1966-11-22T00:00:00",
+            "periodid": 40
+        },
+        {
+            "id": 15498,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1966-11-22T00:00:00",
+            "end": "1967-10-03T00:00:00",
+            "periodid": 41
+        },
+        {
+            "id": 15523,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1967-10-03T00:00:00",
+            "end": "1968-01-23T00:00:00",
+            "periodid": 42
+        },
+        {
+            "id": 15533,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1968-01-23T00:00:00",
+            "end": "1968-10-01T00:00:00",
+            "periodid": 43
+        },
+        {
+            "id": 15557,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1968-10-01T00:00:00",
+            "end": "1969-10-07T00:00:00",
+            "periodid": 44
+        },
+        {
+            "id": 15574,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1969-10-07T00:00:00",
+            "end": "1970-10-06T00:00:00",
+            "periodid": 45
+        },
+        {
+            "id": 15591,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1970-10-06T00:00:00",
+            "end": "1971-09-21T00:00:00",
+            "periodid": 46
+        },
+        {
+            "id": 15609,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1971-09-21T00:00:00",
+            "end": "1971-10-05T00:00:00",
+            "periodid": 47
+        },
+        {
+            "id": 15628,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1971-10-05T00:00:00",
+            "end": "1972-10-03T00:00:00",
+            "periodid": 48
+        },
+        {
+            "id": 15639,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1972-10-03T00:00:00",
+            "end": "1973-10-02T00:00:00",
+            "periodid": 49
+        },
+        {
+            "id": 15649,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1973-10-02T00:00:00",
+            "end": "1973-12-04T00:00:00",
+            "periodid": 50
+        },
+        {
+            "id": 15660,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1973-12-04T00:00:00",
+            "end": "1974-10-01T00:00:00",
+            "periodid": 51
+        },
+        {
+            "id": 15699,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1974-10-01T00:00:00",
+            "end": "1975-01-09T00:00:00",
+            "periodid": 52
+        },
+        {
+            "id": 15721,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "1975-01-09T00:00:00",
+            "end": "1975-10-07T00:00:00",
+            "periodid": 53
+        },
+        {
+            "id": 15746,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2015-06-18T00:00:00",
+            "end": "2015-10-06T00:00:00",
+            "periodid": 138
+        },
+        {
+            "id": 16060,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2015-10-06T00:00:00",
+            "end": "2016-10-04T00:00:00",
+            "periodid": 139
+        },
+        {
+            "id": 16886,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2016-10-04T00:00:00",
+            "end": "2017-10-03T00:00:00",
+            "periodid": 144
+        },
+        {
+            "id": 17605,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2017-10-03T00:00:00",
+            "end": "2018-10-02T00:00:00",
+            "periodid": 146
+        },
+        {
+            "id": 18303,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2018-10-02T00:00:00",
+            "end": "2019-06-05T00:00:00",
+            "periodid": 148
+        },
+        {
+            "id": 18674,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2019-06-05T00:00:00",
+            "end": "2019-10-01T00:00:00",
+            "periodid": 150
+        },
+        {
+            "id": 18856,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2019-10-01T00:00:00",
+            "end": "2020-10-06T00:00:00",
+            "periodid": 151
+        },
+        {
+            "id": 19352,
+            "name": "Folketinget",
+            "short_name": "Folketinget",
+            "start": "2020-10-06T00:00:00",
+            "end": "2021-10-05T00:00:00",
+            "periodid": 153
+        }
+    ],
+    "erd": [
+        {
+            "id": 9026,
+            "name": "Europarådet",
+            "short_name": "erd",
+            "start": "2008-10-07T00:00:00",
+            "end": "2009-10-06T00:00:00",
+            "periodid": null
+        }
+    ]
+}

@@ -83,7 +83,7 @@ def fetch_groups():
     for i in in_dict.keys():
         fetch_group(i, in_dict[i])
     
-
+# fetch_groups()
 def fetch_actors():
     import requests
     import json 
@@ -122,6 +122,7 @@ def fetch_actor_roles():
         f.write(json.dumps(out_dict,indent=4,ensure_ascii=False))
     return out_dict
 
+fetch_actor_roles()
 
 def fetch_actor_relationships():
     import requests
