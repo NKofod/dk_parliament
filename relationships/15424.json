@@ -1,0 +1,169 @@
+{
+    "15424": [
+        {
+            "id": 95074,
+            "from_actor": 15441,
+            "to_actor": 15424,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95453,
+            "from_actor": 15452,
+            "to_actor": 15424,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95478,
+            "from_actor": 15454,
+            "to_actor": 15424,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95820,
+            "from_actor": 15467,
+            "to_actor": 15424,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95847,
+            "from_actor": 15469,
+            "to_actor": 15424,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96377,
+            "from_actor": 15481,
+            "to_actor": 15424,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96405,
+            "from_actor": 15484,
+            "to_actor": 15424,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Erik Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106254,
+            "from_actor": 15424,
+            "to_actor": 15454,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106255,
+            "from_actor": 15424,
+            "to_actor": 15469,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106256,
+            "from_actor": 15424,
+            "to_actor": 15484,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106257,
+            "from_actor": 15424,
+            "to_actor": 15441,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528471,
+            "from_actor": 15424,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528648,
+            "from_actor": 15424,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528832,
+            "from_actor": 15424,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529022,
+            "from_actor": 15424,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Erik Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

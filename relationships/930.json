@@ -1,0 +1,246 @@
+{
+    "930": [
+        {
+            "id": 1880,
+            "from_actor": 289,
+            "to_actor": 930,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 39966,
+            "from_actor": 882,
+            "to_actor": 930,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 44818,
+            "from_actor": 883,
+            "to_actor": 930,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 47742,
+            "from_actor": 2090,
+            "to_actor": 930,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 48012,
+            "from_actor": 562,
+            "to_actor": 930,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 50413,
+            "from_actor": 337,
+            "to_actor": 930,
+            "start": "2013-08-13",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 52461,
+            "from_actor": 312,
+            "to_actor": 930,
+            "start": "2012-10-03",
+            "end": "2013-07-23",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55856,
+            "from_actor": 13701,
+            "to_actor": 930,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 67786,
+            "from_actor": 5156,
+            "to_actor": 930,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 116759,
+            "from_actor": 15920,
+            "to_actor": 930,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Dennis Barndorph Sichlau",
+            "type": "Kommission"
+        },
+        {
+            "id": 30216,
+            "from_actor": 930,
+            "to_actor": 289,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 61799,
+            "from_actor": 930,
+            "to_actor": 13701,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 116149,
+            "from_actor": 930,
+            "to_actor": 5156,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 134346,
+            "from_actor": 930,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 638471,
+            "from_actor": 930,
+            "to_actor": 312,
+            "start": "2012-10-03",
+            "end": "2013-07-23",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2858977,
+            "from_actor": 930,
+            "to_actor": 337,
+            "start": "2013-08-13",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859060,
+            "from_actor": 930,
+            "to_actor": 562,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859119,
+            "from_actor": 930,
+            "to_actor": 882,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859183,
+            "from_actor": 930,
+            "to_actor": 883,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859264,
+            "from_actor": 930,
+            "to_actor": 2090,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 27500737,
+            "from_actor": 930,
+            "to_actor": 19427,
+            "start": "2021-08-23",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500760,
+            "from_actor": 930,
+            "to_actor": 19430,
+            "start": "2021-08-23",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        }
+    ]
+}

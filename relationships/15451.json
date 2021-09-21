@@ -1,0 +1,136 @@
+{
+    "15451": [
+        {
+            "id": 95473,
+            "from_actor": 15452,
+            "to_actor": 15451,
+            "start": "1965-03-01",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Pihl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95603,
+            "from_actor": 15457,
+            "to_actor": 15451,
+            "start": "1965-03-01",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Pihl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95840,
+            "from_actor": 15467,
+            "to_actor": 15451,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Pihl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95971,
+            "from_actor": 15472,
+            "to_actor": 15451,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Pihl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96398,
+            "from_actor": 15481,
+            "to_actor": 15451,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Pihl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96529,
+            "from_actor": 15488,
+            "to_actor": 15451,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Pihl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528668,
+            "from_actor": 15451,
+            "to_actor": 15452,
+            "start": "1965-03-01",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528853,
+            "from_actor": 15451,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529043,
+            "from_actor": 15451,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531359,
+            "from_actor": 15451,
+            "to_actor": 15457,
+            "start": "1965-03-01",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531441,
+            "from_actor": 15451,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531524,
+            "from_actor": 15451,
+            "to_actor": 15488,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Pihl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

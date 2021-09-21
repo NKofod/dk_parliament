@@ -1,0 +1,103 @@
+{
+    "9987": [
+        {
+            "id": 70819,
+            "from_actor": 14338,
+            "to_actor": 9987,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Morten Raunkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71668,
+            "from_actor": 14387,
+            "to_actor": 9987,
+            "start": "1979-03-14",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Morten Raunkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71937,
+            "from_actor": 14415,
+            "to_actor": 9987,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Morten Raunkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72088,
+            "from_actor": 14424,
+            "to_actor": 9987,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Knud Morten Raunkjær",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20819021,
+            "from_actor": 9987,
+            "to_actor": 14392,
+            "start": "1979-03-14",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Morten Raunkjær",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20819022,
+            "from_actor": 9987,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Knud Morten Raunkjær",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20819023,
+            "from_actor": 9987,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Knud Morten Raunkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20819024,
+            "from_actor": 9987,
+            "to_actor": 14387,
+            "start": "1979-03-14",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Morten Raunkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20819025,
+            "from_actor": 9987,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Morten Raunkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

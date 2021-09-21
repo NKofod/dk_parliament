@@ -1,0 +1,158 @@
+{
+    "5148": [
+        {
+            "id": 25978,
+            "from_actor": 976,
+            "to_actor": 5148,
+            "start": "2008-05-18",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32565,
+            "from_actor": 971,
+            "to_actor": 5148,
+            "start": "2008-05-30",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39802,
+            "from_actor": 972,
+            "to_actor": 5148,
+            "start": "2008-05-30",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42806,
+            "from_actor": 973,
+            "to_actor": 5148,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47624,
+            "from_actor": 977,
+            "to_actor": 5148,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47695,
+            "from_actor": 974,
+            "to_actor": 5148,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50425,
+            "from_actor": 975,
+            "to_actor": 5148,
+            "start": "2010-10-05",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36910,
+            "from_actor": 5148,
+            "to_actor": 971,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36911,
+            "from_actor": 5148,
+            "to_actor": 972,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36912,
+            "from_actor": 5148,
+            "to_actor": 973,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36913,
+            "from_actor": 5148,
+            "to_actor": 974,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36914,
+            "from_actor": 5148,
+            "to_actor": 975,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36915,
+            "from_actor": 5148,
+            "to_actor": 976,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36916,
+            "from_actor": 5148,
+            "to_actor": 977,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bente Dalsbæk (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "9911": [
+        {
+            "id": 84309,
+            "from_actor": 14825,
+            "to_actor": 9911,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84526,
+            "from_actor": 14838,
+            "to_actor": 9911,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84907,
+            "from_actor": 14852,
+            "to_actor": 9911,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85281,
+            "from_actor": 14841,
+            "to_actor": 9911,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85533,
+            "from_actor": 14855,
+            "to_actor": 9911,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85818,
+            "from_actor": 14866,
+            "to_actor": 9911,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85978,
+            "from_actor": 14872,
+            "to_actor": 9911,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86754,
+            "from_actor": 14889,
+            "to_actor": 9911,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86908,
+            "from_actor": 14897,
+            "to_actor": 9911,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87141,
+            "from_actor": 14915,
+            "to_actor": 9911,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87670,
+            "from_actor": 14926,
+            "to_actor": 9911,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gyda Kongsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376498,
+            "from_actor": 9911,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376500,
+            "from_actor": 9911,
+            "to_actor": 14915,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376501,
+            "from_actor": 9911,
+            "to_actor": 14852,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376502,
+            "from_actor": 9911,
+            "to_actor": 14866,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376503,
+            "from_actor": 9911,
+            "to_actor": 14838,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376504,
+            "from_actor": 9911,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9376505,
+            "from_actor": 9911,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9376506,
+            "from_actor": 9911,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9376507,
+            "from_actor": 9911,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594750,
+            "from_actor": 9911,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22084143,
+            "from_actor": 9911,
+            "to_actor": 14889,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gyda Kongsted",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

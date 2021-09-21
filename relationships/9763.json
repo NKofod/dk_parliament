@@ -1,0 +1,224 @@
+{
+    "9763": [
+        {
+            "id": 82779,
+            "from_actor": 14778,
+            "to_actor": 9763,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83165,
+            "from_actor": 14789,
+            "to_actor": 9763,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83594,
+            "from_actor": 14800,
+            "to_actor": 9763,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85392,
+            "from_actor": 14841,
+            "to_actor": 9763,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85841,
+            "from_actor": 14855,
+            "to_actor": 9763,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86777,
+            "from_actor": 14872,
+            "to_actor": 9763,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunhild Husum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813912,
+            "from_actor": 9763,
+            "to_actor": 14792,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813913,
+            "from_actor": 9763,
+            "to_actor": 14845,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813914,
+            "from_actor": 9763,
+            "to_actor": 14859,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813915,
+            "from_actor": 9763,
+            "to_actor": 14879,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813916,
+            "from_actor": 9763,
+            "to_actor": 14781,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813917,
+            "from_actor": 9763,
+            "to_actor": 14804,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813918,
+            "from_actor": 9763,
+            "to_actor": 14817,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813919,
+            "from_actor": 9763,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813920,
+            "from_actor": 9763,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813921,
+            "from_actor": 9763,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813922,
+            "from_actor": 9763,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813923,
+            "from_actor": 9763,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813924,
+            "from_actor": 9763,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23813925,
+            "from_actor": 9763,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Husum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

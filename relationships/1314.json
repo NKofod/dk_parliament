@@ -1,0 +1,26 @@
+{
+    "1314": [
+        {
+            "id": 76891,
+            "from_actor": 14617,
+            "to_actor": 1314,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pagels",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132225,
+            "from_actor": 1314,
+            "to_actor": 14627,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Ole Pagels",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

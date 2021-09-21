@@ -1,0 +1,180 @@
+{
+    "15070": [
+        {
+            "id": 88650,
+            "from_actor": 14976,
+            "to_actor": 15070,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Rasting",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88881,
+            "from_actor": 15138,
+            "to_actor": 15070,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "C. Rasting",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89235,
+            "from_actor": 15147,
+            "to_actor": 15070,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Rasting",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89322,
+            "from_actor": 15153,
+            "to_actor": 15070,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "C. Rasting",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89688,
+            "from_actor": 15167,
+            "to_actor": 15070,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "C. Rasting",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89960,
+            "from_actor": 15162,
+            "to_actor": 15070,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Rasting",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90233,
+            "from_actor": 15181,
+            "to_actor": 15070,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "C. Rasting",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90685,
+            "from_actor": 15177,
+            "to_actor": 15070,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Rasting",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105031,
+            "from_actor": 15070,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105032,
+            "from_actor": 15070,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105033,
+            "from_actor": 15070,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588481,
+            "from_actor": 15070,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525991,
+            "from_actor": 15070,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526175,
+            "from_actor": 15070,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526359,
+            "from_actor": 15070,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526540,
+            "from_actor": 15070,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "C. Rasting",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

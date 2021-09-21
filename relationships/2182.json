@@ -1,0 +1,70 @@
+{
+    "2182": [
+        {
+            "id": 17939,
+            "from_actor": 1819,
+            "to_actor": 2182,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Erik Agergård (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19838,
+            "from_actor": 1877,
+            "to_actor": 2182,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Erik Agergård (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23969,
+            "from_actor": 1875,
+            "to_actor": 2182,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Erik Agergård (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17903,
+            "from_actor": 2182,
+            "to_actor": 1819,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Erik Agergård (udpeget af SF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17904,
+            "from_actor": 2182,
+            "to_actor": 1875,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Agergård (udpeget af SF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17905,
+            "from_actor": 2182,
+            "to_actor": 1877,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Agergård (udpeget af SF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        }
+    ]
+}

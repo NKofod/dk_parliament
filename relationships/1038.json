@@ -1,0 +1,59 @@
+{
+    "1038": [
+        {
+            "id": 78568,
+            "from_actor": 14663,
+            "to_actor": 1038,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Stig Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79152,
+            "from_actor": 14690,
+            "to_actor": 1038,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Stig Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132431,
+            "from_actor": 1038,
+            "to_actor": 14671,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Lone Stig Andersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132745,
+            "from_actor": 1038,
+            "to_actor": 14699,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lone Stig Andersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732842,
+            "from_actor": 1038,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Lone Stig Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

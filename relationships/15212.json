@@ -1,0 +1,92 @@
+{
+    "15212": [
+        {
+            "id": 91120,
+            "from_actor": 15190,
+            "to_actor": 15212,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91179,
+            "from_actor": 15224,
+            "to_actor": 15212,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aage Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91485,
+            "from_actor": 15231,
+            "to_actor": 15212,
+            "start": "1957-10-01",
+            "end": "1957-12-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91544,
+            "from_actor": 15240,
+            "to_actor": 15212,
+            "start": "1957-10-01",
+            "end": "1957-12-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aage Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 122171,
+            "from_actor": 15212,
+            "to_actor": 15224,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Aage Petersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 122172,
+            "from_actor": 15212,
+            "to_actor": 15240,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Aage Petersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526787,
+            "from_actor": 15212,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Aage Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526977,
+            "from_actor": 15212,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1957-12-06",
+            "role": "medlem",
+            "from_actor_name": "Aage Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "1858": [
+        {
+            "id": 16049,
+            "from_actor": 713,
+            "to_actor": 1858,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Jesper Schaumburg-Müller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24345,
+            "from_actor": 715,
+            "to_actor": 1858,
+            "start": "2006-01-30",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Jesper Schaumburg-Müller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24400,
+            "from_actor": 1062,
+            "to_actor": 1858,
+            "start": "2006-01-30",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Jesper Schaumburg-Müller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27785,
+            "from_actor": 754,
+            "to_actor": 1858,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Jesper Schaumburg-Müller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13972,
+            "from_actor": 1858,
+            "to_actor": 715,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jesper Schaumburg-Müller",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13973,
+            "from_actor": 1858,
+            "to_actor": 1062,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jesper Schaumburg-Müller",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3368793,
+            "from_actor": 1858,
+            "to_actor": 713,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jesper Schaumburg-Müller",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3386625,
+            "from_actor": 1858,
+            "to_actor": 754,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jesper Schaumburg-Müller",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

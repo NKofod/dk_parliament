@@ -1,0 +1,70 @@
+{
+    "1957": [
+        {
+            "id": 15515,
+            "from_actor": 1041,
+            "to_actor": 1957,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Britt Scherfig",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16164,
+            "from_actor": 516,
+            "to_actor": 1957,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Britt Scherfig",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24525,
+            "from_actor": 519,
+            "to_actor": 1957,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Britt Scherfig",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18140,
+            "from_actor": 1957,
+            "to_actor": 1041,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Britt Scherfig",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18142,
+            "from_actor": 1957,
+            "to_actor": 519,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Britt Scherfig",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3368903,
+            "from_actor": 1957,
+            "to_actor": 516,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Britt Scherfig",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        }
+    ]
+}

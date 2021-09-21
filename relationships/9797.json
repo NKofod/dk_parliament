@@ -1,0 +1,103 @@
+{
+    "9797": [
+        {
+            "id": 79143,
+            "from_actor": 14690,
+            "to_actor": 9797,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gerda Thymann Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79374,
+            "from_actor": 14704,
+            "to_actor": 9797,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gerda Thymann Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79422,
+            "from_actor": 14707,
+            "to_actor": 9797,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Gerda Thymann Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81885,
+            "from_actor": 14754,
+            "to_actor": 9797,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gerda Thymann Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79375,
+            "from_actor": 9797,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Gerda Thymann Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79376,
+            "from_actor": 9797,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Gerda Thymann Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132644,
+            "from_actor": 9797,
+            "to_actor": 14694,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gerda Thymann Pedersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4733005,
+            "from_actor": 9797,
+            "to_actor": 14707,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Gerda Thymann Pedersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24198617,
+            "from_actor": 9797,
+            "to_actor": 14756,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Gerda Thymann Pedersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "6159": [
+        {
+            "id": 30007,
+            "from_actor": 1099,
+            "to_actor": 6159,
+            "start": "2006-10-15",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Christel Schaldemose",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 85390,
+            "from_actor": 14841,
+            "to_actor": 6159,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christel Schaldemose",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772705,
+            "from_actor": 6159,
+            "to_actor": 1099,
+            "start": "2006-10-15",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Christel Schaldemose",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 22772706,
+            "from_actor": 6159,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christel Schaldemose",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772707,
+            "from_actor": 6159,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Christel Schaldemose",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

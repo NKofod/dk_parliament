@@ -1,0 +1,92 @@
+{
+    "1346": [
+        {
+            "id": 98854,
+            "from_actor": 15557,
+            "to_actor": 1346,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Munch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99226,
+            "from_actor": 15581,
+            "to_actor": 1346,
+            "start": "1970-03-30",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Munch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99281,
+            "from_actor": 15574,
+            "to_actor": 1346,
+            "start": "1970-03-30",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Munch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99471,
+            "from_actor": 15591,
+            "to_actor": 1346,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Munch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126494,
+            "from_actor": 15564,
+            "to_actor": 1346,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Munch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677227,
+            "from_actor": 1346,
+            "to_actor": 15564,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ove Munch",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529808,
+            "from_actor": 1346,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Ove Munch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529986,
+            "from_actor": 1346,
+            "to_actor": 15574,
+            "start": "1970-03-30",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ove Munch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

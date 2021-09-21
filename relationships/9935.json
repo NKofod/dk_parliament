@@ -1,0 +1,48 @@
+{
+    "9935": [
+        {
+            "id": 101862,
+            "from_actor": 15649,
+            "to_actor": 9935,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Hastrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127062,
+            "from_actor": 15650,
+            "to_actor": 9935,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Elisabeth Hastrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21367935,
+            "from_actor": 9935,
+            "to_actor": 15650,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Hastrup",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21367936,
+            "from_actor": 9935,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Hastrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

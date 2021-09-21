@@ -1,0 +1,26 @@
+{
+    "919": [
+        {
+            "id": 74732,
+            "from_actor": 14546,
+            "to_actor": 919,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131242,
+            "from_actor": 919,
+            "to_actor": 14562,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Lise Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

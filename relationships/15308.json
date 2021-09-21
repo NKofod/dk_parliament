@@ -1,0 +1,125 @@
+{
+    "15308": [
+        {
+            "id": 93100,
+            "from_actor": 15303,
+            "to_actor": 15308,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Bertelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93326,
+            "from_actor": 15347,
+            "to_actor": 15308,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Arne Bertelsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93465,
+            "from_actor": 15351,
+            "to_actor": 15308,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Bertelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93515,
+            "from_actor": 15353,
+            "to_actor": 15308,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Arne Bertelsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93904,
+            "from_actor": 15374,
+            "to_actor": 15308,
+            "start": "1962-10-02",
+            "end": "1962-11-01",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Arne Bertelsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104268,
+            "from_actor": 15308,
+            "to_actor": 15347,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104269,
+            "from_actor": 15308,
+            "to_actor": 15353,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4658880,
+            "from_actor": 15308,
+            "to_actor": 15374,
+            "start": "1962-10-02",
+            "end": "1962-11-01",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527673,
+            "from_actor": 15308,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527854,
+            "from_actor": 15308,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528099,
+            "from_actor": 15308,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1962-11-01",
+            "role": "medlem",
+            "from_actor_name": "Arne Bertelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

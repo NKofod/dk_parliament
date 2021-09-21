@@ -1,0 +1,26 @@
+{
+    "10024": [
+        {
+            "id": 81475,
+            "from_actor": 14742,
+            "to_actor": 10024,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Thors",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4750721,
+            "from_actor": 10024,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thomas Thors",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

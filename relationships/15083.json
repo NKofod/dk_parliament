@@ -1,0 +1,301 @@
+{
+    "15083": [
+        {
+            "id": 88665,
+            "from_actor": 14976,
+            "to_actor": 15083,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88887,
+            "from_actor": 15138,
+            "to_actor": 15083,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89250,
+            "from_actor": 15147,
+            "to_actor": 15083,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89328,
+            "from_actor": 15153,
+            "to_actor": 15083,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89694,
+            "from_actor": 15167,
+            "to_actor": 15083,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89975,
+            "from_actor": 15162,
+            "to_actor": 15083,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90239,
+            "from_actor": 15181,
+            "to_actor": 15083,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90699,
+            "from_actor": 15177,
+            "to_actor": 15083,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91045,
+            "from_actor": 15190,
+            "to_actor": 15083,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91158,
+            "from_actor": 15224,
+            "to_actor": 15083,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91418,
+            "from_actor": 15231,
+            "to_actor": 15083,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91523,
+            "from_actor": 15240,
+            "to_actor": 15083,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91792,
+            "from_actor": 15251,
+            "to_actor": 15083,
+            "start": "1958-10-07",
+            "end": "1959-02-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Flemming Hvidberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 106322,
+            "from_actor": 15083,
+            "to_actor": 15261,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106323,
+            "from_actor": 15083,
+            "to_actor": 15224,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106324,
+            "from_actor": 15083,
+            "to_actor": 15240,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106325,
+            "from_actor": 15083,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106326,
+            "from_actor": 15083,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106327,
+            "from_actor": 15083,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588487,
+            "from_actor": 15083,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526006,
+            "from_actor": 15083,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526190,
+            "from_actor": 15083,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526374,
+            "from_actor": 15083,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526554,
+            "from_actor": 15083,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526720,
+            "from_actor": 15083,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526898,
+            "from_actor": 15083,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527165,
+            "from_actor": 15083,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-02-21",
+            "role": "medlem",
+            "from_actor_name": "Flemming Hvidberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

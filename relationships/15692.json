@@ -1,0 +1,59 @@
+{
+    "15692": [
+        {
+            "id": 103642,
+            "from_actor": 15721,
+            "to_actor": 15692,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Moe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127104,
+            "from_actor": 15688,
+            "to_actor": 15692,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Moe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128080,
+            "from_actor": 15706,
+            "to_actor": 15692,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Moe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125517,
+            "from_actor": 15692,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Moe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235340,
+            "from_actor": 15692,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Moe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

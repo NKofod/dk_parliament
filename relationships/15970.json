@@ -1,0 +1,37 @@
+{
+    "15970": [
+        {
+            "id": 127412,
+            "from_actor": 15877,
+            "to_actor": 15970,
+            "start": "2015-09-17",
+            "end": "2016-03-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Jasmin Skotte Lundin",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423127,
+            "from_actor": 15970,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2016-03-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Jasmin Skotte Lundin",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423128,
+            "from_actor": 15970,
+            "to_actor": 15877,
+            "start": "2015-09-17",
+            "end": "2016-03-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Jasmin Skotte Lundin",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "17846": [
+        {
+            "id": 26674362,
+            "from_actor": 17846,
+            "to_actor": 19371,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27343274,
+            "from_actor": 17846,
+            "to_actor": 19689,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

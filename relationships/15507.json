@@ -1,0 +1,48 @@
+{
+    "15507": [
+        {
+            "id": 97079,
+            "from_actor": 15517,
+            "to_actor": 15507,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Kai Ibsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102199,
+            "from_actor": 15498,
+            "to_actor": 15507,
+            "start": "1966-11-22",
+            "end": "1967-02-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Ibsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4677015,
+            "from_actor": 15507,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-02-07",
+            "role": "medlem",
+            "from_actor_name": "Kai Ibsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529235,
+            "from_actor": 15507,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-02-07",
+            "role": "medlem",
+            "from_actor_name": "Kai Ibsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

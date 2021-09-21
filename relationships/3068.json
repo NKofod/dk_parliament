@@ -1,0 +1,169 @@
+{
+    "3068": [
+        {
+            "id": 19076,
+            "from_actor": 737,
+            "to_actor": 3068,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24904,
+            "from_actor": 1151,
+            "to_actor": 3068,
+            "start": "2005-10-24",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25061,
+            "from_actor": 738,
+            "to_actor": 3068,
+            "start": "2005-10-05",
+            "end": "2006-04-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27854,
+            "from_actor": 1155,
+            "to_actor": 3068,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Det Energipolitiske Udvalg",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28439,
+            "from_actor": 628,
+            "to_actor": 3068,
+            "start": "2006-10-04",
+            "end": "2006-12-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30103,
+            "from_actor": 604,
+            "to_actor": 3068,
+            "start": "2007-01-03",
+            "end": "2007-05-30",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795,
+            "from_actor": 605,
+            "to_actor": 3068,
+            "start": "2007-01-03",
+            "end": "2007-05-30",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Kommission"
+        },
+        {
+            "id": 36170,
+            "from_actor": 619,
+            "to_actor": 3068,
+            "start": "2007-03-13",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Rikke Seerup Bendixen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18415,
+            "from_actor": 3068,
+            "to_actor": 1155,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18416,
+            "from_actor": 3068,
+            "to_actor": 619,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18418,
+            "from_actor": 3068,
+            "to_actor": 738,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18419,
+            "from_actor": 3068,
+            "to_actor": 1151,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18420,
+            "from_actor": 3068,
+            "to_actor": 628,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 199907,
+            "from_actor": 3068,
+            "to_actor": 737,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6312318,
+            "from_actor": 3068,
+            "to_actor": 604,
+            "start": "2007-01-03",
+            "end": "2007-05-30",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rikke Seerup Bendixen",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        }
+    ]
+}

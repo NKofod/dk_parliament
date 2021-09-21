@@ -1,0 +1,59 @@
+{
+    "2093": [
+        {
+            "id": 17105,
+            "from_actor": 1428,
+            "to_actor": 2093,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Knud Johnsen (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23835,
+            "from_actor": 1430,
+            "to_actor": 2093,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Knud Johnsen (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17079,
+            "from_actor": 2093,
+            "to_actor": 1428,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Johnsen (Udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17080,
+            "from_actor": 2093,
+            "to_actor": 1429,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Johnsen (Udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17081,
+            "from_actor": 2093,
+            "to_actor": 1430,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Johnsen (Udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

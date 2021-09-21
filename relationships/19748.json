@@ -1,0 +1,81 @@
+{
+    "19748": [
+        {
+            "id": 27264669,
+            "from_actor": 19748,
+            "to_actor": 19389,
+            "start": "2021-05-20",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264670,
+            "from_actor": 19748,
+            "to_actor": 19390,
+            "start": "2021-05-20",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27369308,
+            "from_actor": 19748,
+            "to_actor": 19404,
+            "start": "2021-06-24",
+            "end": "2021-06-24",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27395094,
+            "from_actor": 19748,
+            "to_actor": 19359,
+            "start": "2021-05-20",
+            "end": "2021-07-31",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27448089,
+            "from_actor": 19748,
+            "to_actor": 19387,
+            "start": "2021-06-08",
+            "end": "2021-06-08",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500236,
+            "from_actor": 19748,
+            "to_actor": 19352,
+            "start": "2021-05-20",
+            "end": "2021-07-31",
+            "role": "medlem",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27500733,
+            "from_actor": 19748,
+            "to_actor": 19427,
+            "start": "2021-05-20",
+            "end": "2021-08-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Stine Pilt Olsen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        }
+    ]
+}

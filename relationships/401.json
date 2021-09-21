@@ -1,0 +1,70 @@
+{
+    "401": [
+        {
+            "id": 5873,
+            "from_actor": 41,
+            "to_actor": 401,
+            "start": "2013-10-02",
+            "end": "2014-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Mikkel Rimsø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48444,
+            "from_actor": 546,
+            "to_actor": 401,
+            "start": "2012-09-24",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Mikkel Rimsø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51965,
+            "from_actor": 329,
+            "to_actor": 401,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Mikkel Rimsø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46336,
+            "from_actor": 401,
+            "to_actor": 546,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Rimsø Sørensen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46337,
+            "from_actor": 401,
+            "to_actor": 329,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Rimsø Sørensen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 315607,
+            "from_actor": 401,
+            "to_actor": 41,
+            "start": "2013-10-02",
+            "end": "2014-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Rimsø Sørensen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "15110": [
+        {
+            "id": 88696,
+            "from_actor": 14976,
+            "to_actor": 15110,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88765,
+            "from_actor": 15134,
+            "to_actor": 15110,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89277,
+            "from_actor": 15147,
+            "to_actor": 15110,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89407,
+            "from_actor": 15156,
+            "to_actor": 15110,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89773,
+            "from_actor": 15170,
+            "to_actor": 15110,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90002,
+            "from_actor": 15162,
+            "to_actor": 15110,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90319,
+            "from_actor": 15184,
+            "to_actor": 15110,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90726,
+            "from_actor": 15177,
+            "to_actor": 15110,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526035,
+            "from_actor": 15110,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526217,
+            "from_actor": 15110,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526401,
+            "from_actor": 15110,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526581,
+            "from_actor": 15110,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530249,
+            "from_actor": 15110,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530326,
+            "from_actor": 15110,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530403,
+            "from_actor": 15110,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530480,
+            "from_actor": 15110,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Ove Kjældgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

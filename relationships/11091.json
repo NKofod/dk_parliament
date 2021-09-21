@@ -1,0 +1,48 @@
+{
+    "11091": [
+        {
+            "id": 46867,
+            "from_actor": 10675,
+            "to_actor": 11091,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Basharat Tariq",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48207,
+            "from_actor": 410,
+            "to_actor": 11091,
+            "start": "2011-10-07",
+            "end": "2012-02-26",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Basharat Tariq",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42397,
+            "from_actor": 11091,
+            "to_actor": 410,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Basharat Tariq",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42398,
+            "from_actor": 11091,
+            "to_actor": 10675,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Basharat Tariq",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

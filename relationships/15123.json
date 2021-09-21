@@ -1,0 +1,257 @@
+{
+    "15123": [
+        {
+            "id": 88708,
+            "from_actor": 14976,
+            "to_actor": 15123,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88841,
+            "from_actor": 15137,
+            "to_actor": 15123,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89288,
+            "from_actor": 15147,
+            "to_actor": 15123,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89451,
+            "from_actor": 15158,
+            "to_actor": 15123,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89814,
+            "from_actor": 15172,
+            "to_actor": 15123,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90013,
+            "from_actor": 15162,
+            "to_actor": 15123,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90541,
+            "from_actor": 15186,
+            "to_actor": 15123,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90737,
+            "from_actor": 15177,
+            "to_actor": 15123,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91075,
+            "from_actor": 15190,
+            "to_actor": 15123,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91273,
+            "from_actor": 15229,
+            "to_actor": 15123,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91448,
+            "from_actor": 15231,
+            "to_actor": 15123,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91643,
+            "from_actor": 15246,
+            "to_actor": 15123,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91822,
+            "from_actor": 15251,
+            "to_actor": 15123,
+            "start": "1958-10-07",
+            "end": "1959-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Fr. Heick",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92016,
+            "from_actor": 15267,
+            "to_actor": 15123,
+            "start": "1958-10-07",
+            "end": "1959-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Fr. Heick",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106336,
+            "from_actor": 15123,
+            "to_actor": 15229,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106337,
+            "from_actor": 15123,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526046,
+            "from_actor": 15123,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526228,
+            "from_actor": 15123,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526412,
+            "from_actor": 15123,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526592,
+            "from_actor": 15123,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526750,
+            "from_actor": 15123,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526928,
+            "from_actor": 15123,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527167,
+            "from_actor": 15123,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fr. Heick",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

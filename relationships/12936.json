@@ -1,0 +1,92 @@
+{
+    "12936": [
+        {
+            "id": 11978,
+            "from_actor": 13652,
+            "to_actor": 12936,
+            "start": "2014-07-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 49943,
+            "from_actor": 585,
+            "to_actor": 12936,
+            "start": "2013-01-22",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53368,
+            "from_actor": 586,
+            "to_actor": 12936,
+            "start": "2013-01-22",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 52573,
+            "from_actor": 12936,
+            "to_actor": 586,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 52574,
+            "from_actor": 12936,
+            "to_actor": 585,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 63458,
+            "from_actor": 12936,
+            "to_actor": 13652,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 10304336,
+            "from_actor": 12936,
+            "to_actor": 15865,
+            "start": "2017-03-01",
+            "end": "2021-02-28",
+            "role": "medlem",
+            "from_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 27574433,
+            "from_actor": 12936,
+            "to_actor": 18286,
+            "start": "2018-09-06",
+            "end": "2022-09-05",
+            "role": "medlem",
+            "from_actor_name": "Rolf Aagaard-Svendsen (udpeget af KF)",
+            "to_actor_name": "Bestyrelsen for Dansk Institut for Partier og Demokrati (DIPD)",
+            "type": "Kommission"
+        }
+    ]
+}

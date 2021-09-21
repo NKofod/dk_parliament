@@ -1,0 +1,59 @@
+{
+    "17827": [
+        {
+            "id": 10584211,
+            "from_actor": 17827,
+            "to_actor": 17654,
+            "start": "2018-02-19",
+            "end": "2018-02-23",
+            "role": "medlem",
+            "from_actor_name": "Tina Boel",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606503,
+            "from_actor": 17827,
+            "to_actor": 17613,
+            "start": "2018-02-19",
+            "end": "2018-02-25",
+            "role": "medlem",
+            "from_actor_name": "Tina Boel",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10779121,
+            "from_actor": 17827,
+            "to_actor": 17646,
+            "start": "2018-02-19",
+            "end": "2018-02-23",
+            "role": "medlem",
+            "from_actor_name": "Tina Boel",
+            "to_actor_name": "Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10950339,
+            "from_actor": 17827,
+            "to_actor": 17633,
+            "start": "2018-02-19",
+            "end": "2018-02-23",
+            "role": "medlem",
+            "from_actor_name": "Tina Boel",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20570228,
+            "from_actor": 17827,
+            "to_actor": 17605,
+            "start": "2018-02-19",
+            "end": "2018-02-25",
+            "role": "medlem",
+            "from_actor_name": "Tina Boel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

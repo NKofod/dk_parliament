@@ -1,0 +1,279 @@
+{
+    "305": [
+        {
+            "id": 236,
+            "from_actor": 6,
+            "to_actor": 305,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 923,
+            "from_actor": 170,
+            "to_actor": 305,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3669,
+            "from_actor": 20,
+            "to_actor": 305,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5917,
+            "from_actor": 15,
+            "to_actor": 305,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53283,
+            "from_actor": 560,
+            "to_actor": 305,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 53899,
+            "from_actor": 13638,
+            "to_actor": 305,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 55513,
+            "from_actor": 5136,
+            "to_actor": 305,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56722,
+            "from_actor": 60,
+            "to_actor": 305,
+            "start": "2014-08-13",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64373,
+            "from_actor": 5170,
+            "to_actor": 305,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65097,
+            "from_actor": 13635,
+            "to_actor": 305,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 68011,
+            "from_actor": 5160,
+            "to_actor": 305,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 74740,
+            "from_actor": 13708,
+            "to_actor": 305,
+            "start": "2015-04-07",
+            "end": "2015-04-07",
+            "role": "medlem",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Jens Ejner Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56739,
+            "from_actor": 305,
+            "to_actor": 5167,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56740,
+            "from_actor": 305,
+            "to_actor": 5170,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56742,
+            "from_actor": 305,
+            "to_actor": 5136,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56743,
+            "from_actor": 305,
+            "to_actor": 560,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 56744,
+            "from_actor": 305,
+            "to_actor": 13638,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 56745,
+            "from_actor": 305,
+            "to_actor": 15,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56746,
+            "from_actor": 305,
+            "to_actor": 60,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56747,
+            "from_actor": 305,
+            "to_actor": 170,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56748,
+            "from_actor": 305,
+            "to_actor": 20,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 312280,
+            "from_actor": 305,
+            "to_actor": 6,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 313211,
+            "from_actor": 305,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 316005,
+            "from_actor": 305,
+            "to_actor": 13708,
+            "start": "2015-04-07",
+            "end": "2015-04-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5657760,
+            "from_actor": 305,
+            "to_actor": 5160,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Ejner Christensen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

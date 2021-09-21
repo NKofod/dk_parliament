@@ -1,0 +1,103 @@
+{
+    "14967": [
+        {
+            "id": 88520,
+            "from_actor": 14976,
+            "to_actor": 14967,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Hedtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88794,
+            "from_actor": 15134,
+            "to_actor": 14967,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Hedtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89130,
+            "from_actor": 15147,
+            "to_actor": 14967,
+            "start": "1954-10-05",
+            "end": "1955-01-29",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Hedtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89433,
+            "from_actor": 15156,
+            "to_actor": 14967,
+            "start": "1954-10-05",
+            "end": "1955-01-29",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Hedtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525886,
+            "from_actor": 14967,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Hedtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526243,
+            "from_actor": 14967,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-01-29",
+            "role": "medlem",
+            "from_actor_name": "Hans Hedtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530277,
+            "from_actor": 14967,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Hedtoft",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530358,
+            "from_actor": 14967,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-01-29",
+            "role": "medlem",
+            "from_actor_name": "Hans Hedtoft",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21630119,
+            "from_actor": 14967,
+            "to_actor": 142,
+            "start": "1953-09-30",
+            "end": "1955-01-29",
+            "role": "Minister",
+            "from_actor_name": "Hans Hedtoft",
+            "to_actor_name": "statsministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

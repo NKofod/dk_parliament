@@ -1,0 +1,59 @@
+{
+    "9875": [
+        {
+            "id": 78760,
+            "from_actor": 14676,
+            "to_actor": 9875,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Aage Kofoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26290319,
+            "from_actor": 9875,
+            "to_actor": 14680,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Aage Kofoed",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26290320,
+            "from_actor": 9875,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Aage Kofoed",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26290321,
+            "from_actor": 9875,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Aage Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26290322,
+            "from_actor": 9875,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Aage Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

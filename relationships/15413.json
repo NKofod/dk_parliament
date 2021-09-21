@@ -1,0 +1,268 @@
+{
+    "15413": [
+        {
+            "id": 95428,
+            "from_actor": 15452,
+            "to_actor": 15413,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95649,
+            "from_actor": 15461,
+            "to_actor": 15413,
+            "start": "1964-10-06",
+            "end": "1965-03-26",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95655,
+            "from_actor": 15462,
+            "to_actor": 15413,
+            "start": "1965-03-26",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Børge Diderichsen",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95795,
+            "from_actor": 15467,
+            "to_actor": 15413,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96022,
+            "from_actor": 15477,
+            "to_actor": 15413,
+            "start": "1965-10-10",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96352,
+            "from_actor": 15481,
+            "to_actor": 15413,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96452,
+            "from_actor": 15487,
+            "to_actor": 15413,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96970,
+            "from_actor": 15498,
+            "to_actor": 15413,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97063,
+            "from_actor": 15515,
+            "to_actor": 15413,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97230,
+            "from_actor": 15523,
+            "to_actor": 15413,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97352,
+            "from_actor": 15526,
+            "to_actor": 15413,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103680,
+            "from_actor": 15449,
+            "to_actor": 15413,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104912,
+            "from_actor": 15413,
+            "to_actor": 15462,
+            "start": "1965-03-26",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Uden for folketingsgrupperne - Børge Diderichsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104913,
+            "from_actor": 15413,
+            "to_actor": 15477,
+            "start": "1965-10-10",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104914,
+            "from_actor": 15413,
+            "to_actor": 15487,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104915,
+            "from_actor": 15413,
+            "to_actor": 15515,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104916,
+            "from_actor": 15413,
+            "to_actor": 15526,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104917,
+            "from_actor": 15413,
+            "to_actor": 15449,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528446,
+            "from_actor": 15413,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528623,
+            "from_actor": 15413,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528807,
+            "from_actor": 15413,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528997,
+            "from_actor": 15413,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529161,
+            "from_actor": 15413,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529348,
+            "from_actor": 15413,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Børge Diderichsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

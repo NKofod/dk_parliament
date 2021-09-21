@@ -1,0 +1,70 @@
+{
+    "10077": [
+        {
+            "id": 78756,
+            "from_actor": 14676,
+            "to_actor": 10077,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Lise Vesterby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79135,
+            "from_actor": 14690,
+            "to_actor": 10077,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Lise Vesterby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79576,
+            "from_actor": 14704,
+            "to_actor": 10077,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Lise Vesterby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132919,
+            "from_actor": 10077,
+            "to_actor": 14716,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Anna Lise Vesterby",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732909,
+            "from_actor": 10077,
+            "to_actor": 14688,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anna Lise Vesterby",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4875219,
+            "from_actor": 10077,
+            "to_actor": 14702,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anna Lise Vesterby",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

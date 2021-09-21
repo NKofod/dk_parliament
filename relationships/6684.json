@@ -1,0 +1,268 @@
+{
+    "6684": [
+        {
+            "id": 31054,
+            "from_actor": 428,
+            "to_actor": 6684,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31648,
+            "from_actor": 707,
+            "to_actor": 6684,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31725,
+            "from_actor": 1481,
+            "to_actor": 6684,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Tjóðveldisflokkurin",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 34890,
+            "from_actor": 1242,
+            "to_actor": 6684,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35169,
+            "from_actor": 622,
+            "to_actor": 6684,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37684,
+            "from_actor": 232,
+            "to_actor": 6684,
+            "start": "2008-10-07",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 38251,
+            "from_actor": 1839,
+            "to_actor": 6684,
+            "start": "2008-10-07",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Tjóðveldisflokkurin",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 38700,
+            "from_actor": 233,
+            "to_actor": 6684,
+            "start": "2008-10-08",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39105,
+            "from_actor": 717,
+            "to_actor": 6684,
+            "start": "2008-10-08",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39365,
+            "from_actor": 237,
+            "to_actor": 6684,
+            "start": "2008-10-08",
+            "end": "2008-10-22",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Kommission"
+        },
+        {
+            "id": 39366,
+            "from_actor": 237,
+            "to_actor": 6684,
+            "start": "2008-10-24",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Kommission"
+        },
+        {
+            "id": 39439,
+            "from_actor": 881,
+            "to_actor": 6684,
+            "start": "2008-10-08",
+            "end": "2008-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Annita á Fríðriksmørk",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803362,
+            "from_actor": 6684,
+            "to_actor": 1481,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Tjóðveldisflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803363,
+            "from_actor": 6684,
+            "to_actor": 1839,
+            "start": "2008-10-07",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Tjóðveldisflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803364,
+            "from_actor": 6684,
+            "to_actor": 428,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22803365,
+            "from_actor": 6684,
+            "to_actor": 622,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803366,
+            "from_actor": 6684,
+            "to_actor": 233,
+            "start": "2008-10-08",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803367,
+            "from_actor": 6684,
+            "to_actor": 717,
+            "start": "2008-10-08",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803368,
+            "from_actor": 6684,
+            "to_actor": 237,
+            "start": "2008-10-24",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803369,
+            "from_actor": 6684,
+            "to_actor": 237,
+            "start": "2008-10-08",
+            "end": "2008-10-22",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803371,
+            "from_actor": 6684,
+            "to_actor": 1242,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803372,
+            "from_actor": 6684,
+            "to_actor": 707,
+            "start": "2008-09-09",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803373,
+            "from_actor": 6684,
+            "to_actor": 881,
+            "start": "2008-10-08",
+            "end": "2008-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24070703,
+            "from_actor": 6684,
+            "to_actor": 232,
+            "start": "2008-10-07",
+            "end": "2008-10-24",
+            "role": "medlem",
+            "from_actor_name": "Annita á Fríðriksmørk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "10275": [
+        {
+            "id": 74731,
+            "from_actor": 14546,
+            "to_actor": 10275,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176873,
+            "from_actor": 10275,
+            "to_actor": 14562,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176874,
+            "from_actor": 10275,
+            "to_actor": 14541,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176875,
+            "from_actor": 10275,
+            "to_actor": 14594,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176876,
+            "from_actor": 10275,
+            "to_actor": 14579,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176877,
+            "from_actor": 10275,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176878,
+            "from_actor": 10275,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176879,
+            "from_actor": 10275,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176880,
+            "from_actor": 10275,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

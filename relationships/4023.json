@@ -1,0 +1,136 @@
+{
+    "4023": [
+        {
+            "id": 25131,
+            "from_actor": 588,
+            "to_actor": 4023,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25372,
+            "from_actor": 833,
+            "to_actor": 4023,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29123,
+            "from_actor": 1015,
+            "to_actor": 4023,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29638,
+            "from_actor": 899,
+            "to_actor": 4023,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30360,
+            "from_actor": 1010,
+            "to_actor": 4023,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36734,
+            "from_actor": 1009,
+            "to_actor": 4023,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Anna de Klauman",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29252,
+            "from_actor": 4023,
+            "to_actor": 1009,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29253,
+            "from_actor": 4023,
+            "to_actor": 1010,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29254,
+            "from_actor": 4023,
+            "to_actor": 833,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255,
+            "from_actor": 4023,
+            "to_actor": 899,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29256,
+            "from_actor": 4023,
+            "to_actor": 1015,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29257,
+            "from_actor": 4023,
+            "to_actor": 588,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Anna de Klauman",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "10068": [
+        {
+            "id": 82778,
+            "from_actor": 14778,
+            "to_actor": 10068,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Rudaizky",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133719,
+            "from_actor": 10068,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Finn Rudaizky",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

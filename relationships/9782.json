@@ -1,0 +1,26 @@
+{
+    "9782": [
+        {
+            "id": 88072,
+            "from_actor": 14931,
+            "to_actor": 9782,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Sejr",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892809,
+            "from_actor": 9782,
+            "to_actor": 14934,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kim Sejr",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "10130": [
+        {
+            "id": 81463,
+            "from_actor": 14742,
+            "to_actor": 10130,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81864,
+            "from_actor": 14754,
+            "to_actor": 10130,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82214,
+            "from_actor": 14764,
+            "to_actor": 10130,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82333,
+            "from_actor": 14770,
+            "to_actor": 10130,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82562,
+            "from_actor": 14778,
+            "to_actor": 10130,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82707,
+            "from_actor": 14784,
+            "to_actor": 10130,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82942,
+            "from_actor": 14789,
+            "to_actor": 10130,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83088,
+            "from_actor": 14795,
+            "to_actor": 10130,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83368,
+            "from_actor": 14800,
+            "to_actor": 10130,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83518,
+            "from_actor": 14807,
+            "to_actor": 10130,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83762,
+            "from_actor": 14811,
+            "to_actor": 10130,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83912,
+            "from_actor": 14820,
+            "to_actor": 10130,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85409,
+            "from_actor": 14841,
+            "to_actor": 10130,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86790,
+            "from_actor": 14872,
+            "to_actor": 10130,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87159,
+            "from_actor": 14897,
+            "to_actor": 10130,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Nørgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133535,
+            "from_actor": 10130,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133707,
+            "from_actor": 10130,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133851,
+            "from_actor": 10130,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134144,
+            "from_actor": 10130,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134321,
+            "from_actor": 10130,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588454,
+            "from_actor": 10130,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4750715,
+            "from_actor": 10130,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893249,
+            "from_actor": 10130,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frederik Nørgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

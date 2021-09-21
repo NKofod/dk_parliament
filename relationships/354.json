@@ -1,0 +1,114 @@
+{
+    "354": [
+        {
+            "id": 5323,
+            "from_actor": 325,
+            "to_actor": 354,
+            "start": "2013-04-29",
+            "end": "2013-07-08",
+            "role": "medlem",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Mette Boye",
+            "type": "Udvalg"
+        },
+        {
+            "id": 50153,
+            "from_actor": 342,
+            "to_actor": 354,
+            "start": "2013-04-30",
+            "end": "2013-06-30",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mette Boye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 51395,
+            "from_actor": 324,
+            "to_actor": 354,
+            "start": "2013-04-30",
+            "end": "2013-06-30",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mette Boye",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51788,
+            "from_actor": 311,
+            "to_actor": 354,
+            "start": "2013-04-29",
+            "end": "2013-08-27",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Mette Boye",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52087,
+            "from_actor": 1318,
+            "to_actor": 354,
+            "start": "2013-04-30",
+            "end": "2013-06-30",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Mette Boye",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52582,
+            "from_actor": 354,
+            "to_actor": 1318,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mette Boye",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52583,
+            "from_actor": 354,
+            "to_actor": 325,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mette Boye",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52584,
+            "from_actor": 354,
+            "to_actor": 311,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mette Boye",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52585,
+            "from_actor": 354,
+            "to_actor": 324,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mette Boye",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1675461,
+            "from_actor": 354,
+            "to_actor": 342,
+            "start": "2013-04-30",
+            "end": "2013-06-30",
+            "role": "medlem",
+            "from_actor_name": "Mette Boye",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "9824": [
+        {
+            "id": 78759,
+            "from_actor": 14676,
+            "to_actor": 9824,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hannah Kain",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79144,
+            "from_actor": 14690,
+            "to_actor": 9824,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hannah Kain",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732906,
+            "from_actor": 9824,
+            "to_actor": 14688,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hannah Kain",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4875217,
+            "from_actor": 9824,
+            "to_actor": 14702,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hannah Kain",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

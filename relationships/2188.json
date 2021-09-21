@@ -1,0 +1,70 @@
+{
+    "2188": [
+        {
+            "id": 17945,
+            "from_actor": 1372,
+            "to_actor": 2188,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19828,
+            "from_actor": 1374,
+            "to_actor": 2188,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23896,
+            "from_actor": 1373,
+            "to_actor": 2188,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17956,
+            "from_actor": 2188,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17957,
+            "from_actor": 2188,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17958,
+            "from_actor": 2188,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nis Georg Bøgen (udpeget af SF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

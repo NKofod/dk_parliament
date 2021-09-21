@@ -1,0 +1,48 @@
+{
+    "15465": [
+        {
+            "id": 95660,
+            "from_actor": 15452,
+            "to_actor": 15465,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "N. Møller Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124541,
+            "from_actor": 15458,
+            "to_actor": 15465,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "N. Møller Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126716,
+            "from_actor": 15465,
+            "to_actor": 15458,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "N. Møller Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528675,
+            "from_actor": 15465,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "N. Møller Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

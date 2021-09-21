@@ -1,0 +1,37 @@
+{
+    "14346": [
+        {
+            "id": 70841,
+            "from_actor": 14338,
+            "to_actor": 14346,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Litha Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125704,
+            "from_actor": 14346,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Litha Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696860,
+            "from_actor": 14346,
+            "to_actor": 14367,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Litha Christiansen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

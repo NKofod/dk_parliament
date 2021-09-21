@@ -1,0 +1,26 @@
+{
+    "3091": [
+        {
+            "id": 18599,
+            "from_actor": 615,
+            "to_actor": 3091,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Tine Bruun",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23124,
+            "from_actor": 3091,
+            "to_actor": 615,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Tine Bruun",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

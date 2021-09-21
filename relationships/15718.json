@@ -1,0 +1,37 @@
+{
+    "15718": [
+        {
+            "id": 120992,
+            "from_actor": 15712,
+            "to_actor": 15718,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Gytte Burgess",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125175,
+            "from_actor": 15718,
+            "to_actor": 15712,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Gytte Burgess",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125176,
+            "from_actor": 15718,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Gytte Burgess",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

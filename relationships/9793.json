@@ -1,0 +1,37 @@
+{
+    "9793": [
+        {
+            "id": 81869,
+            "from_actor": 14754,
+            "to_actor": 9793,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johnny Killerup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27368868,
+            "from_actor": 9793,
+            "to_actor": 14762,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Johnny Killerup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27368869,
+            "from_actor": 9793,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Johnny Killerup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "13655": [
+        {
+            "id": 54055,
+            "from_actor": 970,
+            "to_actor": 13655,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54100,
+            "from_actor": 13666,
+            "to_actor": 13655,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 112925,
+            "from_actor": 15867,
+            "to_actor": 13655,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 64072,
+            "from_actor": 13655,
+            "to_actor": 970,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 64073,
+            "from_actor": 13655,
+            "to_actor": 13666,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19843090,
+            "from_actor": 13655,
+            "to_actor": 15867,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Gerhauge (udpeget af SF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "9941": [
+        {
+            "id": 98856,
+            "from_actor": 15557,
+            "to_actor": 9941,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Irma Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529810,
+            "from_actor": 9941,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Irma Madsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

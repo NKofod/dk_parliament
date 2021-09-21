@@ -1,0 +1,37 @@
+{
+    "1969": [
+        {
+            "id": 88493,
+            "from_actor": 14259,
+            "to_actor": 1969,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejner Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22737704,
+            "from_actor": 1969,
+            "to_actor": 14952,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ejner Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22737705,
+            "from_actor": 1969,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Ejner Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

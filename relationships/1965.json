@@ -1,0 +1,26 @@
+{
+    "1965": [
+        {
+            "id": 15956,
+            "from_actor": 470,
+            "to_actor": 1965,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Anja Riber Skydt",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3368825,
+            "from_actor": 1965,
+            "to_actor": 470,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anja Riber Skydt",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "2160": [
+        {
+            "id": 17705,
+            "from_actor": 1400,
+            "to_actor": 2160,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ligningsrådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19932,
+            "from_actor": 1402,
+            "to_actor": 2160,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ligningsrådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 24201,
+            "from_actor": 1403,
+            "to_actor": 2160,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ligningsrådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 25572,
+            "from_actor": 1404,
+            "to_actor": 2160,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30027,
+            "from_actor": 1405,
+            "to_actor": 2160,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30746,
+            "from_actor": 1406,
+            "to_actor": 2160,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32554,
+            "from_actor": 1264,
+            "to_actor": 2160,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37482,
+            "from_actor": 1265,
+            "to_actor": 2160,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40238,
+            "from_actor": 1266,
+            "to_actor": 2160,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42916,
+            "from_actor": 1456,
+            "to_actor": 2160,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47582,
+            "from_actor": 1459,
+            "to_actor": 2160,
+            "start": "2010-10-06",
+            "end": "2011-10-31",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47613,
+            "from_actor": 1457,
+            "to_actor": 2160,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50512,
+            "from_actor": 1458,
+            "to_actor": 2160,
+            "start": "2010-10-06",
+            "end": "2011-10-31",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Christen Amby (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17720,
+            "from_actor": 2160,
+            "to_actor": 1400,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Ligningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17721,
+            "from_actor": 2160,
+            "to_actor": 1402,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Ligningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17722,
+            "from_actor": 2160,
+            "to_actor": 1403,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Ligningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17723,
+            "from_actor": 2160,
+            "to_actor": 1404,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17724,
+            "from_actor": 2160,
+            "to_actor": 1405,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17725,
+            "from_actor": 2160,
+            "to_actor": 1406,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17726,
+            "from_actor": 2160,
+            "to_actor": 1264,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17727,
+            "from_actor": 2160,
+            "to_actor": 1265,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17728,
+            "from_actor": 2160,
+            "to_actor": 1266,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17729,
+            "from_actor": 2160,
+            "to_actor": 1456,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17730,
+            "from_actor": 2160,
+            "to_actor": 1457,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17731,
+            "from_actor": 2160,
+            "to_actor": 1458,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17732,
+            "from_actor": 2160,
+            "to_actor": 1459,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby (Udpeget af SF)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        }
+    ]
+}

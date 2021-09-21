@@ -1,0 +1,59 @@
+{
+    "15944": [
+        {
+            "id": 118710,
+            "from_actor": 15942,
+            "to_actor": 15944,
+            "start": "2015-01-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Natur- og Miljøklagenævnet ikke gyldig",
+            "to_actor_name": "Pelle Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 118726,
+            "from_actor": 15874,
+            "to_actor": 15944,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "medlem",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 21933491,
+            "from_actor": 15944,
+            "to_actor": 15874,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "medlem",
+            "from_actor_name": "Pelle Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23735605,
+            "from_actor": 15944,
+            "to_actor": 17186,
+            "start": "2017-02-01",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Pelle Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Miljø- og Fødevareklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24122090,
+            "from_actor": 15944,
+            "to_actor": 19465,
+            "start": "2021-02-01",
+            "end": "2025-01-31",
+            "role": "medlem",
+            "from_actor_name": "Pelle Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Miljø- og Fødevareklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "1850": [
+        {
+            "id": 15615,
+            "from_actor": 797,
+            "to_actor": 1850,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15665,
+            "from_actor": 921,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15703,
+            "from_actor": 1042,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16018,
+            "from_actor": 898,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16055,
+            "from_actor": 713,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16090,
+            "from_actor": 979,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16360,
+            "from_actor": 729,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27627,
+            "from_actor": 423,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27767,
+            "from_actor": 754,
+            "to_actor": 1850,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 88062,
+            "from_actor": 14943,
+            "to_actor": 1850,
+            "start": "2003-03-12",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88066,
+            "from_actor": 14931,
+            "to_actor": 1850,
+            "start": "2003-03-12",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88286,
+            "from_actor": 14957,
+            "to_actor": 1850,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88375,
+            "from_actor": 14259,
+            "to_actor": 1850,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Lund Jepsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707749,
+            "from_actor": 1850,
+            "to_actor": 729,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707751,
+            "from_actor": 1850,
+            "to_actor": 754,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707752,
+            "from_actor": 1850,
+            "to_actor": 1042,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707753,
+            "from_actor": 1850,
+            "to_actor": 921,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707754,
+            "from_actor": 1850,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707755,
+            "from_actor": 1850,
+            "to_actor": 14943,
+            "start": "2003-03-12",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707756,
+            "from_actor": 1850,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707757,
+            "from_actor": 1850,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707758,
+            "from_actor": 1850,
+            "to_actor": 14931,
+            "start": "2003-03-12",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707759,
+            "from_actor": 1850,
+            "to_actor": 979,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707760,
+            "from_actor": 1850,
+            "to_actor": 713,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707761,
+            "from_actor": 1850,
+            "to_actor": 898,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707762,
+            "from_actor": 1850,
+            "to_actor": 797,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22707763,
+            "from_actor": 1850,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26367274,
+            "from_actor": 1850,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Lund Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

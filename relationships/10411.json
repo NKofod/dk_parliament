@@ -1,0 +1,158 @@
+{
+    "10411": [
+        {
+            "id": 70995,
+            "from_actor": 14338,
+            "to_actor": 10411,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uwe Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71621,
+            "from_actor": 14387,
+            "to_actor": 10411,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uwe Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71890,
+            "from_actor": 14415,
+            "to_actor": 10411,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uwe Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72014,
+            "from_actor": 14422,
+            "to_actor": 10411,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Uwe Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72520,
+            "from_actor": 14431,
+            "to_actor": 10411,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uwe Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18258482,
+            "from_actor": 10411,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18258483,
+            "from_actor": 10411,
+            "to_actor": 14422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18258484,
+            "from_actor": 10411,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18258485,
+            "from_actor": 10411,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18258486,
+            "from_actor": 10411,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18258487,
+            "from_actor": 10411,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18258488,
+            "from_actor": 10411,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18258489,
+            "from_actor": 10411,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18258490,
+            "from_actor": 10411,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Uwe Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

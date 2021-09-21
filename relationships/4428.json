@@ -1,0 +1,114 @@
+{
+    "4428": [
+        {
+            "id": 25779,
+            "from_actor": 427,
+            "to_actor": 4428,
+            "start": "2007-10-02",
+            "end": "2007-10-24",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Borking",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29070,
+            "from_actor": 1035,
+            "to_actor": 4428,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Jens Borking",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29085,
+            "from_actor": 983,
+            "to_actor": 4428,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Jens Borking",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30593,
+            "from_actor": 861,
+            "to_actor": 4428,
+            "start": "2007-10-02",
+            "end": "2007-10-24",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Jens Borking",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 35352,
+            "from_actor": 1019,
+            "to_actor": 4428,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Jens Borking",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772920,
+            "from_actor": 4428,
+            "to_actor": 861,
+            "start": "2007-10-02",
+            "end": "2007-10-24",
+            "role": "medlem",
+            "from_actor_name": "Jens Borking",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772921,
+            "from_actor": 4428,
+            "to_actor": 983,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Jens Borking",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772922,
+            "from_actor": 4428,
+            "to_actor": 427,
+            "start": "2007-10-02",
+            "end": "2007-10-24",
+            "role": "medlem",
+            "from_actor_name": "Jens Borking",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772923,
+            "from_actor": 4428,
+            "to_actor": 1019,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Borking",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772924,
+            "from_actor": 4428,
+            "to_actor": 1035,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Borking",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

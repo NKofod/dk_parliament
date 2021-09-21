@@ -1,0 +1,290 @@
+{
+    "15392": [
+        {
+            "id": 94647,
+            "from_actor": 15390,
+            "to_actor": 15392,
+            "start": "1964-03-18",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95436,
+            "from_actor": 15452,
+            "to_actor": 15392,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95583,
+            "from_actor": 15457,
+            "to_actor": 15392,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95803,
+            "from_actor": 15467,
+            "to_actor": 15392,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95951,
+            "from_actor": 15472,
+            "to_actor": 15392,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96360,
+            "from_actor": 15481,
+            "to_actor": 15392,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96509,
+            "from_actor": 15488,
+            "to_actor": 15392,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96975,
+            "from_actor": 15498,
+            "to_actor": 15392,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97235,
+            "from_actor": 15523,
+            "to_actor": 15392,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124501,
+            "from_actor": 15397,
+            "to_actor": 15392,
+            "start": "1964-03-18",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126197,
+            "from_actor": 15516,
+            "to_actor": 15392,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126289,
+            "from_actor": 15527,
+            "to_actor": 15392,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Herløv Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528293,
+            "from_actor": 15392,
+            "to_actor": 15390,
+            "start": "1964-03-18",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528454,
+            "from_actor": 15392,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528631,
+            "from_actor": 15392,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528815,
+            "from_actor": 15392,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529005,
+            "from_actor": 15392,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529166,
+            "from_actor": 15392,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529353,
+            "from_actor": 15392,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531193,
+            "from_actor": 15392,
+            "to_actor": 15397,
+            "start": "1964-03-18",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531264,
+            "from_actor": 15392,
+            "to_actor": 15444,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531339,
+            "from_actor": 15392,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531421,
+            "from_actor": 15392,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531504,
+            "from_actor": 15392,
+            "to_actor": 15488,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531576,
+            "from_actor": 15392,
+            "to_actor": 15516,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531649,
+            "from_actor": 15392,
+            "to_actor": 15527,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Johs. Herløv Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

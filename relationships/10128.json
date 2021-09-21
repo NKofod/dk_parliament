@@ -1,0 +1,136 @@
+{
+    "10128": [
+        {
+            "id": 85591,
+            "from_actor": 14855,
+            "to_actor": 10128,
+            "start": "1999-12-01",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85780,
+            "from_actor": 14864,
+            "to_actor": 10128,
+            "start": "1999-12-01",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86033,
+            "from_actor": 14872,
+            "to_actor": 10128,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86713,
+            "from_actor": 14885,
+            "to_actor": 10128,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86963,
+            "from_actor": 14897,
+            "to_actor": 10128,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87097,
+            "from_actor": 14907,
+            "to_actor": 10128,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thorstein Theilgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856135,
+            "from_actor": 10128,
+            "to_actor": 14885,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856136,
+            "from_actor": 10128,
+            "to_actor": 14907,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856137,
+            "from_actor": 10128,
+            "to_actor": 14864,
+            "start": "1999-12-01",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856138,
+            "from_actor": 10128,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856139,
+            "from_actor": 10128,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856140,
+            "from_actor": 10128,
+            "to_actor": 14855,
+            "start": "1999-12-01",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Theilgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

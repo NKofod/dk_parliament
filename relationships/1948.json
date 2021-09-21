@@ -1,0 +1,92 @@
+{
+    "1948": [
+        {
+            "id": 15316,
+            "from_actor": 1100,
+            "to_actor": 1948,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Birgitte Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15630,
+            "from_actor": 736,
+            "to_actor": 1948,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Birgitte Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15822,
+            "from_actor": 795,
+            "to_actor": 1948,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Birgitte Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27681,
+            "from_actor": 423,
+            "to_actor": 1948,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgitte Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22739281,
+            "from_actor": 1948,
+            "to_actor": 1100,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Birgitte Møller",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22739283,
+            "from_actor": 1948,
+            "to_actor": 736,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Birgitte Møller",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22739284,
+            "from_actor": 1948,
+            "to_actor": 795,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Birgitte Møller",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367328,
+            "from_actor": 1948,
+            "to_actor": 423,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Birgitte Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

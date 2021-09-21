@@ -1,0 +1,70 @@
+{
+    "2175": [
+        {
+            "id": 17912,
+            "from_actor": 1223,
+            "to_actor": 2175,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23935,
+            "from_actor": 1224,
+            "to_actor": 2175,
+            "start": "2005-03-12",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36242,
+            "from_actor": 1225,
+            "to_actor": 2175,
+            "start": "2005-03-12",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17846,
+            "from_actor": 2175,
+            "to_actor": 1223,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17847,
+            "from_actor": 2175,
+            "to_actor": 1224,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 17848,
+            "from_actor": 2175,
+            "to_actor": 1225,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erling S. Christensen (udpeget af KD)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

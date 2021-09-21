@@ -1,0 +1,147 @@
+{
+    "11414": [
+        {
+            "id": 42491,
+            "from_actor": 579,
+            "to_actor": 11414,
+            "start": "2010-07-01",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 43102,
+            "from_actor": 580,
+            "to_actor": 11414,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 49842,
+            "from_actor": 584,
+            "to_actor": 11414,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 49937,
+            "from_actor": 585,
+            "to_actor": 11414,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53363,
+            "from_actor": 586,
+            "to_actor": 11414,
+            "start": "2010-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 112455,
+            "from_actor": 13652,
+            "to_actor": 11414,
+            "start": "2014-07-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42513,
+            "from_actor": 11414,
+            "to_actor": 579,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42514,
+            "from_actor": 11414,
+            "to_actor": 580,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42515,
+            "from_actor": 11414,
+            "to_actor": 586,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42516,
+            "from_actor": 11414,
+            "to_actor": 584,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42517,
+            "from_actor": 11414,
+            "to_actor": 585,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 60621,
+            "from_actor": 11414,
+            "to_actor": 13652,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 10304346,
+            "from_actor": 11414,
+            "to_actor": 15865,
+            "start": "2014-07-01",
+            "end": "2016-05-10",
+            "role": "medlem",
+            "from_actor_name": "Aia Rebecca Fog (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "1959": [
+        {
+            "id": 15681,
+            "from_actor": 921,
+            "to_actor": 1959,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Jørgen Bjelskou",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19037,
+            "from_actor": 1150,
+            "to_actor": 1959,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Jørgen Bjelskou",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24903,
+            "from_actor": 1151,
+            "to_actor": 1959,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Jørgen Bjelskou",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16774,
+            "from_actor": 1959,
+            "to_actor": 1150,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jørgen Bjelskou",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16775,
+            "from_actor": 1959,
+            "to_actor": 1151,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jørgen Bjelskou",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3315138,
+            "from_actor": 1959,
+            "to_actor": 921,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jørgen Bjelskou",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

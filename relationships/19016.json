@@ -1,0 +1,92 @@
+{
+    "19016": [
+        {
+            "id": 23072479,
+            "from_actor": 19016,
+            "to_actor": 18887,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072485,
+            "from_actor": 19016,
+            "to_actor": 18856,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23529385,
+            "from_actor": 19016,
+            "to_actor": 18860,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529474,
+            "from_actor": 19016,
+            "to_actor": 18861,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529739,
+            "from_actor": 19016,
+            "to_actor": 18863,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530045,
+            "from_actor": 19016,
+            "to_actor": 18874,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530376,
+            "from_actor": 19016,
+            "to_actor": 18876,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530704,
+            "from_actor": 19016,
+            "to_actor": 18870,
+            "start": "2020-01-06",
+            "end": "2020-02-28",
+            "role": "medlem",
+            "from_actor_name": "Dorthe Hindborg",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "9989": [
+        {
+            "id": 102420,
+            "from_actor": 15688,
+            "to_actor": 9989,
+            "start": "1973-12-04",
+            "end": "1974-02-21",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Birgit Busk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102448,
+            "from_actor": 15689,
+            "to_actor": 9989,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Birgit Busk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102608,
+            "from_actor": 15660,
+            "to_actor": 9989,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Busk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102806,
+            "from_actor": 15699,
+            "to_actor": 9989,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Busk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102908,
+            "from_actor": 15703,
+            "to_actor": 9989,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Birgit Busk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10451286,
+            "from_actor": 9989,
+            "to_actor": 15689,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birgit Busk",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10451287,
+            "from_actor": 9989,
+            "to_actor": 15703,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Birgit Busk",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10451288,
+            "from_actor": 9989,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-02-21",
+            "role": "medlem",
+            "from_actor_name": "Birgit Busk",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10451289,
+            "from_actor": 9989,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birgit Busk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 10451290,
+            "from_actor": 9989,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Birgit Busk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

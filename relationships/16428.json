@@ -1,0 +1,92 @@
+{
+    "16428": [
+        {
+            "id": 22994846,
+            "from_actor": 16428,
+            "to_actor": 16053,
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22994847,
+            "from_actor": 16428,
+            "to_actor": 16035,
+            "start": "2016-01-04",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994848,
+            "from_actor": 16428,
+            "to_actor": 16037,
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994849,
+            "from_actor": 16428,
+            "to_actor": 16019,
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994850,
+            "from_actor": 16428,
+            "to_actor": 16026,
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994851,
+            "from_actor": 16428,
+            "to_actor": 16061,
+            "start": "2016-01-01",
+            "end": "2016-02-11",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994852,
+            "from_actor": 16428,
+            "to_actor": 16061,
+            "start": "2016-02-13",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27617556,
+            "from_actor": 16428,
+            "to_actor": 16060,
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "role": "medlem",
+            "from_actor_name": "Emrah Tuncer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

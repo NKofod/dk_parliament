@@ -1,0 +1,70 @@
+{
+    "13656": [
+        {
+            "id": 54056,
+            "from_actor": 970,
+            "to_actor": 13656,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54101,
+            "from_actor": 13666,
+            "to_actor": 13656,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "type": "Kommission"
+        },
+        {
+            "id": 112926,
+            "from_actor": 15867,
+            "to_actor": 13656,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "type": "Kommission"
+        },
+        {
+            "id": 15420943,
+            "from_actor": 13656,
+            "to_actor": 970,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 15420944,
+            "from_actor": 13656,
+            "to_actor": 13666,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19843091,
+            "from_actor": 13656,
+            "to_actor": 15867,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "medlem",
+            "from_actor_name": "Jonathan Nielsen (udpget af LA)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

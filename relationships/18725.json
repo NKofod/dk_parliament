@@ -1,0 +1,290 @@
+{
+    "18725": [
+        {
+            "id": 23072253,
+            "from_actor": 18725,
+            "to_actor": 18678,
+            "start": "2019-06-05",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072254,
+            "from_actor": 18725,
+            "to_actor": 18768,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23072255,
+            "from_actor": 18725,
+            "to_actor": 18888,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072261,
+            "from_actor": 18725,
+            "to_actor": 18757,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23072263,
+            "from_actor": 18725,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-07-03",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23072265,
+            "from_actor": 18725,
+            "to_actor": 18674,
+            "start": "2019-06-05",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23072266,
+            "from_actor": 18725,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23529402,
+            "from_actor": 18725,
+            "to_actor": 18860,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530197,
+            "from_actor": 18725,
+            "to_actor": 18875,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25360539,
+            "from_actor": 18725,
+            "to_actor": 19626,
+            "start": "2021-06-05",
+            "end": "2021-07-31",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27396319,
+            "from_actor": 18725,
+            "to_actor": 19415,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27447942,
+            "from_actor": 18725,
+            "to_actor": 19337,
+            "start": "2021-06-05",
+            "end": "2021-06-27",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27447944,
+            "from_actor": 18725,
+            "to_actor": 19337,
+            "start": "2020-10-20",
+            "end": "2021-02-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27448029,
+            "from_actor": 18725,
+            "to_actor": 19387,
+            "start": "2021-02-03",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27474320,
+            "from_actor": 18725,
+            "to_actor": 19397,
+            "start": "2021-05-05",
+            "end": "2021-05-08",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500219,
+            "from_actor": 18725,
+            "to_actor": 19356,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27500388,
+            "from_actor": 18725,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27526535,
+            "from_actor": 18725,
+            "to_actor": 19386,
+            "start": "2021-02-01",
+            "end": "2021-02-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27526541,
+            "from_actor": 18725,
+            "to_actor": 19386,
+            "start": "2021-02-02",
+            "end": "2021-08-08",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27549984,
+            "from_actor": 18725,
+            "to_actor": 19411,
+            "start": "2021-08-19",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27551030,
+            "from_actor": 18725,
+            "to_actor": 19409,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596610,
+            "from_actor": 18725,
+            "to_actor": 19398,
+            "start": "2021-06-01",
+            "end": "2021-06-08",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596612,
+            "from_actor": 18725,
+            "to_actor": 19398,
+            "start": "2021-03-03",
+            "end": "2021-05-17",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596613,
+            "from_actor": 18725,
+            "to_actor": 19398,
+            "start": "2021-02-06",
+            "end": "2021-03-01",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596614,
+            "from_actor": 18725,
+            "to_actor": 19398,
+            "start": "2020-12-10",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596620,
+            "from_actor": 18725,
+            "to_actor": 19398,
+            "start": "2021-05-19",
+            "end": "2021-05-30",
+            "role": "medlem",
+            "from_actor_name": "Samira Nawa",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

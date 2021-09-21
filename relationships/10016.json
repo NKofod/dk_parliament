@@ -1,0 +1,26 @@
+{
+    "10016": [
+        {
+            "id": 3280023,
+            "from_actor": 10016,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Finn O. Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379809,
+            "from_actor": 10016,
+            "to_actor": 14604,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Finn O. Christensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

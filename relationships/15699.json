@@ -1,0 +1,37 @@
+{
+    "15675": [
+        {
+            "id": 102405,
+            "from_actor": 15686,
+            "to_actor": 15675,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Børge Johansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102671,
+            "from_actor": 15660,
+            "to_actor": 15675,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Johansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102869,
+            "from_actor": 15699,
+            "to_actor": 15675,
+            "start": "1974-10-01",
+            "end": "1974-10-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Johansen",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

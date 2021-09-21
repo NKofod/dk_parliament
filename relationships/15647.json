@@ -1,0 +1,26 @@
+{
+    "15647": [
+        {
+            "id": 101301,
+            "from_actor": 15639,
+            "to_actor": 15647,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422517,
+            "from_actor": 15647,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Mogens Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

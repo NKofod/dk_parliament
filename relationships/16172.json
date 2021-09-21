@@ -1,0 +1,125 @@
+{
+    "16172": [
+        {
+            "id": 15097192,
+            "from_actor": 16172,
+            "to_actor": 16021,
+            "start": "2015-11-02",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15097193,
+            "from_actor": 16172,
+            "to_actor": 16915,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15097194,
+            "from_actor": 16172,
+            "to_actor": 18314,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15097195,
+            "from_actor": 16172,
+            "to_actor": 17634,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957607,
+            "from_actor": 16172,
+            "to_actor": 18781,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957624,
+            "from_actor": 16172,
+            "to_actor": 18756,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530606,
+            "from_actor": 16172,
+            "to_actor": 18921,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530617,
+            "from_actor": 16172,
+            "to_actor": 18868,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27238676,
+            "from_actor": 16172,
+            "to_actor": 19437,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264650,
+            "from_actor": 16172,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27551075,
+            "from_actor": 16172,
+            "to_actor": 19410,
+            "start": "2021-08-26",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Pernille Olesen Mønnike",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        }
+    ]
+}

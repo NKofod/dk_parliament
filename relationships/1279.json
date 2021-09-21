@@ -1,0 +1,125 @@
+{
+    "1279": [
+        {
+            "id": 83609,
+            "from_actor": 14800,
+            "to_actor": 1279,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85401,
+            "from_actor": 14841,
+            "to_actor": 1279,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85849,
+            "from_actor": 14855,
+            "to_actor": 1279,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86791,
+            "from_actor": 14872,
+            "to_actor": 1279,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096766,
+            "from_actor": 1279,
+            "to_actor": 14863,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096767,
+            "from_actor": 1279,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096768,
+            "from_actor": 1279,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096769,
+            "from_actor": 1279,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096770,
+            "from_actor": 1279,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096771,
+            "from_actor": 1279,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096772,
+            "from_actor": 1279,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

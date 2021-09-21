@@ -1,0 +1,246 @@
+{
+    "9662": [
+        {
+            "id": 78563,
+            "from_actor": 14676,
+            "to_actor": 9662,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78564,
+            "from_actor": 14663,
+            "to_actor": 9662,
+            "start": "1988-10-01",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78645,
+            "from_actor": 14683,
+            "to_actor": 9662,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78942,
+            "from_actor": 14690,
+            "to_actor": 9662,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79023,
+            "from_actor": 14697,
+            "to_actor": 9662,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79366,
+            "from_actor": 14704,
+            "to_actor": 9662,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79459,
+            "from_actor": 14711,
+            "to_actor": 9662,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 80045,
+            "from_actor": 14725,
+            "to_actor": 9662,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 80372,
+            "from_actor": 14720,
+            "to_actor": 9662,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80597,
+            "from_actor": 14730,
+            "to_actor": 9662,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80707,
+            "from_actor": 14735,
+            "to_actor": 9662,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81102,
+            "from_actor": 14748,
+            "to_actor": 9662,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81384,
+            "from_actor": 14742,
+            "to_actor": 9662,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81607,
+            "from_actor": 14754,
+            "to_actor": 9662,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81726,
+            "from_actor": 14759,
+            "to_actor": 9662,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Henning Lysholm Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132673,
+            "from_actor": 9662,
+            "to_actor": 14697,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132826,
+            "from_actor": 9662,
+            "to_actor": 14711,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133109,
+            "from_actor": 9662,
+            "to_actor": 14735,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732837,
+            "from_actor": 9662,
+            "to_actor": 14663,
+            "start": "1988-10-01",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4911647,
+            "from_actor": 9662,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 14670721,
+            "from_actor": 9662,
+            "to_actor": 14748,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24198582,
+            "from_actor": 9662,
+            "to_actor": 14759,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Henning Lysholm Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

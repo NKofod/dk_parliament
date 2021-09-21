@@ -1,0 +1,268 @@
+{
+    "8917": [
+        {
+            "id": 37680,
+            "from_actor": 232,
+            "to_actor": 8917,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 38053,
+            "from_actor": 577,
+            "to_actor": 8917,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Thomas Horn",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 38464,
+            "from_actor": 763,
+            "to_actor": 8917,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38767,
+            "from_actor": 821,
+            "to_actor": 8917,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38859,
+            "from_actor": 813,
+            "to_actor": 8917,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 40076,
+            "from_actor": 457,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Thomas Horn",
+            "type": "Kommission"
+        },
+        {
+            "id": 40802,
+            "from_actor": 1289,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 40861,
+            "from_actor": 578,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Thomas Horn",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 41302,
+            "from_actor": 1077,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41562,
+            "from_actor": 1193,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44893,
+            "from_actor": 458,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Thomas Horn",
+            "type": "Kommission"
+        },
+        {
+            "id": 84957,
+            "from_actor": 429,
+            "to_actor": 8917,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Horn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 13868316,
+            "from_actor": 8917,
+            "to_actor": 578,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13868317,
+            "from_actor": 8917,
+            "to_actor": 577,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13868318,
+            "from_actor": 8917,
+            "to_actor": 813,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868319,
+            "from_actor": 8917,
+            "to_actor": 763,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868320,
+            "from_actor": 8917,
+            "to_actor": 1193,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868321,
+            "from_actor": 8917,
+            "to_actor": 1289,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868322,
+            "from_actor": 8917,
+            "to_actor": 1077,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868325,
+            "from_actor": 8917,
+            "to_actor": 821,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868326,
+            "from_actor": 8917,
+            "to_actor": 458,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 13868327,
+            "from_actor": 8917,
+            "to_actor": 457,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 23916240,
+            "from_actor": 8917,
+            "to_actor": 429,
+            "start": "2009-10-28",
+            "end": "2009-11-16",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24070696,
+            "from_actor": 8917,
+            "to_actor": 232,
+            "start": "2008-10-29",
+            "end": "2008-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thomas Horn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

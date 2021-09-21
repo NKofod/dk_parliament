@@ -1,0 +1,26 @@
+{
+    "17382": [
+        {
+            "id": 10304342,
+            "from_actor": 17382,
+            "to_actor": 15865,
+            "start": "2017-04-26",
+            "end": "2018-07-31",
+            "role": "medlem",
+            "from_actor_name": "Mette Annelie Rasmussen (udpeget af RV)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 27574431,
+            "from_actor": 17382,
+            "to_actor": 18286,
+            "start": "2018-09-06",
+            "end": "2022-09-05",
+            "role": "medlem",
+            "from_actor_name": "Mette Annelie Rasmussen (udpeget af RV)",
+            "to_actor_name": "Bestyrelsen for Dansk Institut for Partier og Demokrati (DIPD)",
+            "type": "Kommission"
+        }
+    ]
+}

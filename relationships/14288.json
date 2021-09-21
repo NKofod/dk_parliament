@@ -1,0 +1,191 @@
+{
+    "14288": [
+        {
+            "id": 100343,
+            "from_actor": 15609,
+            "to_actor": 14288,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Worm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100416,
+            "from_actor": 15622,
+            "to_actor": 14288,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Worm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100701,
+            "from_actor": 15628,
+            "to_actor": 14288,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Worm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100778,
+            "from_actor": 15631,
+            "to_actor": 14288,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Worm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101071,
+            "from_actor": 15639,
+            "to_actor": 14288,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Worm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101225,
+            "from_actor": 15642,
+            "to_actor": 14288,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Worm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101689,
+            "from_actor": 15649,
+            "to_actor": 14288,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Worm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101787,
+            "from_actor": 15652,
+            "to_actor": 14288,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Worm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131522,
+            "from_actor": 14288,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20131671,
+            "from_actor": 14288,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422271,
+            "from_actor": 14288,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422465,
+            "from_actor": 14288,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422660,
+            "from_actor": 14288,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422753,
+            "from_actor": 14288,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422829,
+            "from_actor": 14288,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422906,
+            "from_actor": 14288,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25878057,
+            "from_actor": 14288,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Worm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

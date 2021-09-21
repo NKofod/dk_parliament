@@ -1,0 +1,136 @@
+{
+    "14247": [
+        {
+            "id": 70632,
+            "from_actor": 14092,
+            "to_actor": 14247,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Erik Bauer",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71715,
+            "from_actor": 14387,
+            "to_actor": 14247,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bauer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103615,
+            "from_actor": 15721,
+            "to_actor": 14247,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bauer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121187,
+            "from_actor": 14082,
+            "to_actor": 14247,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bauer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128217,
+            "from_actor": 15722,
+            "to_actor": 14247,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Erik Bauer",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128288,
+            "from_actor": 14092,
+            "to_actor": 14247,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Erik Bauer",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158710,
+            "from_actor": 14247,
+            "to_actor": 14092,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158711,
+            "from_actor": 14247,
+            "to_actor": 15722,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158712,
+            "from_actor": 14247,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158715,
+            "from_actor": 14247,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235313,
+            "from_actor": 14247,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235538,
+            "from_actor": 14247,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Bauer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "637": [
+        {
+            "id": 984,
+            "from_actor": 19,
+            "to_actor": 637,
+            "start": "2014-01-01",
+            "end": "2014-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Lotte Rickers Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 123322,
+            "from_actor": 15877,
+            "to_actor": 637,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Lotte Rickers Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083585,
+            "from_actor": 637,
+            "to_actor": 19,
+            "start": "2014-01-01",
+            "end": "2014-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083586,
+            "from_actor": 637,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083587,
+            "from_actor": 637,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083588,
+            "from_actor": 637,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083589,
+            "from_actor": 637,
+            "to_actor": 15877,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083590,
+            "from_actor": 637,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21083591,
+            "from_actor": 637,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529725,
+            "from_actor": 637,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27448002,
+            "from_actor": 637,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lotte Rickers Olesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

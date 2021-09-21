@@ -1,0 +1,26 @@
+{
+    "1867": [
+        {
+            "id": 16200,
+            "from_actor": 460,
+            "to_actor": 1867,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "to_actor_name": "Anne Mette Falbe-Hansen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3087451,
+            "from_actor": 1867,
+            "to_actor": 460,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Falbe-Hansen",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        }
+    ]
+}

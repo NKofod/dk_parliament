@@ -1,0 +1,114 @@
+{
+    "10424": [
+        {
+            "id": 72272,
+            "from_actor": 14431,
+            "to_actor": 10424,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ervin Christian Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72694,
+            "from_actor": 14457,
+            "to_actor": 10424,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ervin Christian Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73117,
+            "from_actor": 14478,
+            "to_actor": 10424,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ervin Christian Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75017,
+            "from_actor": 14490,
+            "to_actor": 10424,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ervin Christian Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21399319,
+            "from_actor": 10424,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21399320,
+            "from_actor": 10424,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21399321,
+            "from_actor": 10424,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21399322,
+            "from_actor": 10424,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21399323,
+            "from_actor": 10424,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21399324,
+            "from_actor": 10424,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ervin Christian Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "9948": [
+        {
+            "id": 78569,
+            "from_actor": 14663,
+            "to_actor": 9948,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Hedetoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132285,
+            "from_actor": 9948,
+            "to_actor": 14652,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Søren Hedetoft",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732843,
+            "from_actor": 9948,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Hedetoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

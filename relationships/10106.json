@@ -1,0 +1,26 @@
+{
+    "10106": [
+        {
+            "id": 22856054,
+            "from_actor": 10106,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Carsten Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856055,
+            "from_actor": 10106,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

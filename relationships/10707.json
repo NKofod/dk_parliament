@@ -1,0 +1,312 @@
+{
+    "10707": [
+        {
+            "id": 40745,
+            "from_actor": 995,
+            "to_actor": 10707,
+            "start": "2010-04-06",
+            "end": "2010-05-09",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 41139,
+            "from_actor": 472,
+            "to_actor": 10707,
+            "start": "2010-04-08",
+            "end": "2010-04-20",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41140,
+            "from_actor": 472,
+            "to_actor": 10707,
+            "start": "2010-04-22",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41193,
+            "from_actor": 948,
+            "to_actor": 10707,
+            "start": "2010-04-08",
+            "end": "2010-04-27",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41194,
+            "from_actor": 948,
+            "to_actor": 10707,
+            "start": "2010-04-29",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41309,
+            "from_actor": 1077,
+            "to_actor": 10707,
+            "start": "2010-04-08",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41427,
+            "from_actor": 809,
+            "to_actor": 10707,
+            "start": "2010-04-08",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42583,
+            "from_actor": 368,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 43346,
+            "from_actor": 996,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 43682,
+            "from_actor": 473,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-09",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43724,
+            "from_actor": 849,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43771,
+            "from_actor": 841,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44197,
+            "from_actor": 1078,
+            "to_actor": 10707,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84928,
+            "from_actor": 429,
+            "to_actor": 10707,
+            "start": "2010-04-06",
+            "end": "2010-05-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erikanell Asmuss Lorentsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882477,
+            "from_actor": 10707,
+            "to_actor": 996,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882478,
+            "from_actor": 10707,
+            "to_actor": 995,
+            "start": "2010-04-06",
+            "end": "2010-05-09",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882480,
+            "from_actor": 10707,
+            "to_actor": 948,
+            "start": "2010-04-08",
+            "end": "2010-04-27",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882481,
+            "from_actor": 10707,
+            "to_actor": 948,
+            "start": "2010-04-29",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882482,
+            "from_actor": 10707,
+            "to_actor": 841,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882483,
+            "from_actor": 10707,
+            "to_actor": 849,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882484,
+            "from_actor": 10707,
+            "to_actor": 1077,
+            "start": "2010-04-08",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882485,
+            "from_actor": 10707,
+            "to_actor": 809,
+            "start": "2010-04-08",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882486,
+            "from_actor": 10707,
+            "to_actor": 473,
+            "start": "2010-10-27",
+            "end": "2010-11-09",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882487,
+            "from_actor": 10707,
+            "to_actor": 1078,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882488,
+            "from_actor": 10707,
+            "to_actor": 472,
+            "start": "2010-04-22",
+            "end": "2010-05-10",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882489,
+            "from_actor": 10707,
+            "to_actor": 472,
+            "start": "2010-04-08",
+            "end": "2010-04-20",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882490,
+            "from_actor": 10707,
+            "to_actor": 368,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23916211,
+            "from_actor": 10707,
+            "to_actor": 429,
+            "start": "2010-04-06",
+            "end": "2010-05-09",
+            "role": "medlem",
+            "from_actor_name": "Erikanell Asmuss Lorentsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

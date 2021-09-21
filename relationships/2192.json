@@ -1,0 +1,70 @@
+{
+    "2192": [
+        {
+            "id": 17949,
+            "from_actor": 1372,
+            "to_actor": 2192,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19832,
+            "from_actor": 1374,
+            "to_actor": 2192,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23900,
+            "from_actor": 1373,
+            "to_actor": 2192,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17971,
+            "from_actor": 2192,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17972,
+            "from_actor": 2192,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17973,
+            "from_actor": 2192,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Gaba Engqvist (udpeget af EL)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "727": [
+        {
+            "id": 75516,
+            "from_actor": 14564,
+            "to_actor": 727,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75668,
+            "from_actor": 14577,
+            "to_actor": 727,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75885,
+            "from_actor": 14583,
+            "to_actor": 727,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76041,
+            "from_actor": 14591,
+            "to_actor": 727,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76298,
+            "from_actor": 14596,
+            "to_actor": 727,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76458,
+            "from_actor": 14604,
+            "to_actor": 727,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76683,
+            "from_actor": 14617,
+            "to_actor": 727,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76838,
+            "from_actor": 14624,
+            "to_actor": 727,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77202,
+            "from_actor": 14632,
+            "to_actor": 727,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77442,
+            "from_actor": 14648,
+            "to_actor": 727,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77581,
+            "from_actor": 14649,
+            "to_actor": 727,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77781,
+            "from_actor": 14658,
+            "to_actor": 727,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78133,
+            "from_actor": 14663,
+            "to_actor": 727,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78346,
+            "from_actor": 14671,
+            "to_actor": 727,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78493,
+            "from_actor": 14676,
+            "to_actor": 727,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78719,
+            "from_actor": 14685,
+            "to_actor": 727,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78873,
+            "from_actor": 14690,
+            "to_actor": 727,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79098,
+            "from_actor": 14699,
+            "to_actor": 727,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79299,
+            "from_actor": 14704,
+            "to_actor": 727,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Hermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79532,
+            "from_actor": 14713,
+            "to_actor": 727,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Leif Hermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131687,
+            "from_actor": 727,
+            "to_actor": 14591,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132236,
+            "from_actor": 727,
+            "to_actor": 14624,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132360,
+            "from_actor": 727,
+            "to_actor": 14658,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132422,
+            "from_actor": 727,
+            "to_actor": 14671,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132573,
+            "from_actor": 727,
+            "to_actor": 14685,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132735,
+            "from_actor": 727,
+            "to_actor": 14699,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132888,
+            "from_actor": 727,
+            "to_actor": 14713,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732770,
+            "from_actor": 727,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379799,
+            "from_actor": 727,
+            "to_actor": 14604,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Leif Hermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

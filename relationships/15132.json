@@ -1,0 +1,180 @@
+{
+    "15132": [
+        {
+            "id": 88718,
+            "from_actor": 14976,
+            "to_actor": 15132,
+            "start": "1954-05-16",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88868,
+            "from_actor": 15137,
+            "to_actor": 15132,
+            "start": "1954-05-16",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89302,
+            "from_actor": 15147,
+            "to_actor": 15132,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89477,
+            "from_actor": 15158,
+            "to_actor": 15132,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89840,
+            "from_actor": 15172,
+            "to_actor": 15132,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90026,
+            "from_actor": 15162,
+            "to_actor": 15132,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90567,
+            "from_actor": 15186,
+            "to_actor": 15132,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90750,
+            "from_actor": 15177,
+            "to_actor": 15132,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Christensen (Rebild)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17731906,
+            "from_actor": 15132,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731907,
+            "from_actor": 15132,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731908,
+            "from_actor": 15132,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731909,
+            "from_actor": 15132,
+            "to_actor": 15137,
+            "start": "1954-05-16",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526056,
+            "from_actor": 15132,
+            "to_actor": 14976,
+            "start": "1954-05-16",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526241,
+            "from_actor": 15132,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526425,
+            "from_actor": 15132,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526605,
+            "from_actor": 15132,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen (Rebild)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "15145": [
+        {
+            "id": 89295,
+            "from_actor": 15147,
+            "to_actor": 15145,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89436,
+            "from_actor": 15156,
+            "to_actor": 15145,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89801,
+            "from_actor": 15170,
+            "to_actor": 15145,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90019,
+            "from_actor": 15162,
+            "to_actor": 15145,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90347,
+            "from_actor": 15184,
+            "to_actor": 15145,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90743,
+            "from_actor": 15177,
+            "to_actor": 15145,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Th. Carlsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526063,
+            "from_actor": 15145,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526234,
+            "from_actor": 15145,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526418,
+            "from_actor": 15145,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526598,
+            "from_actor": 15145,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530354,
+            "from_actor": 15145,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530431,
+            "from_actor": 15145,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530507,
+            "from_actor": 15145,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Th. Carlsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

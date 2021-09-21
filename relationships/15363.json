@@ -1,0 +1,125 @@
+{
+    "15363": [
+        {
+            "id": 93694,
+            "from_actor": 15358,
+            "to_actor": 15363,
+            "start": "1962-09-27",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Alfred Gerholm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93697,
+            "from_actor": 15351,
+            "to_actor": 15363,
+            "start": "1962-09-27",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Gerholm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 94031,
+            "from_actor": 15378,
+            "to_actor": 15363,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Alfred Gerholm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94650,
+            "from_actor": 15390,
+            "to_actor": 15363,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Gerholm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124496,
+            "from_actor": 15397,
+            "to_actor": 15363,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Alfred Gerholm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527904,
+            "from_actor": 15363,
+            "to_actor": 15351,
+            "start": "1962-09-27",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528097,
+            "from_actor": 15363,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528297,
+            "from_actor": 15363,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531025,
+            "from_actor": 15363,
+            "to_actor": 15358,
+            "start": "1962-09-27",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531105,
+            "from_actor": 15363,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531188,
+            "from_actor": 15363,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Alfred Gerholm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

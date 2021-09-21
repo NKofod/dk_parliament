@@ -1,0 +1,125 @@
+{
+    "11418": [
+        {
+            "id": 42495,
+            "from_actor": 579,
+            "to_actor": 11418,
+            "start": "2010-07-01",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Henrik Bach Mortensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 43106,
+            "from_actor": 580,
+            "to_actor": 11418,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Henrik Bach Mortensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 49846,
+            "from_actor": 584,
+            "to_actor": 11418,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Henrik Bach Mortensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 49941,
+            "from_actor": 585,
+            "to_actor": 11418,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Henrik Bach Mortensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 53365,
+            "from_actor": 586,
+            "to_actor": 11418,
+            "start": "2010-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Henrik Bach Mortensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 42498,
+            "from_actor": 11418,
+            "to_actor": 579,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42499,
+            "from_actor": 11418,
+            "to_actor": 580,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42500,
+            "from_actor": 11418,
+            "to_actor": 586,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42501,
+            "from_actor": 11418,
+            "to_actor": 584,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42502,
+            "from_actor": 11418,
+            "to_actor": 585,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 60619,
+            "from_actor": 11418,
+            "to_actor": 13652,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Henrik Bach Mortensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        }
+    ]
+}

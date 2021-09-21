@@ -1,0 +1,279 @@
+{
+    "1963": [
+        {
+            "id": 19124,
+            "from_actor": 706,
+            "to_actor": 1963,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19255,
+            "from_actor": 755,
+            "to_actor": 1963,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24675,
+            "from_actor": 610,
+            "to_actor": 1963,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25105,
+            "from_actor": 756,
+            "to_actor": 1963,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27743,
+            "from_actor": 759,
+            "to_actor": 1963,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29163,
+            "from_actor": 981,
+            "to_actor": 1963,
+            "start": "2007-06-01",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Finansudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29362,
+            "from_actor": 740,
+            "to_actor": 1963,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29530,
+            "from_actor": 980,
+            "to_actor": 1963,
+            "start": "2007-06-01",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Finansudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35276,
+            "from_actor": 758,
+            "to_actor": 1963,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35340,
+            "from_actor": 1019,
+            "to_actor": 1963,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36759,
+            "from_actor": 757,
+            "to_actor": 1963,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Søren Koushede",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147654,
+            "from_actor": 1963,
+            "to_actor": 980,
+            "start": "2007-06-01",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147655,
+            "from_actor": 1963,
+            "to_actor": 981,
+            "start": "2007-06-01",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147656,
+            "from_actor": 1963,
+            "to_actor": 759,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147657,
+            "from_actor": 1963,
+            "to_actor": 755,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147658,
+            "from_actor": 1963,
+            "to_actor": 756,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147659,
+            "from_actor": 1963,
+            "to_actor": 610,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147660,
+            "from_actor": 1963,
+            "to_actor": 757,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147661,
+            "from_actor": 1963,
+            "to_actor": 740,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147662,
+            "from_actor": 1963,
+            "to_actor": 758,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147663,
+            "from_actor": 1963,
+            "to_actor": 1019,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147664,
+            "from_actor": 1963,
+            "to_actor": 706,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147665,
+            "from_actor": 1963,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147666,
+            "from_actor": 1963,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147667,
+            "from_actor": 1963,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Søren Koushede",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

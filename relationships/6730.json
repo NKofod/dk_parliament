@@ -1,0 +1,246 @@
+{
+    "6730": [
+        {
+            "id": 33386,
+            "from_actor": 1631,
+            "to_actor": 6730,
+            "start": "2008-09-04",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37738,
+            "from_actor": 1632,
+            "to_actor": 6730,
+            "start": "2008-09-04",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40145,
+            "from_actor": 1633,
+            "to_actor": 6730,
+            "start": "2008-09-04",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42909,
+            "from_actor": 1634,
+            "to_actor": 6730,
+            "start": "2010-10-05",
+            "end": "2010-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 44970,
+            "from_actor": 1624,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47777,
+            "from_actor": 1628,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47783,
+            "from_actor": 1625,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50191,
+            "from_actor": 1626,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53153,
+            "from_actor": 1627,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54145,
+            "from_actor": 13671,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 113007,
+            "from_actor": 15872,
+            "to_actor": 6730,
+            "start": "2011-01-01",
+            "end": "2018-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37074,
+            "from_actor": 6730,
+            "to_actor": 1631,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37075,
+            "from_actor": 6730,
+            "to_actor": 1632,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37076,
+            "from_actor": 6730,
+            "to_actor": 1633,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37077,
+            "from_actor": 6730,
+            "to_actor": 1634,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37078,
+            "from_actor": 6730,
+            "to_actor": 1624,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37079,
+            "from_actor": 6730,
+            "to_actor": 1625,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37080,
+            "from_actor": 6730,
+            "to_actor": 1626,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37081,
+            "from_actor": 6730,
+            "to_actor": 1627,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 37082,
+            "from_actor": 6730,
+            "to_actor": 1628,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 59104,
+            "from_actor": 6730,
+            "to_actor": 13671,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 2234877,
+            "from_actor": 6730,
+            "to_actor": 15872,
+            "start": "2015-01-01",
+            "end": "2018-12-31",
+            "role": "medlem",
+            "from_actor_name": "Lars L. Nielsen (udpeget af RV)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

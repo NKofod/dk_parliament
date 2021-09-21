@@ -1,0 +1,37 @@
+{
+    "10096": [
+        {
+            "id": 88498,
+            "from_actor": 14259,
+            "to_actor": 10096,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Stiig Wæver",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135543,
+            "from_actor": 10096,
+            "to_actor": 14945,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Stiig Wæver",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911307,
+            "from_actor": 10096,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Stiig Wæver",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

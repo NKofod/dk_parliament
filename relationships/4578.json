@@ -1,0 +1,136 @@
+{
+    "4578": [
+        {
+            "id": 43408,
+            "from_actor": 1063,
+            "to_actor": 4578,
+            "start": "2010-11-15",
+            "end": "2011-08-24",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43781,
+            "from_actor": 841,
+            "to_actor": 4578,
+            "start": "2010-11-11",
+            "end": "2011-09-09",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43896,
+            "from_actor": 893,
+            "to_actor": 4578,
+            "start": "2011-09-01",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45606,
+            "from_actor": 1813,
+            "to_actor": 4578,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49738,
+            "from_actor": 417,
+            "to_actor": 4578,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51422,
+            "from_actor": 324,
+            "to_actor": 4578,
+            "start": "2013-03-11",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mads Thelander",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44958,
+            "from_actor": 4578,
+            "to_actor": 1063,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44959,
+            "from_actor": 4578,
+            "to_actor": 893,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44960,
+            "from_actor": 4578,
+            "to_actor": 1813,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44961,
+            "from_actor": 4578,
+            "to_actor": 841,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44962,
+            "from_actor": 4578,
+            "to_actor": 324,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44963,
+            "from_actor": 4578,
+            "to_actor": 417,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mads Thelander",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "1113": [
+        {
+            "id": 72254,
+            "from_actor": 14431,
+            "to_actor": 1113,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72461,
+            "from_actor": 14450,
+            "to_actor": 1113,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72676,
+            "from_actor": 14457,
+            "to_actor": 1113,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73100,
+            "from_actor": 14478,
+            "to_actor": 1113,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74225,
+            "from_actor": 14523,
+            "to_actor": 1113,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74637,
+            "from_actor": 14546,
+            "to_actor": 1113,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Bentsen-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130729,
+            "from_actor": 1113,
+            "to_actor": 14473,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130827,
+            "from_actor": 1113,
+            "to_actor": 14491,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131282,
+            "from_actor": 1113,
+            "to_actor": 14556,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714419,
+            "from_actor": 1113,
+            "to_actor": 14538,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714562,
+            "from_actor": 1113,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714879,
+            "from_actor": 1113,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bentsen-Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

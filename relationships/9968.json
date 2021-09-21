@@ -1,0 +1,26 @@
+{
+    "9968": [
+        {
+            "id": 73907,
+            "from_actor": 14495,
+            "to_actor": 9968,
+            "start": "1981-12-08",
+            "end": "1982-01-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Bruun",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9538203,
+            "from_actor": 9968,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-01-20",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Bruun",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

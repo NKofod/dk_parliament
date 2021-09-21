@@ -1,0 +1,37 @@
+{
+    "9874": [
+        {
+            "id": 86775,
+            "from_actor": 14872,
+            "to_actor": 9874,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Egon Pleidrup Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135087,
+            "from_actor": 9874,
+            "to_actor": 14883,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Egon Pleidrup Poulsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588439,
+            "from_actor": 9874,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Egon Pleidrup Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

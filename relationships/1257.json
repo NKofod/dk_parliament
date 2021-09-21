@@ -1,0 +1,59 @@
+{
+    "1257": [
+        {
+            "id": 121200,
+            "from_actor": 14082,
+            "to_actor": 1257,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nana Mikkelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69890,
+            "from_actor": 1257,
+            "to_actor": 14272,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Nana Mikkelsen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69891,
+            "from_actor": 1257,
+            "to_actor": 14093,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Nana Mikkelsen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235551,
+            "from_actor": 1257,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Nana Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25878083,
+            "from_actor": 1257,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Nana Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

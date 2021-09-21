@@ -1,0 +1,114 @@
+{
+    "10348": [
+        {
+            "id": 72263,
+            "from_actor": 14431,
+            "to_actor": 10348,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hanne Alice Engberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72462,
+            "from_actor": 14450,
+            "to_actor": 10348,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Hanne Alice Engberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72685,
+            "from_actor": 14457,
+            "to_actor": 10348,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hanne Alice Engberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73109,
+            "from_actor": 14478,
+            "to_actor": 10348,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hanne Alice Engberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 142531,
+            "from_actor": 10348,
+            "to_actor": 14450,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 142532,
+            "from_actor": 10348,
+            "to_actor": 14473,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 142533,
+            "from_actor": 10348,
+            "to_actor": 14491,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 142534,
+            "from_actor": 10348,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 142536,
+            "from_actor": 10348,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714571,
+            "from_actor": 10348,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Hanne Alice Engberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

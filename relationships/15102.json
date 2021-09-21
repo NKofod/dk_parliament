@@ -1,0 +1,180 @@
+{
+    "15102": [
+        {
+            "id": 88683,
+            "from_actor": 14976,
+            "to_actor": 15102,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88922,
+            "from_actor": 15140,
+            "to_actor": 15102,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89266,
+            "from_actor": 15147,
+            "to_actor": 15102,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89305,
+            "from_actor": 15151,
+            "to_actor": 15102,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89670,
+            "from_actor": 15165,
+            "to_actor": 15102,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89991,
+            "from_actor": 15162,
+            "to_actor": 15102,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90216,
+            "from_actor": 15179,
+            "to_actor": 15102,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90715,
+            "from_actor": 15177,
+            "to_actor": 15102,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alvilda Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88929,
+            "from_actor": 15102,
+            "to_actor": 15140,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104107,
+            "from_actor": 15102,
+            "to_actor": 15151,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104108,
+            "from_actor": 15102,
+            "to_actor": 15165,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104109,
+            "from_actor": 15102,
+            "to_actor": 15179,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526024,
+            "from_actor": 15102,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526206,
+            "from_actor": 15102,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526390,
+            "from_actor": 15102,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526570,
+            "from_actor": 15102,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alvilda Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

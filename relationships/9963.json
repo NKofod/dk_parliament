@@ -1,0 +1,26 @@
+{
+    "9963": [
+        {
+            "id": 83183,
+            "from_actor": 14789,
+            "to_actor": 9963,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ulla Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133879,
+            "from_actor": 9963,
+            "to_actor": 14796,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ulla Kristensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

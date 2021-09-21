@@ -1,0 +1,81 @@
+{
+    "15611": [
+        {
+            "id": 100339,
+            "from_actor": 15609,
+            "to_actor": 15611,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Juel Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100412,
+            "from_actor": 15622,
+            "to_actor": 15611,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Børge Juel Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100697,
+            "from_actor": 15628,
+            "to_actor": 15611,
+            "start": "1971-10-05",
+            "end": "1971-10-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Juel Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100774,
+            "from_actor": 15631,
+            "to_actor": 15611,
+            "start": "1971-10-05",
+            "end": "1971-10-20",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Børge Juel Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131518,
+            "from_actor": 15611,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Børge Juel Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20131667,
+            "from_actor": 15611,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Børge Juel Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422702,
+            "from_actor": 15611,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1971-10-20",
+            "role": "medlem",
+            "from_actor_name": "Børge Juel Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

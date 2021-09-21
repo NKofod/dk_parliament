@@ -1,0 +1,81 @@
+{
+    "925": [
+        {
+            "id": 81876,
+            "from_actor": 14754,
+            "to_actor": 925,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83178,
+            "from_actor": 14789,
+            "to_actor": 925,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83608,
+            "from_actor": 14800,
+            "to_actor": 925,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133542,
+            "from_actor": 925,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Lise Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133865,
+            "from_actor": 925,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lise Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134160,
+            "from_actor": 925,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lise Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134332,
+            "from_actor": 925,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Lise Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

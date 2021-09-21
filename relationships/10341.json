@@ -1,0 +1,125 @@
+{
+    "10341": [
+        {
+            "id": 75115,
+            "from_actor": 14265,
+            "to_actor": 10341,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jytte Røge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75138,
+            "from_actor": 14085,
+            "to_actor": 10341,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jytte Røge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103396,
+            "from_actor": 15721,
+            "to_actor": 10341,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Røge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103471,
+            "from_actor": 15726,
+            "to_actor": 10341,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jytte Røge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121045,
+            "from_actor": 14082,
+            "to_actor": 10341,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Røge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834910,
+            "from_actor": 10341,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834911,
+            "from_actor": 10341,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834912,
+            "from_actor": 10341,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834914,
+            "from_actor": 10341,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834915,
+            "from_actor": 10341,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25877925,
+            "from_actor": 10341,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jytte Røge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

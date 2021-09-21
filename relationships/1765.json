@@ -1,0 +1,136 @@
+{
+    "1765": [
+        {
+            "id": 15029,
+            "from_actor": 612,
+            "to_actor": 1765,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16784,
+            "from_actor": 1222,
+            "to_actor": 1765,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18595,
+            "from_actor": 615,
+            "to_actor": 1765,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20000,
+            "from_actor": 587,
+            "to_actor": 1765,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25130,
+            "from_actor": 588,
+            "to_actor": 1765,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25371,
+            "from_actor": 833,
+            "to_actor": 1765,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Lone Boelt Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11221,
+            "from_actor": 1765,
+            "to_actor": 588,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11222,
+            "from_actor": 1765,
+            "to_actor": 1222,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11224,
+            "from_actor": 1765,
+            "to_actor": 615,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11225,
+            "from_actor": 1765,
+            "to_actor": 833,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11226,
+            "from_actor": 1765,
+            "to_actor": 587,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3069668,
+            "from_actor": 1765,
+            "to_actor": 612,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lone Boelt Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

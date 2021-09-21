@@ -1,0 +1,136 @@
+{
+    "367": [
+        {
+            "id": 49959,
+            "from_actor": 342,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Touborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 51077,
+            "from_actor": 318,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Karen Touborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51195,
+            "from_actor": 321,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Karen Touborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51310,
+            "from_actor": 322,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Karen Touborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51845,
+            "from_actor": 310,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Karen Touborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52088,
+            "from_actor": 1318,
+            "to_actor": 367,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Karen Touborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52576,
+            "from_actor": 367,
+            "to_actor": 1318,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52578,
+            "from_actor": 367,
+            "to_actor": 318,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52579,
+            "from_actor": 367,
+            "to_actor": 310,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52580,
+            "from_actor": 367,
+            "to_actor": 322,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52581,
+            "from_actor": 367,
+            "to_actor": 321,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1675267,
+            "from_actor": 367,
+            "to_actor": 342,
+            "start": "2013-04-04",
+            "end": "2013-04-15",
+            "role": "medlem",
+            "from_actor_name": "Karen Touborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

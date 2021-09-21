@@ -1,0 +1,59 @@
+{
+    "9939": [
+        {
+            "id": 83617,
+            "from_actor": 14800,
+            "to_actor": 9939,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ulla Solvang",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21414921,
+            "from_actor": 9939,
+            "to_actor": 14804,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ulla Solvang",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21414922,
+            "from_actor": 9939,
+            "to_actor": 14817,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Ulla Solvang",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21414923,
+            "from_actor": 9939,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Solvang",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21414924,
+            "from_actor": 9939,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Solvang",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1472": [
+        {
+            "id": 23813928,
+            "from_actor": 1472,
+            "to_actor": 14573,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Shirley H. Højbjerg",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23813929,
+            "from_actor": 1472,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Shirley H. Højbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

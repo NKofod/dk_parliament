@@ -1,0 +1,114 @@
+{
+    "15289": [
+        {
+            "id": 92430,
+            "from_actor": 15269,
+            "to_actor": 15289,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93941,
+            "from_actor": 15375,
+            "to_actor": 15289,
+            "start": "1963-07-06",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Peder Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94323,
+            "from_actor": 15394,
+            "to_actor": 15289,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Peder Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94640,
+            "from_actor": 15390,
+            "to_actor": 15289,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124295,
+            "from_actor": 15280,
+            "to_actor": 15289,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Peder Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119617,
+            "from_actor": 15289,
+            "to_actor": 15394,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Peder Jakobsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119618,
+            "from_actor": 15289,
+            "to_actor": 15375,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Peder Jakobsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527364,
+            "from_actor": 15289,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Peder Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528090,
+            "from_actor": 15289,
+            "to_actor": 15372,
+            "start": "1963-07-06",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Peder Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528286,
+            "from_actor": 15289,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Peder Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "1392": [
+        {
+            "id": 31068,
+            "from_actor": 428,
+            "to_actor": 1392,
+            "start": "2008-01-15",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pernille Søndergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31370,
+            "from_actor": 761,
+            "to_actor": 1392,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Pernille Søndergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31762,
+            "from_actor": 862,
+            "to_actor": 1392,
+            "start": "2008-01-15",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Pernille Søndergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 34112,
+            "from_actor": 812,
+            "to_actor": 1392,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Pernille Søndergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34362,
+            "from_actor": 474,
+            "to_actor": 1392,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Pernille Søndergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802962,
+            "from_actor": 1392,
+            "to_actor": 862,
+            "start": "2008-01-15",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Pernille Søndergaard",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22802963,
+            "from_actor": 1392,
+            "to_actor": 812,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Pernille Søndergaard",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802964,
+            "from_actor": 1392,
+            "to_actor": 761,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Pernille Søndergaard",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802965,
+            "from_actor": 1392,
+            "to_actor": 474,
+            "start": "2008-01-23",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Pernille Søndergaard",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802966,
+            "from_actor": 1392,
+            "to_actor": 428,
+            "start": "2008-01-15",
+            "end": "2008-01-28",
+            "role": "medlem",
+            "from_actor_name": "Pernille Søndergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

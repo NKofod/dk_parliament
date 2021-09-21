@@ -1,0 +1,26 @@
+{
+    "15386": [
+        {
+            "id": 5158690,
+            "from_actor": 15386,
+            "to_actor": 15374,
+            "start": "1963-04-04",
+            "end": "1963-06-24",
+            "role": "medlem",
+            "from_actor_name": "Else Gregersen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528114,
+            "from_actor": 15386,
+            "to_actor": 15372,
+            "start": "1963-04-04",
+            "end": "1963-06-24",
+            "role": "stedfortræder",
+            "from_actor_name": "Else Gregersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

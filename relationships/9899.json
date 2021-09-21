@@ -1,0 +1,125 @@
+{
+    "9899": [
+        {
+            "id": 83174,
+            "from_actor": 14789,
+            "to_actor": 9899,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Nøhr Skibsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83404,
+            "from_actor": 14800,
+            "to_actor": 9899,
+            "start": "1997-01-30",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Nøhr Skibsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83527,
+            "from_actor": 14807,
+            "to_actor": 9899,
+            "start": "1997-01-30",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Kim Nøhr Skibsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83799,
+            "from_actor": 14811,
+            "to_actor": 9899,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Nøhr Skibsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83921,
+            "from_actor": 14820,
+            "to_actor": 9899,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Kim Nøhr Skibsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 123514,
+            "from_actor": 9899,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 123515,
+            "from_actor": 9899,
+            "to_actor": 14807,
+            "start": "1997-01-30",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 123516,
+            "from_actor": 9899,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 123517,
+            "from_actor": 9899,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 123518,
+            "from_actor": 9899,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1995-09-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133861,
+            "from_actor": 9899,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kim Nøhr Skibsted",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

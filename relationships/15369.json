@@ -1,0 +1,125 @@
+{
+    "15369": [
+        {
+            "id": 93706,
+            "from_actor": 15351,
+            "to_actor": 15369,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "L. Qvist Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 94029,
+            "from_actor": 15378,
+            "to_actor": 15369,
+            "start": "1963-02-07",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "L. Qvist Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94642,
+            "from_actor": 15390,
+            "to_actor": 15369,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "L. Qvist Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124344,
+            "from_actor": 15358,
+            "to_actor": 15369,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "L. Qvist Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124495,
+            "from_actor": 15397,
+            "to_actor": 15369,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "L. Qvist Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527917,
+            "from_actor": 15369,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528092,
+            "from_actor": 15369,
+            "to_actor": 15372,
+            "start": "1963-02-07",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528288,
+            "from_actor": 15369,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531031,
+            "from_actor": 15369,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531104,
+            "from_actor": 15369,
+            "to_actor": 15378,
+            "start": "1963-02-07",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531187,
+            "from_actor": 15369,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "L. Qvist Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

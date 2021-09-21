@@ -1,0 +1,70 @@
+{
+    "1917": [
+        {
+            "id": 15030,
+            "from_actor": 612,
+            "to_actor": 1917,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Anne-Sofie Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18596,
+            "from_actor": 615,
+            "to_actor": 1917,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Anne-Sofie Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19999,
+            "from_actor": 587,
+            "to_actor": 1917,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Anne-Sofie Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18239,
+            "from_actor": 1917,
+            "to_actor": 587,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne-Sofie Jensen",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18241,
+            "from_actor": 1917,
+            "to_actor": 615,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne-Sofie Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3069669,
+            "from_actor": 1917,
+            "to_actor": 612,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne-Sofie Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

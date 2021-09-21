@@ -1,0 +1,125 @@
+{
+    "10127": [
+        {
+            "id": 78567,
+            "from_actor": 14663,
+            "to_actor": 10127,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78762,
+            "from_actor": 14676,
+            "to_actor": 10127,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83603,
+            "from_actor": 14800,
+            "to_actor": 10127,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 907562,
+            "from_actor": 10127,
+            "to_actor": 14819,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 907563,
+            "from_actor": 10127,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 907564,
+            "from_actor": 10127,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 907566,
+            "from_actor": 10127,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 907567,
+            "from_actor": 10127,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 907568,
+            "from_actor": 10127,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732841,
+            "from_actor": 10127,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4910916,
+            "from_actor": 10127,
+            "to_actor": 14806,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Johannes Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

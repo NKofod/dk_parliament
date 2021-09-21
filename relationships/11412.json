@@ -1,0 +1,202 @@
+{
+    "11412": [
+        {
+            "id": 42584,
+            "from_actor": 368,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 43157,
+            "from_actor": 581,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 43362,
+            "from_actor": 1065,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Kommission"
+        },
+        {
+            "id": 43654,
+            "from_actor": 767,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43700,
+            "from_actor": 473,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43766,
+            "from_actor": 841,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43931,
+            "from_actor": 893,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43932,
+            "from_actor": 893,
+            "to_actor": 11412,
+            "start": "2010-11-09",
+            "end": "2010-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44089,
+            "from_actor": 896,
+            "to_actor": 11412,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Anna Kirsten Olesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882529,
+            "from_actor": 11412,
+            "to_actor": 581,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882530,
+            "from_actor": 11412,
+            "to_actor": 1065,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22882531,
+            "from_actor": 11412,
+            "to_actor": 896,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882532,
+            "from_actor": 11412,
+            "to_actor": 841,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882533,
+            "from_actor": 11412,
+            "to_actor": 368,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882534,
+            "from_actor": 11412,
+            "to_actor": 473,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882535,
+            "from_actor": 11412,
+            "to_actor": 767,
+            "start": "2010-10-27",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882536,
+            "from_actor": 11412,
+            "to_actor": 893,
+            "start": "2010-10-27",
+            "end": "2010-11-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882537,
+            "from_actor": 11412,
+            "to_actor": 893,
+            "start": "2010-11-09",
+            "end": "2010-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Kirsten Olesen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

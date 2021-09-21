@@ -1,0 +1,136 @@
+{
+    "2109": [
+        {
+            "id": 17127,
+            "from_actor": 2095,
+            "to_actor": 2109,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19938,
+            "from_actor": 2096,
+            "to_actor": 2109,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23846,
+            "from_actor": 2097,
+            "to_actor": 2109,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30655,
+            "from_actor": 2100,
+            "to_actor": 2109,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36274,
+            "from_actor": 2098,
+            "to_actor": 2109,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37001,
+            "from_actor": 2099,
+            "to_actor": 2109,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Erik B. Smith (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17279,
+            "from_actor": 2109,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17280,
+            "from_actor": 2109,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17281,
+            "from_actor": 2109,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17282,
+            "from_actor": 2109,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17283,
+            "from_actor": 2109,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17284,
+            "from_actor": 2109,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Erik B. Smith (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

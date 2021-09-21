@@ -1,0 +1,136 @@
+{
+    "10374": [
+        {
+            "id": 100368,
+            "from_actor": 15609,
+            "to_actor": 10374,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100549,
+            "from_actor": 15630,
+            "to_actor": 10374,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100726,
+            "from_actor": 15628,
+            "to_actor": 10374,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101095,
+            "from_actor": 15639,
+            "to_actor": 10374,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101160,
+            "from_actor": 15641,
+            "to_actor": 10374,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101542,
+            "from_actor": 15651,
+            "to_actor": 10374,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101713,
+            "from_actor": 15649,
+            "to_actor": 10374,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Westergaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4678159,
+            "from_actor": 10374,
+            "to_actor": 15630,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harald Westergaard Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131547,
+            "from_actor": 10374,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Harald Westergaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422295,
+            "from_actor": 10374,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Harald Westergaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422489,
+            "from_actor": 10374,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harald Westergaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422684,
+            "from_actor": 10374,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harald Westergaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

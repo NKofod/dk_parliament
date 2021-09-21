@@ -1,0 +1,114 @@
+{
+    "10399": [
+        {
+            "id": 73901,
+            "from_actor": 14495,
+            "to_actor": 10399,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hove Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74299,
+            "from_actor": 14523,
+            "to_actor": 10399,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hove Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74710,
+            "from_actor": 14546,
+            "to_actor": 10399,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hove Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74880,
+            "from_actor": 14556,
+            "to_actor": 10399,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Erik Hove Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714654,
+            "from_actor": 10399,
+            "to_actor": 14518,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714655,
+            "from_actor": 10399,
+            "to_actor": 14538,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714656,
+            "from_actor": 10399,
+            "to_actor": 14556,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714658,
+            "from_actor": 10399,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714659,
+            "from_actor": 10399,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714952,
+            "from_actor": 10399,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Hove Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

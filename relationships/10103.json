@@ -1,0 +1,48 @@
+{
+    "10103": [
+        {
+            "id": 79138,
+            "from_actor": 14690,
+            "to_actor": 10103,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Ørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81856,
+            "from_actor": 14754,
+            "to_actor": 10103,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Ørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132660,
+            "from_actor": 10103,
+            "to_actor": 14695,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bjarne Ørum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133453,
+            "from_actor": 10103,
+            "to_actor": 14757,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bjarne Ørum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

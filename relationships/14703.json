@@ -1,0 +1,26 @@
+{
+    "14703": [
+        {
+            "id": 127014,
+            "from_actor": 14703,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Verner Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132670,
+            "from_actor": 14703,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Verner Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

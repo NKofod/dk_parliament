@@ -1,0 +1,191 @@
+{
+    "301": [
+        {
+            "id": 28437,
+            "from_actor": 628,
+            "to_actor": 301,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34415,
+            "from_actor": 626,
+            "to_actor": 301,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35308,
+            "from_actor": 629,
+            "to_actor": 301,
+            "start": "2006-10-04",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38330,
+            "from_actor": 627,
+            "to_actor": 301,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41202,
+            "from_actor": 948,
+            "to_actor": 301,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43778,
+            "from_actor": 841,
+            "to_actor": 301,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46604,
+            "from_actor": 6161,
+            "to_actor": 301,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48254,
+            "from_actor": 548,
+            "to_actor": 301,
+            "start": "2012-06-27",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljøudvalget",
+            "to_actor_name": "Klaus Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444398,
+            "from_actor": 301,
+            "to_actor": 628,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444399,
+            "from_actor": 301,
+            "to_actor": 629,
+            "start": "2006-10-04",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444400,
+            "from_actor": 301,
+            "to_actor": 626,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444401,
+            "from_actor": 301,
+            "to_actor": 627,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444402,
+            "from_actor": 301,
+            "to_actor": 948,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444403,
+            "from_actor": 301,
+            "to_actor": 841,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444404,
+            "from_actor": 301,
+            "to_actor": 6161,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444405,
+            "from_actor": 301,
+            "to_actor": 548,
+            "start": "2012-06-27",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444406,
+            "from_actor": 301,
+            "to_actor": 16861,
+            "start": "2017-01-13",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Klaus Andersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "1074": [
+        {
+            "id": 82789,
+            "from_actor": 14778,
+            "to_actor": 1074,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mads Lebech",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26393027,
+            "from_actor": 1074,
+            "to_actor": 14780,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mads Lebech",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26393028,
+            "from_actor": 1074,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Mads Lebech",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

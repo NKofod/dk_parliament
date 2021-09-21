@@ -1,0 +1,26 @@
+{
+    "15739": [
+        {
+            "id": 124772,
+            "from_actor": 15813,
+            "to_actor": 15739,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "kirkeministeren",
+            "to_actor_name": "Arne Fog Pedersen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21883143,
+            "from_actor": 15739,
+            "to_actor": 15813,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "Arne Fog Pedersen",
+            "to_actor_name": "kirkeministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

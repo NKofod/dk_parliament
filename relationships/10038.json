@@ -1,0 +1,70 @@
+{
+    "10038": [
+        {
+            "id": 80422,
+            "from_actor": 14720,
+            "to_actor": 10038,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alex Hilton",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80830,
+            "from_actor": 14730,
+            "to_actor": 10038,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alex Hilton",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225053,
+            "from_actor": 10038,
+            "to_actor": 14729,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Alex Hilton",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225054,
+            "from_actor": 10038,
+            "to_actor": 14739,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Alex Hilton",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225055,
+            "from_actor": 10038,
+            "to_actor": 14720,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Alex Hilton",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225056,
+            "from_actor": 10038,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Alex Hilton",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

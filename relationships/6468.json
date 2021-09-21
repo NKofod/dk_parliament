@@ -1,0 +1,290 @@
+{
+    "6468": [
+        {
+            "id": 30556,
+            "from_actor": 1630,
+            "to_actor": 6468,
+            "start": "2007-01-01",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33380,
+            "from_actor": 1631,
+            "to_actor": 6468,
+            "start": "2007-01-01",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36867,
+            "from_actor": 1629,
+            "to_actor": 6468,
+            "start": "2007-01-01",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37735,
+            "from_actor": 1632,
+            "to_actor": 6468,
+            "start": "2007-01-01",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40142,
+            "from_actor": 1633,
+            "to_actor": 6468,
+            "start": "2007-01-01",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42906,
+            "from_actor": 1634,
+            "to_actor": 6468,
+            "start": "2010-10-05",
+            "end": "2010-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 44967,
+            "from_actor": 1624,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47774,
+            "from_actor": 1628,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47780,
+            "from_actor": 1625,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50188,
+            "from_actor": 1626,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53150,
+            "from_actor": 1627,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54142,
+            "from_actor": 13671,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 113004,
+            "from_actor": 15872,
+            "to_actor": 6468,
+            "start": "2011-01-01",
+            "end": "2018-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Radios bestyrelse",
+            "to_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36855,
+            "from_actor": 6468,
+            "to_actor": 1629,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36856,
+            "from_actor": 6468,
+            "to_actor": 1630,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36857,
+            "from_actor": 6468,
+            "to_actor": 1631,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36858,
+            "from_actor": 6468,
+            "to_actor": 1632,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36859,
+            "from_actor": 6468,
+            "to_actor": 1633,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36860,
+            "from_actor": 6468,
+            "to_actor": 1634,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36861,
+            "from_actor": 6468,
+            "to_actor": 1624,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36862,
+            "from_actor": 6468,
+            "to_actor": 1625,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36863,
+            "from_actor": 6468,
+            "to_actor": 1626,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36864,
+            "from_actor": 6468,
+            "to_actor": 1627,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 36865,
+            "from_actor": 6468,
+            "to_actor": 1628,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 58813,
+            "from_actor": 6468,
+            "to_actor": 13671,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 2234876,
+            "from_actor": 6468,
+            "to_actor": 15872,
+            "start": "2015-01-01",
+            "end": "2015-11-12",
+            "role": "medlem",
+            "from_actor_name": "Ole Hyltoft (udpeget af DF)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

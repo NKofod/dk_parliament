@@ -1,0 +1,180 @@
+{
+    "658": [
+        {
+            "id": 1016,
+            "from_actor": 485,
+            "to_actor": 658,
+            "start": "2005-10-05",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Kommission"
+        },
+        {
+            "id": 19512,
+            "from_actor": 478,
+            "to_actor": 658,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24108,
+            "from_actor": 480,
+            "to_actor": 658,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Kommission"
+        },
+        {
+            "id": 24452,
+            "from_actor": 481,
+            "to_actor": 658,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29410,
+            "from_actor": 482,
+            "to_actor": 658,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29975,
+            "from_actor": 483,
+            "to_actor": 658,
+            "start": "2005-10-05",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Kommission"
+        },
+        {
+            "id": 32851,
+            "from_actor": 465,
+            "to_actor": 658,
+            "start": "2007-11-28",
+            "end": "2008-07-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Kommission"
+        },
+        {
+            "id": 34452,
+            "from_actor": 484,
+            "to_actor": 658,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Dorte Neimann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2858744,
+            "from_actor": 658,
+            "to_actor": 465,
+            "start": "2007-11-28",
+            "end": "2008-07-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 3033546,
+            "from_actor": 658,
+            "to_actor": 481,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3033595,
+            "from_actor": 658,
+            "to_actor": 484,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3033733,
+            "from_actor": 658,
+            "to_actor": 482,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3368861,
+            "from_actor": 658,
+            "to_actor": 478,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6312200,
+            "from_actor": 658,
+            "to_actor": 480,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312287,
+            "from_actor": 658,
+            "to_actor": 483,
+            "start": "2005-10-05",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312368,
+            "from_actor": 658,
+            "to_actor": 485,
+            "start": "2005-10-05",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dorte Neimann",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

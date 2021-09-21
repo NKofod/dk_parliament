@@ -1,0 +1,301 @@
+{
+    "15159": [
+        {
+            "id": 90028,
+            "from_actor": 15162,
+            "to_actor": 15159,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91687,
+            "from_actor": 15231,
+            "to_actor": 15159,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93700,
+            "from_actor": 15351,
+            "to_actor": 15159,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 94028,
+            "from_actor": 15378,
+            "to_actor": 15159,
+            "start": "1962-12-06",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94637,
+            "from_actor": 15390,
+            "to_actor": 15159,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124246,
+            "from_actor": 15156,
+            "to_actor": 15159,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124255,
+            "from_actor": 15170,
+            "to_actor": 15159,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124265,
+            "from_actor": 15184,
+            "to_actor": 15159,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124274,
+            "from_actor": 15243,
+            "to_actor": 15159,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124286,
+            "from_actor": 15264,
+            "to_actor": 15159,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124347,
+            "from_actor": 15358,
+            "to_actor": 15159,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124494,
+            "from_actor": 15397,
+            "to_actor": 15159,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudy Schrøder",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526246,
+            "from_actor": 15159,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526428,
+            "from_actor": 15159,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526617,
+            "from_actor": 15159,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526983,
+            "from_actor": 15159,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527911,
+            "from_actor": 15159,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528087,
+            "from_actor": 15159,
+            "to_actor": 15372,
+            "start": "1962-12-06",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528283,
+            "from_actor": 15159,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530357,
+            "from_actor": 15159,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530434,
+            "from_actor": 15159,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530512,
+            "from_actor": 15159,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530653,
+            "from_actor": 15159,
+            "to_actor": 15243,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530724,
+            "from_actor": 15159,
+            "to_actor": 15264,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531034,
+            "from_actor": 15159,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531103,
+            "from_actor": 15159,
+            "to_actor": 15378,
+            "start": "1962-12-06",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531186,
+            "from_actor": 15159,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Rudy Schrøder",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

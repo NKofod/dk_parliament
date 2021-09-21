@@ -1,0 +1,37 @@
+{
+    "1036": [
+        {
+            "id": 86785,
+            "from_actor": 14872,
+            "to_actor": 1036,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Saaby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22210485,
+            "from_actor": 1036,
+            "to_actor": 14879,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lone Saaby",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22210486,
+            "from_actor": 1036,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Lone Saaby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

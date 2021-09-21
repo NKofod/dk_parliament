@@ -1,0 +1,37 @@
+{
+    "14252": [
+        {
+            "id": 70683,
+            "from_actor": 14084,
+            "to_actor": 14252,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Carl Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121176,
+            "from_actor": 14082,
+            "to_actor": 14252,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235527,
+            "from_actor": 14252,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

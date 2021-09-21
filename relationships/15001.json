@@ -1,0 +1,147 @@
+{
+    "15001": [
+        {
+            "id": 88556,
+            "from_actor": 14976,
+            "to_actor": 15001,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88870,
+            "from_actor": 15137,
+            "to_actor": 15001,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89165,
+            "from_actor": 15147,
+            "to_actor": 15001,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89479,
+            "from_actor": 15158,
+            "to_actor": 15001,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89842,
+            "from_actor": 15172,
+            "to_actor": 15001,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89890,
+            "from_actor": 15162,
+            "to_actor": 15001,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90569,
+            "from_actor": 15186,
+            "to_actor": 15001,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Givskov Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 442905,
+            "from_actor": 15001,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 442906,
+            "from_actor": 15001,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 442907,
+            "from_actor": 15001,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525921,
+            "from_actor": 15001,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526106,
+            "from_actor": 15001,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526290,
+            "from_actor": 15001,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Givskov Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

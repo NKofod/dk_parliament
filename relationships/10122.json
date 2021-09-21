@@ -1,0 +1,26 @@
+{
+    "10122": [
+        {
+            "id": 79191,
+            "from_actor": 10122,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Hauberg Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714684,
+            "from_actor": 10122,
+            "to_actor": 14594,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Søren Hauberg Nielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

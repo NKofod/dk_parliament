@@ -1,0 +1,26 @@
+{
+    "10092": [
+        {
+            "id": 87157,
+            "from_actor": 14897,
+            "to_actor": 10092,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hanne Lauritsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892930,
+            "from_actor": 10092,
+            "to_actor": 14907,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Hanne Lauritsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

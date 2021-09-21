@@ -1,0 +1,37 @@
+{
+    "15996": [
+        {
+            "id": 126376,
+            "from_actor": 15877,
+            "to_actor": 15996,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Christian Willer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423123,
+            "from_actor": 15996,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christian Willer",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423124,
+            "from_actor": 15996,
+            "to_actor": 15877,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christian Willer",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

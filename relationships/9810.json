@@ -1,0 +1,213 @@
+{
+    "9810": [
+        {
+            "id": 84533,
+            "from_actor": 14839,
+            "to_actor": 9810,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84870,
+            "from_actor": 14851,
+            "to_actor": 9810,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85328,
+            "from_actor": 14841,
+            "to_actor": 9810,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85580,
+            "from_actor": 14855,
+            "to_actor": 9810,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85782,
+            "from_actor": 14865,
+            "to_actor": 9810,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86022,
+            "from_actor": 14872,
+            "to_actor": 9810,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86718,
+            "from_actor": 14888,
+            "to_actor": 9810,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86952,
+            "from_actor": 14897,
+            "to_actor": 9810,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87106,
+            "from_actor": 14914,
+            "to_actor": 9810,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Jóannes Eidesgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593798,
+            "from_actor": 9810,
+            "to_actor": 14839,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593799,
+            "from_actor": 9810,
+            "to_actor": 14851,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593800,
+            "from_actor": 9810,
+            "to_actor": 14865,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593801,
+            "from_actor": 9810,
+            "to_actor": 14888,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593802,
+            "from_actor": 9810,
+            "to_actor": 14914,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18593803,
+            "from_actor": 9810,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18593804,
+            "from_actor": 9810,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18593805,
+            "from_actor": 9810,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18593806,
+            "from_actor": 9810,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18593807,
+            "from_actor": 9810,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jóannes Eidesgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "15536": [
+        {
+            "id": 98252,
+            "from_actor": 15533,
+            "to_actor": 15536,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98339,
+            "from_actor": 15549,
+            "to_actor": 15536,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98615,
+            "from_actor": 15557,
+            "to_actor": 15536,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98710,
+            "from_actor": 15562,
+            "to_actor": 15536,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99037,
+            "from_actor": 15574,
+            "to_actor": 15536,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99133,
+            "from_actor": 15579,
+            "to_actor": 15536,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99431,
+            "from_actor": 15591,
+            "to_actor": 15536,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99532,
+            "from_actor": 15598,
+            "to_actor": 15536,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Helge von Rosen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107522,
+            "from_actor": 15536,
+            "to_actor": 15549,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107523,
+            "from_actor": 15536,
+            "to_actor": 15562,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107524,
+            "from_actor": 15536,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107525,
+            "from_actor": 15536,
+            "to_actor": 15598,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529576,
+            "from_actor": 15536,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529754,
+            "from_actor": 15536,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529946,
+            "from_actor": 15536,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530142,
+            "from_actor": 15536,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Helge von Rosen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

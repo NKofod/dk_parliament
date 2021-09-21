@@ -1,0 +1,59 @@
+{
+    "10039": [
+        {
+            "id": 82776,
+            "from_actor": 14778,
+            "to_actor": 10039,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Thye-Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1203881,
+            "from_actor": 10039,
+            "to_actor": 14787,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Birgit Thye-Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1203882,
+            "from_actor": 10039,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Birgit Thye-Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1203883,
+            "from_actor": 10039,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Birgit Thye-Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893297,
+            "from_actor": 10039,
+            "to_actor": 14824,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Birgit Thye-Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

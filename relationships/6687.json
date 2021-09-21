@@ -1,0 +1,136 @@
+{
+    "6687": [
+        {
+            "id": 31074,
+            "from_actor": 428,
+            "to_actor": 6687,
+            "start": "2007-12-04",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31429,
+            "from_actor": 623,
+            "to_actor": 6687,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31620,
+            "from_actor": 707,
+            "to_actor": 6687,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31923,
+            "from_actor": 6718,
+            "to_actor": 6687,
+            "start": "2007-12-04",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Sambandsflokkurin",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 33330,
+            "from_actor": 456,
+            "to_actor": 6687,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Kommission"
+        },
+        {
+            "id": 35143,
+            "from_actor": 622,
+            "to_actor": 6687,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Kaj Leo Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802928,
+            "from_actor": 6687,
+            "to_actor": 6718,
+            "start": "2007-12-04",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Sambandsflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22802929,
+            "from_actor": 6687,
+            "to_actor": 707,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802930,
+            "from_actor": 6687,
+            "to_actor": 622,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802931,
+            "from_actor": 6687,
+            "to_actor": 456,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 22802932,
+            "from_actor": 6687,
+            "to_actor": 623,
+            "start": "2007-12-05",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22802933,
+            "from_actor": 6687,
+            "to_actor": 428,
+            "start": "2007-12-04",
+            "end": "2007-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kaj Leo Johannesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

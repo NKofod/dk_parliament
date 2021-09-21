@@ -1,0 +1,92 @@
+{
+    "3056": [
+        {
+            "id": 18253,
+            "from_actor": 1096,
+            "to_actor": 3056,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Karin Riis-Jørgensen (V)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 19778,
+            "from_actor": 1097,
+            "to_actor": 3056,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Karin Riis-Jørgensen (V)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 24263,
+            "from_actor": 1098,
+            "to_actor": 3056,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Karin Riis-Jørgensen (V)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 30019,
+            "from_actor": 1099,
+            "to_actor": 3056,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Karin Riis-Jørgensen (V)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 18400,
+            "from_actor": 3056,
+            "to_actor": 1096,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karin Riis-Jørgensen (V)",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 18401,
+            "from_actor": 3056,
+            "to_actor": 1097,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karin Riis-Jørgensen (V)",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 18402,
+            "from_actor": 3056,
+            "to_actor": 1098,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karin Riis-Jørgensen (V)",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 18403,
+            "from_actor": 3056,
+            "to_actor": 1099,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karin Riis-Jørgensen (V)",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        }
+    ]
+}

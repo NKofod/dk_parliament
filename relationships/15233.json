@@ -1,0 +1,92 @@
+{
+    "15233": [
+        {
+            "id": 91495,
+            "from_actor": 15231,
+            "to_actor": 15233,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gudrun Bjørner",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91515,
+            "from_actor": 15239,
+            "to_actor": 15233,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Gudrun Bjørner",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91864,
+            "from_actor": 15251,
+            "to_actor": 15233,
+            "start": "1958-10-07",
+            "end": "1959-08-19",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gudrun Bjørner",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91916,
+            "from_actor": 15259,
+            "to_actor": 15233,
+            "start": "1958-10-07",
+            "end": "1959-08-19",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Gudrun Bjørner",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 193958,
+            "from_actor": 15233,
+            "to_actor": 15259,
+            "start": "1958-10-07",
+            "end": "1959-08-19",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Bjørner",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 193959,
+            "from_actor": 15233,
+            "to_actor": 15239,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Bjørner",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526970,
+            "from_actor": 15233,
+            "to_actor": 15231,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Bjørner",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527171,
+            "from_actor": 15233,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-08-19",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Bjørner",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

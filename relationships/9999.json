@@ -1,0 +1,37 @@
+{
+    "9999": [
+        {
+            "id": 78757,
+            "from_actor": 14676,
+            "to_actor": 9999,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birger Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132513,
+            "from_actor": 9999,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Birger Christensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 137400,
+            "from_actor": 9999,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Birger Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

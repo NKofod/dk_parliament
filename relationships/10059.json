@@ -1,0 +1,136 @@
+{
+    "10059": [
+        {
+            "id": 83163,
+            "from_actor": 14789,
+            "to_actor": 10059,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Rostbøll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83403,
+            "from_actor": 14800,
+            "to_actor": 10059,
+            "start": "1996-10-03",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Rostbøll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83441,
+            "from_actor": 14803,
+            "to_actor": 10059,
+            "start": "1996-10-03",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Grethe Rostbøll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83800,
+            "from_actor": 14811,
+            "to_actor": 10059,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Rostbøll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83835,
+            "from_actor": 14816,
+            "to_actor": 10059,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Grethe Rostbøll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26853496,
+            "from_actor": 10059,
+            "to_actor": 14816,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26853497,
+            "from_actor": 10059,
+            "to_actor": 14803,
+            "start": "1996-10-03",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26853498,
+            "from_actor": 10059,
+            "to_actor": 14722,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26853499,
+            "from_actor": 10059,
+            "to_actor": 14800,
+            "start": "1996-10-03",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26853500,
+            "from_actor": 10059,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26853502,
+            "from_actor": 10059,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27186471,
+            "from_actor": 10059,
+            "to_actor": 52,
+            "start": "1990-12-18",
+            "end": "1993-01-25",
+            "role": "Minister",
+            "from_actor_name": "Grethe Rostbøll",
+            "to_actor_name": "kulturministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

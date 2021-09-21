@@ -1,0 +1,92 @@
+{
+    "14409": [
+        {
+            "id": 71454,
+            "from_actor": 14403,
+            "to_actor": 14409,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Helga Soltau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71730,
+            "from_actor": 14387,
+            "to_actor": 14409,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helga Soltau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73164,
+            "from_actor": 14478,
+            "to_actor": 14409,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helga Soltau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73180,
+            "from_actor": 14485,
+            "to_actor": 14409,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Helga Soltau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125228,
+            "from_actor": 14409,
+            "to_actor": 14485,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Helga Soltau",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125229,
+            "from_actor": 14409,
+            "to_actor": 14403,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Helga Soltau",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125231,
+            "from_actor": 14409,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Helga Soltau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714626,
+            "from_actor": 14409,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Helga Soltau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

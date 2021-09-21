@@ -1,0 +1,125 @@
+{
+    "15253": [
+        {
+            "id": 91893,
+            "from_actor": 15251,
+            "to_actor": 15253,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Barfoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92230,
+            "from_actor": 15269,
+            "to_actor": 15253,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Barfoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92286,
+            "from_actor": 15280,
+            "to_actor": 15253,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Anna Barfoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92598,
+            "from_actor": 15290,
+            "to_actor": 15253,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anna Barfoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92654,
+            "from_actor": 15293,
+            "to_actor": 15253,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Anna Barfoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158863,
+            "from_actor": 15253,
+            "to_actor": 15280,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158864,
+            "from_actor": 15253,
+            "to_actor": 15293,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158865,
+            "from_actor": 15253,
+            "to_actor": 15261,
+            "start": "1959-07-15",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527157,
+            "from_actor": 15253,
+            "to_actor": 15251,
+            "start": "1959-07-15",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527343,
+            "from_actor": 15253,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527531,
+            "from_actor": 15253,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anna Barfoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

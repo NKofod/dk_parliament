@@ -1,0 +1,136 @@
+{
+    "635": [
+        {
+            "id": 931,
+            "from_actor": 20,
+            "to_actor": 635,
+            "start": "2014-08-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 932,
+            "from_actor": 104,
+            "to_actor": 635,
+            "start": "2014-08-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64020,
+            "from_actor": 5163,
+            "to_actor": 635,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 125302,
+            "from_actor": 15908,
+            "to_actor": 635,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128605,
+            "from_actor": 16037,
+            "to_actor": 635,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702423,
+            "from_actor": 635,
+            "to_actor": 16037,
+            "start": "2015-10-07",
+            "end": "2016-01-19",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702424,
+            "from_actor": 635,
+            "to_actor": 5167,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702426,
+            "from_actor": 635,
+            "to_actor": 104,
+            "start": "2014-08-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702427,
+            "from_actor": 635,
+            "to_actor": 20,
+            "start": "2014-08-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5945565,
+            "from_actor": 635,
+            "to_actor": 15908,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6197172,
+            "from_actor": 635,
+            "to_actor": 16868,
+            "start": "2017-08-15",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10972096,
+            "from_actor": 635,
+            "to_actor": 17655,
+            "start": "2017-10-04",
+            "end": "2018-09-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

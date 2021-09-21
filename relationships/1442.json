@@ -1,0 +1,26 @@
+{
+    "1442": [
+        {
+            "id": 81482,
+            "from_actor": 1442,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Erik Iversen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131738,
+            "from_actor": 1442,
+            "to_actor": 14599,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Iversen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "14389": [
+        {
+            "id": 71675,
+            "from_actor": 14387,
+            "to_actor": 14389,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71944,
+            "from_actor": 14415,
+            "to_actor": 14389,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72089,
+            "from_actor": 14424,
+            "to_actor": 14389,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72511,
+            "from_actor": 14431,
+            "to_actor": 14389,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72736,
+            "from_actor": 14457,
+            "to_actor": 14389,
+            "start": "1981-01-22",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73154,
+            "from_actor": 14478,
+            "to_actor": 14389,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75031,
+            "from_actor": 14490,
+            "to_actor": 14389,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Per Blendstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508952,
+            "from_actor": 14389,
+            "to_actor": 14537,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508953,
+            "from_actor": 14389,
+            "to_actor": 14392,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508954,
+            "from_actor": 14389,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508955,
+            "from_actor": 14389,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508956,
+            "from_actor": 14389,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508957,
+            "from_actor": 14389,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 508958,
+            "from_actor": 14389,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 508959,
+            "from_actor": 14389,
+            "to_actor": 14387,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 508960,
+            "from_actor": 14389,
+            "to_actor": 14457,
+            "start": "1981-01-22",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 508962,
+            "from_actor": 14389,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714616,
+            "from_actor": 14389,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714981,
+            "from_actor": 14389,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Per Blendstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

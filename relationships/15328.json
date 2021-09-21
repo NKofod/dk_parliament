@@ -1,0 +1,169 @@
+{
+    "15328": [
+        {
+            "id": 93134,
+            "from_actor": 15303,
+            "to_actor": 15328,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93327,
+            "from_actor": 15347,
+            "to_actor": 15328,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93498,
+            "from_actor": 15351,
+            "to_actor": 15328,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93516,
+            "from_actor": 15353,
+            "to_actor": 15328,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93905,
+            "from_actor": 15374,
+            "to_actor": 15328,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94287,
+            "from_actor": 15393,
+            "to_actor": 15328,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94622,
+            "from_actor": 15390,
+            "to_actor": 15328,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Grøndahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914136,
+            "from_actor": 15328,
+            "to_actor": 15374,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914137,
+            "from_actor": 15328,
+            "to_actor": 15393,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914138,
+            "from_actor": 15328,
+            "to_actor": 15347,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914139,
+            "from_actor": 15328,
+            "to_actor": 15353,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914140,
+            "from_actor": 15328,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914141,
+            "from_actor": 15328,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914142,
+            "from_actor": 15328,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914143,
+            "from_actor": 15328,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Axel Grøndahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

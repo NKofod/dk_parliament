@@ -1,0 +1,114 @@
+{
+    "1272": [
+        {
+            "id": 71042,
+            "from_actor": 14338,
+            "to_actor": 1272,
+            "start": "1978-08-02",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Kallesøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71669,
+            "from_actor": 14387,
+            "to_actor": 1272,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Kallesøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71938,
+            "from_actor": 14415,
+            "to_actor": 1272,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Kallesøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71984,
+            "from_actor": 14419,
+            "to_actor": 1272,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Kallesøe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 73157,
+            "from_actor": 14478,
+            "to_actor": 1272,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Kallesøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69330,
+            "from_actor": 1272,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Kallesøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128850,
+            "from_actor": 1272,
+            "to_actor": 14360,
+            "start": "1978-08-02",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Kallesøe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129076,
+            "from_actor": 1272,
+            "to_actor": 14395,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Niels Kallesøe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714619,
+            "from_actor": 1272,
+            "to_actor": 14478,
+            "start": "1981-10-08",
+            "end": "1981-10-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Kallesøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714653,
+            "from_actor": 1272,
+            "to_actor": 14486,
+            "start": "1981-10-08",
+            "end": "1981-10-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Kallesøe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

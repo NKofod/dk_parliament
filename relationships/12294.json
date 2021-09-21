@@ -1,0 +1,26 @@
+{
+    "12294": [
+        {
+            "id": 48710,
+            "from_actor": 411,
+            "to_actor": 12294,
+            "start": "2011-10-07",
+            "end": "2012-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Laura Bolt Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49311,
+            "from_actor": 12294,
+            "to_actor": 411,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Laura Bolt Sørensen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

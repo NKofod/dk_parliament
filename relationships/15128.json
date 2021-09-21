@@ -1,0 +1,257 @@
+{
+    "15128": [
+        {
+            "id": 88713,
+            "from_actor": 14976,
+            "to_actor": 15128,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88938,
+            "from_actor": 15142,
+            "to_actor": 15128,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89293,
+            "from_actor": 15147,
+            "to_actor": 15128,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89442,
+            "from_actor": 15157,
+            "to_actor": 15128,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89805,
+            "from_actor": 15171,
+            "to_actor": 15128,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90017,
+            "from_actor": 15162,
+            "to_actor": 15128,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90532,
+            "from_actor": 15185,
+            "to_actor": 15128,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90741,
+            "from_actor": 15177,
+            "to_actor": 15128,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91078,
+            "from_actor": 15190,
+            "to_actor": 15128,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91451,
+            "from_actor": 15231,
+            "to_actor": 15128,
+            "start": "1957-10-01",
+            "end": "1957-11-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91635,
+            "from_actor": 15244,
+            "to_actor": 15128,
+            "start": "1957-10-01",
+            "end": "1957-11-01",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Frederik Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106644,
+            "from_actor": 15128,
+            "to_actor": 15142,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106645,
+            "from_actor": 15128,
+            "to_actor": 15157,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106646,
+            "from_actor": 15128,
+            "to_actor": 15171,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106647,
+            "from_actor": 15128,
+            "to_actor": 15185,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106648,
+            "from_actor": 15128,
+            "to_actor": 15228,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106649,
+            "from_actor": 15128,
+            "to_actor": 15244,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526051,
+            "from_actor": 15128,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526232,
+            "from_actor": 15128,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526416,
+            "from_actor": 15128,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526596,
+            "from_actor": 15128,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526753,
+            "from_actor": 15128,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526980,
+            "from_actor": 15128,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1957-11-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

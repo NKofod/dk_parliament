@@ -1,0 +1,70 @@
+{
+    "9983": [
+        {
+            "id": 81452,
+            "from_actor": 14742,
+            "to_actor": 9983,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Greve",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81853,
+            "from_actor": 14754,
+            "to_actor": 9983,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Greve",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85386,
+            "from_actor": 14841,
+            "to_actor": 9983,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Greve",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133537,
+            "from_actor": 9983,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bent Greve",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750716,
+            "from_actor": 9983,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Greve",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893244,
+            "from_actor": 9983,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Greve",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

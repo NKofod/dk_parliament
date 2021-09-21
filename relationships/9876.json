@@ -1,0 +1,59 @@
+{
+    "9876": [
+        {
+            "id": 75513,
+            "from_actor": 14564,
+            "to_actor": 9876,
+            "start": "1984-01-10",
+            "end": "1984-03-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Baunsbak-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75578,
+            "from_actor": 14573,
+            "to_actor": 9876,
+            "start": "1984-01-10",
+            "end": "1984-03-14",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Asger Baunsbak-Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124282,
+            "from_actor": 15262,
+            "to_actor": 9876,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Asger Baunsbak-Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714726,
+            "from_actor": 9876,
+            "to_actor": 14573,
+            "start": "1984-01-10",
+            "end": "1984-03-14",
+            "role": "medlem",
+            "from_actor_name": "Asger Baunsbak-Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527176,
+            "from_actor": 9876,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Asger Baunsbak-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

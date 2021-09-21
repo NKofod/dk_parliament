@@ -1,0 +1,224 @@
+{
+    "9893": [
+        {
+            "id": 84352,
+            "from_actor": 14825,
+            "to_actor": 9893,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84372,
+            "from_actor": 14831,
+            "to_actor": 9893,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84742,
+            "from_actor": 14843,
+            "to_actor": 9893,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85323,
+            "from_actor": 14841,
+            "to_actor": 9893,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85575,
+            "from_actor": 14855,
+            "to_actor": 9893,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85655,
+            "from_actor": 14857,
+            "to_actor": 9893,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86017,
+            "from_actor": 14872,
+            "to_actor": 9893,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86071,
+            "from_actor": 14878,
+            "to_actor": 9893,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86947,
+            "from_actor": 14897,
+            "to_actor": 9893,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86981,
+            "from_actor": 14900,
+            "to_actor": 9893,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Svend Aage Fauerholdt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556602,
+            "from_actor": 9893,
+            "to_actor": 14857,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556603,
+            "from_actor": 9893,
+            "to_actor": 14878,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556604,
+            "from_actor": 9893,
+            "to_actor": 14900,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556605,
+            "from_actor": 9893,
+            "to_actor": 14831,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556606,
+            "from_actor": 9893,
+            "to_actor": 14843,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556608,
+            "from_actor": 9893,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 556609,
+            "from_actor": 9893,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 556610,
+            "from_actor": 9893,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588407,
+            "from_actor": 9893,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594793,
+            "from_actor": 9893,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Fauerholdt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

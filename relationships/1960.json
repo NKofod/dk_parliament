@@ -1,0 +1,26 @@
+{
+    "1960": [
+        {
+            "id": 15682,
+            "from_actor": 921,
+            "to_actor": 1960,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Jannie Wagner",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3315139,
+            "from_actor": 1960,
+            "to_actor": 921,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Jannie Wagner",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

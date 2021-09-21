@@ -1,0 +1,59 @@
+{
+    "10021": [
+        {
+            "id": 80843,
+            "from_actor": 14730,
+            "to_actor": 10021,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen From",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81872,
+            "from_actor": 14754,
+            "to_actor": 10021,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen From",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133215,
+            "from_actor": 10021,
+            "to_actor": 14739,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Karen From",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750758,
+            "from_actor": 10021,
+            "to_actor": 14762,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Karen From",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911713,
+            "from_actor": 10021,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen From",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "1307": [
+        {
+            "id": 72515,
+            "from_actor": 14431,
+            "to_actor": 1307,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ninna E. Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72734,
+            "from_actor": 14457,
+            "to_actor": 1307,
+            "start": "1981-04-09",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ninna E. Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73148,
+            "from_actor": 14478,
+            "to_actor": 1307,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ninna E. Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73235,
+            "from_actor": 14488,
+            "to_actor": 1307,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ninna E. Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3720002,
+            "from_actor": 1307,
+            "to_actor": 14469,
+            "start": "1981-04-09",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3720003,
+            "from_actor": 1307,
+            "to_actor": 14488,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3720004,
+            "from_actor": 1307,
+            "to_actor": 14447,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3720005,
+            "from_actor": 1307,
+            "to_actor": 14457,
+            "start": "1981-04-09",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 3720007,
+            "from_actor": 1307,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714610,
+            "from_actor": 1307,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ninna E. Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

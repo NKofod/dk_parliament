@@ -1,0 +1,158 @@
+{
+    "5151": [
+        {
+            "id": 25995,
+            "from_actor": 976,
+            "to_actor": 5151,
+            "start": "2008-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32584,
+            "from_actor": 971,
+            "to_actor": 5151,
+            "start": "2008-05-30",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39821,
+            "from_actor": 972,
+            "to_actor": 5151,
+            "start": "2008-05-30",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42825,
+            "from_actor": 973,
+            "to_actor": 5151,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47643,
+            "from_actor": 977,
+            "to_actor": 5151,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47714,
+            "from_actor": 974,
+            "to_actor": 5151,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50444,
+            "from_actor": 975,
+            "to_actor": 5151,
+            "start": "2010-10-05",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans L. Hansen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36896,
+            "from_actor": 5151,
+            "to_actor": 976,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36897,
+            "from_actor": 5151,
+            "to_actor": 971,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36898,
+            "from_actor": 5151,
+            "to_actor": 972,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36899,
+            "from_actor": 5151,
+            "to_actor": 973,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36900,
+            "from_actor": 5151,
+            "to_actor": 974,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36901,
+            "from_actor": 5151,
+            "to_actor": 975,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36902,
+            "from_actor": 5151,
+            "to_actor": 977,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans L. Hansen (udpeget af V)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

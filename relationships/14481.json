@@ -1,0 +1,37 @@
+{
+    "14481": [
+        {
+            "id": 73158,
+            "from_actor": 14478,
+            "to_actor": 14481,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nancy Rørbæk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130766,
+            "from_actor": 14481,
+            "to_actor": 14487,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Nancy Rørbæk",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714620,
+            "from_actor": 14481,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Nancy Rørbæk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

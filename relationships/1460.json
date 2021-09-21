@@ -1,0 +1,290 @@
+{
+    "1460": [
+        {
+            "id": 94657,
+            "from_actor": 15390,
+            "to_actor": 1460,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95658,
+            "from_actor": 15452,
+            "to_actor": 1460,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96027,
+            "from_actor": 15467,
+            "to_actor": 1460,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98848,
+            "from_actor": 15557,
+            "to_actor": 1460,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101297,
+            "from_actor": 15639,
+            "to_actor": 1460,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124412,
+            "from_actor": 15378,
+            "to_actor": 1460,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124507,
+            "from_actor": 15397,
+            "to_actor": 1460,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124539,
+            "from_actor": 15457,
+            "to_actor": 1460,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124560,
+            "from_actor": 15472,
+            "to_actor": 1460,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124596,
+            "from_actor": 15488,
+            "to_actor": 1460,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126489,
+            "from_actor": 15563,
+            "to_actor": 1460,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126691,
+            "from_actor": 15642,
+            "to_actor": 1460,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Richardt Lykke Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422513,
+            "from_actor": 1460,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422867,
+            "from_actor": 1460,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528112,
+            "from_actor": 1460,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528305,
+            "from_actor": 1460,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528673,
+            "from_actor": 1460,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528861,
+            "from_actor": 1460,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529051,
+            "from_actor": 1460,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529802,
+            "from_actor": 1460,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531113,
+            "from_actor": 1460,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531199,
+            "from_actor": 1460,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531364,
+            "from_actor": 1460,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531444,
+            "from_actor": 1460,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531531,
+            "from_actor": 1460,
+            "to_actor": 15488,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531808,
+            "from_actor": 1460,
+            "to_actor": 15563,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Richardt Lykke Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

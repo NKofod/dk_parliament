@@ -1,0 +1,81 @@
+{
+    "10015": [
+        {
+            "id": 78185,
+            "from_actor": 14663,
+            "to_actor": 10015,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78267,
+            "from_actor": 14668,
+            "to_actor": 10015,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78545,
+            "from_actor": 14676,
+            "to_actor": 10015,
+            "start": "1988-10-04",
+            "end": "1989-01-26",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78637,
+            "from_actor": 14682,
+            "to_actor": 10015,
+            "start": "1988-10-04",
+            "end": "1989-01-26",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132407,
+            "from_actor": 10015,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Jørgensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132515,
+            "from_actor": 10015,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-01-26",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Jørgensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732822,
+            "from_actor": 10015,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

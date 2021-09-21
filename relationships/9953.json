@@ -1,0 +1,202 @@
+{
+    "9953": [
+        {
+            "id": 79147,
+            "from_actor": 14690,
+            "to_actor": 9953,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80840,
+            "from_actor": 14730,
+            "to_actor": 9953,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84319,
+            "from_actor": 14825,
+            "to_actor": 9953,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84389,
+            "from_actor": 14832,
+            "to_actor": 9953,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84759,
+            "from_actor": 14844,
+            "to_actor": 9953,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85290,
+            "from_actor": 14841,
+            "to_actor": 9953,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85542,
+            "from_actor": 14855,
+            "to_actor": 9953,
+            "start": "1999-10-05",
+            "end": "2000-08-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85672,
+            "from_actor": 14858,
+            "to_actor": 9953,
+            "start": "1999-10-05",
+            "end": "2000-08-15",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Jens Heimburger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121928,
+            "from_actor": 9953,
+            "to_actor": 14844,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121929,
+            "from_actor": 9953,
+            "to_actor": 14858,
+            "start": "1999-10-05",
+            "end": "2000-08-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121930,
+            "from_actor": 9953,
+            "to_actor": 14832,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121931,
+            "from_actor": 9953,
+            "to_actor": 14732,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121932,
+            "from_actor": 9953,
+            "to_actor": 14694,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11121933,
+            "from_actor": 9953,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11121935,
+            "from_actor": 9953,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-08-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11121936,
+            "from_actor": 9953,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11121937,
+            "from_actor": 9953,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594760,
+            "from_actor": 9953,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Heimburger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

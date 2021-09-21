@@ -1,0 +1,202 @@
+{
+    "1423": [
+        {
+            "id": 77224,
+            "from_actor": 14632,
+            "to_actor": 1423,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77321,
+            "from_actor": 14640,
+            "to_actor": 1423,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77603,
+            "from_actor": 14649,
+            "to_actor": 1423,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77696,
+            "from_actor": 14654,
+            "to_actor": 1423,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78150,
+            "from_actor": 14663,
+            "to_actor": 1423,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78259,
+            "from_actor": 14668,
+            "to_actor": 1423,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78510,
+            "from_actor": 14676,
+            "to_actor": 1423,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78630,
+            "from_actor": 14682,
+            "to_actor": 1423,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78890,
+            "from_actor": 14690,
+            "to_actor": 1423,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79008,
+            "from_actor": 14696,
+            "to_actor": 1423,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79314,
+            "from_actor": 14704,
+            "to_actor": 1423,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79437,
+            "from_actor": 14709,
+            "to_actor": 1423,
+            "start": "1990-10-02",
+            "end": "1990-11-13",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79567,
+            "from_actor": 14718,
+            "to_actor": 1423,
+            "start": "1990-11-14",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Trivselspartiet",
+            "to_actor_name": "Pia Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132404,
+            "from_actor": 1423,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pia Dahl",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132506,
+            "from_actor": 1423,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Pia Dahl",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132663,
+            "from_actor": 1423,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Pia Dahl",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136343,
+            "from_actor": 1423,
+            "to_actor": 14718,
+            "start": "1990-11-14",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Pia Dahl",
+            "to_actor_name": "Trivselspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732787,
+            "from_actor": 1423,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pia Dahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

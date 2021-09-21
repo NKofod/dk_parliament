@@ -1,0 +1,323 @@
+{
+    "9788": [
+        {
+            "id": 82192,
+            "from_actor": 14764,
+            "to_actor": 9788,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82252,
+            "from_actor": 14767,
+            "to_actor": 9788,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82540,
+            "from_actor": 14778,
+            "to_actor": 9788,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82622,
+            "from_actor": 14780,
+            "to_actor": 9788,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82920,
+            "from_actor": 14789,
+            "to_actor": 9788,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83004,
+            "from_actor": 14791,
+            "to_actor": 9788,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83346,
+            "from_actor": 14800,
+            "to_actor": 9788,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83436,
+            "from_actor": 14803,
+            "to_actor": 9788,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83741,
+            "from_actor": 14811,
+            "to_actor": 9788,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83830,
+            "from_actor": 14816,
+            "to_actor": 9788,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84253,
+            "from_actor": 14825,
+            "to_actor": 9788,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84394,
+            "from_actor": 14832,
+            "to_actor": 9788,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84764,
+            "from_actor": 14844,
+            "to_actor": 9788,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85244,
+            "from_actor": 14841,
+            "to_actor": 9788,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85496,
+            "from_actor": 14855,
+            "to_actor": 9788,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85833,
+            "from_actor": 14871,
+            "to_actor": 9788,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Frank Dahlgaard",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85941,
+            "from_actor": 14872,
+            "to_actor": 9788,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86098,
+            "from_actor": 14882,
+            "to_actor": 9788,
+            "start": "2001-08-30",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86716,
+            "from_actor": 14886,
+            "to_actor": 9788,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Frank Dahlgaard",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86871,
+            "from_actor": 14897,
+            "to_actor": 9788,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87022,
+            "from_actor": 14905,
+            "to_actor": 9788,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt Folkeparti",
+            "to_actor_name": "Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133627,
+            "from_actor": 9788,
+            "to_actor": 14780,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133946,
+            "from_actor": 9788,
+            "to_actor": 14803,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134241,
+            "from_actor": 9788,
+            "to_actor": 14816,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135025,
+            "from_actor": 9788,
+            "to_actor": 14882,
+            "start": "2001-08-30",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Kristeligt Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136354,
+            "from_actor": 9788,
+            "to_actor": 14871,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - Frank Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588331,
+            "from_actor": 9788,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893153,
+            "from_actor": 9788,
+            "to_actor": 14844,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594710,
+            "from_actor": 9788,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Frank Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

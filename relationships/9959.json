@@ -1,0 +1,48 @@
+{
+    "9959": [
+        {
+            "id": 71452,
+            "from_actor": 14400,
+            "to_actor": 9959,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Bernard Jeune",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71687,
+            "from_actor": 14387,
+            "to_actor": 9959,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bernard Jeune",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25877805,
+            "from_actor": 9959,
+            "to_actor": 14400,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bernard Jeune",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25877806,
+            "from_actor": 9959,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bernard Jeune",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

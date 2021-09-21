@@ -1,0 +1,268 @@
+{
+    "4011": [
+        {
+            "id": 23921,
+            "from_actor": 1052,
+            "to_actor": 4011,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28306,
+            "from_actor": 1053,
+            "to_actor": 4011,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30004,
+            "from_actor": 1054,
+            "to_actor": 4011,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30351,
+            "from_actor": 1056,
+            "to_actor": 4011,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30882,
+            "from_actor": 1057,
+            "to_actor": 4011,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32876,
+            "from_actor": 1058,
+            "to_actor": 4011,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33445,
+            "from_actor": 1059,
+            "to_actor": 4011,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36260,
+            "from_actor": 1055,
+            "to_actor": 4011,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37838,
+            "from_actor": 1060,
+            "to_actor": 4011,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37942,
+            "from_actor": 1061,
+            "to_actor": 4011,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40158,
+            "from_actor": 449,
+            "to_actor": 4011,
+            "start": "2009-10-06",
+            "end": "2009-06-30T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40208,
+            "from_actor": 450,
+            "to_actor": 4011,
+            "start": "2009-10-06",
+            "end": "2009-10-31T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Anna Rytter (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28341,
+            "from_actor": 4011,
+            "to_actor": 1052,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28342,
+            "from_actor": 4011,
+            "to_actor": 1053,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28343,
+            "from_actor": 4011,
+            "to_actor": 1054,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28344,
+            "from_actor": 4011,
+            "to_actor": 1055,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28345,
+            "from_actor": 4011,
+            "to_actor": 1056,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28346,
+            "from_actor": 4011,
+            "to_actor": 1057,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28347,
+            "from_actor": 4011,
+            "to_actor": 1058,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28348,
+            "from_actor": 4011,
+            "to_actor": 1059,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28349,
+            "from_actor": 4011,
+            "to_actor": 1060,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28350,
+            "from_actor": 4011,
+            "to_actor": 1061,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28351,
+            "from_actor": 4011,
+            "to_actor": 449,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 28352,
+            "from_actor": 4011,
+            "to_actor": 450,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anna Rytter (udpeget af EL)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        }
+    ]
+}

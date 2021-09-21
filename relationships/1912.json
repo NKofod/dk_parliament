@@ -1,0 +1,246 @@
+{
+    "1912": [
+        {
+            "id": 14923,
+            "from_actor": 984,
+            "to_actor": 1912,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14964,
+            "from_actor": 800,
+            "to_actor": 1912,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15315,
+            "from_actor": 1100,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15728,
+            "from_actor": 1042,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15804,
+            "from_actor": 514,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15859,
+            "from_actor": 885,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16261,
+            "from_actor": 1220,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketingets Økontaktudvalg",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 27669,
+            "from_actor": 423,
+            "to_actor": 1912,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27758,
+            "from_actor": 759,
+            "to_actor": 1912,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 88148,
+            "from_actor": 14946,
+            "to_actor": 1912,
+            "start": "2004-07-15",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88457,
+            "from_actor": 14259,
+            "to_actor": 1912,
+            "start": "2004-07-15",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ida Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22738370,
+            "from_actor": 1912,
+            "to_actor": 1100,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22738372,
+            "from_actor": 1912,
+            "to_actor": 14946,
+            "start": "2004-07-15",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22738373,
+            "from_actor": 1912,
+            "to_actor": 1220,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Folketingets Økontaktudvalg",
+            "type": "Kommission"
+        },
+        {
+            "id": 22738374,
+            "from_actor": 1912,
+            "to_actor": 885,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738375,
+            "from_actor": 1912,
+            "to_actor": 800,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738376,
+            "from_actor": 1912,
+            "to_actor": 984,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738377,
+            "from_actor": 1912,
+            "to_actor": 14259,
+            "start": "2004-07-15",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22738378,
+            "from_actor": 1912,
+            "to_actor": 514,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738379,
+            "from_actor": 1912,
+            "to_actor": 1042,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738380,
+            "from_actor": 1912,
+            "to_actor": 759,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367316,
+            "from_actor": 1912,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Ida Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

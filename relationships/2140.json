@@ -1,0 +1,136 @@
+{
+    "2140": [
+        {
+            "id": 17158,
+            "from_actor": 2095,
+            "to_actor": 2140,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 19970,
+            "from_actor": 2096,
+            "to_actor": 2140,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 23878,
+            "from_actor": 2097,
+            "to_actor": 2140,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 30687,
+            "from_actor": 2100,
+            "to_actor": 2140,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 36306,
+            "from_actor": 2098,
+            "to_actor": 2140,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 37033,
+            "from_actor": 2099,
+            "to_actor": 2140,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Hans Peter Gejl",
+            "type": "Kommission"
+        },
+        {
+            "id": 17556,
+            "from_actor": 2140,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17557,
+            "from_actor": 2140,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17558,
+            "from_actor": 2140,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17559,
+            "from_actor": 2140,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17560,
+            "from_actor": 2140,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17561,
+            "from_actor": 2140,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Peter Gejl",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

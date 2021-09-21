@@ -1,0 +1,136 @@
+{
+    "2107": [
+        {
+            "id": 17125,
+            "from_actor": 2095,
+            "to_actor": 2107,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19936,
+            "from_actor": 2096,
+            "to_actor": 2107,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23844,
+            "from_actor": 2097,
+            "to_actor": 2107,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30653,
+            "from_actor": 2100,
+            "to_actor": 2107,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36272,
+            "from_actor": 2098,
+            "to_actor": 2107,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36999,
+            "from_actor": 2099,
+            "to_actor": 2107,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Søren Eriksen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17249,
+            "from_actor": 2107,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17250,
+            "from_actor": 2107,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17251,
+            "from_actor": 2107,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17252,
+            "from_actor": 2107,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17253,
+            "from_actor": 2107,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17254,
+            "from_actor": 2107,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Søren Eriksen (Udpeget af S)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

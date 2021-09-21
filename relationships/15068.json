@@ -1,0 +1,48 @@
+{
+    "15068": [
+        {
+            "id": 88647,
+            "from_actor": 14976,
+            "to_actor": 15068,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Th. Hauberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88784,
+            "from_actor": 15134,
+            "to_actor": 15068,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Th. Hauberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525989,
+            "from_actor": 15068,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Th. Hauberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530268,
+            "from_actor": 15068,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Th. Hauberg",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

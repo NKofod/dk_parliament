@@ -1,0 +1,70 @@
+{
+    "10135": [
+        {
+            "id": 72268,
+            "from_actor": 14431,
+            "to_actor": 10135,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anne Majken Hessner Thiam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72690,
+            "from_actor": 14457,
+            "to_actor": 10135,
+            "start": "1980-10-07",
+            "end": "1981-03-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anne Majken Hessner Thiam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 7639085,
+            "from_actor": 10135,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anne Majken Hessner Thiam",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 7639086,
+            "from_actor": 10135,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anne Majken Hessner Thiam",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 7639087,
+            "from_actor": 10135,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anne Majken Hessner Thiam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 7639088,
+            "from_actor": 10135,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-03-10",
+            "role": "medlem",
+            "from_actor_name": "Anne Majken Hessner Thiam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

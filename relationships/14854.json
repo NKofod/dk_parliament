@@ -1,0 +1,37 @@
+{
+    "14854": [
+        {
+            "id": 85406,
+            "from_actor": 14841,
+            "to_actor": 14854,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tom Beck",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126984,
+            "from_actor": 14854,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Tom Beck",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893157,
+            "from_actor": 14854,
+            "to_actor": 14844,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Tom Beck",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

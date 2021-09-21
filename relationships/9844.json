@@ -1,0 +1,37 @@
+{
+    "9844": [
+        {
+            "id": 80835,
+            "from_actor": 14730,
+            "to_actor": 9844,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bo Friis",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133087,
+            "from_actor": 9844,
+            "to_actor": 14732,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Bo Friis",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911705,
+            "from_actor": 9844,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Bo Friis",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "9847": [
+        {
+            "id": 135205,
+            "from_actor": 9847,
+            "to_actor": 14919,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Holger Gorm Petersen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911106,
+            "from_actor": 9847,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Holger Gorm Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

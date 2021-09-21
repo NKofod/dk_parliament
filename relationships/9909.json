@@ -1,0 +1,59 @@
+{
+    "9909": [
+        {
+            "id": 77250,
+            "from_actor": 14632,
+            "to_actor": 9909,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Michael Berlau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77255,
+            "from_actor": 14636,
+            "to_actor": 9909,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Henrik Michael Berlau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77628,
+            "from_actor": 14649,
+            "to_actor": 9909,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Michael Berlau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77701,
+            "from_actor": 14655,
+            "to_actor": 9909,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Henrik Michael Berlau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132297,
+            "from_actor": 9909,
+            "to_actor": 14655,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Henrik Michael Berlau",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

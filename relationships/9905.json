@@ -1,0 +1,26 @@
+{
+    "9905": [
+        {
+            "id": 72514,
+            "from_actor": 14431,
+            "to_actor": 9905,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birte Skot-Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130610,
+            "from_actor": 9905,
+            "to_actor": 14452,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Birte Skot-Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

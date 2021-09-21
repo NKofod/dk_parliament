@@ -1,0 +1,59 @@
+{
+    "18565": [
+        {
+            "id": 16901875,
+            "from_actor": 18565,
+            "to_actor": 18304,
+            "start": "2019-02-01",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Pedersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16901877,
+            "from_actor": 18565,
+            "to_actor": 18757,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Pedersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529424,
+            "from_actor": 18565,
+            "to_actor": 18860,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Pedersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530229,
+            "from_actor": 18565,
+            "to_actor": 18875,
+            "start": "2019-11-18",
+            "end": "2020-03-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Pedersen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27396363,
+            "from_actor": 18565,
+            "to_actor": 19415,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Pedersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

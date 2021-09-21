@@ -1,0 +1,301 @@
+{
+    "10071": [
+        {
+            "id": 54065,
+            "from_actor": 970,
+            "to_actor": 10071,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Karen Rønde",
+            "type": "Kommission"
+        },
+        {
+            "id": 54110,
+            "from_actor": 13666,
+            "to_actor": 10071,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Karen Rønde",
+            "type": "Kommission"
+        },
+        {
+            "id": 84350,
+            "from_actor": 14825,
+            "to_actor": 10071,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Rønde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84529,
+            "from_actor": 14838,
+            "to_actor": 10071,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Karen Rønde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84910,
+            "from_actor": 14852,
+            "to_actor": 10071,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Karen Rønde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85321,
+            "from_actor": 14841,
+            "to_actor": 10071,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Rønde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85573,
+            "from_actor": 14855,
+            "to_actor": 10071,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Rønde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85821,
+            "from_actor": 14866,
+            "to_actor": 10071,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Karen Rønde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86015,
+            "from_actor": 14872,
+            "to_actor": 10071,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Rønde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86757,
+            "from_actor": 14889,
+            "to_actor": 10071,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Karen Rønde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86945,
+            "from_actor": 14897,
+            "to_actor": 10071,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Rønde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87144,
+            "from_actor": 14915,
+            "to_actor": 10071,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Karen Rønde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112935,
+            "from_actor": 15867,
+            "to_actor": 10071,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Karen Rønde",
+            "type": "Kommission"
+        },
+        {
+            "id": 19673634,
+            "from_actor": 10071,
+            "to_actor": 14915,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19673635,
+            "from_actor": 10071,
+            "to_actor": 14852,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19673636,
+            "from_actor": 10071,
+            "to_actor": 14866,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19673637,
+            "from_actor": 10071,
+            "to_actor": 14838,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19673638,
+            "from_actor": 10071,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19673639,
+            "from_actor": 10071,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19673640,
+            "from_actor": 10071,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19673641,
+            "from_actor": 10071,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19673642,
+            "from_actor": 10071,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19673644,
+            "from_actor": 10071,
+            "to_actor": 970,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19673645,
+            "from_actor": 10071,
+            "to_actor": 13666,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19843100,
+            "from_actor": 10071,
+            "to_actor": 15867,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 22084146,
+            "from_actor": 10071,
+            "to_actor": 14889,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24379750,
+            "from_actor": 10071,
+            "to_actor": 19235,
+            "start": "2020-05-18",
+            "end": "2026-05-17",
+            "role": "medlem",
+            "from_actor_name": "Karen Rønde",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

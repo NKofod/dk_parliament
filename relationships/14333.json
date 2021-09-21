@@ -1,0 +1,103 @@
+{
+    "14333": [
+        {
+            "id": 70779,
+            "from_actor": 14319,
+            "to_actor": 14333,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70831,
+            "from_actor": 14338,
+            "to_actor": 14333,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72755,
+            "from_actor": 14457,
+            "to_actor": 14333,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69109,
+            "from_actor": 14333,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126883,
+            "from_actor": 14333,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126884,
+            "from_actor": 14333,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130704,
+            "from_actor": 14333,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696830,
+            "from_actor": 14333,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25670571,
+            "from_actor": 14333,
+            "to_actor": 14263,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

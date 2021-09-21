@@ -1,0 +1,48 @@
+{
+    "15478": [
+        {
+            "id": 96028,
+            "from_actor": 15467,
+            "to_actor": 15478,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Als",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124561,
+            "from_actor": 15472,
+            "to_actor": 15478,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Als",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528862,
+            "from_actor": 15478,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Als",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531446,
+            "from_actor": 15478,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Als",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

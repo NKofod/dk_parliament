@@ -1,0 +1,136 @@
+{
+    "10383": [
+        {
+            "id": 72300,
+            "from_actor": 14431,
+            "to_actor": 10383,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helmar Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72714,
+            "from_actor": 14457,
+            "to_actor": 10383,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helmar Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73136,
+            "from_actor": 14478,
+            "to_actor": 10383,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helmar Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73922,
+            "from_actor": 14495,
+            "to_actor": 10383,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helmar Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75022,
+            "from_actor": 14490,
+            "to_actor": 10383,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Helmar Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130554,
+            "from_actor": 10383,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130695,
+            "from_actor": 10383,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130817,
+            "from_actor": 10383,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131043,
+            "from_actor": 10383,
+            "to_actor": 14537,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131538,
+            "from_actor": 10383,
+            "to_actor": 14576,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714598,
+            "from_actor": 10383,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714973,
+            "from_actor": 10383,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Helmar Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

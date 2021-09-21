@@ -1,0 +1,279 @@
+{
+    "1282": [
+        {
+            "id": 95424,
+            "from_actor": 15452,
+            "to_actor": 1282,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Westerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95642,
+            "from_actor": 15461,
+            "to_actor": 1282,
+            "start": "1964-10-06",
+            "end": "1965-03-26",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95656,
+            "from_actor": 15463,
+            "to_actor": 1282,
+            "start": "1965-03-26",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Niels Westerby",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95791,
+            "from_actor": 15467,
+            "to_actor": 1282,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Westerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96023,
+            "from_actor": 15477,
+            "to_actor": 1282,
+            "start": "1965-10-10",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96348,
+            "from_actor": 15481,
+            "to_actor": 1282,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Westerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96453,
+            "from_actor": 15487,
+            "to_actor": 1282,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96966,
+            "from_actor": 15498,
+            "to_actor": 1282,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Westerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97064,
+            "from_actor": 15515,
+            "to_actor": 1282,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97226,
+            "from_actor": 15523,
+            "to_actor": 1282,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Westerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97353,
+            "from_actor": 15526,
+            "to_actor": 1282,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103673,
+            "from_actor": 15449,
+            "to_actor": 1282,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520090,
+            "from_actor": 1282,
+            "to_actor": 15463,
+            "start": "1965-03-26",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Uden for folketingsgrupperne - Niels Westerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520091,
+            "from_actor": 1282,
+            "to_actor": 15477,
+            "start": "1965-10-10",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520092,
+            "from_actor": 1282,
+            "to_actor": 15487,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520093,
+            "from_actor": 1282,
+            "to_actor": 15515,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520094,
+            "from_actor": 1282,
+            "to_actor": 15526,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520095,
+            "from_actor": 1282,
+            "to_actor": 15449,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1520096,
+            "from_actor": 1282,
+            "to_actor": 15461,
+            "start": "1964-10-06",
+            "end": "1965-03-26",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528442,
+            "from_actor": 1282,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528619,
+            "from_actor": 1282,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528803,
+            "from_actor": 1282,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528993,
+            "from_actor": 1282,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529157,
+            "from_actor": 1282,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529344,
+            "from_actor": 1282,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Niels Westerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

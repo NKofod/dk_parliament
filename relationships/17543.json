@@ -1,0 +1,169 @@
+{
+    "17543": [
+        {
+            "id": 23045675,
+            "from_actor": 17543,
+            "to_actor": 17660,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045676,
+            "from_actor": 17543,
+            "to_actor": 17664,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045677,
+            "from_actor": 17543,
+            "to_actor": 17671,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045678,
+            "from_actor": 17543,
+            "to_actor": 17669,
+            "start": "2017-12-20",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045679,
+            "from_actor": 17543,
+            "to_actor": 17659,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045680,
+            "from_actor": 17543,
+            "to_actor": 17654,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045681,
+            "from_actor": 17543,
+            "to_actor": 17663,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045682,
+            "from_actor": 17543,
+            "to_actor": 17669,
+            "start": "2017-10-04",
+            "end": "2017-12-18",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045683,
+            "from_actor": 17543,
+            "to_actor": 17622,
+            "start": "2018-01-12",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045684,
+            "from_actor": 17543,
+            "to_actor": 17608,
+            "start": "2017-10-03",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045685,
+            "from_actor": 17543,
+            "to_actor": 17622,
+            "start": "2017-10-04",
+            "end": "2018-01-10",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045686,
+            "from_actor": 17543,
+            "to_actor": 17658,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045687,
+            "from_actor": 17543,
+            "to_actor": 17603,
+            "start": "2017-10-04",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045688,
+            "from_actor": 17543,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2017-10-04",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045689,
+            "from_actor": 17543,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-03-15",
+            "role": "medlem",
+            "from_actor_name": "Marianne Bredal",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

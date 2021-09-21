@@ -1,0 +1,224 @@
+{
+    "14828": [
+        {
+            "id": 84358,
+            "from_actor": 14825,
+            "to_actor": 14828,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84524,
+            "from_actor": 14838,
+            "to_actor": 14828,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84905,
+            "from_actor": 14852,
+            "to_actor": 14828,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85330,
+            "from_actor": 14841,
+            "to_actor": 14828,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85582,
+            "from_actor": 14855,
+            "to_actor": 14828,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85816,
+            "from_actor": 14866,
+            "to_actor": 14828,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86024,
+            "from_actor": 14872,
+            "to_actor": 14828,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86752,
+            "from_actor": 14889,
+            "to_actor": 14828,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86954,
+            "from_actor": 14897,
+            "to_actor": 14828,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87139,
+            "from_actor": 14915,
+            "to_actor": 14828,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Ellen Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158677,
+            "from_actor": 14828,
+            "to_actor": 14915,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158678,
+            "from_actor": 14828,
+            "to_actor": 14852,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158679,
+            "from_actor": 14828,
+            "to_actor": 14866,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158680,
+            "from_actor": 14828,
+            "to_actor": 14838,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158681,
+            "from_actor": 14828,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158682,
+            "from_actor": 14828,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158683,
+            "from_actor": 14828,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158684,
+            "from_actor": 14828,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594799,
+            "from_actor": 14828,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22084141,
+            "from_actor": 14828,
+            "to_actor": 14889,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ellen Kristensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

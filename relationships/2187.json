@@ -1,0 +1,70 @@
+{
+    "2187": [
+        {
+            "id": 17944,
+            "from_actor": 1372,
+            "to_actor": 2187,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Michael Jappe (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19827,
+            "from_actor": 1374,
+            "to_actor": 2187,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Michael Jappe (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23895,
+            "from_actor": 1373,
+            "to_actor": 2187,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Michael Jappe (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17953,
+            "from_actor": 2187,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Michael Jappe (udpeget af KF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17954,
+            "from_actor": 2187,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Michael Jappe (udpeget af KF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17955,
+            "from_actor": 2187,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Michael Jappe (udpeget af KF)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

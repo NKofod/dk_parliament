@@ -1,0 +1,37 @@
+{
+    "9967": [
+        {
+            "id": 88494,
+            "from_actor": 14259,
+            "to_actor": 9967,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jan Kristiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4911303,
+            "from_actor": 9967,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jan Kristiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9618832,
+            "from_actor": 9967,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jan Kristiansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

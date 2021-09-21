@@ -1,0 +1,26 @@
+{
+    "1946": [
+        {
+            "id": 42392,
+            "from_actor": 399,
+            "to_actor": 1946,
+            "start": "2001-11-27",
+            "end": "2010-02-23",
+            "role": "Minister",
+            "from_actor_name": "videnskabsministeren",
+            "to_actor_name": "Charlotte Sahl-Madsen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 15217,
+            "from_actor": 1946,
+            "to_actor": 399,
+            "start": "2010-02-23",
+            "end": "2011-10-03",
+            "role": "Minister",
+            "from_actor_name": "Charlotte Sahl-Madsen",
+            "to_actor_name": "videnskabsministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

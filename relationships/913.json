@@ -1,0 +1,147 @@
+{
+    "913": [
+        {
+            "id": 82787,
+            "from_actor": 14778,
+            "to_actor": 913,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Arbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83177,
+            "from_actor": 14789,
+            "to_actor": 913,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Arbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83607,
+            "from_actor": 14800,
+            "to_actor": 913,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Arbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85856,
+            "from_actor": 14855,
+            "to_actor": 913,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Arbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834889,
+            "from_actor": 913,
+            "to_actor": 14779,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834890,
+            "from_actor": 913,
+            "to_actor": 14790,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834891,
+            "from_actor": 913,
+            "to_actor": 14801,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834892,
+            "from_actor": 913,
+            "to_actor": 14875,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834893,
+            "from_actor": 913,
+            "to_actor": 14856,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15834894,
+            "from_actor": 913,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834895,
+            "from_actor": 913,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834896,
+            "from_actor": 913,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15834897,
+            "from_actor": 913,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Arbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

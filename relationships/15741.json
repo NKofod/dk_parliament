@@ -1,0 +1,26 @@
+{
+    "15741": [
+        {
+            "id": 136426,
+            "from_actor": 15741,
+            "to_actor": 14106,
+            "start": "1964-09-26",
+            "end": "1966-11-28",
+            "role": "Minister",
+            "from_actor_name": "Hans Sølvhøj",
+            "to_actor_name": "ministeren for kulturelle anliggender",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 136515,
+            "from_actor": 15741,
+            "to_actor": 16188,
+            "start": "1966-11-28",
+            "end": "1967-09-30",
+            "role": "Minister",
+            "from_actor_name": "Hans Sølvhøj",
+            "to_actor_name": "Ministeren uden portefølje med henblik på udenrigspolitiske spørgsmål",
+            "type": "Ministertitel"
+        }
+    ]
+}

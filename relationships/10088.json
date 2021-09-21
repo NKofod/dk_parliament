@@ -1,0 +1,37 @@
+{
+    "10088": [
+        {
+            "id": 80831,
+            "from_actor": 14730,
+            "to_actor": 10088,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Laubjerg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4750562,
+            "from_actor": 10088,
+            "to_actor": 14737,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anders Laubjerg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911701,
+            "from_actor": 10088,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Laubjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

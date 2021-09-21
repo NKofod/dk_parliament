@@ -1,0 +1,81 @@
+{
+    "10026": [
+        {
+            "id": 97077,
+            "from_actor": 15517,
+            "to_actor": 10026,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Bjørn Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97282,
+            "from_actor": 15523,
+            "to_actor": 10026,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjørn Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97366,
+            "from_actor": 15528,
+            "to_actor": 10026,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Bjørn Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102177,
+            "from_actor": 15498,
+            "to_actor": 10026,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjørn Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4677004,
+            "from_actor": 10026,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bjørn Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529213,
+            "from_actor": 10026,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bjørn Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529400,
+            "from_actor": 10026,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Bjørn Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

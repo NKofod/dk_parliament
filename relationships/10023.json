@@ -1,0 +1,37 @@
+{
+    "10023": [
+        {
+            "id": 72517,
+            "from_actor": 14431,
+            "to_actor": 10023,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Arne Riber",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 10949100,
+            "from_actor": 10023,
+            "to_actor": 14447,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Riber",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10949101,
+            "from_actor": 10023,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Arne Riber",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

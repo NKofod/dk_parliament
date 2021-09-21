@@ -1,0 +1,59 @@
+{
+    "10073": [
+        {
+            "id": 77211,
+            "from_actor": 14632,
+            "to_actor": 10073,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Albret Søltoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77446,
+            "from_actor": 14648,
+            "to_actor": 10073,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Bente Albret Søltoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77590,
+            "from_actor": 14649,
+            "to_actor": 10073,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Albret Søltoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77785,
+            "from_actor": 14658,
+            "to_actor": 10073,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Bente Albret Søltoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132364,
+            "from_actor": 10073,
+            "to_actor": 14658,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Bente Albret Søltoft",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "10098": [
+        {
+            "id": 72761,
+            "from_actor": 14457,
+            "to_actor": 10098,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grete Lautrup-Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130639,
+            "from_actor": 10098,
+            "to_actor": 14468,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Grete Lautrup-Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

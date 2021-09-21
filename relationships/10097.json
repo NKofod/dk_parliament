@@ -1,0 +1,37 @@
+{
+    "10097": [
+        {
+            "id": 86786,
+            "from_actor": 14872,
+            "to_actor": 10097,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Isminur Lone Yalcinkaya",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134995,
+            "from_actor": 10097,
+            "to_actor": 14875,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Isminur Lone Yalcinkaya",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588450,
+            "from_actor": 10097,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Isminur Lone Yalcinkaya",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

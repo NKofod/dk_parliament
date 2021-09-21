@@ -1,0 +1,125 @@
+{
+    "9861": [
+        {
+            "id": 99283,
+            "from_actor": 15574,
+            "to_actor": 9861,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101295,
+            "from_actor": 15639,
+            "to_actor": 9861,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101854,
+            "from_actor": 15649,
+            "to_actor": 9861,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126511,
+            "from_actor": 15578,
+            "to_actor": 9861,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126685,
+            "from_actor": 15640,
+            "to_actor": 9861,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127061,
+            "from_actor": 15650,
+            "to_actor": 9861,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Ole Thustrup Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677704,
+            "from_actor": 9861,
+            "to_actor": 15578,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Ole Thustrup Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422316,
+            "from_actor": 9861,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Ole Thustrup Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422511,
+            "from_actor": 9861,
+            "to_actor": 15639,
+            "start": "1972-10-05",
+            "end": "1972-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Ole Thustrup Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21300277,
+            "from_actor": 9861,
+            "to_actor": 15640,
+            "start": "1972-10-05",
+            "end": "1972-12-31",
+            "role": "medlem",
+            "from_actor_name": "Hans Ole Thustrup Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529997,
+            "from_actor": 9861,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Ole Thustrup Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

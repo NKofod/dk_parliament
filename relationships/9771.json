@@ -1,0 +1,26 @@
+{
+    "9771": [
+        {
+            "id": 88068,
+            "from_actor": 14931,
+            "to_actor": 9771,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ane Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135411,
+            "from_actor": 9771,
+            "to_actor": 14936,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ane Hansen",
+            "to_actor_name": "Inuit Ataqatigiit",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

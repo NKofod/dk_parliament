@@ -1,0 +1,81 @@
+{
+    "10390": [
+        {
+            "id": 73876,
+            "from_actor": 14495,
+            "to_actor": 10390,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Fog Hjort",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74274,
+            "from_actor": 14523,
+            "to_actor": 10390,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Fog Hjort",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74686,
+            "from_actor": 14546,
+            "to_actor": 10390,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Fog Hjort",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74882,
+            "from_actor": 14556,
+            "to_actor": 10390,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Kirsten Fog Hjort",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131291,
+            "from_actor": 10390,
+            "to_actor": 14556,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Fog Hjort",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714429,
+            "from_actor": 10390,
+            "to_actor": 14538,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Fog Hjort",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714928,
+            "from_actor": 10390,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Fog Hjort",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

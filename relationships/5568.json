@@ -1,0 +1,235 @@
+{
+    "5568": [
+        {
+            "id": 30864,
+            "from_actor": 1025,
+            "to_actor": 5568,
+            "start": "2007-04-01",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32217,
+            "from_actor": 1026,
+            "to_actor": 5568,
+            "start": "2007-04-01",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36480,
+            "from_actor": 1024,
+            "to_actor": 5568,
+            "start": "2007-04-01",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37752,
+            "from_actor": 1027,
+            "to_actor": 5568,
+            "start": "2007-04-01",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40225,
+            "from_actor": 1028,
+            "to_actor": 5568,
+            "start": "2007-04-01",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42920,
+            "from_actor": 1029,
+            "to_actor": 5568,
+            "start": "2011-04-01",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 48856,
+            "from_actor": 1030,
+            "to_actor": 5568,
+            "start": "2011-04-01",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 48878,
+            "from_actor": 1033,
+            "to_actor": 5568,
+            "start": "2011-04-01",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50531,
+            "from_actor": 1031,
+            "to_actor": 5568,
+            "start": "2011-04-01",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53353,
+            "from_actor": 1032,
+            "to_actor": 5568,
+            "start": "2011-04-01",
+            "end": "2015-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28884,
+            "from_actor": 5568,
+            "to_actor": 1024,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28885,
+            "from_actor": 5568,
+            "to_actor": 1025,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28886,
+            "from_actor": 5568,
+            "to_actor": 1026,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28887,
+            "from_actor": 5568,
+            "to_actor": 1027,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28888,
+            "from_actor": 5568,
+            "to_actor": 1028,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28889,
+            "from_actor": 5568,
+            "to_actor": 1029,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28890,
+            "from_actor": 5568,
+            "to_actor": 1030,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28891,
+            "from_actor": 5568,
+            "to_actor": 1031,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28892,
+            "from_actor": 5568,
+            "to_actor": 1032,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28893,
+            "from_actor": 5568,
+            "to_actor": 1033,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 61961,
+            "from_actor": 5568,
+            "to_actor": 13681,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Anna Margrethe Ikast (udpeget af KF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

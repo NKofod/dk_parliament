@@ -1,0 +1,26 @@
+{
+    "3572": [
+        {
+            "id": 29089,
+            "from_actor": 983,
+            "to_actor": 3572,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Maria Roskilde",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23105,
+            "from_actor": 3572,
+            "to_actor": 983,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Maria Roskilde",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

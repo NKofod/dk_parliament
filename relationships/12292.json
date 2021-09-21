@@ -1,0 +1,26 @@
+{
+    "12292": [
+        {
+            "id": 48255,
+            "from_actor": 548,
+            "to_actor": 12292,
+            "start": "2012-03-05",
+            "end": "2012-06-26",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljøudvalget",
+            "to_actor_name": "Henrik Skovmark",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49901,
+            "from_actor": 12292,
+            "to_actor": 548,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Skovmark",
+            "to_actor_name": "Miljøudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

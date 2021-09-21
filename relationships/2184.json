@@ -1,0 +1,81 @@
+{
+    "2184": [
+        {
+            "id": 17940,
+            "from_actor": 1819,
+            "to_actor": 2184,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19839,
+            "from_actor": 1877,
+            "to_actor": 2184,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23970,
+            "from_actor": 1875,
+            "to_actor": 2184,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17925,
+            "from_actor": 2184,
+            "to_actor": 1819,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17926,
+            "from_actor": 2184,
+            "to_actor": 1875,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17927,
+            "from_actor": 2184,
+            "to_actor": 1877,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 24122086,
+            "from_actor": 2184,
+            "to_actor": 18628,
+            "start": "2019-04-01",
+            "end": "2023-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunhild Legaard (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

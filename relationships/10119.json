@@ -1,0 +1,26 @@
+{
+    "10119": [
+        {
+            "id": 6235059,
+            "from_actor": 10119,
+            "to_actor": 14591,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Tonni Nielsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235060,
+            "from_actor": 10119,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Tonni Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

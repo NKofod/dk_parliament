@@ -1,0 +1,59 @@
+{
+    "15175": [
+        {
+            "id": 90032,
+            "from_actor": 15162,
+            "to_actor": 15175,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rudolph Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124256,
+            "from_actor": 15170,
+            "to_actor": 15175,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rudolph Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526432,
+            "from_actor": 15175,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudolph Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526614,
+            "from_actor": 15175,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Rudolph Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530435,
+            "from_actor": 15175,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Rudolph Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

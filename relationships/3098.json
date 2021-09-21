@@ -1,0 +1,70 @@
+{
+    "3098": [
+        {
+            "id": 19855,
+            "from_actor": 1750,
+            "to_actor": 3098,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23944,
+            "from_actor": 1224,
+            "to_actor": 3098,
+            "start": "2005-10-04",
+            "end": "2005-03-11T00:00:00",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36251,
+            "from_actor": 1225,
+            "to_actor": 3098,
+            "start": "2006-10-03",
+            "end": "2005-03-11T00:00:00",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23045,
+            "from_actor": 3098,
+            "to_actor": 1750,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23046,
+            "from_actor": 3098,
+            "to_actor": 1224,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23047,
+            "from_actor": 3098,
+            "to_actor": 1225,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Kolstrup (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

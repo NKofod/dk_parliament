@@ -1,0 +1,169 @@
+{
+    "15080": [
+        {
+            "id": 88662,
+            "from_actor": 14976,
+            "to_actor": 15080,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88758,
+            "from_actor": 15134,
+            "to_actor": 15080,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89247,
+            "from_actor": 15147,
+            "to_actor": 15080,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89400,
+            "from_actor": 15156,
+            "to_actor": 15080,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89766,
+            "from_actor": 15170,
+            "to_actor": 15080,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89972,
+            "from_actor": 15162,
+            "to_actor": 15080,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90312,
+            "from_actor": 15184,
+            "to_actor": 15080,
+            "start": "1956-10-02",
+            "end": "1956-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90757,
+            "from_actor": 15177,
+            "to_actor": 15080,
+            "start": "1956-10-02",
+            "end": "1956-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leonhard Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526003,
+            "from_actor": 15080,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526187,
+            "from_actor": 15080,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526371,
+            "from_actor": 15080,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526612,
+            "from_actor": 15080,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1956-12-04",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530242,
+            "from_actor": 15080,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530319,
+            "from_actor": 15080,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530396,
+            "from_actor": 15080,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Leonhard Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "14391": [
+        {
+            "id": 71118,
+            "from_actor": 14400,
+            "to_actor": 14391,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Karl Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71677,
+            "from_actor": 14387,
+            "to_actor": 14391,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71946,
+            "from_actor": 14415,
+            "to_actor": 14391,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71962,
+            "from_actor": 14417,
+            "to_actor": 14391,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Karl Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199518,
+            "from_actor": 14391,
+            "to_actor": 14400,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karl Møller",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199519,
+            "from_actor": 14391,
+            "to_actor": 14417,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Karl Møller",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199520,
+            "from_actor": 14391,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Karl Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 199521,
+            "from_actor": 14391,
+            "to_actor": 14387,
+            "start": "1978-10-06",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karl Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

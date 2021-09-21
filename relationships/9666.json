@@ -1,0 +1,26 @@
+{
+    "9666": [
+        {
+            "id": 82786,
+            "from_actor": 14778,
+            "to_actor": 9666,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lars Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133633,
+            "from_actor": 9666,
+            "to_actor": 14780,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lars Jørgensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

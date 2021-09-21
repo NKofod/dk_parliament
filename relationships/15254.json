@@ -1,0 +1,48 @@
+{
+    "15254": [
+        {
+            "id": 91894,
+            "from_actor": 15251,
+            "to_actor": 15254,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helmuth Nørrelund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92001,
+            "from_actor": 15264,
+            "to_actor": 15254,
+            "start": "1958-11-01",
+            "end": "1959-02-20",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Helmuth Nørrelund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527164,
+            "from_actor": 15254,
+            "to_actor": 15251,
+            "start": "1958-11-01",
+            "end": "1959-02-20",
+            "role": "medlem",
+            "from_actor_name": "Helmuth Nørrelund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530725,
+            "from_actor": 15254,
+            "to_actor": 15264,
+            "start": "1958-11-01",
+            "end": "1959-02-20",
+            "role": "medlem",
+            "from_actor_name": "Helmuth Nørrelund",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

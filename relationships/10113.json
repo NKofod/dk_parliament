@@ -1,0 +1,37 @@
+{
+    "10113": [
+        {
+            "id": 81860,
+            "from_actor": 14754,
+            "to_actor": 10113,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christa Werge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 176627,
+            "from_actor": 10113,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Christa Werge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 176628,
+            "from_actor": 10113,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Christa Werge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1202": [
+        {
+            "id": 82790,
+            "from_actor": 14778,
+            "to_actor": 1202,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133658,
+            "from_actor": 1202,
+            "to_actor": 14783,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mogens Christensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

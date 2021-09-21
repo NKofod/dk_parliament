@@ -1,0 +1,169 @@
+{
+    "15427": [
+        {
+            "id": 63194,
+            "from_actor": 15409,
+            "to_actor": 15427,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95462,
+            "from_actor": 15452,
+            "to_actor": 15427,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95597,
+            "from_actor": 15457,
+            "to_actor": 15427,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95829,
+            "from_actor": 15467,
+            "to_actor": 15427,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95965,
+            "from_actor": 15472,
+            "to_actor": 15427,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96386,
+            "from_actor": 15481,
+            "to_actor": 15427,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96523,
+            "from_actor": 15488,
+            "to_actor": 15427,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Aage Hauskov",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528480,
+            "from_actor": 15427,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528657,
+            "from_actor": 15427,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528841,
+            "from_actor": 15427,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529031,
+            "from_actor": 15427,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531278,
+            "from_actor": 15427,
+            "to_actor": 15444,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531353,
+            "from_actor": 15427,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531435,
+            "from_actor": 15427,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531518,
+            "from_actor": 15427,
+            "to_actor": 15488,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Aage Hauskov",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

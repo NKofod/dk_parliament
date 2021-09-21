@@ -1,0 +1,224 @@
+{
+    "10025": [
+        {
+            "id": 77221,
+            "from_actor": 14632,
+            "to_actor": 10025,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Strunge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77376,
+            "from_actor": 14642,
+            "to_actor": 10025,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Strunge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77600,
+            "from_actor": 14649,
+            "to_actor": 10025,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Strunge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77756,
+            "from_actor": 14657,
+            "to_actor": 10025,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Strunge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78147,
+            "from_actor": 14663,
+            "to_actor": 10025,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Strunge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78314,
+            "from_actor": 14670,
+            "to_actor": 10025,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Strunge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78507,
+            "from_actor": 14676,
+            "to_actor": 10025,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Strunge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78686,
+            "from_actor": 14684,
+            "to_actor": 10025,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Strunge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78887,
+            "from_actor": 14690,
+            "to_actor": 10025,
+            "start": "1989-10-03",
+            "end": "1990-03-25",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Strunge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79063,
+            "from_actor": 14698,
+            "to_actor": 10025,
+            "start": "1989-10-03",
+            "end": "1990-03-25",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Strunge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679625,
+            "from_actor": 10025,
+            "to_actor": 14684,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679626,
+            "from_actor": 10025,
+            "to_actor": 14670,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679627,
+            "from_actor": 10025,
+            "to_actor": 14642,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679628,
+            "from_actor": 10025,
+            "to_actor": 14657,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679629,
+            "from_actor": 10025,
+            "to_actor": 14698,
+            "start": "1989-10-03",
+            "end": "1990-03-25",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22679630,
+            "from_actor": 10025,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22679631,
+            "from_actor": 10025,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22679632,
+            "from_actor": 10025,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22679633,
+            "from_actor": 10025,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22679634,
+            "from_actor": 10025,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-03-25",
+            "role": "medlem",
+            "from_actor_name": "Hans Strunge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

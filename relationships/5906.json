@@ -1,0 +1,48 @@
+{
+    "5906": [
+        {
+            "id": 29125,
+            "from_actor": 1015,
+            "to_actor": 5906,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Asger Hallberg Borg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34945,
+            "from_actor": 1011,
+            "to_actor": 5906,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Asger Hallberg Borg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31265,
+            "from_actor": 5906,
+            "to_actor": 1011,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Asger Hallberg Borg",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31266,
+            "from_actor": 5906,
+            "to_actor": 1015,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Asger Hallberg Borg",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

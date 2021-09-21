@@ -1,0 +1,48 @@
+{
+    "18614": [
+        {
+            "id": 23045891,
+            "from_actor": 18614,
+            "to_actor": 18303,
+            "start": "2019-02-28",
+            "end": "2019-03-07",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Dam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23045892,
+            "from_actor": 18614,
+            "to_actor": 18334,
+            "start": "2019-02-28",
+            "end": "2019-03-07",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Dam",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045893,
+            "from_actor": 18614,
+            "to_actor": 18306,
+            "start": "2019-03-01",
+            "end": "2019-03-07",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Dam",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045894,
+            "from_actor": 18614,
+            "to_actor": 18302,
+            "start": "2019-03-01",
+            "end": "2019-03-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigmor Dam",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        }
+    ]
+}

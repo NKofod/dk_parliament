@@ -1,0 +1,158 @@
+{
+    "10332": [
+        {
+            "id": 78560,
+            "from_actor": 14676,
+            "to_actor": 10332,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78642,
+            "from_actor": 14682,
+            "to_actor": 10332,
+            "start": "1989-01-26",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78936,
+            "from_actor": 14690,
+            "to_actor": 10332,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79020,
+            "from_actor": 14696,
+            "to_actor": 10332,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79359,
+            "from_actor": 14704,
+            "to_actor": 10332,
+            "start": "1990-10-02",
+            "end": "1990-11-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79449,
+            "from_actor": 14709,
+            "to_actor": 10332,
+            "start": "1990-10-02",
+            "end": "1990-11-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79456,
+            "from_actor": 14710,
+            "to_actor": 10332,
+            "start": "1990-10-10",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Hugo Holm",
+            "to_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856143,
+            "from_actor": 10332,
+            "to_actor": 14710,
+            "start": "1990-10-10",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Uden for folketingsgrupperne - Hugo Holm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856144,
+            "from_actor": 10332,
+            "to_actor": 14682,
+            "start": "1989-01-26",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856145,
+            "from_actor": 10332,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856146,
+            "from_actor": 10332,
+            "to_actor": 14709,
+            "start": "1990-10-02",
+            "end": "1990-11-01",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856147,
+            "from_actor": 10332,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856148,
+            "from_actor": 10332,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856149,
+            "from_actor": 10332,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-11-01",
+            "role": "medlem",
+            "from_actor_name": "Anette Christine Egelund Holm (Hugo Holm)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

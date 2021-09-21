@@ -1,0 +1,147 @@
+{
+    "19196": [
+        {
+            "id": 23762598,
+            "from_actor": 19196,
+            "to_actor": 18888,
+            "start": "2020-04-16",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23762600,
+            "from_actor": 19196,
+            "to_actor": 18856,
+            "start": "2020-04-16",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762602,
+            "from_actor": 19196,
+            "to_actor": 18871,
+            "start": "2020-06-05",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23762604,
+            "from_actor": 19196,
+            "to_actor": 18871,
+            "start": "2020-05-14",
+            "end": "2020-06-03",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23762605,
+            "from_actor": 19196,
+            "to_actor": 18866,
+            "start": "2020-04-16",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23762606,
+            "from_actor": 19196,
+            "to_actor": 18871,
+            "start": "2020-04-16",
+            "end": "2020-05-12",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23762610,
+            "from_actor": 19196,
+            "to_actor": 18874,
+            "start": "2020-04-17",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27343291,
+            "from_actor": 19196,
+            "to_actor": 19391,
+            "start": "2020-10-07",
+            "end": "2021-02-01",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27448030,
+            "from_actor": 19196,
+            "to_actor": 19387,
+            "start": "2020-10-07",
+            "end": "2021-02-02",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500212,
+            "from_actor": 19196,
+            "to_actor": 19356,
+            "start": "2020-10-06",
+            "end": "2021-02-02",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27500255,
+            "from_actor": 19196,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-02-02",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27549921,
+            "from_actor": 19196,
+            "to_actor": 19411,
+            "start": "2020-10-22",
+            "end": "2020-10-22",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596930,
+            "from_actor": 19196,
+            "to_actor": 19408,
+            "start": "2020-10-07",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Ruben Kidde",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

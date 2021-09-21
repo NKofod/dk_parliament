@@ -1,0 +1,48 @@
+{
+    "14972": [
+        {
+            "id": 88525,
+            "from_actor": 14976,
+            "to_actor": 14972,
+            "start": "1953-10-06",
+            "end": "1954-04-28",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingvard Dahl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88744,
+            "from_actor": 15134,
+            "to_actor": 14972,
+            "start": "1953-10-06",
+            "end": "1954-04-28",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ingvard Dahl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526059,
+            "from_actor": 14972,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-04-28",
+            "role": "medlem",
+            "from_actor_name": "Ingvard Dahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530281,
+            "from_actor": 14972,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-04-28",
+            "role": "medlem",
+            "from_actor_name": "Ingvard Dahl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

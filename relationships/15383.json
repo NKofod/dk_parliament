@@ -1,0 +1,81 @@
+{
+    "15383": [
+        {
+            "id": 94654,
+            "from_actor": 15390,
+            "to_actor": 15383,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Heie",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124415,
+            "from_actor": 15378,
+            "to_actor": 15383,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Henrik Heie",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124511,
+            "from_actor": 15397,
+            "to_actor": 15383,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Henrik Heie",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528108,
+            "from_actor": 15383,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Heie",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528302,
+            "from_actor": 15383,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Heie",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531116,
+            "from_actor": 15383,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Henrik Heie",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531201,
+            "from_actor": 15383,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Henrik Heie",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

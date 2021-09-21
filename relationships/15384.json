@@ -1,0 +1,81 @@
+{
+    "15384": [
+        {
+            "id": 94655,
+            "from_actor": 15390,
+            "to_actor": 15384,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124416,
+            "from_actor": 15379,
+            "to_actor": 15384,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ingrid Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124513,
+            "from_actor": 15398,
+            "to_actor": 15384,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ingrid Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6562918,
+            "from_actor": 15384,
+            "to_actor": 15398,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Ingrid Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6562919,
+            "from_actor": 15384,
+            "to_actor": 15379,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ingrid Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528109,
+            "from_actor": 15384,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Ingrid Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528303,
+            "from_actor": 15384,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Ingrid Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

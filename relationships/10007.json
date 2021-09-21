@@ -1,0 +1,37 @@
+{
+    "10007": [
+        {
+            "id": 103639,
+            "from_actor": 15721,
+            "to_actor": 10007,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Toke Stokholm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128222,
+            "from_actor": 15724,
+            "to_actor": 10007,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Toke Stokholm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235337,
+            "from_actor": 10007,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Toke Stokholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

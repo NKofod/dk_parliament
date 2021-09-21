@@ -1,0 +1,268 @@
+{
+    "14308": [
+        {
+            "id": 72302,
+            "from_actor": 14431,
+            "to_actor": 14308,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72716,
+            "from_actor": 14457,
+            "to_actor": 14308,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73137,
+            "from_actor": 14478,
+            "to_actor": 14308,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73851,
+            "from_actor": 14495,
+            "to_actor": 14308,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74249,
+            "from_actor": 14523,
+            "to_actor": 14308,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74661,
+            "from_actor": 14546,
+            "to_actor": 14308,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74854,
+            "from_actor": 14555,
+            "to_actor": 14308,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75023,
+            "from_actor": 14490,
+            "to_actor": 14308,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75631,
+            "from_actor": 14576,
+            "to_actor": 14308,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lise Østergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111579,
+            "from_actor": 14308,
+            "to_actor": 14517,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111580,
+            "from_actor": 14308,
+            "to_actor": 14537,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111581,
+            "from_actor": 14308,
+            "to_actor": 14555,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111582,
+            "from_actor": 14308,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111583,
+            "from_actor": 14308,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111584,
+            "from_actor": 14308,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111586,
+            "from_actor": 14308,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111587,
+            "from_actor": 14308,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111588,
+            "from_actor": 14308,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111590,
+            "from_actor": 14308,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 112451,
+            "from_actor": 14308,
+            "to_actor": 14106,
+            "start": "1980-02-28",
+            "end": "1982-09-10",
+            "role": "Minister",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "ministeren for kulturelle anliggender",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 112703,
+            "from_actor": 14308,
+            "to_actor": 15826,
+            "start": "1977-02-26",
+            "end": "1980-02-28",
+            "role": "Minister",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "ministeren uden portefølje med særligt henblik på udenrigspolitiske spørgsmål",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 4714599,
+            "from_actor": 14308,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714903,
+            "from_actor": 14308,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26981185,
+            "from_actor": 14308,
+            "to_actor": 14102,
+            "start": "1980-02-28",
+            "end": "1982-09-10",
+            "role": "Minister",
+            "from_actor_name": "Lise Østergaard",
+            "to_actor_name": "ministeren for nordiske anliggender",
+            "type": "Ministertitel"
+        }
+    ]
+}

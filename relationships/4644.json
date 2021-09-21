@@ -1,0 +1,48 @@
+{
+    "4644": [
+        {
+            "id": 49514,
+            "from_actor": 751,
+            "to_actor": 4644,
+            "start": "2012-08-01",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Helle Mortensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52465,
+            "from_actor": 312,
+            "to_actor": 4644,
+            "start": "2013-06-17",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Helle Mortensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48489,
+            "from_actor": 4644,
+            "to_actor": 751,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Helle Mortensen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 638475,
+            "from_actor": 4644,
+            "to_actor": 312,
+            "start": "2013-06-17",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Helle Mortensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "1072": [
+        {
+            "id": 23754,
+            "from_actor": 902,
+            "to_actor": 1072,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Udvalget for Forretningsordenen",
+            "to_actor_name": "Malene Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 50640,
+            "from_actor": 330,
+            "to_actor": 1072,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Udvalget for Forretningsordenen",
+            "to_actor_name": "Malene Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55452,
+            "from_actor": 128,
+            "to_actor": 1072,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Udvalget for Forretningsordenen",
+            "to_actor_name": "Malene Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65186,
+            "from_actor": 5114,
+            "to_actor": 1072,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Udvalget for Forretningsordenen",
+            "to_actor_name": "Malene Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23033,
+            "from_actor": 1072,
+            "to_actor": 902,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Malene Rasmussen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23034,
+            "from_actor": 1072,
+            "to_actor": 128,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Malene Rasmussen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23035,
+            "from_actor": 1072,
+            "to_actor": 330,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Malene Rasmussen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28213,
+            "from_actor": 1072,
+            "to_actor": 5114,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Malene Rasmussen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        }
+    ]
+}

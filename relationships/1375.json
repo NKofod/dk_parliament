@@ -1,0 +1,213 @@
+{
+    "1375": [
+        {
+            "id": 40731,
+            "from_actor": 785,
+            "to_actor": 1375,
+            "start": "2009-10-28",
+            "end": "2009-11-20",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Per Løkken",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 41295,
+            "from_actor": 1077,
+            "to_actor": 1375,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Per Løkken",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65997,
+            "from_actor": 5165,
+            "to_actor": 1375,
+            "start": "2015-04-11",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Per Løkken",
+            "type": "Udvalg"
+        },
+        {
+            "id": 66007,
+            "from_actor": 5168,
+            "to_actor": 1375,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Landdistrikter og Øer",
+            "to_actor_name": "Per Løkken",
+            "type": "Udvalg"
+        },
+        {
+            "id": 66008,
+            "from_actor": 5169,
+            "to_actor": 1375,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Småøer",
+            "to_actor_name": "Per Løkken",
+            "type": "Udvalg"
+        },
+        {
+            "id": 66093,
+            "from_actor": 13635,
+            "to_actor": 1375,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Løkken",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83207,
+            "from_actor": 13645,
+            "to_actor": 1375,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Per Løkken",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84295,
+            "from_actor": 13708,
+            "to_actor": 1375,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Per Løkken",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84955,
+            "from_actor": 429,
+            "to_actor": 1375,
+            "start": "2009-10-28",
+            "end": "2009-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Per Løkken",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882062,
+            "from_actor": 1375,
+            "to_actor": 785,
+            "start": "2009-10-28",
+            "end": "2009-11-20",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882063,
+            "from_actor": 1375,
+            "to_actor": 13645,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882064,
+            "from_actor": 1375,
+            "to_actor": 13635,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882065,
+            "from_actor": 1375,
+            "to_actor": 1077,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882066,
+            "from_actor": 1375,
+            "to_actor": 5169,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882067,
+            "from_actor": 1375,
+            "to_actor": 5168,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882068,
+            "from_actor": 1375,
+            "to_actor": 5165,
+            "start": "2015-02-03",
+            "end": "2015-04-09",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882070,
+            "from_actor": 1375,
+            "to_actor": 13708,
+            "start": "2015-02-03",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882071,
+            "from_actor": 1375,
+            "to_actor": 5165,
+            "start": "2015-04-11",
+            "end": "2015-04-26",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23916238,
+            "from_actor": 1375,
+            "to_actor": 429,
+            "start": "2009-10-28",
+            "end": "2009-11-20",
+            "role": "medlem",
+            "from_actor_name": "Per Løkken",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

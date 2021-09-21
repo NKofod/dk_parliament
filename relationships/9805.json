@@ -1,0 +1,136 @@
+{
+    "9805": [
+        {
+            "id": 78174,
+            "from_actor": 14663,
+            "to_actor": 9805,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78264,
+            "from_actor": 14668,
+            "to_actor": 9805,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78534,
+            "from_actor": 14676,
+            "to_actor": 9805,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78635,
+            "from_actor": 14682,
+            "to_actor": 9805,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78914,
+            "from_actor": 14690,
+            "to_actor": 9805,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79013,
+            "from_actor": 14696,
+            "to_actor": 9805,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79338,
+            "from_actor": 14704,
+            "to_actor": 9805,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79442,
+            "from_actor": 14709,
+            "to_actor": 9805,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132406,
+            "from_actor": 9805,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132508,
+            "from_actor": 9805,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132665,
+            "from_actor": 9805,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732811,
+            "from_actor": 9805,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ingrid R. Kjær Kjældgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

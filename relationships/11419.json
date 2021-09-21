@@ -1,0 +1,246 @@
+{
+    "11419": [
+        {
+            "id": 42496,
+            "from_actor": 579,
+            "to_actor": 11419,
+            "start": "2010-07-01",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 42893,
+            "from_actor": 400,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 43107,
+            "from_actor": 580,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 47672,
+            "from_actor": 398,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 48929,
+            "from_actor": 1208,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 49847,
+            "from_actor": 584,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 49942,
+            "from_actor": 585,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2013-05-23",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 50500,
+            "from_actor": 355,
+            "to_actor": 11419,
+            "start": "2010-10-05",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 53556,
+            "from_actor": 196,
+            "to_actor": 11419,
+            "start": "2010-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 54219,
+            "from_actor": 13679,
+            "to_actor": 11419,
+            "start": "2014-10-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 112906,
+            "from_actor": 15866,
+            "to_actor": 11419,
+            "start": "2014-10-01",
+            "end": "2018-09-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 42518,
+            "from_actor": 11419,
+            "to_actor": 579,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42519,
+            "from_actor": 11419,
+            "to_actor": 580,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42520,
+            "from_actor": 11419,
+            "to_actor": 584,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42521,
+            "from_actor": 11419,
+            "to_actor": 585,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 42523,
+            "from_actor": 11419,
+            "to_actor": 400,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 42524,
+            "from_actor": 11419,
+            "to_actor": 1208,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 42525,
+            "from_actor": 11419,
+            "to_actor": 398,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 42526,
+            "from_actor": 11419,
+            "to_actor": 355,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 156497,
+            "from_actor": 11419,
+            "to_actor": 196,
+            "start": "2010-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 156510,
+            "from_actor": 11419,
+            "to_actor": 13679,
+            "start": "2014-10-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 10561297,
+            "from_actor": 11419,
+            "to_actor": 15866,
+            "start": "2014-10-01",
+            "end": "2018-09-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

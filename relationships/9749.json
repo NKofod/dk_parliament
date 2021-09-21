@@ -1,0 +1,169 @@
+{
+    "9749": [
+        {
+            "id": 84334,
+            "from_actor": 14825,
+            "to_actor": 9749,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84365,
+            "from_actor": 14830,
+            "to_actor": 9749,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84735,
+            "from_actor": 14842,
+            "to_actor": 9749,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85305,
+            "from_actor": 14841,
+            "to_actor": 9749,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85557,
+            "from_actor": 14855,
+            "to_actor": 9749,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85648,
+            "from_actor": 14856,
+            "to_actor": 9749,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85999,
+            "from_actor": 14872,
+            "to_actor": 9749,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86047,
+            "from_actor": 14875,
+            "to_actor": 9749,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86929,
+            "from_actor": 14897,
+            "to_actor": 9749,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86976,
+            "from_actor": 14899,
+            "to_actor": 9749,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ebbe Kalnæs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134992,
+            "from_actor": 9749,
+            "to_actor": 14875,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Kalnæs",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588389,
+            "from_actor": 9749,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Kalnæs",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892936,
+            "from_actor": 9749,
+            "to_actor": 14899,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Kalnæs",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893081,
+            "from_actor": 9749,
+            "to_actor": 14856,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Kalnæs",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594775,
+            "from_actor": 9749,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Kalnæs",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

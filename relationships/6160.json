@@ -1,0 +1,26 @@
+{
+    "6160": [
+        {
+            "id": 30015,
+            "from_actor": 1099,
+            "to_actor": 6160,
+            "start": "2008-05-09",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "to_actor_name": "Hanne Dahl (JBMU)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 36877,
+            "from_actor": 6160,
+            "to_actor": 1099,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hanne Dahl (JBMU)",
+            "to_actor_name": "Danske repræsentanter i Europa-parlamentet",
+            "type": "Anden gruppe"
+        }
+    ]
+}

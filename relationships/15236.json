@@ -1,0 +1,180 @@
+{
+    "15236": [
+        {
+            "id": 91498,
+            "from_actor": 15231,
+            "to_actor": 15236,
+            "start": "1958-06-03",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91516,
+            "from_actor": 15239,
+            "to_actor": 15236,
+            "start": "1958-06-03",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91868,
+            "from_actor": 15251,
+            "to_actor": 15236,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91913,
+            "from_actor": 15259,
+            "to_actor": 15236,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92227,
+            "from_actor": 15269,
+            "to_actor": 15236,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92254,
+            "from_actor": 15279,
+            "to_actor": 15236,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92595,
+            "from_actor": 15290,
+            "to_actor": 15236,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92622,
+            "from_actor": 15292,
+            "to_actor": 15236,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Kristian Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111557,
+            "from_actor": 15236,
+            "to_actor": 15259,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111558,
+            "from_actor": 15236,
+            "to_actor": 15279,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111559,
+            "from_actor": 15236,
+            "to_actor": 15292,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111560,
+            "from_actor": 15236,
+            "to_actor": 15239,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526974,
+            "from_actor": 15236,
+            "to_actor": 15231,
+            "start": "1958-06-03",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527154,
+            "from_actor": 15236,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527340,
+            "from_actor": 15236,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527528,
+            "from_actor": 15236,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Kristian Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

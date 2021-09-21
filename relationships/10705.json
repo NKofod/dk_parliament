@@ -1,0 +1,70 @@
+{
+    "10705": [
+        {
+            "id": 40579,
+            "from_actor": 509,
+            "to_actor": 10705,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Bente Kronborg Holst",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 41826,
+            "from_actor": 814,
+            "to_actor": 10705,
+            "start": "2009-11-05",
+            "end": "2009-11-05",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Bente Kronborg Holst",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84958,
+            "from_actor": 429,
+            "to_actor": 10705,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Kronborg Holst",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882117,
+            "from_actor": 10705,
+            "to_actor": 814,
+            "start": "2009-11-05",
+            "end": "2009-11-05",
+            "role": "medlem",
+            "from_actor_name": "Bente Kronborg Holst",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882118,
+            "from_actor": 10705,
+            "to_actor": 509,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Bente Kronborg Holst",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23916241,
+            "from_actor": 10705,
+            "to_actor": 429,
+            "start": "2009-10-28",
+            "end": "2009-11-19",
+            "role": "medlem",
+            "from_actor_name": "Bente Kronborg Holst",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

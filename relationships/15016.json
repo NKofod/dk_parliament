@@ -1,0 +1,180 @@
+{
+    "15016": [
+        {
+            "id": 88574,
+            "from_actor": 14976,
+            "to_actor": 15016,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88835,
+            "from_actor": 15137,
+            "to_actor": 15016,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89183,
+            "from_actor": 15147,
+            "to_actor": 15016,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89446,
+            "from_actor": 15158,
+            "to_actor": 15016,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89809,
+            "from_actor": 15172,
+            "to_actor": 15016,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89908,
+            "from_actor": 15162,
+            "to_actor": 15016,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90536,
+            "from_actor": 15186,
+            "to_actor": 15016,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90634,
+            "from_actor": 15177,
+            "to_actor": 15016,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arnth Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 104390,
+            "from_actor": 15016,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104391,
+            "from_actor": 15016,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104392,
+            "from_actor": 15016,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104393,
+            "from_actor": 15016,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525939,
+            "from_actor": 15016,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526124,
+            "from_actor": 15016,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526308,
+            "from_actor": 15016,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526490,
+            "from_actor": 15016,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Arnth Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

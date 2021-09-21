@@ -1,0 +1,147 @@
+{
+    "1274": [
+        {
+            "id": 5057,
+            "from_actor": 174,
+            "to_actor": 1274,
+            "start": "2014-04-04",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Anja Østergaard Johansen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 113181,
+            "from_actor": 13637,
+            "to_actor": 1274,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Anja Østergaard Johansen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 125831,
+            "from_actor": 15891,
+            "to_actor": 1274,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Anja Østergaard Johansen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13259,
+            "from_actor": 1274,
+            "to_actor": 174,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 57474,
+            "from_actor": 1274,
+            "to_actor": 13637,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 135781,
+            "from_actor": 1274,
+            "to_actor": 15891,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1277792,
+            "from_actor": 1274,
+            "to_actor": 16071,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5867969,
+            "from_actor": 1274,
+            "to_actor": 16889,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606563,
+            "from_actor": 1274,
+            "to_actor": 17625,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14123562,
+            "from_actor": 1274,
+            "to_actor": 18336,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957935,
+            "from_actor": 1274,
+            "to_actor": 18733,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21708541,
+            "from_actor": 1274,
+            "to_actor": 18901,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22734214,
+            "from_actor": 1274,
+            "to_actor": 19373,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Anja Østergaard Johansen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "1973": [
+        {
+            "id": 17909,
+            "from_actor": 1223,
+            "to_actor": 1973,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Anders Stenild",
+            "type": "Kommission"
+        },
+        {
+            "id": 19845,
+            "from_actor": 1750,
+            "to_actor": 1973,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Anders Stenild",
+            "type": "Kommission"
+        },
+        {
+            "id": 88067,
+            "from_actor": 14931,
+            "to_actor": 1973,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Stenild",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23658235,
+            "from_actor": 1973,
+            "to_actor": 1223,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23658236,
+            "from_actor": 1973,
+            "to_actor": 1750,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23658237,
+            "from_actor": 1973,
+            "to_actor": 14920,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23658238,
+            "from_actor": 1973,
+            "to_actor": 14902,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23658239,
+            "from_actor": 1973,
+            "to_actor": 14945,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23658240,
+            "from_actor": 1973,
+            "to_actor": 14933,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23658241,
+            "from_actor": 1973,
+            "to_actor": 14931,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23658242,
+            "from_actor": 1973,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Stenild",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

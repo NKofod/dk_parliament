@@ -1,0 +1,26 @@
+{
+    "16364": [
+        {
+            "id": 21708633,
+            "from_actor": 16364,
+            "to_actor": 19121,
+            "start": "2020-03-01",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anders Helmuth Knudsen",
+            "to_actor_name": "2030-netværket ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 25930326,
+            "from_actor": 16364,
+            "to_actor": 19418,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anders Helmuth Knudsen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        }
+    ]
+}

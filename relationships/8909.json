@@ -1,0 +1,26 @@
+{
+    "8909": [
+        {
+            "id": 37205,
+            "from_actor": 594,
+            "to_actor": 8909,
+            "start": "2008-10-08",
+            "end": "2009-08-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Rigmor Winthrop",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37292,
+            "from_actor": 8909,
+            "to_actor": 594,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Rigmor Winthrop",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

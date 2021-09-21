@@ -1,0 +1,70 @@
+{
+    "13659": [
+        {
+            "id": 54070,
+            "from_actor": 970,
+            "to_actor": 13659,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54115,
+            "from_actor": 13666,
+            "to_actor": 13659,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 112940,
+            "from_actor": 15867,
+            "to_actor": 13659,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 64079,
+            "from_actor": 13659,
+            "to_actor": 970,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 64080,
+            "from_actor": 13659,
+            "to_actor": 13666,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19843105,
+            "from_actor": 13659,
+            "to_actor": 15867,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Lindholm Nielsen (udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

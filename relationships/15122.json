@@ -1,0 +1,180 @@
+{
+    "15122": [
+        {
+            "id": 88707,
+            "from_actor": 14976,
+            "to_actor": 15122,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88855,
+            "from_actor": 15137,
+            "to_actor": 15122,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89287,
+            "from_actor": 15147,
+            "to_actor": 15122,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89465,
+            "from_actor": 15158,
+            "to_actor": 15122,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89828,
+            "from_actor": 15172,
+            "to_actor": 15122,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90012,
+            "from_actor": 15162,
+            "to_actor": 15122,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90555,
+            "from_actor": 15186,
+            "to_actor": 15122,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90736,
+            "from_actor": 15177,
+            "to_actor": 15122,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Gram",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 110086,
+            "from_actor": 15122,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110087,
+            "from_actor": 15122,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110088,
+            "from_actor": 15122,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110089,
+            "from_actor": 15122,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526045,
+            "from_actor": 15122,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526227,
+            "from_actor": 15122,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526411,
+            "from_actor": 15122,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526591,
+            "from_actor": 15122,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Gram",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

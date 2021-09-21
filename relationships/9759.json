@@ -1,0 +1,37 @@
+{
+    "9759": [
+        {
+            "id": 73917,
+            "from_actor": 14495,
+            "to_actor": 9759,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jutta Houmøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762960,
+            "from_actor": 9759,
+            "to_actor": 14517,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jutta Houmøller",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23762961,
+            "from_actor": 9759,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jutta Houmøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "18278": [
+        {
+            "id": 23045862,
+            "from_actor": 18278,
+            "to_actor": 17605,
+            "start": "2018-09-30",
+            "end": "2018-10-06",
+            "role": "medlem",
+            "from_actor_name": "Serdal Benli",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23045863,
+            "from_actor": 18278,
+            "to_actor": 18328,
+            "start": "2018-10-02",
+            "end": "2018-10-06",
+            "role": "medlem",
+            "from_actor_name": "Serdal Benli",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045864,
+            "from_actor": 18278,
+            "to_actor": 17613,
+            "start": "2018-09-30",
+            "end": "2018-10-06",
+            "role": "medlem",
+            "from_actor_name": "Serdal Benli",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045865,
+            "from_actor": 18278,
+            "to_actor": 18356,
+            "start": "2018-10-05",
+            "end": "2018-10-05",
+            "role": "medlem",
+            "from_actor_name": "Serdal Benli",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045866,
+            "from_actor": 18278,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2018-10-06",
+            "role": "medlem",
+            "from_actor_name": "Serdal Benli",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

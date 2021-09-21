@@ -1,0 +1,136 @@
+{
+    "9837": [
+        {
+            "id": 70682,
+            "from_actor": 14084,
+            "to_actor": 9837,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Birthe Juel-Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70829,
+            "from_actor": 14338,
+            "to_actor": 9837,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birthe Juel-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71702,
+            "from_actor": 14387,
+            "to_actor": 9837,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birthe Juel-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121189,
+            "from_actor": 14082,
+            "to_actor": 9837,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birthe Juel-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17756162,
+            "from_actor": 9837,
+            "to_actor": 14321,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17756163,
+            "from_actor": 9837,
+            "to_actor": 14427,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17756164,
+            "from_actor": 9837,
+            "to_actor": 14394,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17756165,
+            "from_actor": 9837,
+            "to_actor": 14359,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17756166,
+            "from_actor": 9837,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17756167,
+            "from_actor": 9837,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17756168,
+            "from_actor": 9837,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17756169,
+            "from_actor": 9837,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Birthe Juel-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

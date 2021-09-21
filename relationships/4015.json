@@ -1,0 +1,158 @@
+{
+    "4015": [
+        {
+            "id": 24080,
+            "from_actor": 1239,
+            "to_actor": 4015,
+            "start": "2006-06-15",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 29216,
+            "from_actor": 620,
+            "to_actor": 4015,
+            "start": "2006-11-17",
+            "end": "2007-03-12",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Iris Madsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30130,
+            "from_actor": 1240,
+            "to_actor": 4015,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 30722,
+            "from_actor": 1241,
+            "to_actor": 4015,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 33313,
+            "from_actor": 1184,
+            "to_actor": 4015,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 36172,
+            "from_actor": 619,
+            "to_actor": 4015,
+            "start": "2006-11-17",
+            "end": "2007-03-12",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Iris Madsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39457,
+            "from_actor": 1185,
+            "to_actor": 4015,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 28289,
+            "from_actor": 4015,
+            "to_actor": 619,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28290,
+            "from_actor": 4015,
+            "to_actor": 620,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2859711,
+            "from_actor": 4015,
+            "to_actor": 1241,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859726,
+            "from_actor": 4015,
+            "to_actor": 1240,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859770,
+            "from_actor": 4015,
+            "to_actor": 1239,
+            "start": "2006-06-15",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859833,
+            "from_actor": 4015,
+            "to_actor": 1185,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859848,
+            "from_actor": 4015,
+            "to_actor": 1184,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        }
+    ]
+}

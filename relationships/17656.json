@@ -1,0 +1,26 @@
+{
+    "17656": [
+        {
+            "id": 11444800,
+            "from_actor": 17656,
+            "to_actor": 17602,
+            "start": "2018-03-21",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Susanne Klint Poulsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 13868296,
+            "from_actor": 17656,
+            "to_actor": 17650,
+            "start": "2017-10-04",
+            "end": "2018-09-30",
+            "role": "delegationssekretær",
+            "from_actor_name": "Susanne Klint Poulsen",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        }
+    ]
+}

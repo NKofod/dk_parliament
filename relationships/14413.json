@@ -1,0 +1,235 @@
+{
+    "14413": [
+        {
+            "id": 71735,
+            "from_actor": 14387,
+            "to_actor": 14413,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78180,
+            "from_actor": 14663,
+            "to_actor": 14413,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78270,
+            "from_actor": 14668,
+            "to_actor": 14413,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78540,
+            "from_actor": 14676,
+            "to_actor": 14413,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78641,
+            "from_actor": 14682,
+            "to_actor": 14413,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78920,
+            "from_actor": 14690,
+            "to_actor": 14413,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79018,
+            "from_actor": 14696,
+            "to_actor": 14413,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79344,
+            "from_actor": 14704,
+            "to_actor": 14413,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79450,
+            "from_actor": 14709,
+            "to_actor": 14413,
+            "start": "1990-10-02",
+            "end": "1990-11-13",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79568,
+            "from_actor": 14718,
+            "to_actor": 14413,
+            "start": "1990-11-14",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Trivselspartiet",
+            "to_actor_name": "Mogens Houmann Elvensø",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140800,
+            "from_actor": 14413,
+            "to_actor": 14718,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Trivselspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140801,
+            "from_actor": 14413,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140802,
+            "from_actor": 14413,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140803,
+            "from_actor": 14413,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140804,
+            "from_actor": 14413,
+            "to_actor": 14709,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140805,
+            "from_actor": 14413,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 140806,
+            "from_actor": 14413,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 140807,
+            "from_actor": 14413,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 140809,
+            "from_actor": 14413,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140810,
+            "from_actor": 14413,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732817,
+            "from_actor": 14413,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mogens Houmann Elvensø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "9961": [
+        {
+            "id": 85389,
+            "from_actor": 14841,
+            "to_actor": 9961,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Klit Johansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85836,
+            "from_actor": 14855,
+            "to_actor": 9961,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Klit Johansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86773,
+            "from_actor": 14872,
+            "to_actor": 9961,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Klit Johansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134737,
+            "from_actor": 9961,
+            "to_actor": 14848,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Børge Klit Johansen",
+            "to_actor_name": "Kristeligt Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134876,
+            "from_actor": 9961,
+            "to_actor": 14862,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Børge Klit Johansen",
+            "to_actor_name": "Kristeligt Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135026,
+            "from_actor": 9961,
+            "to_actor": 14882,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Børge Klit Johansen",
+            "to_actor_name": "Kristeligt Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588437,
+            "from_actor": 9961,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Børge Klit Johansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

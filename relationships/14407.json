@@ -1,0 +1,37 @@
+{
+    "14407": [
+        {
+            "id": 71728,
+            "from_actor": 14387,
+            "to_actor": 14407,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bardino",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158664,
+            "from_actor": 14407,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Bardino",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158665,
+            "from_actor": 14407,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Bardino",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

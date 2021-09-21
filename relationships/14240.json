@@ -1,0 +1,48 @@
+{
+    "14240": [
+        {
+            "id": 121205,
+            "from_actor": 14082,
+            "to_actor": 14240,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rita Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128380,
+            "from_actor": 14088,
+            "to_actor": 14240,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Rita Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69914,
+            "from_actor": 14240,
+            "to_actor": 14088,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rita Christensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235556,
+            "from_actor": 14240,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Rita Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

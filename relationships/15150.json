@@ -1,0 +1,224 @@
+{
+    "15150": [
+        {
+            "id": 89301,
+            "from_actor": 15147,
+            "to_actor": 15150,
+            "start": "1954-12-14",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89486,
+            "from_actor": 15152,
+            "to_actor": 15150,
+            "start": "1954-12-14",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89681,
+            "from_actor": 15166,
+            "to_actor": 15150,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90025,
+            "from_actor": 15162,
+            "to_actor": 15150,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90227,
+            "from_actor": 15180,
+            "to_actor": 15150,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90749,
+            "from_actor": 15177,
+            "to_actor": 15150,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91080,
+            "from_actor": 15190,
+            "to_actor": 15150,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91146,
+            "from_actor": 15223,
+            "to_actor": 15150,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91453,
+            "from_actor": 15231,
+            "to_actor": 15150,
+            "start": "1957-10-01",
+            "end": "1958-06-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91509,
+            "from_actor": 15239,
+            "to_actor": 15150,
+            "start": "1957-10-01",
+            "end": "1958-06-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Alfred Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572502,
+            "from_actor": 15150,
+            "to_actor": 15166,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572503,
+            "from_actor": 15150,
+            "to_actor": 15180,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572504,
+            "from_actor": 15150,
+            "to_actor": 15223,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572505,
+            "from_actor": 15150,
+            "to_actor": 15152,
+            "start": "1954-12-14",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572506,
+            "from_actor": 15150,
+            "to_actor": 15239,
+            "start": "1957-10-01",
+            "end": "1958-06-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21572507,
+            "from_actor": 15150,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21572508,
+            "from_actor": 15150,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21572509,
+            "from_actor": 15150,
+            "to_actor": 15147,
+            "start": "1954-12-14",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21572510,
+            "from_actor": 15150,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21572511,
+            "from_actor": 15150,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-06-02",
+            "role": "medlem",
+            "from_actor_name": "Alfred Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

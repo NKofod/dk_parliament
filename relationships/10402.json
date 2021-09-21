@@ -1,0 +1,180 @@
+{
+    "10402": [
+        {
+            "id": 100335,
+            "from_actor": 15609,
+            "to_actor": 10402,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100408,
+            "from_actor": 15622,
+            "to_actor": 10402,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100693,
+            "from_actor": 15628,
+            "to_actor": 10402,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100770,
+            "from_actor": 15631,
+            "to_actor": 10402,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101064,
+            "from_actor": 15639,
+            "to_actor": 10402,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101218,
+            "from_actor": 15642,
+            "to_actor": 10402,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101682,
+            "from_actor": 15649,
+            "to_actor": 10402,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101780,
+            "from_actor": 15652,
+            "to_actor": 10402,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Bent Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131514,
+            "from_actor": 10402,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20131663,
+            "from_actor": 10402,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422264,
+            "from_actor": 10402,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422458,
+            "from_actor": 10402,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422653,
+            "from_actor": 10402,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422746,
+            "from_actor": 10402,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422822,
+            "from_actor": 10402,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422899,
+            "from_actor": 10402,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

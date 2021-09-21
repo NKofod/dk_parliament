@@ -1,0 +1,48 @@
+{
+    "14241": [
+        {
+            "id": 70658,
+            "from_actor": 14085,
+            "to_actor": 14241,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frederik Johansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121204,
+            "from_actor": 14082,
+            "to_actor": 14241,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Johansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69854,
+            "from_actor": 14241,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frederik Johansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235555,
+            "from_actor": 14241,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Frederik Johansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

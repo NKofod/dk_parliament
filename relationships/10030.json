@@ -1,0 +1,26 @@
+{
+    "10030": [
+        {
+            "id": 83184,
+            "from_actor": 14789,
+            "to_actor": 10030,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Erik Hillerup-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893356,
+            "from_actor": 10030,
+            "to_actor": 14790,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Erik Hillerup-Jensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

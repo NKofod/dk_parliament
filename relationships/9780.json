@@ -1,0 +1,136 @@
+{
+    "9780": [
+        {
+            "id": 88080,
+            "from_actor": 14931,
+            "to_actor": 9780,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tórbjørn Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2371553,
+            "from_actor": 9780,
+            "to_actor": 14927,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Tjóðveldisflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 2371560,
+            "from_actor": 9780,
+            "to_actor": 14931,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4910919,
+            "from_actor": 9780,
+            "to_actor": 14941,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Tjóðveldisflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4910921,
+            "from_actor": 9780,
+            "to_actor": 14954,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Tjóðveldisflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911110,
+            "from_actor": 9780,
+            "to_actor": 14917,
+            "start": "2001-12-14",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4911311,
+            "from_actor": 9780,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-03-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5848888,
+            "from_actor": 9780,
+            "to_actor": 16882,
+            "start": "2016-10-18",
+            "end": "2016-12-31",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Tjóðveldi",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5965183,
+            "from_actor": 9780,
+            "to_actor": 16860,
+            "start": "2016-10-18",
+            "end": "2017-01-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 5965281,
+            "from_actor": 9780,
+            "to_actor": 16934,
+            "start": "2016-10-18",
+            "end": "2017-01-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 6118156,
+            "from_actor": 9780,
+            "to_actor": 16912,
+            "start": "2016-10-18",
+            "end": "2017-01-01",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24251929,
+            "from_actor": 9780,
+            "to_actor": 16886,
+            "start": "2016-10-18",
+            "end": "2016-12-31",
+            "role": "medlem",
+            "from_actor_name": "Tórbjørn Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

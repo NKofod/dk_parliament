@@ -1,0 +1,37 @@
+{
+    "10100": [
+        {
+            "id": 23502787,
+            "from_actor": 10100,
+            "to_actor": 14818,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Erik Voss",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23502789,
+            "from_actor": 10100,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Voss",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379765,
+            "from_actor": 10100,
+            "to_actor": 19235,
+            "start": "2020-05-18",
+            "end": "2026-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Voss",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

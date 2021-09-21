@@ -1,0 +1,213 @@
+{
+    "15616": [
+        {
+            "id": 111416,
+            "from_actor": 15804,
+            "to_actor": 15616,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "arbejdsministeren",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 121224,
+            "from_actor": 15705,
+            "to_actor": 15616,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126635,
+            "from_actor": 15630,
+            "to_actor": 15616,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126687,
+            "from_actor": 15641,
+            "to_actor": 15616,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127063,
+            "from_actor": 15651,
+            "to_actor": 15616,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127097,
+            "from_actor": 15677,
+            "to_actor": 15616,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Lauge Dahlgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107711,
+            "from_actor": 15616,
+            "to_actor": 15804,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "arbejdsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 111404,
+            "from_actor": 15616,
+            "to_actor": 15651,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111405,
+            "from_actor": 15616,
+            "to_actor": 15620,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111407,
+            "from_actor": 15616,
+            "to_actor": 15641,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111408,
+            "from_actor": 15616,
+            "to_actor": 15705,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111410,
+            "from_actor": 15616,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111411,
+            "from_actor": 15616,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588475,
+            "from_actor": 15616,
+            "to_actor": 15677,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4678160,
+            "from_actor": 15616,
+            "to_actor": 15630,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131542,
+            "from_actor": 15616,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422290,
+            "from_actor": 15616,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422484,
+            "from_actor": 15616,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422679,
+            "from_actor": 15616,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lauge Dahlgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

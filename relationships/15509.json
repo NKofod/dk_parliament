@@ -1,0 +1,92 @@
+{
+    "15509": [
+        {
+            "id": 97085,
+            "from_actor": 15517,
+            "to_actor": 15509,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Svend Lund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97295,
+            "from_actor": 15523,
+            "to_actor": 15509,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Lund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97373,
+            "from_actor": 15528,
+            "to_actor": 15509,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Svend Lund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102190,
+            "from_actor": 15498,
+            "to_actor": 15509,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Lund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126886,
+            "from_actor": 15509,
+            "to_actor": 15528,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Svend Lund",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677011,
+            "from_actor": 15509,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Lund",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529226,
+            "from_actor": 15509,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529413,
+            "from_actor": 15509,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Svend Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

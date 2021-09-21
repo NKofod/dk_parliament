@@ -1,0 +1,191 @@
+{
+    "15104": [
+        {
+            "id": 88688,
+            "from_actor": 14976,
+            "to_actor": 15104,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Smørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88747,
+            "from_actor": 15134,
+            "to_actor": 15104,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Smørum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89269,
+            "from_actor": 15147,
+            "to_actor": 15104,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Smørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89389,
+            "from_actor": 15156,
+            "to_actor": 15104,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Smørum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89755,
+            "from_actor": 15170,
+            "to_actor": 15104,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Smørum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89994,
+            "from_actor": 15162,
+            "to_actor": 15104,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Smørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90301,
+            "from_actor": 15184,
+            "to_actor": 15104,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Smørum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90718,
+            "from_actor": 15177,
+            "to_actor": 15104,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Smørum",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 136415,
+            "from_actor": 15104,
+            "to_actor": 15816,
+            "start": "1953-09-30",
+            "end": "1957-05-28",
+            "role": "Minister",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "landbrugsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21526027,
+            "from_actor": 15104,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526209,
+            "from_actor": 15104,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526393,
+            "from_actor": 15104,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526573,
+            "from_actor": 15104,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530231,
+            "from_actor": 15104,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530308,
+            "from_actor": 15104,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530385,
+            "from_actor": 15104,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530463,
+            "from_actor": 15104,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jens Smørum",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

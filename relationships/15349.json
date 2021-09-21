@@ -1,0 +1,48 @@
+{
+    "15349": [
+        {
+            "id": 93334,
+            "from_actor": 15303,
+            "to_actor": 15349,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124327,
+            "from_actor": 15346,
+            "to_actor": 15349,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Aage Poulsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127054,
+            "from_actor": 15349,
+            "to_actor": 15346,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Aage Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527726,
+            "from_actor": 15349,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Aage Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

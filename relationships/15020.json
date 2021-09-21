@@ -1,0 +1,48 @@
+{
+    "15020": [
+        {
+            "id": 88580,
+            "from_actor": 14976,
+            "to_actor": 15020,
+            "start": "1953-10-06",
+            "end": "1954-03-31",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Otto Himmelstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88866,
+            "from_actor": 15137,
+            "to_actor": 15020,
+            "start": "1953-10-06",
+            "end": "1954-03-31",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Otto Himmelstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119361,
+            "from_actor": 15020,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Otto Himmelstrup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526060,
+            "from_actor": 15020,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-03-31",
+            "role": "medlem",
+            "from_actor_name": "Otto Himmelstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

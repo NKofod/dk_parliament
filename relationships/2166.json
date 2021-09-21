@@ -1,0 +1,103 @@
+{
+    "2166": [
+        {
+            "id": 17782,
+            "from_actor": 1780,
+            "to_actor": 2166,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19870,
+            "from_actor": 1781,
+            "to_actor": 2166,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 24127,
+            "from_actor": 1782,
+            "to_actor": 2166,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30119,
+            "from_actor": 1783,
+            "to_actor": 2166,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17764,
+            "from_actor": 2166,
+            "to_actor": 1780,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17765,
+            "from_actor": 2166,
+            "to_actor": 1781,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17766,
+            "from_actor": 2166,
+            "to_actor": 1782,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17767,
+            "from_actor": 2166,
+            "to_actor": 1783,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 132058,
+            "from_actor": 2166,
+            "to_actor": 14603,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Jensen (Udpeget af S)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

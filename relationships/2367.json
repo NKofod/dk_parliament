@@ -1,0 +1,48 @@
+{
+    "2367": [
+        {
+            "id": 34027,
+            "from_actor": 820,
+            "to_actor": 2367,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Susanne Bundgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38656,
+            "from_actor": 808,
+            "to_actor": 2367,
+            "start": "2008-10-08",
+            "end": "2009-08-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Susanne Bundgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18130,
+            "from_actor": 2367,
+            "to_actor": 820,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Susanne Bundgaard",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18131,
+            "from_actor": 2367,
+            "to_actor": 808,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Susanne Bundgaard",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

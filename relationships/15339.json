@@ -1,0 +1,180 @@
+{
+    "15339": [
+        {
+            "id": 93151,
+            "from_actor": 15303,
+            "to_actor": 15339,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mikael Gam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93286,
+            "from_actor": 15345,
+            "to_actor": 15339,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Mikael Gam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93514,
+            "from_actor": 15351,
+            "to_actor": 15339,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mikael Gam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93654,
+            "from_actor": 15360,
+            "to_actor": 15339,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Mikael Gam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94049,
+            "from_actor": 15380,
+            "to_actor": 15339,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Mikael Gam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94429,
+            "from_actor": 15399,
+            "to_actor": 15339,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Mikael Gam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94648,
+            "from_actor": 15390,
+            "to_actor": 15339,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mikael Gam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 112198,
+            "from_actor": 15339,
+            "to_actor": 15345,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112199,
+            "from_actor": 15339,
+            "to_actor": 15360,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112200,
+            "from_actor": 15339,
+            "to_actor": 15380,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112201,
+            "from_actor": 15339,
+            "to_actor": 15399,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136418,
+            "from_actor": 15339,
+            "to_actor": 14109,
+            "start": "1960-11-18",
+            "end": "1964-09-26",
+            "role": "Minister",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "ministeren for Grønland",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21527722,
+            "from_actor": 15339,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527905,
+            "from_actor": 15339,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528096,
+            "from_actor": 15339,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528294,
+            "from_actor": 15339,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Mikael Gam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

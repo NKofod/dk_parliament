@@ -1,0 +1,136 @@
+{
+    "12284": [
+        {
+            "id": 45330,
+            "from_actor": 345,
+            "to_actor": 12284,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 48138,
+            "from_actor": 414,
+            "to_actor": 12284,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49007,
+            "from_actor": 406,
+            "to_actor": 12284,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 49329,
+            "from_actor": 413,
+            "to_actor": 12284,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49487,
+            "from_actor": 751,
+            "to_actor": 12284,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49553,
+            "from_actor": 416,
+            "to_actor": 12284,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Marie-Louise Andreassen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913788,
+            "from_actor": 12284,
+            "to_actor": 406,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913789,
+            "from_actor": 12284,
+            "to_actor": 413,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913790,
+            "from_actor": 12284,
+            "to_actor": 414,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913791,
+            "from_actor": 12284,
+            "to_actor": 416,
+            "start": "2011-10-31",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913792,
+            "from_actor": 12284,
+            "to_actor": 751,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913793,
+            "from_actor": 12284,
+            "to_actor": 345,
+            "start": "2011-10-27",
+            "end": "2011-11-17",
+            "role": "medlem",
+            "from_actor_name": "Marie-Louise Andreassen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

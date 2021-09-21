@@ -1,0 +1,26 @@
+{
+    "9988": [
+        {
+            "id": 81852,
+            "from_actor": 14754,
+            "to_actor": 9988,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Bundgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133454,
+            "from_actor": 9988,
+            "to_actor": 14757,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bent Bundgaard",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "14335": [
+        {
+            "id": 70781,
+            "from_actor": 14319,
+            "to_actor": 14335,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ole Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70834,
+            "from_actor": 14338,
+            "to_actor": 14335,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71685,
+            "from_actor": 14387,
+            "to_actor": 14335,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103631,
+            "from_actor": 15721,
+            "to_actor": 14335,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128269,
+            "from_actor": 15728,
+            "to_actor": 14335,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ole Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5177049,
+            "from_actor": 14335,
+            "to_actor": 15728,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5177050,
+            "from_actor": 14335,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5177051,
+            "from_actor": 14335,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5177052,
+            "from_actor": 14335,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5177053,
+            "from_actor": 14335,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5177054,
+            "from_actor": 14335,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5177056,
+            "from_actor": 14335,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235329,
+            "from_actor": 14335,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

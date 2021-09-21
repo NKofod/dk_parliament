@@ -1,0 +1,103 @@
+{
+    "14753": [
+        {
+            "id": 81451,
+            "from_actor": 14742,
+            "to_actor": 14753,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81850,
+            "from_actor": 14754,
+            "to_actor": 14753,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83587,
+            "from_actor": 14800,
+            "to_actor": 14753,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158877,
+            "from_actor": 14753,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158878,
+            "from_actor": 14753,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158879,
+            "from_actor": 14753,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158880,
+            "from_actor": 14753,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158881,
+            "from_actor": 14753,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158882,
+            "from_actor": 14753,
+            "to_actor": 14742,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Asger Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

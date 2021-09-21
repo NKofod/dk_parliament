@@ -1,0 +1,70 @@
+{
+    "11637": [
+        {
+            "id": 44815,
+            "from_actor": 883,
+            "to_actor": 11637,
+            "start": "2011-06-01",
+            "end": "2011-09-15",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Anna Munck",
+            "type": "Kommission"
+        },
+        {
+            "id": 47739,
+            "from_actor": 2090,
+            "to_actor": 11637,
+            "start": "2011-06-01",
+            "end": "2011-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Anna Munck",
+            "type": "Kommission"
+        },
+        {
+            "id": 48009,
+            "from_actor": 562,
+            "to_actor": 11637,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Anna Munck",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859057,
+            "from_actor": 11637,
+            "to_actor": 562,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Anna Munck",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859179,
+            "from_actor": 11637,
+            "to_actor": 883,
+            "start": "2011-06-01",
+            "end": "2011-09-15",
+            "role": "delegationssekretær",
+            "from_actor_name": "Anna Munck",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859261,
+            "from_actor": 11637,
+            "to_actor": 2090,
+            "start": "2011-06-01",
+            "end": "2011-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Anna Munck",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        }
+    ]
+}

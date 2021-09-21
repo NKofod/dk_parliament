@@ -1,0 +1,191 @@
+{
+    "9942": [
+        {
+            "id": 82336,
+            "from_actor": 14770,
+            "to_actor": 9942,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82581,
+            "from_actor": 14778,
+            "to_actor": 9942,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82711,
+            "from_actor": 14784,
+            "to_actor": 9942,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82961,
+            "from_actor": 14789,
+            "to_actor": 9942,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83092,
+            "from_actor": 14795,
+            "to_actor": 9942,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83387,
+            "from_actor": 14800,
+            "to_actor": 9942,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83522,
+            "from_actor": 14807,
+            "to_actor": 9942,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83781,
+            "from_actor": 14811,
+            "to_actor": 9942,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83916,
+            "from_actor": 14820,
+            "to_actor": 9942,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85395,
+            "from_actor": 14841,
+            "to_actor": 9942,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85845,
+            "from_actor": 14855,
+            "to_actor": 9942,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jytte Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133710,
+            "from_actor": 9942,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133854,
+            "from_actor": 9942,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134147,
+            "from_actor": 9942,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134324,
+            "from_actor": 9942,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893022,
+            "from_actor": 9942,
+            "to_actor": 14863,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893242,
+            "from_actor": 9942,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jytte Madsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "1303": [
+        {
+            "id": 77222,
+            "from_actor": 14632,
+            "to_actor": 1303,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77304,
+            "from_actor": 14638,
+            "to_actor": 1303,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77601,
+            "from_actor": 14649,
+            "to_actor": 1303,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77679,
+            "from_actor": 14652,
+            "to_actor": 1303,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78148,
+            "from_actor": 14663,
+            "to_actor": 1303,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78243,
+            "from_actor": 14665,
+            "to_actor": 1303,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78508,
+            "from_actor": 14676,
+            "to_actor": 1303,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78612,
+            "from_actor": 14680,
+            "to_actor": 1303,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78888,
+            "from_actor": 14690,
+            "to_actor": 1303,
+            "start": "1989-10-03",
+            "end": "1989-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78994,
+            "from_actor": 14694,
+            "to_actor": 1303,
+            "start": "1989-10-03",
+            "end": "1989-12-12",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Nils Wilhjelm",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172150,
+            "from_actor": 1303,
+            "to_actor": 14665,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172151,
+            "from_actor": 1303,
+            "to_actor": 14680,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172152,
+            "from_actor": 1303,
+            "to_actor": 14638,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172153,
+            "from_actor": 1303,
+            "to_actor": 14652,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172154,
+            "from_actor": 1303,
+            "to_actor": 14694,
+            "start": "1989-10-03",
+            "end": "1989-12-12",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12172155,
+            "from_actor": 1303,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12172156,
+            "from_actor": 1303,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12172157,
+            "from_actor": 1303,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12172158,
+            "from_actor": 1303,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12172159,
+            "from_actor": 1303,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1989-12-12",
+            "role": "medlem",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12172160,
+            "from_actor": 1303,
+            "to_actor": 15812,
+            "start": "1986-03-12",
+            "end": "1989-12-02",
+            "role": "Minister",
+            "from_actor_name": "Nils Wilhjelm",
+            "to_actor_name": "industriministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

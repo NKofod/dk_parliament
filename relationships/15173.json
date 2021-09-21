@@ -1,0 +1,92 @@
+{
+    "15173": [
+        {
+            "id": 90030,
+            "from_actor": 15162,
+            "to_actor": 15173,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90755,
+            "from_actor": 15177,
+            "to_actor": 15173,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90758,
+            "from_actor": 15184,
+            "to_actor": 15173,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124257,
+            "from_actor": 15170,
+            "to_actor": 15173,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526430,
+            "from_actor": 15173,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526610,
+            "from_actor": 15173,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Hans Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530436,
+            "from_actor": 15173,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530511,
+            "from_actor": 15173,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Hans Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

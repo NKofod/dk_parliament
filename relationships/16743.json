@@ -1,0 +1,26 @@
+{
+    "16743": [
+        {
+            "id": 10304340,
+            "from_actor": 16743,
+            "to_actor": 15865,
+            "start": "2016-05-11",
+            "end": "2020-05-31",
+            "role": "medlem",
+            "from_actor_name": "Steen Thomsen (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 27574427,
+            "from_actor": 16743,
+            "to_actor": 18286,
+            "start": "2018-09-06",
+            "end": "2022-09-05",
+            "role": "medlem",
+            "from_actor_name": "Steen Thomsen (udpeget af DF)",
+            "to_actor_name": "Bestyrelsen for Dansk Institut for Partier og Demokrati (DIPD)",
+            "type": "Kommission"
+        }
+    ]
+}

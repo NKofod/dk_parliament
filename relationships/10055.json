@@ -1,0 +1,37 @@
+{
+    "10055": [
+        {
+            "id": 88488,
+            "from_actor": 14259,
+            "to_actor": 10055,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Betina Hoffmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24916810,
+            "from_actor": 10055,
+            "to_actor": 14949,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Betina Hoffmann",
+            "to_actor_name": "Kristeligt Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24916811,
+            "from_actor": 10055,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Betina Hoffmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "1083": [
+        {
+            "id": 72258,
+            "from_actor": 14431,
+            "to_actor": 1083,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Magnus Leopold Demsitz",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72680,
+            "from_actor": 14457,
+            "to_actor": 1083,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Magnus Leopold Demsitz",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73104,
+            "from_actor": 14478,
+            "to_actor": 1083,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Magnus Leopold Demsitz",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75012,
+            "from_actor": 14490,
+            "to_actor": 1083,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Magnus Leopold Demsitz",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 2182229,
+            "from_actor": 1083,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 2182230,
+            "from_actor": 1083,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 2182231,
+            "from_actor": 1083,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 2182232,
+            "from_actor": 1083,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2182234,
+            "from_actor": 1083,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714566,
+            "from_actor": 1083,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Magnus Leopold Demsitz",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

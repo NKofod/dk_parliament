@@ -1,0 +1,26 @@
+{
+    "13973": [
+        {
+            "id": 65663,
+            "from_actor": 13691,
+            "to_actor": 13973,
+            "start": "2014-12-02",
+            "end": "2015-03-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Camilla Haahr Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 97304,
+            "from_actor": 13973,
+            "to_actor": 13691,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Camilla Haahr Andersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

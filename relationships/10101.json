@@ -1,0 +1,48 @@
+{
+    "10101": [
+        {
+            "id": 81462,
+            "from_actor": 14742,
+            "to_actor": 10101,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Evald Zacho",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83592,
+            "from_actor": 14800,
+            "to_actor": 10101,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Evald Zacho",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134161,
+            "from_actor": 10101,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Evald Zacho",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750722,
+            "from_actor": 10101,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Evald Zacho",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

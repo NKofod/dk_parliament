@@ -1,0 +1,48 @@
+{
+    "15648": [
+        {
+            "id": 101303,
+            "from_actor": 15639,
+            "to_actor": 15648,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126692,
+            "from_actor": 15642,
+            "to_actor": 15648,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harald Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422519,
+            "from_actor": 15648,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Harald Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422868,
+            "from_actor": 15648,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harald Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

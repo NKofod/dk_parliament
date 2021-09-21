@@ -1,0 +1,26 @@
+{
+    "1961": [
+        {
+            "id": 15716,
+            "from_actor": 1042,
+            "to_actor": 1961,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Birgitte Horsager Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6311779,
+            "from_actor": 1961,
+            "to_actor": 1042,
+            "start": "2005-01-13",
+            "end": "2005-01-24",
+            "role": "medlem",
+            "from_actor_name": "Birgitte Horsager Møller",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

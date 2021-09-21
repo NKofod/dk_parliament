@@ -1,0 +1,180 @@
+{
+    "4434": [
+        {
+            "id": 25722,
+            "from_actor": 427,
+            "to_actor": 4434,
+            "start": "2007-10-02",
+            "end": "2007-10-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29053,
+            "from_actor": 1035,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29142,
+            "from_actor": 1015,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30647,
+            "from_actor": 992,
+            "to_actor": 4434,
+            "start": "2007-10-02",
+            "end": "2007-10-12",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 34447,
+            "from_actor": 484,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34521,
+            "from_actor": 819,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 62058,
+            "from_actor": 743,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 62094,
+            "from_actor": 811,
+            "to_actor": 4434,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Abbas Razvi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772925,
+            "from_actor": 4434,
+            "to_actor": 992,
+            "start": "2007-10-02",
+            "end": "2007-10-12",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772926,
+            "from_actor": 4434,
+            "to_actor": 743,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772927,
+            "from_actor": 4434,
+            "to_actor": 819,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772928,
+            "from_actor": 4434,
+            "to_actor": 811,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772929,
+            "from_actor": 4434,
+            "to_actor": 484,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772930,
+            "from_actor": 4434,
+            "to_actor": 1035,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772931,
+            "from_actor": 4434,
+            "to_actor": 427,
+            "start": "2007-10-02",
+            "end": "2007-10-12",
+            "role": "medlem",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772932,
+            "from_actor": 4434,
+            "to_actor": 1015,
+            "start": "2007-10-04",
+            "end": "2007-10-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Abbas Razvi",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

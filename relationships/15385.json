@@ -1,0 +1,37 @@
+{
+    "15385": [
+        {
+            "id": 124414,
+            "from_actor": 15378,
+            "to_actor": 15385,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harry Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528111,
+            "from_actor": 15385,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Harry Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531115,
+            "from_actor": 15385,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Harry Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

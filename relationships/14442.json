@@ -1,0 +1,224 @@
+{
+    "14442": [
+        {
+            "id": 72310,
+            "from_actor": 14431,
+            "to_actor": 14442,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72717,
+            "from_actor": 14457,
+            "to_actor": 14442,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73138,
+            "from_actor": 14478,
+            "to_actor": 14442,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73852,
+            "from_actor": 14495,
+            "to_actor": 14442,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74250,
+            "from_actor": 14523,
+            "to_actor": 14442,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74662,
+            "from_actor": 14546,
+            "to_actor": 14442,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74911,
+            "from_actor": 14562,
+            "to_actor": 14442,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74920,
+            "from_actor": 14452,
+            "to_actor": 14442,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Knud Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111099,
+            "from_actor": 14442,
+            "to_actor": 14520,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111100,
+            "from_actor": 14442,
+            "to_actor": 14541,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111101,
+            "from_actor": 14442,
+            "to_actor": 14562,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111102,
+            "from_actor": 14442,
+            "to_actor": 14452,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111103,
+            "from_actor": 14442,
+            "to_actor": 14475,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111104,
+            "from_actor": 14442,
+            "to_actor": 14493,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111106,
+            "from_actor": 14442,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111107,
+            "from_actor": 14442,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111108,
+            "from_actor": 14442,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111110,
+            "from_actor": 14442,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714600,
+            "from_actor": 14442,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714904,
+            "from_actor": 14442,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "391": [
+        {
+            "id": 358,
+            "from_actor": 20,
+            "to_actor": 391,
+            "start": "2014-08-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Thomas Søndergaard Sarup",
+            "type": "Udvalg"
+        },
+        {
+            "id": 930,
+            "from_actor": 391,
+            "to_actor": 20,
+            "start": "2013-10-01",
+            "end": "2014-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Thomas Søndergaard Sarup",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

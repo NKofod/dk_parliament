@@ -1,0 +1,158 @@
+{
+    "10379": [
+        {
+            "id": 72259,
+            "from_actor": 14431,
+            "to_actor": 10379,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72357,
+            "from_actor": 14446,
+            "to_actor": 10379,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72681,
+            "from_actor": 14457,
+            "to_actor": 10379,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73105,
+            "from_actor": 14478,
+            "to_actor": 10379,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73974,
+            "from_actor": 14513,
+            "to_actor": 10379,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74228,
+            "from_actor": 14523,
+            "to_actor": 10379,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74640,
+            "from_actor": 14546,
+            "to_actor": 10379,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74786,
+            "from_actor": 14552,
+            "to_actor": 10379,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Tage Dræbye",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130635,
+            "from_actor": 10379,
+            "to_actor": 14468,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130762,
+            "from_actor": 10379,
+            "to_actor": 14487,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131205,
+            "from_actor": 10379,
+            "to_actor": 14552,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714407,
+            "from_actor": 10379,
+            "to_actor": 14534,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714567,
+            "from_actor": 10379,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714882,
+            "from_actor": 10379,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Tage Dræbye",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

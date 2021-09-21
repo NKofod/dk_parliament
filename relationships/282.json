@@ -1,0 +1,169 @@
+{
+    "282": [
+        {
+            "id": 37,
+            "from_actor": 6,
+            "to_actor": 282,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sanne Bjørn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 921,
+            "from_actor": 170,
+            "to_actor": 282,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Sanne Bjørn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5269,
+            "from_actor": 269,
+            "to_actor": 282,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Sanne Bjørn",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5376,
+            "from_actor": 51,
+            "to_actor": 282,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Sanne Bjørn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3879285,
+            "from_actor": 282,
+            "to_actor": 269,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3879286,
+            "from_actor": 282,
+            "to_actor": 6,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 3879292,
+            "from_actor": 282,
+            "to_actor": 170,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3879293,
+            "from_actor": 282,
+            "to_actor": 51,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5848757,
+            "from_actor": 282,
+            "to_actor": 16880,
+            "start": "2017-01-31",
+            "end": "2017-04-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5906486,
+            "from_actor": 282,
+            "to_actor": 16862,
+            "start": "2017-01-30",
+            "end": "2017-04-26",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5906516,
+            "from_actor": 282,
+            "to_actor": 16869,
+            "start": "2017-01-30",
+            "end": "2017-04-26",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6003911,
+            "from_actor": 282,
+            "to_actor": 16864,
+            "start": "2017-01-30",
+            "end": "2017-04-27",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6332429,
+            "from_actor": 282,
+            "to_actor": 16870,
+            "start": "2017-01-30",
+            "end": "2017-04-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6916681,
+            "from_actor": 282,
+            "to_actor": 16861,
+            "start": "2017-01-30",
+            "end": "2017-04-26",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24251820,
+            "from_actor": 282,
+            "to_actor": 16886,
+            "start": "2017-01-31",
+            "end": "2017-04-30",
+            "role": "medlem",
+            "from_actor_name": "Sanne Bjørn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

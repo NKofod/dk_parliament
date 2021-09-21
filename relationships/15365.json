@@ -1,0 +1,125 @@
+{
+    "15365": [
+        {
+            "id": 93701,
+            "from_actor": 15351,
+            "to_actor": 15365,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birthe Wetlesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 94089,
+            "from_actor": 15374,
+            "to_actor": 15365,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Birthe Wetlesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94291,
+            "from_actor": 15393,
+            "to_actor": 15365,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Birthe Wetlesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94636,
+            "from_actor": 15390,
+            "to_actor": 15365,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birthe Wetlesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124328,
+            "from_actor": 15353,
+            "to_actor": 15365,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Birthe Wetlesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158933,
+            "from_actor": 15365,
+            "to_actor": 15374,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158934,
+            "from_actor": 15365,
+            "to_actor": 15393,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158935,
+            "from_actor": 15365,
+            "to_actor": 15353,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527912,
+            "from_actor": 15365,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528086,
+            "from_actor": 15365,
+            "to_actor": 15372,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528282,
+            "from_actor": 15365,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Birthe Wetlesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "4734": [
+        {
+            "id": 39272,
+            "from_actor": 1132,
+            "to_actor": 4734,
+            "start": "2009-10-01",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41146,
+            "from_actor": 472,
+            "to_actor": 4734,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41927,
+            "from_actor": 1133,
+            "to_actor": 4734,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43687,
+            "from_actor": 473,
+            "to_actor": 4734,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44363,
+            "from_actor": 1134,
+            "to_actor": 4734,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46333,
+            "from_actor": 1693,
+            "to_actor": 4734,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46866,
+            "from_actor": 10675,
+            "to_actor": 4734,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48205,
+            "from_actor": 410,
+            "to_actor": 4734,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49814,
+            "from_actor": 950,
+            "to_actor": 4734,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51204,
+            "from_actor": 321,
+            "to_actor": 4734,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51579,
+            "from_actor": 328,
+            "to_actor": 4734,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Anne Mette Risager",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39670,
+            "from_actor": 4734,
+            "to_actor": 1132,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39671,
+            "from_actor": 4734,
+            "to_actor": 1133,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39672,
+            "from_actor": 4734,
+            "to_actor": 1134,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39673,
+            "from_actor": 4734,
+            "to_actor": 1693,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39674,
+            "from_actor": 4734,
+            "to_actor": 950,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39675,
+            "from_actor": 4734,
+            "to_actor": 328,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39676,
+            "from_actor": 4734,
+            "to_actor": 410,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39678,
+            "from_actor": 4734,
+            "to_actor": 473,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39679,
+            "from_actor": 4734,
+            "to_actor": 10675,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39680,
+            "from_actor": 4734,
+            "to_actor": 321,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3315092,
+            "from_actor": 4734,
+            "to_actor": 472,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Mette Risager",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "15174": [
+        {
+            "id": 90031,
+            "from_actor": 15162,
+            "to_actor": 15174,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gudrun Hasselriis",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124252,
+            "from_actor": 15167,
+            "to_actor": 15174,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Gudrun Hasselriis",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125152,
+            "from_actor": 15174,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Hasselriis",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526431,
+            "from_actor": 15174,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Gudrun Hasselriis",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

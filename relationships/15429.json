@@ -1,0 +1,257 @@
+{
+    "15429": [
+        {
+            "id": 95464,
+            "from_actor": 15452,
+            "to_actor": 15429,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95591,
+            "from_actor": 15457,
+            "to_actor": 15429,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95831,
+            "from_actor": 15467,
+            "to_actor": 15429,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95959,
+            "from_actor": 15472,
+            "to_actor": 15429,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96388,
+            "from_actor": 15481,
+            "to_actor": 15429,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96517,
+            "from_actor": 15488,
+            "to_actor": 15429,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96998,
+            "from_actor": 15498,
+            "to_actor": 15429,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97258,
+            "from_actor": 15523,
+            "to_actor": 15429,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126205,
+            "from_actor": 15516,
+            "to_actor": 15429,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126297,
+            "from_actor": 15527,
+            "to_actor": 15429,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Camma Larsen-Ledet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136416,
+            "from_actor": 15429,
+            "to_actor": 16165,
+            "start": "1966-11-28",
+            "end": "1968-02-02",
+            "role": "Minister",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "ministeren for familiens anliggende",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21528482,
+            "from_actor": 15429,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528659,
+            "from_actor": 15429,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528843,
+            "from_actor": 15429,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529033,
+            "from_actor": 15429,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529189,
+            "from_actor": 15429,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529376,
+            "from_actor": 15429,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531272,
+            "from_actor": 15429,
+            "to_actor": 15444,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531347,
+            "from_actor": 15429,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531429,
+            "from_actor": 15429,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531512,
+            "from_actor": 15429,
+            "to_actor": 15488,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531584,
+            "from_actor": 15429,
+            "to_actor": 15516,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531657,
+            "from_actor": 15429,
+            "to_actor": 15527,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Camma Larsen-Ledet",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

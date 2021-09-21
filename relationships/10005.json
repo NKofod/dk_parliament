@@ -1,0 +1,26 @@
+{
+    "10005": [
+        {
+            "id": 87158,
+            "from_actor": 14897,
+            "to_actor": 10005,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Hesselberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892938,
+            "from_actor": 10005,
+            "to_actor": 14899,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Christian Hesselberg",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

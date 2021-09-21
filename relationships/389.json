@@ -1,0 +1,279 @@
+{
+    "389": [
+        {
+            "id": 2497,
+            "from_actor": 267,
+            "to_actor": 389,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 40677,
+            "from_actor": 846,
+            "to_actor": 389,
+            "start": "2010-02-06",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41203,
+            "from_actor": 948,
+            "to_actor": 389,
+            "start": "2010-02-23",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43406,
+            "from_actor": 1063,
+            "to_actor": 389,
+            "start": "2010-10-06",
+            "end": "2010-10-29",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43407,
+            "from_actor": 1063,
+            "to_actor": 389,
+            "start": "2011-08-25",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43779,
+            "from_actor": 841,
+            "to_actor": 389,
+            "start": "2010-10-06",
+            "end": "2010-11-10",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43780,
+            "from_actor": 841,
+            "to_actor": 389,
+            "start": "2011-08-16",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46605,
+            "from_actor": 6161,
+            "to_actor": 389,
+            "start": "2011-08-16",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 46754,
+            "from_actor": 10800,
+            "to_actor": 389,
+            "start": "2011-08-25",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48084,
+            "from_actor": 543,
+            "to_actor": 389,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "By- og Boligudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48256,
+            "from_actor": 548,
+            "to_actor": 389,
+            "start": "2011-08-16",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Miljøudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48487,
+            "from_actor": 840,
+            "to_actor": 389,
+            "start": "2012-08-09",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51319,
+            "from_actor": 322,
+            "to_actor": 389,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51685,
+            "from_actor": 30,
+            "to_actor": 389,
+            "start": "2012-10-11",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Gro Iversen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42370,
+            "from_actor": 389,
+            "to_actor": 846,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42371,
+            "from_actor": 389,
+            "to_actor": 1063,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42372,
+            "from_actor": 389,
+            "to_actor": 10800,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42373,
+            "from_actor": 389,
+            "to_actor": 543,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "By- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42374,
+            "from_actor": 389,
+            "to_actor": 840,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42375,
+            "from_actor": 389,
+            "to_actor": 548,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Miljøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42376,
+            "from_actor": 389,
+            "to_actor": 948,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42377,
+            "from_actor": 389,
+            "to_actor": 841,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42378,
+            "from_actor": 389,
+            "to_actor": 6161,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42379,
+            "from_actor": 389,
+            "to_actor": 30,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42380,
+            "from_actor": 389,
+            "to_actor": 322,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Gro Iversen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

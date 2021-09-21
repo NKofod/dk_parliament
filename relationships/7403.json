@@ -1,0 +1,48 @@
+{
+    "7403": [
+        {
+            "id": 45054,
+            "from_actor": 499,
+            "to_actor": 7403,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Jørn Sjøstrøm",
+            "type": "Kommission"
+        },
+        {
+            "id": 65302,
+            "from_actor": 5141,
+            "to_actor": 7403,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Jørn Sjøstrøm",
+            "type": "Udvalg"
+        },
+        {
+            "id": 95218,
+            "from_actor": 13691,
+            "to_actor": 7403,
+            "start": "2015-05-26",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Jørn Sjøstrøm",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35813,
+            "from_actor": 7403,
+            "to_actor": 499,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Jørn Sjøstrøm",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        }
+    ]
+}

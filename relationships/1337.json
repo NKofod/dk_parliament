@@ -1,0 +1,103 @@
+{
+    "1337": [
+        {
+            "id": 101861,
+            "from_actor": 15649,
+            "to_actor": 1337,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Simonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121206,
+            "from_actor": 14082,
+            "to_actor": 1337,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Simonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127074,
+            "from_actor": 15652,
+            "to_actor": 1337,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Oluf Simonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127126,
+            "from_actor": 15678,
+            "to_actor": 1337,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Oluf Simonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128362,
+            "from_actor": 14083,
+            "to_actor": 1337,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Oluf Simonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70014,
+            "from_actor": 1337,
+            "to_actor": 14083,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Oluf Simonsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235557,
+            "from_actor": 1337,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Simonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422323,
+            "from_actor": 1337,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Simonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422944,
+            "from_actor": 1337,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Oluf Simonsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

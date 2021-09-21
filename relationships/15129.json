@@ -1,0 +1,301 @@
+{
+    "15129": [
+        {
+            "id": 88714,
+            "from_actor": 14976,
+            "to_actor": 15129,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88937,
+            "from_actor": 15142,
+            "to_actor": 15129,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89296,
+            "from_actor": 15147,
+            "to_actor": 15129,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89441,
+            "from_actor": 15157,
+            "to_actor": 15129,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89804,
+            "from_actor": 15171,
+            "to_actor": 15129,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90020,
+            "from_actor": 15162,
+            "to_actor": 15129,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90531,
+            "from_actor": 15185,
+            "to_actor": 15129,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90744,
+            "from_actor": 15177,
+            "to_actor": 15129,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91079,
+            "from_actor": 15190,
+            "to_actor": 15129,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91452,
+            "from_actor": 15231,
+            "to_actor": 15129,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91633,
+            "from_actor": 15244,
+            "to_actor": 15129,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91825,
+            "from_actor": 15251,
+            "to_actor": 15129,
+            "start": "1958-10-07",
+            "end": "1959-01-30",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92006,
+            "from_actor": 15265,
+            "to_actor": 15129,
+            "start": "1958-10-07",
+            "end": "1959-01-30",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Augo A. Lynge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104516,
+            "from_actor": 15129,
+            "to_actor": 15142,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104517,
+            "from_actor": 15129,
+            "to_actor": 15157,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104518,
+            "from_actor": 15129,
+            "to_actor": 15171,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104519,
+            "from_actor": 15129,
+            "to_actor": 15185,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104520,
+            "from_actor": 15129,
+            "to_actor": 15228,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104521,
+            "from_actor": 15129,
+            "to_actor": 15244,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104522,
+            "from_actor": 15129,
+            "to_actor": 15265,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526053,
+            "from_actor": 15129,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526235,
+            "from_actor": 15129,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526419,
+            "from_actor": 15129,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526599,
+            "from_actor": 15129,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526754,
+            "from_actor": 15129,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526931,
+            "from_actor": 15129,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527168,
+            "from_actor": 15129,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-01-30",
+            "role": "medlem",
+            "from_actor_name": "Augo A. Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

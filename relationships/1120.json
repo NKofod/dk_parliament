@@ -1,0 +1,37 @@
+{
+    "1120": [
+        {
+            "id": 88496,
+            "from_actor": 14259,
+            "to_actor": 1120,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Daugaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135607,
+            "from_actor": 1120,
+            "to_actor": 14953,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Marie Daugaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911305,
+            "from_actor": 1120,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Daugaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "15026": [
+        {
+            "id": 88586,
+            "from_actor": 14976,
+            "to_actor": 15026,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88919,
+            "from_actor": 15139,
+            "to_actor": 15026,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89193,
+            "from_actor": 15147,
+            "to_actor": 15026,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89360,
+            "from_actor": 15154,
+            "to_actor": 15026,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89726,
+            "from_actor": 15168,
+            "to_actor": 15026,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89918,
+            "from_actor": 15162,
+            "to_actor": 15026,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90271,
+            "from_actor": 15182,
+            "to_actor": 15026,
+            "start": "1956-10-02",
+            "end": "1956-10-28",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90756,
+            "from_actor": 15177,
+            "to_actor": 15026,
+            "start": "1956-10-02",
+            "end": "1956-10-28",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121541,
+            "from_actor": 15026,
+            "to_actor": 15139,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121542,
+            "from_actor": 15026,
+            "to_actor": 15154,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121543,
+            "from_actor": 15026,
+            "to_actor": 15168,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121544,
+            "from_actor": 15026,
+            "to_actor": 15182,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525948,
+            "from_actor": 15026,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526133,
+            "from_actor": 15026,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526317,
+            "from_actor": 15026,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526611,
+            "from_actor": 15026,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1956-10-28",
+            "role": "medlem",
+            "from_actor_name": "Svend Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

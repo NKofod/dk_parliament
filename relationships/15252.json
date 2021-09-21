@@ -1,0 +1,136 @@
+{
+    "15252": [
+        {
+            "id": 91892,
+            "from_actor": 15251,
+            "to_actor": 15252,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Sandau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91915,
+            "from_actor": 15259,
+            "to_actor": 15252,
+            "start": "1959-08-20",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Robert Sandau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92229,
+            "from_actor": 15269,
+            "to_actor": 15252,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Sandau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92256,
+            "from_actor": 15279,
+            "to_actor": 15252,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Robert Sandau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92597,
+            "from_actor": 15290,
+            "to_actor": 15252,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Sandau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92624,
+            "from_actor": 15292,
+            "to_actor": 15252,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Robert Sandau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10516835,
+            "from_actor": 15252,
+            "to_actor": 15259,
+            "start": "1959-08-20",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10516836,
+            "from_actor": 15252,
+            "to_actor": 15279,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10516837,
+            "from_actor": 15252,
+            "to_actor": 15292,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527156,
+            "from_actor": 15252,
+            "to_actor": 15251,
+            "start": "1959-08-20",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527342,
+            "from_actor": 15252,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527530,
+            "from_actor": 15252,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Robert Sandau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

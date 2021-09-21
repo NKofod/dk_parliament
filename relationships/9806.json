@@ -1,0 +1,37 @@
+{
+    "9806": [
+        {
+            "id": 77818,
+            "from_actor": 14649,
+            "to_actor": 9806,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Skytte Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24609334,
+            "from_actor": 9806,
+            "to_actor": 14655,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Ib Skytte Jakobsen",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24609335,
+            "from_actor": 9806,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Ib Skytte Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

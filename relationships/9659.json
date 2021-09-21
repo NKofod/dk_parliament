@@ -1,0 +1,114 @@
+{
+    "9659": [
+        {
+            "id": 85857,
+            "from_actor": 14855,
+            "to_actor": 9659,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helle Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86779,
+            "from_actor": 14872,
+            "to_actor": 9659,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helle Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87161,
+            "from_actor": 14897,
+            "to_actor": 9659,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helle Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88500,
+            "from_actor": 14259,
+            "to_actor": 9659,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helle Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762807,
+            "from_actor": 9659,
+            "to_actor": 14924,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23762808,
+            "from_actor": 9659,
+            "to_actor": 14883,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23762809,
+            "from_actor": 9659,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762810,
+            "from_actor": 9659,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762811,
+            "from_actor": 9659,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23762812,
+            "from_actor": 9659,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Helle Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "1248": [
+        {
+            "id": 71705,
+            "from_actor": 14387,
+            "to_actor": 1248,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leif Rehn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856002,
+            "from_actor": 1248,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Leif Rehn",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856003,
+            "from_actor": 1248,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Leif Rehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

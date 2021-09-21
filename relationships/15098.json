@@ -1,0 +1,48 @@
+{
+    "15098": [
+        {
+            "id": 88679,
+            "from_actor": 14976,
+            "to_actor": 15098,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88895,
+            "from_actor": 15138,
+            "to_actor": 15098,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Karl Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 442616,
+            "from_actor": 15098,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karl Olsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526020,
+            "from_actor": 15098,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karl Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "14630": [
+        {
+            "id": 76879,
+            "from_actor": 14617,
+            "to_actor": 14630,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frank Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125124,
+            "from_actor": 14630,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Frank Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132154,
+            "from_actor": 14630,
+            "to_actor": 14620,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Frank Pedersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

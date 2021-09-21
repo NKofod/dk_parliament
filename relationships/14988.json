@@ -1,0 +1,268 @@
+{
+    "14988": [
+        {
+            "id": 88540,
+            "from_actor": 14976,
+            "to_actor": 14988,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88879,
+            "from_actor": 15138,
+            "to_actor": 14988,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89149,
+            "from_actor": 15147,
+            "to_actor": 14988,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89320,
+            "from_actor": 15153,
+            "to_actor": 14988,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89686,
+            "from_actor": 15167,
+            "to_actor": 14988,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89874,
+            "from_actor": 15162,
+            "to_actor": 14988,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90231,
+            "from_actor": 15181,
+            "to_actor": 14988,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90602,
+            "from_actor": 15177,
+            "to_actor": 14988,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90965,
+            "from_actor": 15190,
+            "to_actor": 14988,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91153,
+            "from_actor": 15224,
+            "to_actor": 14988,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91338,
+            "from_actor": 15231,
+            "to_actor": 14988,
+            "start": "1957-10-01",
+            "end": "1958-03-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91518,
+            "from_actor": 15240,
+            "to_actor": 14988,
+            "start": "1957-10-01",
+            "end": "1958-03-20",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Aksel Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104032,
+            "from_actor": 14988,
+            "to_actor": 15224,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104033,
+            "from_actor": 14988,
+            "to_actor": 15240,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104034,
+            "from_actor": 14988,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104035,
+            "from_actor": 14988,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104036,
+            "from_actor": 14988,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588479,
+            "from_actor": 14988,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525905,
+            "from_actor": 14988,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526090,
+            "from_actor": 14988,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526274,
+            "from_actor": 14988,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526458,
+            "from_actor": 14988,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526641,
+            "from_actor": 14988,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526979,
+            "from_actor": 14988,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-03-20",
+            "role": "medlem",
+            "from_actor_name": "Aksel Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "15572": [
+        {
+            "id": 98855,
+            "from_actor": 15557,
+            "to_actor": 15572,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leon Laursen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126491,
+            "from_actor": 15563,
+            "to_actor": 15572,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Leon Laursen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529809,
+            "from_actor": 15572,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Leon Laursen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531811,
+            "from_actor": 15572,
+            "to_actor": 15563,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Leon Laursen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "5796": [
+        {
+            "id": 29295,
+            "from_actor": 810,
+            "to_actor": 5796,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Trine Toftgaard Lund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 62099,
+            "from_actor": 811,
+            "to_actor": 5796,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Trine Toftgaard Lund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28960,
+            "from_actor": 5796,
+            "to_actor": 811,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Trine Toftgaard Lund",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 7875330,
+            "from_actor": 5796,
+            "to_actor": 810,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Trine Toftgaard Lund",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

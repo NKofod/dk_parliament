@@ -1,0 +1,26 @@
+{
+    "17224": [
+        {
+            "id": 23735603,
+            "from_actor": 17224,
+            "to_actor": 17185,
+            "start": "2017-02-01",
+            "end": "2021-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Per Nørhave (udpeget af DF)",
+            "to_actor_name": "Planklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23735612,
+            "from_actor": 17224,
+            "to_actor": 17186,
+            "start": "2017-02-01",
+            "end": "2021-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Per Nørhave (udpeget af DF)",
+            "to_actor_name": "Miljø- og Fødevareklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

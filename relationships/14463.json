@@ -1,0 +1,59 @@
+{
+    "14463": [
+        {
+            "id": 72764,
+            "from_actor": 14457,
+            "to_actor": 14463,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A.O. Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124642,
+            "from_actor": 15837,
+            "to_actor": 14463,
+            "start": "1994-01-28",
+            "end": "1994-09-27",
+            "role": "Minister",
+            "from_actor_name": "forskningsministeren",
+            "to_actor_name": "A.O. Andersen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 199795,
+            "from_actor": 14463,
+            "to_actor": 564,
+            "start": "1993-01-25",
+            "end": "1994-09-27",
+            "role": "Minister",
+            "from_actor_name": "A.O. Andersen",
+            "to_actor_name": "kirkeministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 199797,
+            "from_actor": 14463,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "A.O. Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5035322,
+            "from_actor": 14463,
+            "to_actor": 15837,
+            "start": "1994-01-28",
+            "end": "1994-09-27",
+            "role": "Minister",
+            "from_actor_name": "A.O. Andersen",
+            "to_actor_name": "forskningsministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

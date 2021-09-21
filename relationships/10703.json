@@ -1,0 +1,48 @@
+{
+    "10703": [
+        {
+            "id": 39963,
+            "from_actor": 882,
+            "to_actor": 10703,
+            "start": "2009-10-09",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 44814,
+            "from_actor": 883,
+            "to_actor": 10703,
+            "start": "2010-10-06",
+            "end": "2011-05-31",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 15145256,
+            "from_actor": 10703,
+            "to_actor": 882,
+            "start": "2009-10-09",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 15145257,
+            "from_actor": 10703,
+            "to_actor": 883,
+            "start": "2010-10-06",
+            "end": "2011-05-31",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        }
+    ]
+}

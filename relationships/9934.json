@@ -1,0 +1,59 @@
+{
+    "9934": [
+        {
+            "id": 77232,
+            "from_actor": 14632,
+            "to_actor": 9934,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Flemming Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77257,
+            "from_actor": 14636,
+            "to_actor": 9934,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Kurt Flemming Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77611,
+            "from_actor": 14649,
+            "to_actor": 9934,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Flemming Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77703,
+            "from_actor": 14655,
+            "to_actor": 9934,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Kurt Flemming Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132299,
+            "from_actor": 9934,
+            "to_actor": 14655,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kurt Flemming Frederiksen",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

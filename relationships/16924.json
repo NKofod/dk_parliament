@@ -1,0 +1,59 @@
+{
+    "16924": [
+        {
+            "id": 3702239,
+            "from_actor": 16924,
+            "to_actor": 16863,
+            "start": "2016-10-10",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Iben Bryld Gaardmand",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6118663,
+            "from_actor": 16924,
+            "to_actor": 16950,
+            "start": "2016-11-28",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Iben Bryld Gaardmand",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6118896,
+            "from_actor": 16924,
+            "to_actor": 17143,
+            "start": "2016-12-12",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Iben Bryld Gaardmand",
+            "to_actor_name": "Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10584215,
+            "from_actor": 16924,
+            "to_actor": 17654,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Iben Bryld Gaardmand",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10779124,
+            "from_actor": 16924,
+            "to_actor": 17646,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Iben Bryld Gaardmand",
+            "to_actor_name": "Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

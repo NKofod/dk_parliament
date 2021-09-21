@@ -1,0 +1,290 @@
+{
+    "2094": [
+        {
+            "id": 17107,
+            "from_actor": 1428,
+            "to_actor": 2094,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17163,
+            "from_actor": 2095,
+            "to_actor": 2094,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17781,
+            "from_actor": 1780,
+            "to_actor": 2094,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19869,
+            "from_actor": 1781,
+            "to_actor": 2094,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19894,
+            "from_actor": 1429,
+            "to_actor": 2094,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19975,
+            "from_actor": 2096,
+            "to_actor": 2094,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23837,
+            "from_actor": 1430,
+            "to_actor": 2094,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23883,
+            "from_actor": 2097,
+            "to_actor": 2094,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 24126,
+            "from_actor": 1782,
+            "to_actor": 2094,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118,
+            "from_actor": 1783,
+            "to_actor": 2094,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30692,
+            "from_actor": 2100,
+            "to_actor": 2094,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36311,
+            "from_actor": 2098,
+            "to_actor": 2094,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37038,
+            "from_actor": 2099,
+            "to_actor": 2094,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17108,
+            "from_actor": 2094,
+            "to_actor": 1780,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17109,
+            "from_actor": 2094,
+            "to_actor": 1781,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17110,
+            "from_actor": 2094,
+            "to_actor": 1782,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17111,
+            "from_actor": 2094,
+            "to_actor": 1783,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17112,
+            "from_actor": 2094,
+            "to_actor": 1428,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17113,
+            "from_actor": 2094,
+            "to_actor": 1429,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17114,
+            "from_actor": 2094,
+            "to_actor": 1430,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17115,
+            "from_actor": 2094,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17116,
+            "from_actor": 2094,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17117,
+            "from_actor": 2094,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17118,
+            "from_actor": 2094,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17119,
+            "from_actor": 2094,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17120,
+            "from_actor": 2094,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard (Udpeget af DF)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

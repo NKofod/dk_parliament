@@ -1,0 +1,37 @@
+{
+    "10062": [
+        {
+            "id": 88490,
+            "from_actor": 14259,
+            "to_actor": 10062,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Holm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9940233,
+            "from_actor": 10062,
+            "to_actor": 14944,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bjarne Holm",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9940234,
+            "from_actor": 10062,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Bjarne Holm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

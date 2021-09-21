@@ -1,0 +1,114 @@
+{
+    "1684": [
+        {
+            "id": 16918,
+            "from_actor": 512,
+            "to_actor": 1684,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Monica Krenkel",
+            "type": "Kommission"
+        },
+        {
+            "id": 19693,
+            "from_actor": 602,
+            "to_actor": 1684,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Monica Krenkel",
+            "type": "Kommission"
+        },
+        {
+            "id": 23987,
+            "from_actor": 603,
+            "to_actor": 1684,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Monica Krenkel",
+            "type": "Kommission"
+        },
+        {
+            "id": 30105,
+            "from_actor": 604,
+            "to_actor": 1684,
+            "start": "2006-10-03",
+            "end": "2006-08-14T00:00:00",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Monica Krenkel",
+            "type": "Kommission"
+        },
+        {
+            "id": 30797,
+            "from_actor": 605,
+            "to_actor": 1684,
+            "start": "2007-10-02",
+            "end": "2006-08-14T00:00:00",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Monica Krenkel",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859585,
+            "from_actor": 1684,
+            "to_actor": 512,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Monica Krenkel",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859597,
+            "from_actor": 1684,
+            "to_actor": 603,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Monica Krenkel",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312155,
+            "from_actor": 1684,
+            "to_actor": 602,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Monica Krenkel",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312320,
+            "from_actor": 1684,
+            "to_actor": 604,
+            "start": "2006-10-03",
+            "end": "2006-08-14T00:00:00",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Monica Krenkel",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312394,
+            "from_actor": 1684,
+            "to_actor": 605,
+            "start": "2007-10-02",
+            "end": "2006-08-14T00:00:00",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Monica Krenkel",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        }
+    ]
+}

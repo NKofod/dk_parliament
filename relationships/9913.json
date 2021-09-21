@@ -1,0 +1,37 @@
+{
+    "9913": [
+        {
+            "id": 86782,
+            "from_actor": 14872,
+            "to_actor": 9913,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens-Lars Zeeb Fleischer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12150677,
+            "from_actor": 9913,
+            "to_actor": 14883,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens-Lars Zeeb Fleischer",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12150678,
+            "from_actor": 9913,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens-Lars Zeeb Fleischer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "14334": [
+        {
+            "id": 70780,
+            "from_actor": 14319,
+            "to_actor": 14334,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Knud Ebbesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125537,
+            "from_actor": 14334,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Ebbesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

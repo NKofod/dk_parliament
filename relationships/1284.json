@@ -1,0 +1,180 @@
+{
+    "1284": [
+        {
+            "id": 84854,
+            "from_actor": 14849,
+            "to_actor": 1284,
+            "start": "1999-10-05",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85329,
+            "from_actor": 14841,
+            "to_actor": 1284,
+            "start": "1999-10-05",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85581,
+            "from_actor": 14855,
+            "to_actor": 1284,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85766,
+            "from_actor": 14863,
+            "to_actor": 1284,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86023,
+            "from_actor": 14872,
+            "to_actor": 1284,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86161,
+            "from_actor": 14883,
+            "to_actor": 1284,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86953,
+            "from_actor": 14897,
+            "to_actor": 1284,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87084,
+            "from_actor": 14906,
+            "to_actor": 1284,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Bloch Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235049,
+            "from_actor": 1284,
+            "to_actor": 14883,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235050,
+            "from_actor": 1284,
+            "to_actor": 14906,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235051,
+            "from_actor": 1284,
+            "to_actor": 14863,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235052,
+            "from_actor": 1284,
+            "to_actor": 14849,
+            "start": "1999-10-05",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6235053,
+            "from_actor": 1284,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 6235054,
+            "from_actor": 1284,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 6235055,
+            "from_actor": 1284,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 6235056,
+            "from_actor": 1284,
+            "to_actor": 14841,
+            "start": "1999-10-05",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Bloch Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

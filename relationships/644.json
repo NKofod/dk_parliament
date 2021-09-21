@@ -1,0 +1,235 @@
+{
+    "644": [
+        {
+            "id": 991,
+            "from_actor": 19,
+            "to_actor": 644,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45055,
+            "from_actor": 499,
+            "to_actor": 644,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Kommission"
+        },
+        {
+            "id": 47891,
+            "from_actor": 545,
+            "to_actor": 644,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52466,
+            "from_actor": 312,
+            "to_actor": 644,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55298,
+            "from_actor": 13691,
+            "to_actor": 644,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Udvalg"
+        },
+        {
+            "id": 113760,
+            "from_actor": 15877,
+            "to_actor": 644,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pernille Deleuran",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721824,
+            "from_actor": 644,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721825,
+            "from_actor": 644,
+            "to_actor": 13691,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721826,
+            "from_actor": 644,
+            "to_actor": 19,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721827,
+            "from_actor": 644,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721828,
+            "from_actor": 644,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721829,
+            "from_actor": 644,
+            "to_actor": 15877,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721830,
+            "from_actor": 644,
+            "to_actor": 499,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 19721831,
+            "from_actor": 644,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721832,
+            "from_actor": 644,
+            "to_actor": 312,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721834,
+            "from_actor": 644,
+            "to_actor": 545,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19721835,
+            "from_actor": 644,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529723,
+            "from_actor": 644,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23531025,
+            "from_actor": 644,
+            "to_actor": 18853,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 27238479,
+            "from_actor": 644,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 27448000,
+            "from_actor": 644,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Pernille Deleuran",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

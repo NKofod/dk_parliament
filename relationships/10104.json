@@ -1,0 +1,48 @@
+{
+    "10104": [
+        {
+            "id": 70653,
+            "from_actor": 14085,
+            "to_actor": 10104,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Tove Weidner",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121191,
+            "from_actor": 14082,
+            "to_actor": 10104,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tove Weidner",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69938,
+            "from_actor": 10104,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Tove Weidner",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235542,
+            "from_actor": 10104,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Tove Weidner",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

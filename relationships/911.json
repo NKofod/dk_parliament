@@ -1,0 +1,268 @@
+{
+    "911": [
+        {
+            "id": 75498,
+            "from_actor": 14564,
+            "to_actor": 911,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75563,
+            "from_actor": 14572,
+            "to_actor": 911,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75868,
+            "from_actor": 14583,
+            "to_actor": 911,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75937,
+            "from_actor": 14586,
+            "to_actor": 911,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76281,
+            "from_actor": 14596,
+            "to_actor": 911,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76355,
+            "from_actor": 14599,
+            "to_actor": 911,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76666,
+            "from_actor": 14617,
+            "to_actor": 911,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76737,
+            "from_actor": 14619,
+            "to_actor": 911,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77189,
+            "from_actor": 14632,
+            "to_actor": 911,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77294,
+            "from_actor": 14638,
+            "to_actor": 911,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77568,
+            "from_actor": 14649,
+            "to_actor": 911,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77669,
+            "from_actor": 14652,
+            "to_actor": 911,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Lis Aaltonen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827980,
+            "from_actor": 911,
+            "to_actor": 14638,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827981,
+            "from_actor": 911,
+            "to_actor": 14652,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827982,
+            "from_actor": 911,
+            "to_actor": 14599,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827983,
+            "from_actor": 911,
+            "to_actor": 14619,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827984,
+            "from_actor": 911,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827985,
+            "from_actor": 911,
+            "to_actor": 14586,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26827986,
+            "from_actor": 911,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26827987,
+            "from_actor": 911,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26827988,
+            "from_actor": 911,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26827989,
+            "from_actor": 911,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26827990,
+            "from_actor": 911,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26827991,
+            "from_actor": 911,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lis Aaltonen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

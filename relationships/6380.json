@@ -1,0 +1,147 @@
+{
+    "6380": [
+        {
+            "id": 30865,
+            "from_actor": 1025,
+            "to_actor": 6380,
+            "start": "2007-04-01",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32218,
+            "from_actor": 1026,
+            "to_actor": 6380,
+            "start": "2007-04-01",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36481,
+            "from_actor": 1024,
+            "to_actor": 6380,
+            "start": "2007-04-01",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37753,
+            "from_actor": 1027,
+            "to_actor": 6380,
+            "start": "2007-04-01",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40226,
+            "from_actor": 1028,
+            "to_actor": 6380,
+            "start": "2007-04-01",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 84543,
+            "from_actor": 14825,
+            "to_actor": 6380,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dora Rossen (udpeget af DF)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772863,
+            "from_actor": 6380,
+            "to_actor": 14831,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772864,
+            "from_actor": 6380,
+            "to_actor": 1024,
+            "start": "2007-04-01",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772865,
+            "from_actor": 6380,
+            "to_actor": 1025,
+            "start": "2007-04-01",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772866,
+            "from_actor": 6380,
+            "to_actor": 1026,
+            "start": "2007-04-01",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772867,
+            "from_actor": 6380,
+            "to_actor": 1027,
+            "start": "2007-04-01",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772868,
+            "from_actor": 6380,
+            "to_actor": 1028,
+            "start": "2007-04-01",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772869,
+            "from_actor": 6380,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Dora Rossen (udpeget af DF)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

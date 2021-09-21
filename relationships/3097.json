@@ -1,0 +1,202 @@
+{
+    "3097": [
+        {
+            "id": 19848,
+            "from_actor": 1750,
+            "to_actor": 3097,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23936,
+            "from_actor": 1224,
+            "to_actor": 3097,
+            "start": "2005-10-04",
+            "end": "2005-03-11T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 31002,
+            "from_actor": 1144,
+            "to_actor": 3097,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33161,
+            "from_actor": 1145,
+            "to_actor": 3097,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36243,
+            "from_actor": 1225,
+            "to_actor": 3097,
+            "start": "2006-10-03",
+            "end": "2005-03-11T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36476,
+            "from_actor": 1143,
+            "to_actor": 3097,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37794,
+            "from_actor": 1127,
+            "to_actor": 3097,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39917,
+            "from_actor": 1128,
+            "to_actor": 3097,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42942,
+            "from_actor": 1129,
+            "to_actor": 3097,
+            "start": "2010-10-05",
+            "end": "2010-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23036,
+            "from_actor": 3097,
+            "to_actor": 1750,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23037,
+            "from_actor": 3097,
+            "to_actor": 1224,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23038,
+            "from_actor": 3097,
+            "to_actor": 1225,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23039,
+            "from_actor": 3097,
+            "to_actor": 1143,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23040,
+            "from_actor": 3097,
+            "to_actor": 1144,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23041,
+            "from_actor": 3097,
+            "to_actor": 1145,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23042,
+            "from_actor": 3097,
+            "to_actor": 1127,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23043,
+            "from_actor": 3097,
+            "to_actor": 1128,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23044,
+            "from_actor": 3097,
+            "to_actor": 1129,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hindrup Andersen (Udpeget af EL)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

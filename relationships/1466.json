@@ -1,0 +1,37 @@
+{
+    "1466": [
+        {
+            "id": 128097,
+            "from_actor": 15708,
+            "to_actor": 1466,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rosa Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27083436,
+            "from_actor": 1466,
+            "to_actor": 15708,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Rosa Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27083437,
+            "from_actor": 1466,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Rosa Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

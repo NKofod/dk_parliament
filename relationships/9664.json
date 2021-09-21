@@ -1,0 +1,290 @@
+{
+    "9664": [
+        {
+            "id": 77237,
+            "from_actor": 14632,
+            "to_actor": 9664,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77325,
+            "from_actor": 14640,
+            "to_actor": 9664,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77616,
+            "from_actor": 14649,
+            "to_actor": 9664,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77700,
+            "from_actor": 14654,
+            "to_actor": 9664,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78158,
+            "from_actor": 14663,
+            "to_actor": 9664,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78262,
+            "from_actor": 14668,
+            "to_actor": 9664,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78518,
+            "from_actor": 14676,
+            "to_actor": 9664,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78633,
+            "from_actor": 14682,
+            "to_actor": 9664,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78898,
+            "from_actor": 14690,
+            "to_actor": 9664,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79011,
+            "from_actor": 14696,
+            "to_actor": 9664,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79322,
+            "from_actor": 14704,
+            "to_actor": 9664,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Oksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79440,
+            "from_actor": 14709,
+            "to_actor": 9664,
+            "start": "1990-10-02",
+            "end": "1990-11-13",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79569,
+            "from_actor": 14718,
+            "to_actor": 9664,
+            "start": "1990-11-14",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Trivselspartiet",
+            "to_actor_name": "Jane Oksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88614,
+            "from_actor": 9664,
+            "to_actor": 14718,
+            "start": "1990-11-14",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Trivselspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88615,
+            "from_actor": 9664,
+            "to_actor": 14696,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88616,
+            "from_actor": 9664,
+            "to_actor": 14709,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88617,
+            "from_actor": 9664,
+            "to_actor": 14668,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88618,
+            "from_actor": 9664,
+            "to_actor": 14682,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88619,
+            "from_actor": 9664,
+            "to_actor": 14640,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88620,
+            "from_actor": 9664,
+            "to_actor": 14654,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88621,
+            "from_actor": 9664,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88622,
+            "from_actor": 9664,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88623,
+            "from_actor": 9664,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88625,
+            "from_actor": 9664,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88626,
+            "from_actor": 9664,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732795,
+            "from_actor": 9664,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Oksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

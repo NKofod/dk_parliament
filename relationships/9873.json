@@ -1,0 +1,59 @@
+{
+    "9873": [
+        {
+            "id": 83597,
+            "from_actor": 14800,
+            "to_actor": 9873,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Bo Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86778,
+            "from_actor": 14872,
+            "to_actor": 9873,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Bo Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134089,
+            "from_actor": 9873,
+            "to_actor": 14805,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Helge Bo Jensen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135021,
+            "from_actor": 9873,
+            "to_actor": 14880,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Helge Bo Jensen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588442,
+            "from_actor": 9873,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Helge Bo Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

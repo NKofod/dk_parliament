@@ -1,0 +1,81 @@
+{
+    "9978": [
+        {
+            "id": 70681,
+            "from_actor": 14084,
+            "to_actor": 9978,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Carl Anton Kruuse",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103611,
+            "from_actor": 15721,
+            "to_actor": 9978,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Anton Kruuse",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121174,
+            "from_actor": 14082,
+            "to_actor": 9978,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Anton Kruuse",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128285,
+            "from_actor": 15732,
+            "to_actor": 9978,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Carl Anton Kruuse",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235309,
+            "from_actor": 9978,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl Anton Kruuse",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235525,
+            "from_actor": 9978,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl Anton Kruuse",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25878084,
+            "from_actor": 9978,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl Anton Kruuse",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "15272": [
+        {
+            "id": 92240,
+            "from_actor": 15269,
+            "to_actor": 15272,
+            "start": "1960-03-22",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92370,
+            "from_actor": 15283,
+            "to_actor": 15272,
+            "start": "1960-03-22",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Børge Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92603,
+            "from_actor": 15290,
+            "to_actor": 15272,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Børge Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92734,
+            "from_actor": 15296,
+            "to_actor": 15272,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Børge Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527348,
+            "from_actor": 15272,
+            "to_actor": 15269,
+            "start": "1960-03-22",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Børge Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527536,
+            "from_actor": 15272,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Børge Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530793,
+            "from_actor": 15272,
+            "to_actor": 15283,
+            "start": "1960-03-22",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Børge Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530867,
+            "from_actor": 15272,
+            "to_actor": 15296,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Børge Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

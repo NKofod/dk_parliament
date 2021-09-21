@@ -1,0 +1,169 @@
+{
+    "15333": [
+        {
+            "id": 93140,
+            "from_actor": 15303,
+            "to_actor": 15333,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93284,
+            "from_actor": 15344,
+            "to_actor": 15333,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93504,
+            "from_actor": 15351,
+            "to_actor": 15333,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93652,
+            "from_actor": 15359,
+            "to_actor": 15333,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94047,
+            "from_actor": 15379,
+            "to_actor": 15333,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94427,
+            "from_actor": 15398,
+            "to_actor": 15333,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94628,
+            "from_actor": 15390,
+            "to_actor": 15333,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Mathiasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 112311,
+            "from_actor": 15333,
+            "to_actor": 15344,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112312,
+            "from_actor": 15333,
+            "to_actor": 15359,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112313,
+            "from_actor": 15333,
+            "to_actor": 15379,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112314,
+            "from_actor": 15333,
+            "to_actor": 15398,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527712,
+            "from_actor": 15333,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527893,
+            "from_actor": 15333,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528078,
+            "from_actor": 15333,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528274,
+            "from_actor": 15333,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "O. Mathiasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

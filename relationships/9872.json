@@ -1,0 +1,70 @@
+{
+    "9872": [
+        {
+            "id": 82785,
+            "from_actor": 14778,
+            "to_actor": 9872,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Lund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83172,
+            "from_actor": 14789,
+            "to_actor": 9872,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Lund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17138943,
+            "from_actor": 9872,
+            "to_actor": 14782,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Lund",
+            "to_actor_name": "Enhedslisten - De Rød-Grønne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17138944,
+            "from_actor": 9872,
+            "to_actor": 14793,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Lund",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17138945,
+            "from_actor": 9872,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17138946,
+            "from_actor": 9872,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

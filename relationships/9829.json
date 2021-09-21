@@ -1,0 +1,37 @@
+{
+    "9829": [
+        {
+            "id": 80833,
+            "from_actor": 14730,
+            "to_actor": 9829,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arqalo Søren Isak Abelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24532877,
+            "from_actor": 9829,
+            "to_actor": 14739,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Arqalo Søren Isak Abelsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24532878,
+            "from_actor": 9829,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Arqalo Søren Isak Abelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

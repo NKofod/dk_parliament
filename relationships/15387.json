@@ -1,0 +1,37 @@
+{
+    "15387": [
+        {
+            "id": 124421,
+            "from_actor": 15381,
+            "to_actor": 15387,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Svend R. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126889,
+            "from_actor": 15387,
+            "to_actor": 15381,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend R. Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528115,
+            "from_actor": 15387,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend R. Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "10080": [
+        {
+            "id": 85404,
+            "from_actor": 14841,
+            "to_actor": 10080,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Nedbo",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893247,
+            "from_actor": 10080,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Søren Nedbo",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

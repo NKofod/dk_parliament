@@ -1,0 +1,202 @@
+{
+    "1497": [
+        {
+            "id": 26260,
+            "from_actor": 5164,
+            "to_actor": 1497,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52880,
+            "from_actor": 26,
+            "to_actor": 1497,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52888,
+            "from_actor": 267,
+            "to_actor": 1497,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65150,
+            "from_actor": 5172,
+            "to_actor": 1497,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 116819,
+            "from_actor": 15903,
+            "to_actor": 1497,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 125907,
+            "from_actor": 15897,
+            "to_actor": 1497,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128211,
+            "from_actor": 16028,
+            "to_actor": 1497,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128474,
+            "from_actor": 16033,
+            "to_actor": 1497,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Annemette Ross",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423095,
+            "from_actor": 1497,
+            "to_actor": 16914,
+            "start": "2016-10-05",
+            "end": "2017-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423096,
+            "from_actor": 1497,
+            "to_actor": 16894,
+            "start": "2016-10-05",
+            "end": "2017-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423097,
+            "from_actor": 1497,
+            "to_actor": 16017,
+            "start": "2016-06-20",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423098,
+            "from_actor": 1497,
+            "to_actor": 16028,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423099,
+            "from_actor": 1497,
+            "to_actor": 5164,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423100,
+            "from_actor": 1497,
+            "to_actor": 15903,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423101,
+            "from_actor": 1497,
+            "to_actor": 15897,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423102,
+            "from_actor": 1497,
+            "to_actor": 5172,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423103,
+            "from_actor": 1497,
+            "to_actor": 267,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26392952,
+            "from_actor": 1497,
+            "to_actor": 26,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Annemette Ross",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

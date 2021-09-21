@@ -1,0 +1,81 @@
+{
+    "14412": [
+        {
+            "id": 5158924,
+            "from_actor": 14412,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158925,
+            "from_actor": 14412,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158926,
+            "from_actor": 14412,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158927,
+            "from_actor": 14412,
+            "to_actor": 14457,
+            "start": "1981-10-02",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158928,
+            "from_actor": 14412,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158929,
+            "from_actor": 14412,
+            "to_actor": 1742,
+            "start": "1981-12-30",
+            "end": "1982-04-27",
+            "role": "Minister",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "socialministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 5158930,
+            "from_actor": 14412,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

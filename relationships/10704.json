@@ -1,0 +1,48 @@
+{
+    "10704": [
+        {
+            "id": 40294,
+            "from_actor": 555,
+            "to_actor": 10704,
+            "start": "2010-06-10",
+            "end": "2010-06-16",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kasper Krüger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84923,
+            "from_actor": 429,
+            "to_actor": 10704,
+            "start": "2010-06-10",
+            "end": "2010-06-16",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kasper Krüger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882527,
+            "from_actor": 10704,
+            "to_actor": 555,
+            "start": "2010-06-10",
+            "end": "2010-06-16",
+            "role": "medlem",
+            "from_actor_name": "Kasper Krüger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23916206,
+            "from_actor": 10704,
+            "to_actor": 429,
+            "start": "2010-06-10",
+            "end": "2010-06-16",
+            "role": "medlem",
+            "from_actor_name": "Kasper Krüger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

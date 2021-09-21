@@ -1,0 +1,48 @@
+{
+    "1438": [
+        {
+            "id": 102392,
+            "from_actor": 15684,
+            "to_actor": 1438,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Poul Westergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102612,
+            "from_actor": 15660,
+            "to_actor": 1438,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Westergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102810,
+            "from_actor": 15699,
+            "to_actor": 1438,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Westergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102907,
+            "from_actor": 15702,
+            "to_actor": 1438,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Poul Westergaard",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

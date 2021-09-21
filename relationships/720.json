@@ -1,0 +1,136 @@
+{
+    "720": [
+        {
+            "id": 78189,
+            "from_actor": 14663,
+            "to_actor": 720,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78376,
+            "from_actor": 14673,
+            "to_actor": 720,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78548,
+            "from_actor": 14676,
+            "to_actor": 720,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78751,
+            "from_actor": 14688,
+            "to_actor": 720,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78927,
+            "from_actor": 14690,
+            "to_actor": 720,
+            "start": "1989-10-03",
+            "end": "1990-01-16",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79130,
+            "from_actor": 14702,
+            "to_actor": 720,
+            "start": "1989-10-03",
+            "end": "1990-01-16",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Laue Traberg Smidt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 147616,
+            "from_actor": 720,
+            "to_actor": 14673,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 147619,
+            "from_actor": 720,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 147621,
+            "from_actor": 720,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732825,
+            "from_actor": 720,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4732903,
+            "from_actor": 720,
+            "to_actor": 14688,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4875222,
+            "from_actor": 720,
+            "to_actor": 14702,
+            "start": "1989-10-03",
+            "end": "1990-01-16",
+            "role": "medlem",
+            "from_actor_name": "Laue Traberg Smidt",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

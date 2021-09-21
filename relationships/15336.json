@@ -1,0 +1,213 @@
+{
+    "15336": [
+        {
+            "id": 93146,
+            "from_actor": 15303,
+            "to_actor": 15336,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93275,
+            "from_actor": 15344,
+            "to_actor": 15336,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93510,
+            "from_actor": 15351,
+            "to_actor": 15336,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93643,
+            "from_actor": 15359,
+            "to_actor": 15336,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94038,
+            "from_actor": 15379,
+            "to_actor": 15336,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94418,
+            "from_actor": 15398,
+            "to_actor": 15336,
+            "start": "1963-10-01",
+            "end": "1964-03-27",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94469,
+            "from_actor": 15401,
+            "to_actor": 15336,
+            "start": "1964-05-26",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Fredspolitisk folkeparti",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94470,
+            "from_actor": 15402,
+            "to_actor": 15336,
+            "start": "1964-03-27",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Anders Storgaard",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94634,
+            "from_actor": 15390,
+            "to_actor": 15336,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Storgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 104113,
+            "from_actor": 15336,
+            "to_actor": 15401,
+            "start": "1964-05-26",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Fredspolitisk folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104114,
+            "from_actor": 15336,
+            "to_actor": 15402,
+            "start": "1964-03-27",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - Anders Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104115,
+            "from_actor": 15336,
+            "to_actor": 15344,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104116,
+            "from_actor": 15336,
+            "to_actor": 15359,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104117,
+            "from_actor": 15336,
+            "to_actor": 15379,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 104118,
+            "from_actor": 15336,
+            "to_actor": 15398,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527718,
+            "from_actor": 15336,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527899,
+            "from_actor": 15336,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528084,
+            "from_actor": 15336,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528280,
+            "from_actor": 15336,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Anders Storgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

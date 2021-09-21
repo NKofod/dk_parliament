@@ -1,0 +1,48 @@
+{
+    "14248": [
+        {
+            "id": 70654,
+            "from_actor": 14085,
+            "to_actor": 14248,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121186,
+            "from_actor": 14082,
+            "to_actor": 14248,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69874,
+            "from_actor": 14248,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andreasen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235537,
+            "from_actor": 14248,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

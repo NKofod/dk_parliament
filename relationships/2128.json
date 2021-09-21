@@ -1,0 +1,136 @@
+{
+    "2128": [
+        {
+            "id": 17146,
+            "from_actor": 2095,
+            "to_actor": 2128,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 19958,
+            "from_actor": 2096,
+            "to_actor": 2128,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 23866,
+            "from_actor": 2097,
+            "to_actor": 2128,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 30675,
+            "from_actor": 2100,
+            "to_actor": 2128,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 36294,
+            "from_actor": 2098,
+            "to_actor": 2128,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 37021,
+            "from_actor": 2099,
+            "to_actor": 2128,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Gitte Krogh",
+            "type": "Kommission"
+        },
+        {
+            "id": 17285,
+            "from_actor": 2128,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17286,
+            "from_actor": 2128,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17287,
+            "from_actor": 2128,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17288,
+            "from_actor": 2128,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17289,
+            "from_actor": 2128,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17290,
+            "from_actor": 2128,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Gitte Krogh",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "1218": [
+        {
+            "id": 88497,
+            "from_actor": 14259,
+            "to_actor": 1218,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mogens Lønborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135541,
+            "from_actor": 1218,
+            "to_actor": 14945,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mogens Lønborg",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911306,
+            "from_actor": 1218,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Mogens Lønborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

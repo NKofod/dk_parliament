@@ -1,0 +1,136 @@
+{
+    "2139": [
+        {
+            "id": 17157,
+            "from_actor": 2095,
+            "to_actor": 2139,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 19969,
+            "from_actor": 2096,
+            "to_actor": 2139,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 23877,
+            "from_actor": 2097,
+            "to_actor": 2139,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 30686,
+            "from_actor": 2100,
+            "to_actor": 2139,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 36305,
+            "from_actor": 2098,
+            "to_actor": 2139,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 37032,
+            "from_actor": 2099,
+            "to_actor": 2139,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Oluf Jørgensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 17544,
+            "from_actor": 2139,
+            "to_actor": 2095,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17545,
+            "from_actor": 2139,
+            "to_actor": 2096,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17546,
+            "from_actor": 2139,
+            "to_actor": 2097,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17547,
+            "from_actor": 2139,
+            "to_actor": 2098,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17548,
+            "from_actor": 2139,
+            "to_actor": 2099,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 17549,
+            "from_actor": 2139,
+            "to_actor": 2100,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Jørgensen",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

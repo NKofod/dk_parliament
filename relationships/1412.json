@@ -1,0 +1,37 @@
+{
+    "1412": [
+        {
+            "id": 81880,
+            "from_actor": 14754,
+            "to_actor": 1412,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Valenius",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 175255,
+            "from_actor": 1412,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Peter Valenius",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 175256,
+            "from_actor": 1412,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Valenius",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

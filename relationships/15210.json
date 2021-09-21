@@ -1,0 +1,213 @@
+{
+    "15210": [
+        {
+            "id": 91117,
+            "from_actor": 15190,
+            "to_actor": 15210,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91178,
+            "from_actor": 15224,
+            "to_actor": 15210,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91482,
+            "from_actor": 15231,
+            "to_actor": 15210,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91543,
+            "from_actor": 15240,
+            "to_actor": 15210,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91853,
+            "from_actor": 15251,
+            "to_actor": 15210,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92214,
+            "from_actor": 15269,
+            "to_actor": 15210,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92281,
+            "from_actor": 15280,
+            "to_actor": 15210,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92583,
+            "from_actor": 15290,
+            "to_actor": 15210,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92649,
+            "from_actor": 15293,
+            "to_actor": 15210,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "H. K. Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106979,
+            "from_actor": 15210,
+            "to_actor": 15280,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106980,
+            "from_actor": 15210,
+            "to_actor": 15293,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106981,
+            "from_actor": 15210,
+            "to_actor": 15261,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106982,
+            "from_actor": 15210,
+            "to_actor": 15240,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106983,
+            "from_actor": 15210,
+            "to_actor": 15224,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526784,
+            "from_actor": 15210,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526959,
+            "from_actor": 15210,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527141,
+            "from_actor": 15210,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527328,
+            "from_actor": 15210,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527516,
+            "from_actor": 15210,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "H. K. Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

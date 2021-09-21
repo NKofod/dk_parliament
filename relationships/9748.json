@@ -1,0 +1,37 @@
+{
+    "9748": [
+        {
+            "id": 86789,
+            "from_actor": 14872,
+            "to_actor": 9748,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Christfort",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588453,
+            "from_actor": 9748,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Christfort",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892956,
+            "from_actor": 9748,
+            "to_actor": 14876,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thomas Christfort",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

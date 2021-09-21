@@ -1,0 +1,37 @@
+{
+    "10354": [
+        {
+            "id": 71709,
+            "from_actor": 14387,
+            "to_actor": 10354,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Duerlund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379878,
+            "from_actor": 10354,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Duerlund",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24379879,
+            "from_actor": 10354,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Duerlund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

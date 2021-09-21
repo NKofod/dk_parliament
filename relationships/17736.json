@@ -1,0 +1,103 @@
+{
+    "17736": [
+        {
+            "id": 10583202,
+            "from_actor": 17736,
+            "to_actor": 17638,
+            "start": "2017-12-01",
+            "end": "2018-08-21",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606343,
+            "from_actor": 17736,
+            "to_actor": 17607,
+            "start": "2017-12-01",
+            "end": "2018-08-21",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11293846,
+            "from_actor": 17736,
+            "to_actor": 17653,
+            "start": "2017-12-01",
+            "end": "2018-07-01",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444547,
+            "from_actor": 17736,
+            "to_actor": 17623,
+            "start": "2018-06-29",
+            "end": "2018-06-29",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11487594,
+            "from_actor": 17736,
+            "to_actor": 17636,
+            "start": "2017-12-01",
+            "end": "2018-08-21",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868253,
+            "from_actor": 17736,
+            "to_actor": 17651,
+            "start": "2017-12-01",
+            "end": "2018-07-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 14324036,
+            "from_actor": 17736,
+            "to_actor": 17634,
+            "start": "2017-12-23",
+            "end": "2018-08-21",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14324054,
+            "from_actor": 17736,
+            "to_actor": 17634,
+            "start": "2017-12-14",
+            "end": "2017-12-14",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20570230,
+            "from_actor": 17736,
+            "to_actor": 17605,
+            "start": "2017-12-01",
+            "end": "2018-08-21",
+            "role": "medlem",
+            "from_actor_name": "Per Nørhave",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

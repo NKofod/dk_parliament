@@ -1,0 +1,136 @@
+{
+    "5583": [
+        {
+            "id": 31000,
+            "from_actor": 1144,
+            "to_actor": 5583,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33159,
+            "from_actor": 1145,
+            "to_actor": 5583,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36474,
+            "from_actor": 1143,
+            "to_actor": 5583,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37792,
+            "from_actor": 1127,
+            "to_actor": 5583,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39915,
+            "from_actor": 1128,
+            "to_actor": 5583,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42940,
+            "from_actor": 1129,
+            "to_actor": 5583,
+            "start": "2010-10-05",
+            "end": "2010-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Lykke Outzen (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28915,
+            "from_actor": 5583,
+            "to_actor": 1143,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28916,
+            "from_actor": 5583,
+            "to_actor": 1144,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28917,
+            "from_actor": 5583,
+            "to_actor": 1145,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28918,
+            "from_actor": 5583,
+            "to_actor": 1127,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28919,
+            "from_actor": 5583,
+            "to_actor": 1128,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28920,
+            "from_actor": 5583,
+            "to_actor": 1129,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Lykke Outzen (udpeget af KF)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

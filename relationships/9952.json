@@ -1,0 +1,37 @@
+{
+    "9952": [
+        {
+            "id": 81465,
+            "from_actor": 14742,
+            "to_actor": 9952,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inger Garre",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9476881,
+            "from_actor": 9952,
+            "to_actor": 14752,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Inger Garre",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9476882,
+            "from_actor": 9952,
+            "to_actor": 14742,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Inger Garre",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

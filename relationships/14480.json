@@ -1,0 +1,37 @@
+{
+    "14480": [
+        {
+            "id": 73155,
+            "from_actor": 14478,
+            "to_actor": 14480,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Martha Sonne",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130823,
+            "from_actor": 14480,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Martha Sonne",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714617,
+            "from_actor": 14480,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Martha Sonne",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

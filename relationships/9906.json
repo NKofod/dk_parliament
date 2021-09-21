@@ -1,0 +1,180 @@
+{
+    "9906": [
+        {
+            "id": 79145,
+            "from_actor": 14690,
+            "to_actor": 9906,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93111,
+            "from_actor": 15303,
+            "to_actor": 9906,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93279,
+            "from_actor": 15344,
+            "to_actor": 9906,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93475,
+            "from_actor": 15351,
+            "to_actor": 9906,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93647,
+            "from_actor": 15359,
+            "to_actor": 9906,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94042,
+            "from_actor": 15379,
+            "to_actor": 9906,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94422,
+            "from_actor": 15398,
+            "to_actor": 9906,
+            "start": "1963-10-01",
+            "end": "1964-06-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94472,
+            "from_actor": 15404,
+            "to_actor": 9906,
+            "start": "1964-06-02",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Herluf Rasmussen",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94601,
+            "from_actor": 15390,
+            "to_actor": 9906,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Herluf Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93104,
+            "from_actor": 9906,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 136330,
+            "from_actor": 9906,
+            "to_actor": 15404,
+            "start": "1964-06-02",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Uden for folketingsgrupperne - Herluf Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732970,
+            "from_actor": 9906,
+            "to_actor": 14693,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527683,
+            "from_actor": 9906,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527864,
+            "from_actor": 9906,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528049,
+            "from_actor": 9906,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528246,
+            "from_actor": 9906,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Herluf Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "10040": [
+        {
+            "id": 76883,
+            "from_actor": 14617,
+            "to_actor": 10040,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingrid Bo Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131539,
+            "from_actor": 10040,
+            "to_actor": 14576,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ingrid Bo Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24379875,
+            "from_actor": 10040,
+            "to_actor": 14623,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Ingrid Bo Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

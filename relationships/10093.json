@@ -1,0 +1,26 @@
+{
+    "10093": [
+        {
+            "id": 72503,
+            "from_actor": 14431,
+            "to_actor": 10093,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Witte",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130567,
+            "from_actor": 10093,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Witte",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

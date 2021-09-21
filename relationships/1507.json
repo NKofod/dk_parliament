@@ -1,0 +1,180 @@
+{
+    "1507": [
+        {
+            "id": 16883,
+            "from_actor": 535,
+            "to_actor": 1507,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 20020,
+            "from_actor": 536,
+            "to_actor": 1507,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 24157,
+            "from_actor": 537,
+            "to_actor": 1507,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 30074,
+            "from_actor": 538,
+            "to_actor": 1507,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 30613,
+            "from_actor": 539,
+            "to_actor": 1507,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 32715,
+            "from_actor": 880,
+            "to_actor": 1507,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 39419,
+            "from_actor": 881,
+            "to_actor": 1507,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 39961,
+            "from_actor": 882,
+            "to_actor": 1507,
+            "start": "2009-10-07",
+            "end": "2009-10-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Henrik Hagemann",
+            "type": "Kommission"
+        },
+        {
+            "id": 2858813,
+            "from_actor": 1507,
+            "to_actor": 539,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2858846,
+            "from_actor": 1507,
+            "to_actor": 538,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2858996,
+            "from_actor": 1507,
+            "to_actor": 537,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859115,
+            "from_actor": 1507,
+            "to_actor": 882,
+            "start": "2009-10-07",
+            "end": "2009-10-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859284,
+            "from_actor": 1507,
+            "to_actor": 536,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312003,
+            "from_actor": 1507,
+            "to_actor": 535,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312417,
+            "from_actor": 1507,
+            "to_actor": 880,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312452,
+            "from_actor": 1507,
+            "to_actor": 881,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henrik Hagemann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        }
+    ]
+}

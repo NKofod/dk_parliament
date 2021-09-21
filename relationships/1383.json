@@ -1,0 +1,92 @@
+{
+    "1383": [
+        {
+            "id": 85850,
+            "from_actor": 14855,
+            "to_actor": 1383,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pernille Falcon",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88077,
+            "from_actor": 14931,
+            "to_actor": 1383,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pernille Falcon",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132105,
+            "from_actor": 1383,
+            "to_actor": 14608,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134871,
+            "from_actor": 1383,
+            "to_actor": 14860,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135216,
+            "from_actor": 1383,
+            "to_actor": 14922,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135410,
+            "from_actor": 1383,
+            "to_actor": 14935,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135546,
+            "from_actor": 1383,
+            "to_actor": 14947,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911107,
+            "from_actor": 1383,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Pernille Falcon",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

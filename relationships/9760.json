@@ -1,0 +1,26 @@
+{
+    "9760": [
+        {
+            "id": 83176,
+            "from_actor": 14789,
+            "to_actor": 9760,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lars Kaspersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133796,
+            "from_actor": 9760,
+            "to_actor": 14792,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Lars Kaspersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

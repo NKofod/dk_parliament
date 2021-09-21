@@ -1,0 +1,37 @@
+{
+    "15407": [
+        {
+            "id": 94662,
+            "from_actor": 15390,
+            "to_actor": 15407,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "K. Foged-Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528310,
+            "from_actor": 15407,
+            "to_actor": 15390,
+            "start": "1963-11-19",
+            "end": "1963-12-20",
+            "role": "stedfortræder",
+            "from_actor_name": "K. Foged-Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531203,
+            "from_actor": 15407,
+            "to_actor": 15397,
+            "start": "1963-11-19",
+            "end": "1963-12-20",
+            "role": "medlem",
+            "from_actor_name": "K. Foged-Pedersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

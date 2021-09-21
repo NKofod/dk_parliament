@@ -1,0 +1,323 @@
+{
+    "10044": [
+        {
+            "id": 82350,
+            "from_actor": 14772,
+            "to_actor": 10044,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82584,
+            "from_actor": 14778,
+            "to_actor": 10044,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82726,
+            "from_actor": 14785,
+            "to_actor": 10044,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82964,
+            "from_actor": 14789,
+            "to_actor": 10044,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83107,
+            "from_actor": 14796,
+            "to_actor": 10044,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83390,
+            "from_actor": 14800,
+            "to_actor": 10044,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83538,
+            "from_actor": 14808,
+            "to_actor": 10044,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83784,
+            "from_actor": 14811,
+            "to_actor": 10044,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83932,
+            "from_actor": 14822,
+            "to_actor": 10044,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84284,
+            "from_actor": 14825,
+            "to_actor": 10044,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84483,
+            "from_actor": 14837,
+            "to_actor": 10044,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84861,
+            "from_actor": 14850,
+            "to_actor": 10044,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85273,
+            "from_actor": 14841,
+            "to_actor": 10044,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85525,
+            "from_actor": 14855,
+            "to_actor": 10044,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85773,
+            "from_actor": 14864,
+            "to_actor": 10044,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85970,
+            "from_actor": 14872,
+            "to_actor": 10044,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86707,
+            "from_actor": 14885,
+            "to_actor": 10044,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86900,
+            "from_actor": 14897,
+            "to_actor": 10044,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87091,
+            "from_actor": 14907,
+            "to_actor": 10044,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Anni Svanholt",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133728,
+            "from_actor": 10044,
+            "to_actor": 14785,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133875,
+            "from_actor": 10044,
+            "to_actor": 14796,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134175,
+            "from_actor": 10044,
+            "to_actor": 14808,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134447,
+            "from_actor": 10044,
+            "to_actor": 14822,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134942,
+            "from_actor": 10044,
+            "to_actor": 14864,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135092,
+            "from_actor": 10044,
+            "to_actor": 14885,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588360,
+            "from_actor": 10044,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892921,
+            "from_actor": 10044,
+            "to_actor": 14907,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893163,
+            "from_actor": 10044,
+            "to_actor": 14850,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594741,
+            "from_actor": 10044,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anni Svanholt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

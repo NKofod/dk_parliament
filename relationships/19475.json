@@ -1,0 +1,136 @@
+{
+    "19475": [
+        {
+            "id": 27264578,
+            "from_actor": 19475,
+            "to_actor": 19620,
+            "start": "2021-08-19",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27447715,
+            "from_actor": 19475,
+            "to_actor": 19412,
+            "start": "2021-08-19",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500210,
+            "from_actor": 19475,
+            "to_actor": 19356,
+            "start": "2020-11-10",
+            "end": "2021-06-16",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27500229,
+            "from_actor": 19475,
+            "to_actor": 19356,
+            "start": "2021-06-17",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27500252,
+            "from_actor": 19475,
+            "to_actor": 19352,
+            "start": "2020-11-10",
+            "end": "2021-06-16",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27500440,
+            "from_actor": 19475,
+            "to_actor": 19352,
+            "start": "2021-06-17",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27526540,
+            "from_actor": 19475,
+            "to_actor": 19386,
+            "start": "2021-08-09",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27574333,
+            "from_actor": 19475,
+            "to_actor": 19414,
+            "start": "2021-06-24",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596580,
+            "from_actor": 19475,
+            "to_actor": 19406,
+            "start": "2020-11-17",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619065,
+            "from_actor": 19475,
+            "to_actor": 19392,
+            "start": "2021-05-26",
+            "end": "2021-05-26",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619067,
+            "from_actor": 19475,
+            "to_actor": 19392,
+            "start": "2021-05-05",
+            "end": "2021-05-05",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619219,
+            "from_actor": 19475,
+            "to_actor": 19438,
+            "start": "2021-04-14",
+            "end": "2021-04-14",
+            "role": "medlem",
+            "from_actor_name": "Susan Kronborg",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

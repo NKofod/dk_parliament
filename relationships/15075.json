@@ -1,0 +1,180 @@
+{
+    "15075": [
+        {
+            "id": 88656,
+            "from_actor": 14976,
+            "to_actor": 15075,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88746,
+            "from_actor": 15134,
+            "to_actor": 15075,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89241,
+            "from_actor": 15147,
+            "to_actor": 15075,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89388,
+            "from_actor": 15156,
+            "to_actor": 15075,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89754,
+            "from_actor": 15170,
+            "to_actor": 15075,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89966,
+            "from_actor": 15162,
+            "to_actor": 15075,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90300,
+            "from_actor": 15184,
+            "to_actor": 15075,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90691,
+            "from_actor": 15177,
+            "to_actor": 15075,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21525997,
+            "from_actor": 15075,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526181,
+            "from_actor": 15075,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526365,
+            "from_actor": 15075,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526546,
+            "from_actor": 15075,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530230,
+            "from_actor": 15075,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530307,
+            "from_actor": 15075,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530384,
+            "from_actor": 15075,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530462,
+            "from_actor": 15075,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Jens Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

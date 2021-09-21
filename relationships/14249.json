@@ -1,0 +1,81 @@
+{
+    "14249": [
+        {
+            "id": 103627,
+            "from_actor": 15721,
+            "to_actor": 14249,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Parning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121185,
+            "from_actor": 14082,
+            "to_actor": 14249,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Parning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128226,
+            "from_actor": 15726,
+            "to_actor": 14249,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Parning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128291,
+            "from_actor": 14085,
+            "to_actor": 14249,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jørgen Parning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69876,
+            "from_actor": 14249,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Parning",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235325,
+            "from_actor": 14249,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Parning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235536,
+            "from_actor": 14249,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Parning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

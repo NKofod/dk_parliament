@@ -1,0 +1,169 @@
+{
+    "10069": [
+        {
+            "id": 82387,
+            "from_actor": 14773,
+            "to_actor": 10069,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henning Urup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82572,
+            "from_actor": 14778,
+            "to_actor": 10069,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Urup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82764,
+            "from_actor": 14787,
+            "to_actor": 10069,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henning Urup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82952,
+            "from_actor": 14789,
+            "to_actor": 10069,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Urup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83145,
+            "from_actor": 14798,
+            "to_actor": 10069,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henning Urup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83378,
+            "from_actor": 14800,
+            "to_actor": 10069,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Urup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83576,
+            "from_actor": 14810,
+            "to_actor": 10069,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henning Urup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83772,
+            "from_actor": 14811,
+            "to_actor": 10069,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Urup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83970,
+            "from_actor": 14824,
+            "to_actor": 10069,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henning Urup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85393,
+            "from_actor": 14841,
+            "to_actor": 10069,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Urup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133759,
+            "from_actor": 10069,
+            "to_actor": 14787,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Henning Urup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134205,
+            "from_actor": 10069,
+            "to_actor": 14810,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Henning Urup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134840,
+            "from_actor": 10069,
+            "to_actor": 14852,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henning Urup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893285,
+            "from_actor": 10069,
+            "to_actor": 14824,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Henning Urup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893333,
+            "from_actor": 10069,
+            "to_actor": 14798,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Henning Urup",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "15978": [
+        {
+            "id": 123551,
+            "from_actor": 15869,
+            "to_actor": 15978,
+            "start": "2015-08-28",
+            "end": "2017-10-31",
+            "role": "medlem",
+            "from_actor_name": "Skatterådet",
+            "to_actor_name": "Jan Rix Rasmussen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 6254216,
+            "from_actor": 15978,
+            "to_actor": 15869,
+            "start": "2015-08-28",
+            "end": "2017-10-31",
+            "role": "medlem",
+            "from_actor_name": "Jan Rix Rasmussen (udpeget af S)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 8911234,
+            "from_actor": 15978,
+            "to_actor": 17712,
+            "start": "2017-11-01",
+            "end": "2023-10-31",
+            "role": "medlem",
+            "from_actor_name": "Jan Rix Rasmussen (udpeget af S)",
+            "to_actor_name": "Skatterådet",
+            "type": "Kommission"
+        }
+    ]
+}

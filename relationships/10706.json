@@ -1,0 +1,92 @@
+{
+    "10706": [
+        {
+            "id": 40581,
+            "from_actor": 509,
+            "to_actor": 10706,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Jette Plesner Dali",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 41406,
+            "from_actor": 809,
+            "to_actor": 10706,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Jette Plesner Dali",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41482,
+            "from_actor": 775,
+            "to_actor": 10706,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Jette Plesner Dali",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84931,
+            "from_actor": 429,
+            "to_actor": 10706,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Plesner Dali",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882388,
+            "from_actor": 10706,
+            "to_actor": 509,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Jette Plesner Dali",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882389,
+            "from_actor": 10706,
+            "to_actor": 809,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Jette Plesner Dali",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882390,
+            "from_actor": 10706,
+            "to_actor": 775,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Jette Plesner Dali",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23916214,
+            "from_actor": 10706,
+            "to_actor": 429,
+            "start": "2010-03-01",
+            "end": "2010-03-07",
+            "role": "medlem",
+            "from_actor_name": "Jette Plesner Dali",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

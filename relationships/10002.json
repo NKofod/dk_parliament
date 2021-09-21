@@ -1,0 +1,48 @@
+{
+    "10002": [
+        {
+            "id": 70799,
+            "from_actor": 14366,
+            "to_actor": 10002,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Erik Arnkil Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70842,
+            "from_actor": 14338,
+            "to_actor": 10002,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Arnkil Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 173682,
+            "from_actor": 10002,
+            "to_actor": 14366,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Arnkil Jørgensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 173683,
+            "from_actor": 10002,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Arnkil Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "9812": [
+        {
+            "id": 72501,
+            "from_actor": 14431,
+            "to_actor": 9812,
+            "start": "1980-02-17",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eggert Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72726,
+            "from_actor": 14457,
+            "to_actor": 9812,
+            "start": "1980-10-07",
+            "end": "1980-10-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eggert Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855286,
+            "from_actor": 9812,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Eggert Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855287,
+            "from_actor": 9812,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1980-10-12",
+            "role": "medlem",
+            "from_actor_name": "Eggert Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855288,
+            "from_actor": 9812,
+            "to_actor": 14431,
+            "start": "1980-02-17",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Eggert Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

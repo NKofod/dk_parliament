@@ -1,0 +1,224 @@
+{
+    "12285": [
+        {
+            "id": 45332,
+            "from_actor": 345,
+            "to_actor": 12285,
+            "start": "2011-10-27",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 48059,
+            "from_actor": 543,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-02-05",
+            "role": "medlem",
+            "from_actor_name": "By- og Boligudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48224,
+            "from_actor": 548,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Miljøudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48326,
+            "from_actor": 750,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48457,
+            "from_actor": 840,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48636,
+            "from_actor": 418,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48986,
+            "from_actor": 1165,
+            "to_actor": 12285,
+            "start": "2011-10-27",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ida Damborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 49623,
+            "from_actor": 500,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49675,
+            "from_actor": 417,
+            "to_actor": 12285,
+            "start": "2012-02-03",
+            "end": "2012-02-05",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49677,
+            "from_actor": 417,
+            "to_actor": 12285,
+            "start": "2011-10-26",
+            "end": "2012-02-01",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Ida Damborg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913778,
+            "from_actor": 12285,
+            "to_actor": 1165,
+            "start": "2011-10-27",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913779,
+            "from_actor": 12285,
+            "to_actor": 500,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913780,
+            "from_actor": 12285,
+            "to_actor": 840,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913781,
+            "from_actor": 12285,
+            "to_actor": 543,
+            "start": "2011-10-26",
+            "end": "2012-02-05",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "By- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913782,
+            "from_actor": 12285,
+            "to_actor": 548,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Miljøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913783,
+            "from_actor": 12285,
+            "to_actor": 417,
+            "start": "2012-02-03",
+            "end": "2012-02-05",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913784,
+            "from_actor": 12285,
+            "to_actor": 417,
+            "start": "2011-10-26",
+            "end": "2012-02-01",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913785,
+            "from_actor": 12285,
+            "to_actor": 418,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913786,
+            "from_actor": 12285,
+            "to_actor": 345,
+            "start": "2011-10-27",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22913787,
+            "from_actor": 12285,
+            "to_actor": 750,
+            "start": "2011-10-26",
+            "end": "2012-04-15",
+            "role": "medlem",
+            "from_actor_name": "Ida Damborg",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

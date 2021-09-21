@@ -1,0 +1,26 @@
+{
+    "15719": [
+        {
+            "id": 128100,
+            "from_actor": 15707,
+            "to_actor": 15719,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Poul Kaare Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126856,
+            "from_actor": 15719,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Kaare Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

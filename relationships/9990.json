@@ -1,0 +1,37 @@
+{
+    "9990": [
+        {
+            "id": 126348,
+            "from_actor": 15555,
+            "to_actor": 9990,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Christian Tvede Bundgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24019605,
+            "from_actor": 9990,
+            "to_actor": 15555,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Christian Tvede Bundgaard",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24019606,
+            "from_actor": 9990,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Tvede Bundgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

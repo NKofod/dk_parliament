@@ -1,0 +1,26 @@
+{
+    "10031": [
+        {
+            "id": 74722,
+            "from_actor": 14546,
+            "to_actor": 10031,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Egon Roesgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131298,
+            "from_actor": 10031,
+            "to_actor": 14556,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Egon Roesgaard",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

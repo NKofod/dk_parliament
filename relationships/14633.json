@@ -1,0 +1,92 @@
+{
+    "14633": [
+        {
+            "id": 77218,
+            "from_actor": 14632,
+            "to_actor": 14633,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Møller Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77258,
+            "from_actor": 14636,
+            "to_actor": 14633,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Preben Møller Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77597,
+            "from_actor": 14649,
+            "to_actor": 14633,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Møller Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77704,
+            "from_actor": 14655,
+            "to_actor": 14633,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Fælles Kurs",
+            "to_actor_name": "Preben Møller Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199582,
+            "from_actor": 14633,
+            "to_actor": 14636,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Preben Møller Hansen",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199583,
+            "from_actor": 14633,
+            "to_actor": 14655,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Preben Møller Hansen",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199584,
+            "from_actor": 14633,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Preben Møller Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 199585,
+            "from_actor": 14633,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Preben Møller Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

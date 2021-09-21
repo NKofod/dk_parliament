@@ -1,0 +1,257 @@
+{
+    "202": [
+        {
+            "id": 53,
+            "from_actor": 6,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 387,
+            "from_actor": 26,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3439,
+            "from_actor": 21,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5051,
+            "from_actor": 174,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5415,
+            "from_actor": 10,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Grønlandsudvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9608,
+            "from_actor": 290,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Færøudvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52851,
+            "from_actor": 90,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "By- og Boligudvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53171,
+            "from_actor": 599,
+            "to_actor": 202,
+            "start": "2013-10-21",
+            "end": "2013-11-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peder Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 53221,
+            "from_actor": 599,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peder Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 65317,
+            "from_actor": 104,
+            "to_actor": 202,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Peder Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53495,
+            "from_actor": 202,
+            "to_actor": 174,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53499,
+            "from_actor": 202,
+            "to_actor": 290,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53502,
+            "from_actor": 202,
+            "to_actor": 10,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 310758,
+            "from_actor": 202,
+            "to_actor": 90,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "By- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 312081,
+            "from_actor": 202,
+            "to_actor": 6,
+            "start": "2013-10-21",
+            "end": "2013-11-11",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 312272,
+            "from_actor": 202,
+            "to_actor": 6,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 315308,
+            "from_actor": 202,
+            "to_actor": 599,
+            "start": "2013-10-21",
+            "end": "2013-11-11",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 315358,
+            "from_actor": 202,
+            "to_actor": 599,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 315887,
+            "from_actor": 202,
+            "to_actor": 21,
+            "start": "2013-10-21",
+            "end": "2013-11-11",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 315910,
+            "from_actor": 202,
+            "to_actor": 21,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 333258,
+            "from_actor": 202,
+            "to_actor": 104,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26392902,
+            "from_actor": 202,
+            "to_actor": 26,
+            "start": "2013-10-21",
+            "end": "2013-11-11",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26392933,
+            "from_actor": 202,
+            "to_actor": 26,
+            "start": "2014-03-18",
+            "end": "2014-06-13",
+            "role": "medlem",
+            "from_actor_name": "Peder Christensen",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

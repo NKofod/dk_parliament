@@ -1,0 +1,37 @@
+{
+    "15659": [
+        {
+            "id": 101865,
+            "from_actor": 15649,
+            "to_actor": 15659,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karen Elisabeth Winthereik",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127065,
+            "from_actor": 15651,
+            "to_actor": 15659,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Karen Elisabeth Winthereik",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422327,
+            "from_actor": 15659,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen Elisabeth Winthereik",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "1304": [
+        {
+            "id": 88074,
+            "from_actor": 14931,
+            "to_actor": 1304,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nils-Ole Heggland",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9031583,
+            "from_actor": 1304,
+            "to_actor": 14933,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Nils-Ole Heggland",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9031584,
+            "from_actor": 1304,
+            "to_actor": 14931,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Nils-Ole Heggland",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

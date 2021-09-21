@@ -1,0 +1,81 @@
+{
+    "9958": [
+        {
+            "id": 98852,
+            "from_actor": 15557,
+            "to_actor": 9958,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Gersbo",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126243,
+            "from_actor": 15524,
+            "to_actor": 9958,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Kirsten Gersbo",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126354,
+            "from_actor": 15561,
+            "to_actor": 9958,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Kirsten Gersbo",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12236331,
+            "from_actor": 9958,
+            "to_actor": 15524,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Gersbo",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12236332,
+            "from_actor": 9958,
+            "to_actor": 15561,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Gersbo",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529427,
+            "from_actor": 9958,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirsten Gersbo",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529806,
+            "from_actor": 9958,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirsten Gersbo",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

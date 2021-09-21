@@ -1,0 +1,147 @@
+{
+    "10043": [
+        {
+            "id": 82395,
+            "from_actor": 14773,
+            "to_actor": 10043,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82591,
+            "from_actor": 14778,
+            "to_actor": 10043,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82771,
+            "from_actor": 14787,
+            "to_actor": 10043,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82971,
+            "from_actor": 14789,
+            "to_actor": 10043,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83152,
+            "from_actor": 14798,
+            "to_actor": 10043,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83397,
+            "from_actor": 14800,
+            "to_actor": 10043,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83583,
+            "from_actor": 14810,
+            "to_actor": 10043,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83791,
+            "from_actor": 14811,
+            "to_actor": 10043,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83977,
+            "from_actor": 14824,
+            "to_actor": 10043,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kim Mouritsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133766,
+            "from_actor": 10043,
+            "to_actor": 14787,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kim Mouritsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134212,
+            "from_actor": 10043,
+            "to_actor": 14810,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kim Mouritsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893292,
+            "from_actor": 10043,
+            "to_actor": 14824,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Kim Mouritsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893340,
+            "from_actor": 10043,
+            "to_actor": 14798,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kim Mouritsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

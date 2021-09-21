@@ -1,0 +1,48 @@
+{
+    "10129": [
+        {
+            "id": 82794,
+            "from_actor": 14778,
+            "to_actor": 10129,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Dejgård Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83181,
+            "from_actor": 14789,
+            "to_actor": 10129,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Dejgård Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133771,
+            "from_actor": 10129,
+            "to_actor": 14787,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Søren Dejgård Sørensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893347,
+            "from_actor": 10129,
+            "to_actor": 14798,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Søren Dejgård Sørensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

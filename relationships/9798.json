@@ -1,0 +1,37 @@
+{
+    "9798": [
+        {
+            "id": 79578,
+            "from_actor": 14704,
+            "to_actor": 9798,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birte Lau Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79571,
+            "from_actor": 9798,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Birte Lau Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132898,
+            "from_actor": 9798,
+            "to_actor": 14713,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Birte Lau Pedersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "1615": [
+        {
+            "id": 81477,
+            "from_actor": 14742,
+            "to_actor": 1615,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vibeke Storm Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81883,
+            "from_actor": 14754,
+            "to_actor": 1615,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vibeke Storm Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133543,
+            "from_actor": 1615,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Storm Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750720,
+            "from_actor": 1615,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Storm Rasmussen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

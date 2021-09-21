@@ -1,0 +1,26 @@
+{
+    "18545": [
+        {
+            "id": 23045889,
+            "from_actor": 18545,
+            "to_actor": 18334,
+            "start": "2019-01-15",
+            "end": "2019-01-24",
+            "role": "medlem",
+            "from_actor_name": "Henrik Old",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045890,
+            "from_actor": 18545,
+            "to_actor": 18303,
+            "start": "2019-01-15",
+            "end": "2019-01-24",
+            "role": "medlem",
+            "from_actor_name": "Henrik Old",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

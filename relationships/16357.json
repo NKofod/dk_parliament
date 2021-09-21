@@ -1,0 +1,26 @@
+{
+    "16357": [
+        {
+            "id": 21708632,
+            "from_actor": 16357,
+            "to_actor": 19121,
+            "start": "2020-03-01",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Smith Lange",
+            "to_actor_name": "2030-netværket ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 25930325,
+            "from_actor": 16357,
+            "to_actor": 19418,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Smith Lange",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        }
+    ]
+}

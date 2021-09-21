@@ -1,0 +1,37 @@
+{
+    "1276": [
+        {
+            "id": 72759,
+            "from_actor": 14457,
+            "to_actor": 1276,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Mikkelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855942,
+            "from_actor": 1276,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Mikkelsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855943,
+            "from_actor": 1276,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

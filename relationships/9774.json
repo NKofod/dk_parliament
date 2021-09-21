@@ -1,0 +1,48 @@
+{
+    "9774": [
+        {
+            "id": 71732,
+            "from_actor": 14387,
+            "to_actor": 9774,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Oluf Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 13607641,
+            "from_actor": 9774,
+            "to_actor": 14464,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Arne Oluf Andersen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13607642,
+            "from_actor": 9774,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Arne Oluf Andersen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13607643,
+            "from_actor": 9774,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Arne Oluf Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

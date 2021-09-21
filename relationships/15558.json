@@ -1,0 +1,59 @@
+{
+    "15558": [
+        {
+            "id": 126855,
+            "from_actor": 15808,
+            "to_actor": 15558,
+            "start": "1979-10-26",
+            "end": "1982-09-10",
+            "role": "Minister",
+            "from_actor_name": "energiministeren",
+            "to_actor_name": "Poul Nielsen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 4677706,
+            "from_actor": 15558,
+            "to_actor": 15578,
+            "start": "1969-10-07",
+            "end": "1970-05-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376492,
+            "from_actor": 15558,
+            "to_actor": 15561,
+            "start": "1969-06-30",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529789,
+            "from_actor": 15558,
+            "to_actor": 15557,
+            "start": "1969-06-30",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529994,
+            "from_actor": 15558,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-05-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

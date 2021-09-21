@@ -1,0 +1,26 @@
+{
+    "19064": [
+        {
+            "id": 23530536,
+            "from_actor": 19064,
+            "to_actor": 18877,
+            "start": "2020-01-07",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Magnus Jarl Brunés",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596697,
+            "from_actor": 19064,
+            "to_actor": 19398,
+            "start": "2021-01-01",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Magnus Jarl Brunés",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

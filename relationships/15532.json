@@ -1,0 +1,169 @@
+{
+    "15532": [
+        {
+            "id": 98844,
+            "from_actor": 15557,
+            "to_actor": 15532,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99284,
+            "from_actor": 15574,
+            "to_actor": 15532,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99675,
+            "from_actor": 15591,
+            "to_actor": 15532,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126325,
+            "from_actor": 15531,
+            "to_actor": 15532,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126504,
+            "from_actor": 15567,
+            "to_actor": 15532,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126543,
+            "from_actor": 15585,
+            "to_actor": 15532,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126579,
+            "from_actor": 15607,
+            "to_actor": 15532,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marie Louise Truels-Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835584,
+            "from_actor": 15532,
+            "to_actor": 15567,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835585,
+            "from_actor": 15532,
+            "to_actor": 15531,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835586,
+            "from_actor": 15532,
+            "to_actor": 15607,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835587,
+            "from_actor": 15532,
+            "to_actor": 15585,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529423,
+            "from_actor": 15532,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529798,
+            "from_actor": 15532,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529998,
+            "from_actor": 15532,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530191,
+            "from_actor": 15532,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Louise Truels-Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

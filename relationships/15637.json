@@ -1,0 +1,37 @@
+{
+    "15637": [
+        {
+            "id": 126634,
+            "from_actor": 15629,
+            "to_actor": 15637,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Karen Paludan",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835556,
+            "from_actor": 15637,
+            "to_actor": 15629,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karen Paludan",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20835557,
+            "from_actor": 15637,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Karen Paludan",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

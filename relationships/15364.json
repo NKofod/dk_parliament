@@ -1,0 +1,59 @@
+{
+    "15364": [
+        {
+            "id": 93698,
+            "from_actor": 15351,
+            "to_actor": 15364,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Chr. Zastrau",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124348,
+            "from_actor": 15359,
+            "to_actor": 15364,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Chr. Zastrau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124417,
+            "from_actor": 15379,
+            "to_actor": 15364,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Chr. Zastrau",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527910,
+            "from_actor": 15364,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Chr. Zastrau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528107,
+            "from_actor": 15364,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Chr. Zastrau",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

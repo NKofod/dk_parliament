@@ -1,0 +1,246 @@
+{
+    "343": [
+        {
+            "id": 50083,
+            "from_actor": 342,
+            "to_actor": 343,
+            "start": "2013-01-10",
+            "end": "2013-02-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 51025,
+            "from_actor": 319,
+            "to_actor": 343,
+            "start": "2013-01-10",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51250,
+            "from_actor": 323,
+            "to_actor": 343,
+            "start": "2013-01-23",
+            "end": "2013-01-23",
+            "role": "medlem",
+            "from_actor_name": "Miljøudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51459,
+            "from_actor": 326,
+            "to_actor": 343,
+            "start": "2013-01-10",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52059,
+            "from_actor": 415,
+            "to_actor": 343,
+            "start": "2013-01-10",
+            "end": "2013-02-03",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 64475,
+            "from_actor": 5141,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64493,
+            "from_actor": 5162,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64920,
+            "from_actor": 13635,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 65147,
+            "from_actor": 5172,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65222,
+            "from_actor": 13641,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 68013,
+            "from_actor": 5160,
+            "to_actor": 343,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Mie Bergmann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600814,
+            "from_actor": 343,
+            "to_actor": 13641,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19600815,
+            "from_actor": 343,
+            "to_actor": 415,
+            "start": "2013-01-10",
+            "end": "2013-02-03",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19600816,
+            "from_actor": 343,
+            "to_actor": 13635,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19600817,
+            "from_actor": 343,
+            "to_actor": 5172,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600818,
+            "from_actor": 343,
+            "to_actor": 319,
+            "start": "2013-01-10",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600819,
+            "from_actor": 343,
+            "to_actor": 5162,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600820,
+            "from_actor": 343,
+            "to_actor": 5141,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600821,
+            "from_actor": 343,
+            "to_actor": 5160,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600822,
+            "from_actor": 343,
+            "to_actor": 326,
+            "start": "2013-01-10",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600823,
+            "from_actor": 343,
+            "to_actor": 323,
+            "start": "2013-01-23",
+            "end": "2013-01-23",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Miljøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19600824,
+            "from_actor": 343,
+            "to_actor": 342,
+            "start": "2013-01-10",
+            "end": "2013-02-03",
+            "role": "medlem",
+            "from_actor_name": "Mie Bergmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

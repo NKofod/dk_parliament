@@ -1,0 +1,158 @@
+{
+    "8910": [
+        {
+            "id": 37212,
+            "from_actor": 594,
+            "to_actor": 8910,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37690,
+            "from_actor": 232,
+            "to_actor": 8910,
+            "start": "2008-10-29",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 38071,
+            "from_actor": 508,
+            "to_actor": 8910,
+            "start": "2008-10-29",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 38258,
+            "from_actor": 777,
+            "to_actor": 8910,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38380,
+            "from_actor": 1020,
+            "to_actor": 8910,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38428,
+            "from_actor": 306,
+            "to_actor": 8910,
+            "start": "2008-10-30",
+            "end": "2008-10-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39133,
+            "from_actor": 527,
+            "to_actor": 8910,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Karin Storgaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803592,
+            "from_actor": 8910,
+            "to_actor": 527,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803593,
+            "from_actor": 8910,
+            "to_actor": 508,
+            "start": "2008-10-29",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803594,
+            "from_actor": 8910,
+            "to_actor": 777,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803596,
+            "from_actor": 8910,
+            "to_actor": 306,
+            "start": "2008-10-30",
+            "end": "2008-10-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803597,
+            "from_actor": 8910,
+            "to_actor": 1020,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803598,
+            "from_actor": 8910,
+            "to_actor": 594,
+            "start": "2008-10-30",
+            "end": "2008-11-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24070695,
+            "from_actor": 8910,
+            "to_actor": 232,
+            "start": "2008-10-29",
+            "end": "2008-11-19",
+            "role": "medlem",
+            "from_actor_name": "Karin Storgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

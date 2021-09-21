@@ -1,0 +1,213 @@
+{
+    "15615": [
+        {
+            "id": 100361,
+            "from_actor": 15609,
+            "to_actor": 15615,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100436,
+            "from_actor": 15622,
+            "to_actor": 15615,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100719,
+            "from_actor": 15628,
+            "to_actor": 15615,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100798,
+            "from_actor": 15631,
+            "to_actor": 15615,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101088,
+            "from_actor": 15639,
+            "to_actor": 15615,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101245,
+            "from_actor": 15642,
+            "to_actor": 15615,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101706,
+            "from_actor": 15649,
+            "to_actor": 15615,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101807,
+            "from_actor": 15652,
+            "to_actor": 15615,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128099,
+            "from_actor": 15708,
+            "to_actor": 15615,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Lone Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 186436,
+            "from_actor": 15615,
+            "to_actor": 15708,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 186445,
+            "from_actor": 15615,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20131540,
+            "from_actor": 15615,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20131691,
+            "from_actor": 15615,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422288,
+            "from_actor": 15615,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422482,
+            "from_actor": 15615,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422677,
+            "from_actor": 15615,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422773,
+            "from_actor": 15615,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422849,
+            "from_actor": 15615,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422925,
+            "from_actor": 15615,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Lone Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

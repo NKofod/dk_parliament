@@ -1,0 +1,290 @@
+{
+    "1817": [
+        {
+            "id": 15043,
+            "from_actor": 612,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15844,
+            "from_actor": 795,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15997,
+            "from_actor": 898,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16126,
+            "from_actor": 492,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16345,
+            "from_actor": 729,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16882,
+            "from_actor": 535,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 27602,
+            "from_actor": 423,
+            "to_actor": 1817,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87518,
+            "from_actor": 14917,
+            "to_actor": 1817,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87684,
+            "from_actor": 14926,
+            "to_actor": 1817,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87880,
+            "from_actor": 14931,
+            "to_actor": 1817,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88050,
+            "from_actor": 14943,
+            "to_actor": 1817,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88275,
+            "from_actor": 14957,
+            "to_actor": 1817,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88402,
+            "from_actor": 14259,
+            "to_actor": 1817,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Christian Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705887,
+            "from_actor": 1817,
+            "to_actor": 729,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705889,
+            "from_actor": 1817,
+            "to_actor": 492,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705890,
+            "from_actor": 1817,
+            "to_actor": 898,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705891,
+            "from_actor": 1817,
+            "to_actor": 14943,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705892,
+            "from_actor": 1817,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705893,
+            "from_actor": 1817,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705894,
+            "from_actor": 1817,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705895,
+            "from_actor": 1817,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705896,
+            "from_actor": 1817,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705897,
+            "from_actor": 1817,
+            "to_actor": 535,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22705898,
+            "from_actor": 1817,
+            "to_actor": 795,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705899,
+            "from_actor": 1817,
+            "to_actor": 612,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367249,
+            "from_actor": 1817,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Christian Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

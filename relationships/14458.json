@@ -1,0 +1,37 @@
+{
+    "14458": [
+        {
+            "id": 72742,
+            "from_actor": 14457,
+            "to_actor": 14458,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tangsig Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914095,
+            "from_actor": 14458,
+            "to_actor": 14470,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Tangsig Christensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914096,
+            "from_actor": 14458,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Tangsig Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

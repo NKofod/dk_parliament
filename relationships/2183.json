@@ -1,0 +1,114 @@
+{
+    "2183": [
+        {
+            "id": 17938,
+            "from_actor": 1819,
+            "to_actor": 2183,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Rolf Bagger (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 18022,
+            "from_actor": 1820,
+            "to_actor": 2183,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Rolf Bagger (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19661,
+            "from_actor": 1876,
+            "to_actor": 2183,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Rolf Bagger (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19837,
+            "from_actor": 1877,
+            "to_actor": 2183,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Rolf Bagger (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23968,
+            "from_actor": 1875,
+            "to_actor": 2183,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Rolf Bagger (udpeget af KF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17920,
+            "from_actor": 2183,
+            "to_actor": 1819,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Rolf Bagger (udpeget af KF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17921,
+            "from_actor": 2183,
+            "to_actor": 1875,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Rolf Bagger (udpeget af KF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17922,
+            "from_actor": 2183,
+            "to_actor": 1877,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rolf Bagger (udpeget af KF)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17923,
+            "from_actor": 2183,
+            "to_actor": 1820,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Rolf Bagger (udpeget af KF)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17924,
+            "from_actor": 2183,
+            "to_actor": 1876,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rolf Bagger (udpeget af KF)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        }
+    ]
+}

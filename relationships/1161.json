@@ -1,0 +1,136 @@
+{
+    "1161": [
+        {
+            "id": 77633,
+            "from_actor": 14649,
+            "to_actor": 1161,
+            "start": "1988-01-13",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77708,
+            "from_actor": 14656,
+            "to_actor": 1161,
+            "start": "1988-01-13",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81101,
+            "from_actor": 14748,
+            "to_actor": 1161,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81433,
+            "from_actor": 14742,
+            "to_actor": 1161,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81656,
+            "from_actor": 14754,
+            "to_actor": 1161,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81725,
+            "from_actor": 14759,
+            "to_actor": 1161,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Merethe Due Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 137801,
+            "from_actor": 1161,
+            "to_actor": 14656,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 137802,
+            "from_actor": 1161,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 137803,
+            "from_actor": 1161,
+            "to_actor": 14742,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 137804,
+            "from_actor": 1161,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 14670720,
+            "from_actor": 1161,
+            "to_actor": 14748,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24198581,
+            "from_actor": 1161,
+            "to_actor": 14759,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Merethe Due Jensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "15501": [
+        {
+            "id": 97015,
+            "from_actor": 15498,
+            "to_actor": 15501,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97055,
+            "from_actor": 15514,
+            "to_actor": 15501,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97275,
+            "from_actor": 15523,
+            "to_actor": 15501,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97344,
+            "from_actor": 15525,
+            "to_actor": 15501,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98216,
+            "from_actor": 15533,
+            "to_actor": 15501,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98326,
+            "from_actor": 15549,
+            "to_actor": 15501,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98591,
+            "from_actor": 15557,
+            "to_actor": 15501,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98697,
+            "from_actor": 15562,
+            "to_actor": 15501,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99013,
+            "from_actor": 15574,
+            "to_actor": 15501,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99120,
+            "from_actor": 15579,
+            "to_actor": 15501,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99408,
+            "from_actor": 15591,
+            "to_actor": 15501,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99519,
+            "from_actor": 15598,
+            "to_actor": 15501,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Arthur Jakobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475256,
+            "from_actor": 15501,
+            "to_actor": 15525,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475257,
+            "from_actor": 15501,
+            "to_actor": 15549,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475258,
+            "from_actor": 15501,
+            "to_actor": 15562,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475259,
+            "from_actor": 15501,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475260,
+            "from_actor": 15501,
+            "to_actor": 15598,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 475261,
+            "from_actor": 15501,
+            "to_actor": 15514,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529206,
+            "from_actor": 15501,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529393,
+            "from_actor": 15501,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529552,
+            "from_actor": 15501,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529730,
+            "from_actor": 15501,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529923,
+            "from_actor": 15501,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530119,
+            "from_actor": 15501,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Arthur Jakobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

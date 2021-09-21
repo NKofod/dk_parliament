@@ -1,0 +1,312 @@
+{
+    "15029": [
+        {
+            "id": 88589,
+            "from_actor": 14976,
+            "to_actor": 15029,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88740,
+            "from_actor": 15134,
+            "to_actor": 15029,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89196,
+            "from_actor": 15147,
+            "to_actor": 15029,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89383,
+            "from_actor": 15156,
+            "to_actor": 15029,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89749,
+            "from_actor": 15170,
+            "to_actor": 15029,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89921,
+            "from_actor": 15162,
+            "to_actor": 15029,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90295,
+            "from_actor": 15184,
+            "to_actor": 15029,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90646,
+            "from_actor": 15177,
+            "to_actor": 15029,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91001,
+            "from_actor": 15190,
+            "to_actor": 15029,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91214,
+            "from_actor": 15227,
+            "to_actor": 15029,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91374,
+            "from_actor": 15231,
+            "to_actor": 15029,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91580,
+            "from_actor": 15243,
+            "to_actor": 15029,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91748,
+            "from_actor": 15251,
+            "to_actor": 15029,
+            "start": "1958-10-07",
+            "end": "1958-11-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91949,
+            "from_actor": 15264,
+            "to_actor": 15029,
+            "start": "1958-10-07",
+            "end": "1958-11-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Holger Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525951,
+            "from_actor": 15029,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526136,
+            "from_actor": 15029,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526320,
+            "from_actor": 15029,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526501,
+            "from_actor": 15029,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526676,
+            "from_actor": 15029,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526854,
+            "from_actor": 15029,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527173,
+            "from_actor": 15029,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1958-11-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530225,
+            "from_actor": 15029,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530302,
+            "from_actor": 15029,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530379,
+            "from_actor": 15029,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530457,
+            "from_actor": 15029,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530530,
+            "from_actor": 15029,
+            "to_actor": 15227,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530600,
+            "from_actor": 15029,
+            "to_actor": 15243,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530727,
+            "from_actor": 15029,
+            "to_actor": 15264,
+            "start": "1958-10-07",
+            "end": "1958-11-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

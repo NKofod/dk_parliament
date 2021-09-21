@@ -1,0 +1,48 @@
+{
+    "15065": [
+        {
+            "id": 88643,
+            "from_actor": 14976,
+            "to_actor": 15065,
+            "start": "1953-10-06",
+            "end": "1954-05-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Edvard Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88838,
+            "from_actor": 15137,
+            "to_actor": 15065,
+            "start": "1953-10-06",
+            "end": "1954-05-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Edvard Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105296,
+            "from_actor": 15065,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Edvard Sørensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526058,
+            "from_actor": 15065,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-05-15",
+            "role": "medlem",
+            "from_actor_name": "Edvard Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

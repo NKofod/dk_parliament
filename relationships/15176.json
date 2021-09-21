@@ -1,0 +1,268 @@
+{
+    "15176": [
+        {
+            "id": 90576,
+            "from_actor": 15186,
+            "to_actor": 15176,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90752,
+            "from_actor": 15177,
+            "to_actor": 15176,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91081,
+            "from_actor": 15190,
+            "to_actor": 15176,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91302,
+            "from_actor": 15229,
+            "to_actor": 15176,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91454,
+            "from_actor": 15231,
+            "to_actor": 15176,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91672,
+            "from_actor": 15246,
+            "to_actor": 15176,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91826,
+            "from_actor": 15251,
+            "to_actor": 15176,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92045,
+            "from_actor": 15267,
+            "to_actor": 15176,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92187,
+            "from_actor": 15269,
+            "to_actor": 15176,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92413,
+            "from_actor": 15287,
+            "to_actor": 15176,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92557,
+            "from_actor": 15290,
+            "to_actor": 15176,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92776,
+            "from_actor": 15300,
+            "to_actor": 15176,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oscar Kryger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119349,
+            "from_actor": 15176,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119350,
+            "from_actor": 15176,
+            "to_actor": 15300,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119351,
+            "from_actor": 15176,
+            "to_actor": 15267,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119352,
+            "from_actor": 15176,
+            "to_actor": 15229,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119353,
+            "from_actor": 15176,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119354,
+            "from_actor": 15176,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526607,
+            "from_actor": 15176,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526756,
+            "from_actor": 15176,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526932,
+            "from_actor": 15176,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527114,
+            "from_actor": 15176,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527302,
+            "from_actor": 15176,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527490,
+            "from_actor": 15176,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Oscar Kryger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

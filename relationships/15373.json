@@ -1,0 +1,125 @@
+{
+    "15373": [
+        {
+            "id": 94027,
+            "from_actor": 15378,
+            "to_actor": 15373,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Wingsøe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94635,
+            "from_actor": 15390,
+            "to_actor": 15373,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Wingsøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96024,
+            "from_actor": 15467,
+            "to_actor": 15373,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Wingsøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124493,
+            "from_actor": 15397,
+            "to_actor": 15373,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Wingsøe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124564,
+            "from_actor": 15472,
+            "to_actor": 15373,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Wingsøe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528085,
+            "from_actor": 15373,
+            "to_actor": 15372,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528281,
+            "from_actor": 15373,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528858,
+            "from_actor": 15373,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531102,
+            "from_actor": 15373,
+            "to_actor": 15378,
+            "start": "1962-11-01",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531185,
+            "from_actor": 15373,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531449,
+            "from_actor": 15373,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Wingsøe",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

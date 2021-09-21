@@ -1,0 +1,37 @@
+{
+    "1119": [
+        {
+            "id": 126652,
+            "from_actor": 15631,
+            "to_actor": 1119,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Marianne Ziirsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422709,
+            "from_actor": 1119,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Marianne Ziirsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422789,
+            "from_actor": 1119,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Marianne Ziirsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

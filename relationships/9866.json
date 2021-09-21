@@ -1,0 +1,158 @@
+{
+    "9866": [
+        {
+            "id": 82191,
+            "from_actor": 14764,
+            "to_actor": 9866,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82331,
+            "from_actor": 14770,
+            "to_actor": 9866,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82539,
+            "from_actor": 14778,
+            "to_actor": 9866,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82706,
+            "from_actor": 14784,
+            "to_actor": 9866,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82919,
+            "from_actor": 14789,
+            "to_actor": 9866,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83087,
+            "from_actor": 14795,
+            "to_actor": 9866,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83345,
+            "from_actor": 14800,
+            "to_actor": 9866,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83517,
+            "from_actor": 14807,
+            "to_actor": 9866,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83740,
+            "from_actor": 14811,
+            "to_actor": 9866,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83911,
+            "from_actor": 14820,
+            "to_actor": 9866,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hardy Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133706,
+            "from_actor": 9866,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hardy Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133850,
+            "from_actor": 9866,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hardy Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134143,
+            "from_actor": 9866,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hardy Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134320,
+            "from_actor": 9866,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Hardy Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

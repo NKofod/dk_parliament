@@ -1,0 +1,191 @@
+{
+    "15309": [
+        {
+            "id": 93102,
+            "from_actor": 15303,
+            "to_actor": 15309,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93264,
+            "from_actor": 15343,
+            "to_actor": 15309,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93467,
+            "from_actor": 15351,
+            "to_actor": 15309,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93632,
+            "from_actor": 15358,
+            "to_actor": 15309,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94020,
+            "from_actor": 15378,
+            "to_actor": 15309,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94593,
+            "from_actor": 15390,
+            "to_actor": 15309,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102200,
+            "from_actor": 15498,
+            "to_actor": 15309,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124487,
+            "from_actor": 15397,
+            "to_actor": 15309,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Elna Syvertsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527675,
+            "from_actor": 15309,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527856,
+            "from_actor": 15309,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528041,
+            "from_actor": 15309,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528238,
+            "from_actor": 15309,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529237,
+            "from_actor": 15309,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530940,
+            "from_actor": 15309,
+            "to_actor": 15343,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531016,
+            "from_actor": 15309,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531095,
+            "from_actor": 15309,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531179,
+            "from_actor": 15309,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Elna Syvertsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

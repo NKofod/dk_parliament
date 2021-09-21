@@ -1,0 +1,158 @@
+{
+    "1253": [
+        {
+            "id": 4776,
+            "from_actor": 1211,
+            "to_actor": 1253,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17101,
+            "from_actor": 1428,
+            "to_actor": 1253,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19890,
+            "from_actor": 1429,
+            "to_actor": 1253,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23832,
+            "from_actor": 1430,
+            "to_actor": 1253,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28355,
+            "from_actor": 1209,
+            "to_actor": 1253,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32878,
+            "from_actor": 1212,
+            "to_actor": 1253,
+            "start": "2007-11-13",
+            "end": "2008-01-07T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36842,
+            "from_actor": 1210,
+            "to_actor": 1253,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17072,
+            "from_actor": 1253,
+            "to_actor": 1209,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17073,
+            "from_actor": 1253,
+            "to_actor": 1210,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17074,
+            "from_actor": 1253,
+            "to_actor": 1211,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17075,
+            "from_actor": 1253,
+            "to_actor": 1212,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17076,
+            "from_actor": 1253,
+            "to_actor": 1428,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17077,
+            "from_actor": 1253,
+            "to_actor": 1429,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 17078,
+            "from_actor": 1253,
+            "to_actor": 1430,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech (Udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

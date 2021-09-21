@@ -1,0 +1,37 @@
+{
+    "15388": [
+        {
+            "id": 124402,
+            "from_actor": 15376,
+            "to_actor": 15388,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johannes Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731932,
+            "from_actor": 15388,
+            "to_actor": 15376,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Johannes Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528118,
+            "from_actor": 15388,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

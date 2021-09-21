@@ -1,0 +1,169 @@
+{
+    "10352": [
+        {
+            "id": 70974,
+            "from_actor": 14338,
+            "to_actor": 10352,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71600,
+            "from_actor": 14387,
+            "to_actor": 10352,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71869,
+            "from_actor": 14415,
+            "to_actor": 10352,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72072,
+            "from_actor": 14424,
+            "to_actor": 10352,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72746,
+            "from_actor": 14457,
+            "to_actor": 10352,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73167,
+            "from_actor": 14478,
+            "to_actor": 10352,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75078,
+            "from_actor": 14319,
+            "to_actor": 10352,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Enrico Møller Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128795,
+            "from_actor": 10352,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129135,
+            "from_actor": 10352,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129217,
+            "from_actor": 10352,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130563,
+            "from_actor": 10352,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130702,
+            "from_actor": 10352,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130822,
+            "from_actor": 10352,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696799,
+            "from_actor": 10352,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714629,
+            "from_actor": 10352,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Enrico Møller Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

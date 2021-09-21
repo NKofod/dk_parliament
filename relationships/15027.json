@@ -1,0 +1,180 @@
+{
+    "15027": [
+        {
+            "id": 88587,
+            "from_actor": 14976,
+            "to_actor": 15027,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88883,
+            "from_actor": 15138,
+            "to_actor": 15027,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89194,
+            "from_actor": 15147,
+            "to_actor": 15027,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89324,
+            "from_actor": 15153,
+            "to_actor": 15027,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89690,
+            "from_actor": 15167,
+            "to_actor": 15027,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89919,
+            "from_actor": 15162,
+            "to_actor": 15027,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90235,
+            "from_actor": 15181,
+            "to_actor": 15027,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90644,
+            "from_actor": 15177,
+            "to_actor": 15027,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Tesdorph",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105196,
+            "from_actor": 15027,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105197,
+            "from_actor": 15027,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105198,
+            "from_actor": 15027,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588483,
+            "from_actor": 15027,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525949,
+            "from_actor": 15027,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526134,
+            "from_actor": 15027,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526318,
+            "from_actor": 15027,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526499,
+            "from_actor": 15027,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "E. Tesdorph",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

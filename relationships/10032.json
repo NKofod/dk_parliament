@@ -1,0 +1,81 @@
+{
+    "10032": [
+        {
+            "id": 101140,
+            "from_actor": 15640,
+            "to_actor": 10032,
+            "start": "1973-01-15",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Tue Rohrsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101292,
+            "from_actor": 15639,
+            "to_actor": 10032,
+            "start": "1973-01-15",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tue Rohrsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101523,
+            "from_actor": 15650,
+            "to_actor": 10032,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Tue Rohrsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101725,
+            "from_actor": 15649,
+            "to_actor": 10032,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tue Rohrsted",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422307,
+            "from_actor": 10032,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Tue Rohrsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422501,
+            "from_actor": 10032,
+            "to_actor": 15639,
+            "start": "1973-01-15",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Tue Rohrsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21300275,
+            "from_actor": 10032,
+            "to_actor": 15640,
+            "start": "1973-01-15",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Tue Rohrsted",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

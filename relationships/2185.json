@@ -1,0 +1,59 @@
+{
+    "2185": [
+        {
+            "id": 17941,
+            "from_actor": 1819,
+            "to_actor": 2185,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Kirsten Grønborg (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19840,
+            "from_actor": 1877,
+            "to_actor": 2185,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Kirsten Grønborg (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23971,
+            "from_actor": 1875,
+            "to_actor": 2185,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Statens Kunstfonds repræsentantskab",
+            "to_actor_name": "Kirsten Grønborg (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17928,
+            "from_actor": 2185,
+            "to_actor": 1819,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Grønborg (udpeget af RV)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 17929,
+            "from_actor": 2185,
+            "to_actor": 1875,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Grønborg (udpeget af RV)",
+            "to_actor_name": "Statens Kunstfonds repræsentantskab",
+            "type": "Kommission"
+        }
+    ]
+}

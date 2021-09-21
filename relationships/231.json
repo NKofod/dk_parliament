@@ -1,0 +1,290 @@
+{
+    "231": [
+        {
+            "id": 109662,
+            "from_actor": 13635,
+            "to_actor": 231,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Manu Sareen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 113113,
+            "from_actor": 749,
+            "to_actor": 231,
+            "start": "2011-09-29",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Prøvelse af Valgene",
+            "to_actor_name": "Manu Sareen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 118845,
+            "from_actor": 6,
+            "to_actor": 231,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Manu Sareen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 120943,
+            "from_actor": 596,
+            "to_actor": 231,
+            "start": "2011-04-08",
+            "end": "2011-04-08",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Manu Sareen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882653,
+            "from_actor": 231,
+            "to_actor": 405,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882654,
+            "from_actor": 231,
+            "to_actor": 406,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882655,
+            "from_actor": 231,
+            "to_actor": 996,
+            "start": "2011-01-01",
+            "end": "2011-04-15",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882656,
+            "from_actor": 231,
+            "to_actor": 269,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882657,
+            "from_actor": 231,
+            "to_actor": 415,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882658,
+            "from_actor": 231,
+            "to_actor": 749,
+            "start": "2011-09-29",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Udvalget til Prøvelse af Valgene",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882659,
+            "from_actor": 231,
+            "to_actor": 618,
+            "start": "2011-01-01",
+            "end": "2011-02-02",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882660,
+            "from_actor": 231,
+            "to_actor": 618,
+            "start": "2011-02-04",
+            "end": "2011-04-17",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882661,
+            "from_actor": 231,
+            "to_actor": 893,
+            "start": "2011-01-01",
+            "end": "2011-04-17",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882662,
+            "from_actor": 231,
+            "to_actor": 896,
+            "start": "2011-01-01",
+            "end": "2011-04-17",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882663,
+            "from_actor": 231,
+            "to_actor": 13641,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882664,
+            "from_actor": 231,
+            "to_actor": 368,
+            "start": "2011-01-01",
+            "end": "2011-04-15",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882665,
+            "from_actor": 231,
+            "to_actor": 596,
+            "start": "2011-04-08",
+            "end": "2011-04-08",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882666,
+            "from_actor": 231,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882667,
+            "from_actor": 231,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882668,
+            "from_actor": 231,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882669,
+            "from_actor": 231,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882670,
+            "from_actor": 231,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882671,
+            "from_actor": 231,
+            "to_actor": 292,
+            "start": "2011-10-03",
+            "end": "2014-02-03",
+            "role": "Minister",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "ministeren for nordisk samarbejde",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 22882672,
+            "from_actor": 231,
+            "to_actor": 228,
+            "start": "2011-10-03",
+            "end": "2014-02-03",
+            "role": "Minister",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "ministeren for ligestilling og kirke",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 22882673,
+            "from_actor": 231,
+            "to_actor": 186,
+            "start": "2014-02-03",
+            "end": "2015-06-28",
+            "role": "Minister",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "ministeren for børn, ligestilling, integration og sociale forhold",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 22882674,
+            "from_actor": 231,
+            "to_actor": 1022,
+            "start": "2011-01-01",
+            "end": "2011-04-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Manu Sareen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        }
+    ]
+}

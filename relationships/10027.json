@@ -1,0 +1,59 @@
+{
+    "10027": [
+        {
+            "id": 83798,
+            "from_actor": 14811,
+            "to_actor": 10027,
+            "start": "1998-02-01",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hanne Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83980,
+            "from_actor": 14824,
+            "to_actor": 10027,
+            "start": "1998-02-01",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Hanne Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83983,
+            "from_actor": 10027,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Hanne Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134219,
+            "from_actor": 10027,
+            "to_actor": 14810,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hanne Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893295,
+            "from_actor": 10027,
+            "to_actor": 14824,
+            "start": "1998-02-01",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Hanne Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

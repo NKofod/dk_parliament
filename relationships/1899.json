@@ -1,0 +1,257 @@
+{
+    "1899": [
+        {
+            "id": 15612,
+            "from_actor": 797,
+            "to_actor": 1899,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15764,
+            "from_actor": 897,
+            "to_actor": 1899,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16142,
+            "from_actor": 492,
+            "to_actor": 1899,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19001,
+            "from_actor": 1086,
+            "to_actor": 1899,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25020,
+            "from_actor": 905,
+            "to_actor": 1899,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28729,
+            "from_actor": 522,
+            "to_actor": 1899,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29183,
+            "from_actor": 532,
+            "to_actor": 1899,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30247,
+            "from_actor": 531,
+            "to_actor": 1899,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30976,
+            "from_actor": 908,
+            "to_actor": 1899,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34733,
+            "from_actor": 762,
+            "to_actor": 1899,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 62021,
+            "from_actor": 523,
+            "to_actor": 1899,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "to_actor_name": "Anne Wallberg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14862,
+            "from_actor": 1899,
+            "to_actor": 797,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14863,
+            "from_actor": 1899,
+            "to_actor": 1086,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14865,
+            "from_actor": 1899,
+            "to_actor": 907,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14866,
+            "from_actor": 1899,
+            "to_actor": 908,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14868,
+            "from_actor": 1899,
+            "to_actor": 531,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14869,
+            "from_actor": 1899,
+            "to_actor": 532,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 171999,
+            "from_actor": 1899,
+            "to_actor": 905,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3087349,
+            "from_actor": 1899,
+            "to_actor": 492,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3087490,
+            "from_actor": 1899,
+            "to_actor": 522,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3087527,
+            "from_actor": 1899,
+            "to_actor": 523,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3297611,
+            "from_actor": 1899,
+            "to_actor": 762,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6311828,
+            "from_actor": 1899,
+            "to_actor": 897,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Anne Wallberg",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        }
+    ]
+}

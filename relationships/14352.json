@@ -1,0 +1,92 @@
+{
+    "14352": [
+        {
+            "id": 70800,
+            "from_actor": 14366,
+            "to_actor": 14352,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Thyge Schak Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70824,
+            "from_actor": 14338,
+            "to_actor": 14352,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thyge Schak Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71455,
+            "from_actor": 14403,
+            "to_actor": 14352,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Thyge Schak Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71721,
+            "from_actor": 14387,
+            "to_actor": 14352,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thyge Schak Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126980,
+            "from_actor": 14352,
+            "to_actor": 14403,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Thyge Schak Nielsen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126981,
+            "from_actor": 14352,
+            "to_actor": 14366,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Thyge Schak Nielsen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126982,
+            "from_actor": 14352,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Thyge Schak Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126983,
+            "from_actor": 14352,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Thyge Schak Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

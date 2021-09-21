@@ -1,0 +1,202 @@
+{
+    "15323": [
+        {
+            "id": 93129,
+            "from_actor": 15303,
+            "to_actor": 15323,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93190,
+            "from_actor": 15341,
+            "to_actor": 15323,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93493,
+            "from_actor": 15351,
+            "to_actor": 15323,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93559,
+            "from_actor": 15355,
+            "to_actor": 15323,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93949,
+            "from_actor": 15376,
+            "to_actor": 15323,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94331,
+            "from_actor": 15395,
+            "to_actor": 15323,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94617,
+            "from_actor": 15390,
+            "to_actor": 15323,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Philip",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 110826,
+            "from_actor": 15323,
+            "to_actor": 15341,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110827,
+            "from_actor": 15323,
+            "to_actor": 15355,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110828,
+            "from_actor": 15323,
+            "to_actor": 15376,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110829,
+            "from_actor": 15323,
+            "to_actor": 15395,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136423,
+            "from_actor": 15323,
+            "to_actor": 16167,
+            "start": "1957-05-28",
+            "end": "1960-03-31",
+            "role": "Minister",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "ministeren for handel, industri og søfart",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 136536,
+            "from_actor": 15323,
+            "to_actor": 15834,
+            "start": "1961-09-07",
+            "end": "1964-09-26",
+            "role": "Minister",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "økonomiministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21527701,
+            "from_actor": 15323,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527882,
+            "from_actor": 15323,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528067,
+            "from_actor": 15323,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528263,
+            "from_actor": 15323,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21629989,
+            "from_actor": 15323,
+            "to_actor": 3,
+            "start": "1960-03-31",
+            "end": "1961-09-07",
+            "role": "Minister",
+            "from_actor_name": "Kjeld Philip",
+            "to_actor_name": "finansministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

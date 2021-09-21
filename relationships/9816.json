@@ -1,0 +1,26 @@
+{
+    "9816": [
+        {
+            "id": 14101067,
+            "from_actor": 9816,
+            "to_actor": 14816,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Ehmer",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 14101068,
+            "from_actor": 9816,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Ehmer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

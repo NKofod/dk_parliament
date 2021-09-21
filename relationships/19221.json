@@ -1,0 +1,92 @@
+{
+    "19221": [
+        {
+            "id": 23072508,
+            "from_actor": 19221,
+            "to_actor": 18893,
+            "start": "2020-05-12",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072509,
+            "from_actor": 19221,
+            "to_actor": 18856,
+            "start": "2020-05-12",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23072515,
+            "from_actor": 19221,
+            "to_actor": 18926,
+            "start": "2020-05-12",
+            "end": "2020-09-27",
+            "role": "stedfortræder",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529904,
+            "from_actor": 19221,
+            "to_actor": 18864,
+            "start": "2020-05-12",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529941,
+            "from_actor": 19221,
+            "to_actor": 18865,
+            "start": "2020-05-12",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530438,
+            "from_actor": 19221,
+            "to_actor": 18876,
+            "start": "2020-05-12",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530521,
+            "from_actor": 19221,
+            "to_actor": 18877,
+            "start": "2020-08-13",
+            "end": "2020-08-13",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530528,
+            "from_actor": 19221,
+            "to_actor": 18877,
+            "start": "2020-08-11",
+            "end": "2020-08-11",
+            "role": "medlem",
+            "from_actor_name": "Hanne Bjørn-Klausen",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

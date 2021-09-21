@@ -1,0 +1,70 @@
+{
+    "2190": [
+        {
+            "id": 17947,
+            "from_actor": 1372,
+            "to_actor": 2190,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19830,
+            "from_actor": 1374,
+            "to_actor": 2190,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23898,
+            "from_actor": 1373,
+            "to_actor": 2190,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17959,
+            "from_actor": 2190,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17960,
+            "from_actor": 2190,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17961,
+            "from_actor": 2190,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Aage Jensen (udpeget af CD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

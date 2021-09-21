@@ -1,0 +1,48 @@
+{
+    "15371": [
+        {
+            "id": 93709,
+            "from_actor": 15351,
+            "to_actor": 15371,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nicolaj Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124346,
+            "from_actor": 15358,
+            "to_actor": 15371,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Nicolaj Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527920,
+            "from_actor": 15371,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Nicolaj Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531033,
+            "from_actor": 15371,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Nicolaj Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

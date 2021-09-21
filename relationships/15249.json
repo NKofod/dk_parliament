@@ -1,0 +1,81 @@
+{
+    "15249": [
+        {
+            "id": 91688,
+            "from_actor": 15231,
+            "to_actor": 15249,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124281,
+            "from_actor": 15246,
+            "to_actor": 15249,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Alfred Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124291,
+            "from_actor": 15267,
+            "to_actor": 15249,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Alfred Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158836,
+            "from_actor": 15249,
+            "to_actor": 15267,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Alfred Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158837,
+            "from_actor": 15249,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Alfred Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526984,
+            "from_actor": 15249,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Alfred Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527177,
+            "from_actor": 15249,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Alfred Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

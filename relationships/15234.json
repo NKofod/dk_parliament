@@ -1,0 +1,180 @@
+{
+    "15234": [
+        {
+            "id": 91496,
+            "from_actor": 15231,
+            "to_actor": 15234,
+            "start": "1958-08-13",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91513,
+            "from_actor": 15239,
+            "to_actor": 15234,
+            "start": "1958-08-13",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91865,
+            "from_actor": 15251,
+            "to_actor": 15234,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91912,
+            "from_actor": 15259,
+            "to_actor": 15234,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92225,
+            "from_actor": 15269,
+            "to_actor": 15234,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92253,
+            "from_actor": 15279,
+            "to_actor": 15234,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92593,
+            "from_actor": 15290,
+            "to_actor": 15234,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92621,
+            "from_actor": 15292,
+            "to_actor": 15234,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Ayoë Kate Herbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158916,
+            "from_actor": 15234,
+            "to_actor": 15259,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158917,
+            "from_actor": 15234,
+            "to_actor": 15279,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158918,
+            "from_actor": 15234,
+            "to_actor": 15292,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158919,
+            "from_actor": 15234,
+            "to_actor": 15239,
+            "start": "1958-08-13",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526971,
+            "from_actor": 15234,
+            "to_actor": 15231,
+            "start": "1958-08-13",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527152,
+            "from_actor": 15234,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527338,
+            "from_actor": 15234,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527526,
+            "from_actor": 15234,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Ayoë Kate Herbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

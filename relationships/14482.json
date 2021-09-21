@@ -1,0 +1,37 @@
+{
+    "14482": [
+        {
+            "id": 73159,
+            "from_actor": 14478,
+            "to_actor": 14482,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Else Brønserud",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158688,
+            "from_actor": 14482,
+            "to_actor": 14489,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Else Brønserud",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158689,
+            "from_actor": 14482,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Else Brønserud",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

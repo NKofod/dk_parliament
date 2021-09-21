@@ -1,0 +1,147 @@
+{
+    "14994": [
+        {
+            "id": 88546,
+            "from_actor": 14976,
+            "to_actor": 14994,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Urban Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88786,
+            "from_actor": 15134,
+            "to_actor": 14994,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Urban Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89155,
+            "from_actor": 15147,
+            "to_actor": 14994,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Urban Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89426,
+            "from_actor": 15156,
+            "to_actor": 14994,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Urban Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89792,
+            "from_actor": 15170,
+            "to_actor": 14994,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Urban Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89880,
+            "from_actor": 15162,
+            "to_actor": 14994,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Urban Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90338,
+            "from_actor": 15184,
+            "to_actor": 14994,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Urban Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525911,
+            "from_actor": 14994,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526096,
+            "from_actor": 14994,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526280,
+            "from_actor": 14994,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530270,
+            "from_actor": 14994,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530345,
+            "from_actor": 14994,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530422,
+            "from_actor": 14994,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Urban Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

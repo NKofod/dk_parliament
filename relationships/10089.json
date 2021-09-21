@@ -1,0 +1,48 @@
+{
+    "10089": [
+        {
+            "id": 82783,
+            "from_actor": 14778,
+            "to_actor": 10089,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Vognsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83602,
+            "from_actor": 14800,
+            "to_actor": 10089,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Vognsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133720,
+            "from_actor": 10089,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Vognsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134167,
+            "from_actor": 10089,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Vognsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

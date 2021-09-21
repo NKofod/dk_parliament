@@ -1,0 +1,26 @@
+{
+    "9830": [
+        {
+            "id": 82775,
+            "from_actor": 14778,
+            "to_actor": 9830,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annette Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133732,
+            "from_actor": 9830,
+            "to_actor": 14785,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Annette Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

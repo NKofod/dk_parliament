@@ -1,0 +1,37 @@
+{
+    "9787": [
+        {
+            "id": 80839,
+            "from_actor": 14730,
+            "to_actor": 9787,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Jørgen Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 16663999,
+            "from_actor": 9787,
+            "to_actor": 14734,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Jørgen Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16664000,
+            "from_actor": 9787,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Jørgen Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

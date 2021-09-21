@@ -1,0 +1,37 @@
+{
+    "14355": [
+        {
+            "id": 70814,
+            "from_actor": 14338,
+            "to_actor": 14355,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. P. Brændstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158808,
+            "from_actor": 14355,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "A. P. Brændstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158809,
+            "from_actor": 14355,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "A. P. Brændstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

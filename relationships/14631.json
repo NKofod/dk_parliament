@@ -1,0 +1,37 @@
+{
+    "14631": [
+        {
+            "id": 76887,
+            "from_actor": 14617,
+            "to_actor": 14631,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Eiberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125519,
+            "from_actor": 14631,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Eiberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379874,
+            "from_actor": 14631,
+            "to_actor": 14623,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Eiberg",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

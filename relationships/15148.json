@@ -1,0 +1,169 @@
+{
+    "15148": [
+        {
+            "id": 89297,
+            "from_actor": 15147,
+            "to_actor": 15148,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89346,
+            "from_actor": 15153,
+            "to_actor": 15148,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89712,
+            "from_actor": 15167,
+            "to_actor": 15148,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90021,
+            "from_actor": 15162,
+            "to_actor": 15148,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90257,
+            "from_actor": 15181,
+            "to_actor": 15148,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90745,
+            "from_actor": 15177,
+            "to_actor": 15148,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92428,
+            "from_actor": 15269,
+            "to_actor": 15148,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124296,
+            "from_actor": 15280,
+            "to_actor": 15148,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Bruun de Neergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106159,
+            "from_actor": 15148,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106160,
+            "from_actor": 15148,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588505,
+            "from_actor": 15148,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526236,
+            "from_actor": 15148,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526420,
+            "from_actor": 15148,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526600,
+            "from_actor": 15148,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527362,
+            "from_actor": 15148,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Bruun de Neergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

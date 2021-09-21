@@ -1,0 +1,81 @@
+{
+    "1424": [
+        {
+            "id": 97081,
+            "from_actor": 15517,
+            "to_actor": 1424,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Pia Dam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97277,
+            "from_actor": 15523,
+            "to_actor": 1424,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97369,
+            "from_actor": 15528,
+            "to_actor": 1424,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Pia Dam",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102172,
+            "from_actor": 15498,
+            "to_actor": 1424,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Dam",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4677007,
+            "from_actor": 1424,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Pia Dam",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529208,
+            "from_actor": 1424,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Pia Dam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529395,
+            "from_actor": 1424,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Pia Dam",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

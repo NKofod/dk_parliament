@@ -1,0 +1,246 @@
+{
+    "1964": [
+        {
+            "id": 18738,
+            "from_actor": 815,
+            "to_actor": 1964,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19256,
+            "from_actor": 755,
+            "to_actor": 1964,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24730,
+            "from_actor": 822,
+            "to_actor": 1964,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25106,
+            "from_actor": 756,
+            "to_actor": 1964,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27744,
+            "from_actor": 759,
+            "to_actor": 1964,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30904,
+            "from_actor": 1317,
+            "to_actor": 1964,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34071,
+            "from_actor": 1166,
+            "to_actor": 1964,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34932,
+            "from_actor": 889,
+            "to_actor": 1964,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Finansudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35275,
+            "from_actor": 758,
+            "to_actor": 1964,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36225,
+            "from_actor": 1040,
+            "to_actor": 1964,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36758,
+            "from_actor": 757,
+            "to_actor": 1964,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Jacob Ravn",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16762,
+            "from_actor": 1964,
+            "to_actor": 815,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16763,
+            "from_actor": 1964,
+            "to_actor": 822,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16764,
+            "from_actor": 1964,
+            "to_actor": 1040,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16765,
+            "from_actor": 1964,
+            "to_actor": 1317,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16766,
+            "from_actor": 1964,
+            "to_actor": 889,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16767,
+            "from_actor": 1964,
+            "to_actor": 757,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16768,
+            "from_actor": 1964,
+            "to_actor": 758,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16769,
+            "from_actor": 1964,
+            "to_actor": 759,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16770,
+            "from_actor": 1964,
+            "to_actor": 755,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16771,
+            "from_actor": 1964,
+            "to_actor": 756,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16772,
+            "from_actor": 1964,
+            "to_actor": 1166,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jacob Ravn",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

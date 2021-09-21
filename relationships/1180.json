@@ -1,0 +1,37 @@
+{
+    "1180": [
+        {
+            "id": 80844,
+            "from_actor": 14730,
+            "to_actor": 1180,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Michael Kock",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133106,
+            "from_actor": 1180,
+            "to_actor": 14734,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Michael Kock",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911714,
+            "from_actor": 1180,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Michael Kock",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

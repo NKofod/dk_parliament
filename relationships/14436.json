@@ -1,0 +1,147 @@
+{
+    "14436": [
+        {
+            "id": 72311,
+            "from_actor": 14431,
+            "to_actor": 14436,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72344,
+            "from_actor": 14445,
+            "to_actor": 14436,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72718,
+            "from_actor": 14457,
+            "to_actor": 14436,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73139,
+            "from_actor": 14478,
+            "to_actor": 14436,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126632,
+            "from_actor": 15629,
+            "to_actor": 14436,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176944,
+            "from_actor": 14436,
+            "to_actor": 14445,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176945,
+            "from_actor": 14436,
+            "to_actor": 14467,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176946,
+            "from_actor": 14436,
+            "to_actor": 14486,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176947,
+            "from_actor": 14436,
+            "to_actor": 15629,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176948,
+            "from_actor": 14436,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176949,
+            "from_actor": 14436,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176950,
+            "from_actor": 14436,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422717,
+            "from_actor": 14436,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

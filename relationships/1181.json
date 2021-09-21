@@ -1,0 +1,147 @@
+{
+    "1181": [
+        {
+            "id": 3812,
+            "from_actor": 22,
+            "to_actor": 1181,
+            "start": "2013-12-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49657,
+            "from_actor": 500,
+            "to_actor": 1181,
+            "start": "2012-10-02",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 50781,
+            "from_actor": 309,
+            "to_actor": 1181,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "By- og Boligudvalget",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51908,
+            "from_actor": 335,
+            "to_actor": 1181,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55657,
+            "from_actor": 5141,
+            "to_actor": 1181,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 123462,
+            "from_actor": 15905,
+            "to_actor": 1181,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127378,
+            "from_actor": 16019,
+            "to_actor": 1181,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Marie Louise Fischer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45011,
+            "from_actor": 1181,
+            "to_actor": 500,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45013,
+            "from_actor": 1181,
+            "to_actor": 309,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "By- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45014,
+            "from_actor": 1181,
+            "to_actor": 335,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 150573,
+            "from_actor": 1181,
+            "to_actor": 5141,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 310567,
+            "from_actor": 1181,
+            "to_actor": 22,
+            "start": "2013-12-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 312924,
+            "from_actor": 1181,
+            "to_actor": 15905,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Marie Louise Fischer",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

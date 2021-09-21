@@ -1,0 +1,70 @@
+{
+    "6638": [
+        {
+            "id": 34808,
+            "from_actor": 807,
+            "to_actor": 6638,
+            "start": "2008-10-01",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Dennis Schnell-Lauritzen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35172,
+            "from_actor": 622,
+            "to_actor": 6638,
+            "start": "2008-10-01",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Dennis Schnell-Lauritzen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 35216,
+            "from_actor": 1390,
+            "to_actor": 6638,
+            "start": "2008-10-01",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Dennis Schnell-Lauritzen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31048,
+            "from_actor": 6638,
+            "to_actor": 1390,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dennis Schnell-Lauritzen",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31049,
+            "from_actor": 6638,
+            "to_actor": 807,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dennis Schnell-Lauritzen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31050,
+            "from_actor": 6638,
+            "to_actor": 622,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Dennis Schnell-Lauritzen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        }
+    ]
+}

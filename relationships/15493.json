@@ -1,0 +1,37 @@
+{
+    "15493": [
+        {
+            "id": 124598,
+            "from_actor": 15489,
+            "to_actor": 15493,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Åge Amstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176751,
+            "from_actor": 15493,
+            "to_actor": 15489,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Åge Amstrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529049,
+            "from_actor": 15493,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Åge Amstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

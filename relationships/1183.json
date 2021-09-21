@@ -1,0 +1,70 @@
+{
+    "1183": [
+        {
+            "id": 23358,
+            "from_actor": 425,
+            "to_actor": 1183,
+            "start": "2006-02-07",
+            "end": "2006-02-13",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Michael Thomsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23698,
+            "from_actor": 1122,
+            "to_actor": 1183,
+            "start": "2006-02-07",
+            "end": "2006-02-13",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Michael Thomsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25272,
+            "from_actor": 943,
+            "to_actor": 1183,
+            "start": "2006-02-08",
+            "end": "2006-02-08",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Michael Thomsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772313,
+            "from_actor": 1183,
+            "to_actor": 425,
+            "start": "2006-02-07",
+            "end": "2006-02-13",
+            "role": "medlem",
+            "from_actor_name": "Michael Thomsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772314,
+            "from_actor": 1183,
+            "to_actor": 1122,
+            "start": "2006-02-07",
+            "end": "2006-02-13",
+            "role": "medlem",
+            "from_actor_name": "Michael Thomsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772315,
+            "from_actor": 1183,
+            "to_actor": 943,
+            "start": "2006-02-08",
+            "end": "2006-02-08",
+            "role": "medlem",
+            "from_actor_name": "Michael Thomsen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

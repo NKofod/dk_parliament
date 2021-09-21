@@ -1,0 +1,26 @@
+{
+    "14307": [
+        {
+            "id": 126770,
+            "from_actor": 14103,
+            "to_actor": 14307,
+            "start": "1977-02-26",
+            "end": "1978-08-30",
+            "role": "Minister",
+            "from_actor_name": "boligministeren",
+            "to_actor_name": "Ove Hove",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21588254,
+            "from_actor": 14307,
+            "to_actor": 14103,
+            "start": "1977-02-26",
+            "end": "1978-08-30",
+            "role": "Minister",
+            "from_actor_name": "Ove Hove",
+            "to_actor_name": "boligministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "9871": [
+        {
+            "id": 79157,
+            "from_actor": 14690,
+            "to_actor": 9871,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Bastholm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21000731,
+            "from_actor": 9871,
+            "to_actor": 14693,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Søren Bastholm",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21000732,
+            "from_actor": 9871,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Søren Bastholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

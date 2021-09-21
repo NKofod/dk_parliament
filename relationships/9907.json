@@ -1,0 +1,59 @@
+{
+    "9907": [
+        {
+            "id": 80838,
+            "from_actor": 14730,
+            "to_actor": 9907,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81863,
+            "from_actor": 14754,
+            "to_actor": 9907,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Lynge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133540,
+            "from_actor": 9907,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Finn Lynge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750635,
+            "from_actor": 9907,
+            "to_actor": 14736,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Finn Lynge",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911708,
+            "from_actor": 9907,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Finn Lynge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "929": [
+        {
+            "id": 1879,
+            "from_actor": 289,
+            "to_actor": 929,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 15035,
+            "from_actor": 612,
+            "to_actor": 929,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39965,
+            "from_actor": 882,
+            "to_actor": 929,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 44817,
+            "from_actor": 883,
+            "to_actor": 929,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 47741,
+            "from_actor": 2090,
+            "to_actor": 929,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 48011,
+            "from_actor": 562,
+            "to_actor": 929,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 50412,
+            "from_actor": 337,
+            "to_actor": 929,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 55855,
+            "from_actor": 13701,
+            "to_actor": 929,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 116757,
+            "from_actor": 15920,
+            "to_actor": 929,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jonna Sandø",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423140,
+            "from_actor": 929,
+            "to_actor": 882,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423141,
+            "from_actor": 929,
+            "to_actor": 612,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423142,
+            "from_actor": 929,
+            "to_actor": 2090,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423143,
+            "from_actor": 929,
+            "to_actor": 13701,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423144,
+            "from_actor": 929,
+            "to_actor": 16934,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423145,
+            "from_actor": 929,
+            "to_actor": 289,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423146,
+            "from_actor": 929,
+            "to_actor": 16067,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423147,
+            "from_actor": 929,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423148,
+            "from_actor": 929,
+            "to_actor": 883,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423149,
+            "from_actor": 929,
+            "to_actor": 337,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 11423150,
+            "from_actor": 929,
+            "to_actor": 562,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Jonna Sandø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "17752": [
+        {
+            "id": 27032397,
+            "from_actor": 17752,
+            "to_actor": 17611,
+            "start": "2017-11-28",
+            "end": "2018-03-03",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Alternativet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27032398,
+            "from_actor": 17752,
+            "to_actor": 17641,
+            "start": "2017-11-28",
+            "end": "2018-03-04",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032399,
+            "from_actor": 17752,
+            "to_actor": 17664,
+            "start": "2017-11-28",
+            "end": "2018-03-04",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032401,
+            "from_actor": 17752,
+            "to_actor": 17655,
+            "start": "2018-02-01",
+            "end": "2018-03-03",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032402,
+            "from_actor": 17752,
+            "to_actor": 17655,
+            "start": "2018-01-05",
+            "end": "2018-01-30",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032403,
+            "from_actor": 17752,
+            "to_actor": 17655,
+            "start": "2017-11-28",
+            "end": "2018-01-02",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032404,
+            "from_actor": 17752,
+            "to_actor": 17643,
+            "start": "2017-12-18",
+            "end": "2017-12-18",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27032406,
+            "from_actor": 17752,
+            "to_actor": 17605,
+            "start": "2017-11-28",
+            "end": "2018-03-03",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27317373,
+            "from_actor": 17752,
+            "to_actor": 17652,
+            "start": "2017-12-15",
+            "end": "2018-03-02",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27317408,
+            "from_actor": 17752,
+            "to_actor": 17652,
+            "start": "2017-12-14",
+            "end": "2017-12-14",
+            "role": "medlem",
+            "from_actor_name": "Anders Stjernholm",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

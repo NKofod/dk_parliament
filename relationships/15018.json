@@ -1,0 +1,180 @@
+{
+    "15018": [
+        {
+            "id": 88578,
+            "from_actor": 14976,
+            "to_actor": 15018,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88914,
+            "from_actor": 15139,
+            "to_actor": 15018,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89186,
+            "from_actor": 15147,
+            "to_actor": 15018,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89355,
+            "from_actor": 15154,
+            "to_actor": 15018,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89721,
+            "from_actor": 15168,
+            "to_actor": 15018,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89911,
+            "from_actor": 15162,
+            "to_actor": 15018,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90266,
+            "from_actor": 15182,
+            "to_actor": 15018,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90637,
+            "from_actor": 15177,
+            "to_actor": 15018,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 109971,
+            "from_actor": 15018,
+            "to_actor": 15139,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109972,
+            "from_actor": 15018,
+            "to_actor": 15154,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109973,
+            "from_actor": 15018,
+            "to_actor": 15168,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109974,
+            "from_actor": 15018,
+            "to_actor": 15182,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525941,
+            "from_actor": 15018,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526126,
+            "from_actor": 15018,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526310,
+            "from_actor": 15018,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526492,
+            "from_actor": 15018,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Johs. Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

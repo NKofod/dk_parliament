@@ -1,0 +1,224 @@
+{
+    "15505": [
+        {
+            "id": 97285,
+            "from_actor": 15523,
+            "to_actor": 15505,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98223,
+            "from_actor": 15533,
+            "to_actor": 15505,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98390,
+            "from_actor": 15550,
+            "to_actor": 15505,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98598,
+            "from_actor": 15557,
+            "to_actor": 15505,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98772,
+            "from_actor": 15563,
+            "to_actor": 15505,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99020,
+            "from_actor": 15574,
+            "to_actor": 15505,
+            "start": "1969-10-07",
+            "end": "1970-05-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99182,
+            "from_actor": 15580,
+            "to_actor": 15505,
+            "start": "1969-10-07",
+            "end": "1979-05-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102180,
+            "from_actor": 15498,
+            "to_actor": 15505,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126206,
+            "from_actor": 15516,
+            "to_actor": 15505,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126298,
+            "from_actor": 15527,
+            "to_actor": 15505,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "A. W. Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529216,
+            "from_actor": 15505,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529403,
+            "from_actor": 15505,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529559,
+            "from_actor": 15505,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529737,
+            "from_actor": 15505,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529993,
+            "from_actor": 15505,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-05-01",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531585,
+            "from_actor": 15505,
+            "to_actor": 15516,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531658,
+            "from_actor": 15505,
+            "to_actor": 15527,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531720,
+            "from_actor": 15505,
+            "to_actor": 15550,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531783,
+            "from_actor": 15505,
+            "to_actor": 15563,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531880,
+            "from_actor": 15505,
+            "to_actor": 15580,
+            "start": "1969-10-07",
+            "end": "1979-05-01",
+            "role": "medlem",
+            "from_actor_name": "A. W. Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "9929": [
+        {
+            "id": 73163,
+            "from_actor": 14478,
+            "to_actor": 9929,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Hav",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130858,
+            "from_actor": 9929,
+            "to_actor": 14494,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Hav",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714625,
+            "from_actor": 9929,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirsten Hav",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

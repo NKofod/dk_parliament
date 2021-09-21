@@ -1,0 +1,169 @@
+{
+    "15273": [
+        {
+            "id": 92241,
+            "from_actor": 15269,
+            "to_actor": 15273,
+            "start": "1960-03-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92372,
+            "from_actor": 15283,
+            "to_actor": 15273,
+            "start": "1960-03-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92605,
+            "from_actor": 15290,
+            "to_actor": 15273,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92736,
+            "from_actor": 15296,
+            "to_actor": 15273,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94034,
+            "from_actor": 15378,
+            "to_actor": 15273,
+            "start": "1962-10-10",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94645,
+            "from_actor": 15390,
+            "to_actor": 15273,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124505,
+            "from_actor": 15397,
+            "to_actor": 15273,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erhardt Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527350,
+            "from_actor": 15273,
+            "to_actor": 15269,
+            "start": "1960-03-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527538,
+            "from_actor": 15273,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528095,
+            "from_actor": 15273,
+            "to_actor": 15372,
+            "start": "1962-10-10",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528291,
+            "from_actor": 15273,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530795,
+            "from_actor": 15273,
+            "to_actor": 15283,
+            "start": "1960-03-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530869,
+            "from_actor": 15273,
+            "to_actor": 15296,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531109,
+            "from_actor": 15273,
+            "to_actor": 15378,
+            "start": "1962-10-10",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531197,
+            "from_actor": 15273,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erhardt Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

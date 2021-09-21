@@ -1,0 +1,114 @@
+{
+    "17247": [
+        {
+            "id": 23045565,
+            "from_actor": 17247,
+            "to_actor": 16884,
+            "start": "2017-03-20",
+            "end": "2017-06-04",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045567,
+            "from_actor": 17247,
+            "to_actor": 16950,
+            "start": "2017-03-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045568,
+            "from_actor": 17247,
+            "to_actor": 16894,
+            "start": "2017-03-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045569,
+            "from_actor": 17247,
+            "to_actor": 16918,
+            "start": "2017-03-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045570,
+            "from_actor": 17247,
+            "to_actor": 16910,
+            "start": "2017-03-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045571,
+            "from_actor": 17247,
+            "to_actor": 16917,
+            "start": "2017-03-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045572,
+            "from_actor": 17247,
+            "to_actor": 16870,
+            "start": "2017-03-21",
+            "end": "2017-04-17",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045573,
+            "from_actor": 17247,
+            "to_actor": 16870,
+            "start": "2017-04-19",
+            "end": "2017-04-19",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045574,
+            "from_actor": 17247,
+            "to_actor": 16870,
+            "start": "2017-04-21",
+            "end": "2017-06-05",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24251817,
+            "from_actor": 17247,
+            "to_actor": 16886,
+            "start": "2017-03-20",
+            "end": "2017-06-04",
+            "role": "medlem",
+            "from_actor_name": "Klaus Markussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

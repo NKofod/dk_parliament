@@ -1,0 +1,37 @@
+{
+    "9926": [
+        {
+            "id": 81858,
+            "from_actor": 14754,
+            "to_actor": 9926,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Tang Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24173402,
+            "from_actor": 9926,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Tang Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24198620,
+            "from_actor": 9926,
+            "to_actor": 14756,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bodil Tang Kristensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

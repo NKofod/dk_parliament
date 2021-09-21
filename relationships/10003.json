@@ -1,0 +1,37 @@
+{
+    "10003": [
+        {
+            "id": 76877,
+            "from_actor": 14617,
+            "to_actor": 10003,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Dahl Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131482,
+            "from_actor": 10003,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bodil Dahl Christensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4715033,
+            "from_actor": 10003,
+            "to_actor": 14619,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Bodil Dahl Christensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

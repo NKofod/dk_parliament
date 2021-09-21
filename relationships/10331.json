@@ -1,0 +1,202 @@
+{
+    "10331": [
+        {
+            "id": 74925,
+            "from_actor": 14084,
+            "to_actor": 10331,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102616,
+            "from_actor": 15660,
+            "to_actor": 10331,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102814,
+            "from_actor": 15699,
+            "to_actor": 10331,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103053,
+            "from_actor": 15712,
+            "to_actor": 10331,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103336,
+            "from_actor": 15721,
+            "to_actor": 10331,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103572,
+            "from_actor": 15732,
+            "to_actor": 10331,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121029,
+            "from_actor": 14082,
+            "to_actor": 10331,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128057,
+            "from_actor": 15682,
+            "to_actor": 10331,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Kirsten Sparre Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589028,
+            "from_actor": 10331,
+            "to_actor": 14084,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589029,
+            "from_actor": 10331,
+            "to_actor": 14264,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589030,
+            "from_actor": 10331,
+            "to_actor": 15682,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589031,
+            "from_actor": 10331,
+            "to_actor": 15712,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589032,
+            "from_actor": 10331,
+            "to_actor": 15732,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17589034,
+            "from_actor": 10331,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17589035,
+            "from_actor": 10331,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17589036,
+            "from_actor": 10331,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17589037,
+            "from_actor": 10331,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25877909,
+            "from_actor": 10331,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Sparre Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

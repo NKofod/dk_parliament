@@ -1,0 +1,26 @@
+{
+    "9784": [
+        {
+            "id": 83590,
+            "from_actor": 14800,
+            "to_actor": 9784,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dorte Dinesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134163,
+            "from_actor": 9784,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Dorte Dinesen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

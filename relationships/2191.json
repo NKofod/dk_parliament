@@ -1,0 +1,70 @@
+{
+    "2191": [
+        {
+            "id": 17948,
+            "from_actor": 1372,
+            "to_actor": 2191,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19831,
+            "from_actor": 1374,
+            "to_actor": 2191,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23899,
+            "from_actor": 1373,
+            "to_actor": 2191,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17965,
+            "from_actor": 2191,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17966,
+            "from_actor": 2191,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17967,
+            "from_actor": 2191,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Christian Brix Møller (udpeget af RV)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

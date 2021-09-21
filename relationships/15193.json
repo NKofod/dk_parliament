@@ -1,0 +1,224 @@
+{
+    "15193": [
+        {
+            "id": 91087,
+            "from_actor": 15190,
+            "to_actor": 15193,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91194,
+            "from_actor": 15225,
+            "to_actor": 15193,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91460,
+            "from_actor": 15231,
+            "to_actor": 15193,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91560,
+            "from_actor": 15241,
+            "to_actor": 15193,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91832,
+            "from_actor": 15251,
+            "to_actor": 15193,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91929,
+            "from_actor": 15262,
+            "to_actor": 15193,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92193,
+            "from_actor": 15269,
+            "to_actor": 15193,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92299,
+            "from_actor": 15281,
+            "to_actor": 15193,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92563,
+            "from_actor": 15290,
+            "to_actor": 15193,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92667,
+            "from_actor": 15294,
+            "to_actor": 15193,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hermod Lannung",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108425,
+            "from_actor": 15193,
+            "to_actor": 15225,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108426,
+            "from_actor": 15193,
+            "to_actor": 15241,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108427,
+            "from_actor": 15193,
+            "to_actor": 15262,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108428,
+            "from_actor": 15193,
+            "to_actor": 15281,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108429,
+            "from_actor": 15193,
+            "to_actor": 15294,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526762,
+            "from_actor": 15193,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526938,
+            "from_actor": 15193,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527120,
+            "from_actor": 15193,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527308,
+            "from_actor": 15193,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527496,
+            "from_actor": 15193,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Hermod Lannung",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

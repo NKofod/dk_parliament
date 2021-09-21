@@ -1,0 +1,48 @@
+{
+    "15370": [
+        {
+            "id": 93708,
+            "from_actor": 15351,
+            "to_actor": 15370,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Johan Bonde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124352,
+            "from_actor": 15361,
+            "to_actor": 15370,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Johan Bonde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545583,
+            "from_actor": 15370,
+            "to_actor": 15361,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Johan Bonde",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527919,
+            "from_actor": 15370,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Johan Bonde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

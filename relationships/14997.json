@@ -1,0 +1,180 @@
+{
+    "14997": [
+        {
+            "id": 88551,
+            "from_actor": 14976,
+            "to_actor": 14997,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88889,
+            "from_actor": 15138,
+            "to_actor": 14997,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89160,
+            "from_actor": 15147,
+            "to_actor": 14997,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89330,
+            "from_actor": 15153,
+            "to_actor": 14997,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89696,
+            "from_actor": 15167,
+            "to_actor": 14997,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89885,
+            "from_actor": 15162,
+            "to_actor": 14997,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90241,
+            "from_actor": 15181,
+            "to_actor": 14997,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90612,
+            "from_actor": 15177,
+            "to_actor": 14997,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Halfdan Hendriksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 107093,
+            "from_actor": 14997,
+            "to_actor": 15138,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107094,
+            "from_actor": 14997,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107095,
+            "from_actor": 14997,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588489,
+            "from_actor": 14997,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525916,
+            "from_actor": 14997,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526101,
+            "from_actor": 14997,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526285,
+            "from_actor": 14997,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526468,
+            "from_actor": 14997,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Halfdan Hendriksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

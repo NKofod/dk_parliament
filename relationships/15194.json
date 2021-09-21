@@ -1,0 +1,92 @@
+{
+    "15194": [
+        {
+            "id": 91088,
+            "from_actor": 15190,
+            "to_actor": 15194,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91148,
+            "from_actor": 15223,
+            "to_actor": 15194,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Helge Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91461,
+            "from_actor": 15231,
+            "to_actor": 15194,
+            "start": "1957-10-01",
+            "end": "1958-08-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Madsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91511,
+            "from_actor": 15239,
+            "to_actor": 15194,
+            "start": "1957-10-01",
+            "end": "1958-08-12",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Helge Madsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107530,
+            "from_actor": 15194,
+            "to_actor": 15239,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Helge Madsen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107531,
+            "from_actor": 15194,
+            "to_actor": 15223,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Helge Madsen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526763,
+            "from_actor": 15194,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Helge Madsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526976,
+            "from_actor": 15194,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-08-12",
+            "role": "medlem",
+            "from_actor_name": "Helge Madsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

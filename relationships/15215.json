@@ -1,0 +1,224 @@
+{
+    "15215": [
+        {
+            "id": 91129,
+            "from_actor": 15190,
+            "to_actor": 15215,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91311,
+            "from_actor": 15229,
+            "to_actor": 15215,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91489,
+            "from_actor": 15231,
+            "to_actor": 15215,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91681,
+            "from_actor": 15246,
+            "to_actor": 15215,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91858,
+            "from_actor": 15251,
+            "to_actor": 15215,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92055,
+            "from_actor": 15267,
+            "to_actor": 15215,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92219,
+            "from_actor": 15269,
+            "to_actor": 15215,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92423,
+            "from_actor": 15287,
+            "to_actor": 15215,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92587,
+            "from_actor": 15290,
+            "to_actor": 15215,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92786,
+            "from_actor": 15300,
+            "to_actor": 15215,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "I. Skov Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108354,
+            "from_actor": 15215,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108355,
+            "from_actor": 15215,
+            "to_actor": 15300,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108356,
+            "from_actor": 15215,
+            "to_actor": 15267,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108357,
+            "from_actor": 15215,
+            "to_actor": 15229,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108358,
+            "from_actor": 15215,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526791,
+            "from_actor": 15215,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526964,
+            "from_actor": 15215,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527146,
+            "from_actor": 15215,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527332,
+            "from_actor": 15215,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527520,
+            "from_actor": 15215,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "I. Skov Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

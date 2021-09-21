@@ -1,0 +1,37 @@
+{
+    "14662": [
+        {
+            "id": 77816,
+            "from_actor": 14649,
+            "to_actor": 14662,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ann-Carina Ingemann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 199798,
+            "from_actor": 14662,
+            "to_actor": 14655,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Ann-Carina Ingemann",
+            "to_actor_name": "Fælles Kurs",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199799,
+            "from_actor": 14662,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Ann-Carina Ingemann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

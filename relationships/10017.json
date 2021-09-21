@@ -1,0 +1,37 @@
+{
+    "10017": [
+        {
+            "id": 98851,
+            "from_actor": 15557,
+            "to_actor": 10017,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126358,
+            "from_actor": 15562,
+            "to_actor": 10017,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Hans Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529805,
+            "from_actor": 10017,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

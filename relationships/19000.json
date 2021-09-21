@@ -1,0 +1,158 @@
+{
+    "19000": [
+        {
+            "id": 27264653,
+            "from_actor": 19000,
+            "to_actor": 19357,
+            "start": "2020-12-15",
+            "end": "2021-08-01",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27264654,
+            "from_actor": 19000,
+            "to_actor": 18891,
+            "start": "2020-01-01",
+            "end": "2020-07-31",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27264655,
+            "from_actor": 19000,
+            "to_actor": 18856,
+            "start": "2020-01-01",
+            "end": "2020-07-31",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27264657,
+            "from_actor": 19000,
+            "to_actor": 18869,
+            "start": "2020-01-02",
+            "end": "2020-09-01",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264661,
+            "from_actor": 19000,
+            "to_actor": 18871,
+            "start": "2020-01-02",
+            "end": "2020-08-24",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264662,
+            "from_actor": 19000,
+            "to_actor": 18876,
+            "start": "2020-06-09",
+            "end": "2020-08-24",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264663,
+            "from_actor": 19000,
+            "to_actor": 18876,
+            "start": "2020-05-19",
+            "end": "2020-06-07",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27264664,
+            "from_actor": 19000,
+            "to_actor": 18876,
+            "start": "2020-01-02",
+            "end": "2020-05-17",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27447718,
+            "from_actor": 19000,
+            "to_actor": 19412,
+            "start": "2020-12-16",
+            "end": "2021-08-29",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27448032,
+            "from_actor": 19000,
+            "to_actor": 19387,
+            "start": "2020-12-15",
+            "end": "2021-08-15",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500249,
+            "from_actor": 19000,
+            "to_actor": 19352,
+            "start": "2020-12-15",
+            "end": "2021-08-01",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27549923,
+            "from_actor": 19000,
+            "to_actor": 19411,
+            "start": "2020-12-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596630,
+            "from_actor": 19000,
+            "to_actor": 19398,
+            "start": "2021-04-07",
+            "end": "2021-04-07",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27596634,
+            "from_actor": 19000,
+            "to_actor": 19398,
+            "start": "2021-05-04",
+            "end": "2021-05-04",
+            "role": "medlem",
+            "from_actor_name": "Theresa Berg Andersen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

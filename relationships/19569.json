@@ -1,0 +1,70 @@
+{
+    "19569": [
+        {
+            "id": 27109691,
+            "from_actor": 19569,
+            "to_actor": 19439,
+            "start": "2021-03-01",
+            "end": "2021-05-01",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27369296,
+            "from_actor": 19569,
+            "to_actor": 19404,
+            "start": "2021-03-01",
+            "end": "2021-05-01",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27396010,
+            "from_actor": 19569,
+            "to_actor": 19354,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27500243,
+            "from_actor": 19569,
+            "to_actor": 19352,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27551044,
+            "from_actor": 19569,
+            "to_actor": 19409,
+            "start": "2021-03-04",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27574387,
+            "from_actor": 19569,
+            "to_actor": 19414,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

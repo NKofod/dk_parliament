@@ -1,0 +1,81 @@
+{
+    "19133": [
+        {
+            "id": 21571970,
+            "from_actor": 19133,
+            "to_actor": 18856,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21628418,
+            "from_actor": 19133,
+            "to_actor": 18889,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21708535,
+            "from_actor": 19133,
+            "to_actor": 18901,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21708778,
+            "from_actor": 19133,
+            "to_actor": 18923,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 23529786,
+            "from_actor": 19133,
+            "to_actor": 18863,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530014,
+            "from_actor": 19133,
+            "to_actor": 18866,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "medlem",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23531081,
+            "from_actor": 19133,
+            "to_actor": 18934,
+            "start": "2020-03-10",
+            "end": "2020-03-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders G. Christensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        }
+    ]
+}

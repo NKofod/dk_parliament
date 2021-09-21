@@ -1,0 +1,26 @@
+{
+    "10072": [
+        {
+            "id": 72512,
+            "from_actor": 14431,
+            "to_actor": 10072,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vilhelm Mølstrøm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130566,
+            "from_actor": 10072,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Vilhelm Mølstrøm",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

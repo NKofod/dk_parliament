@@ -1,0 +1,312 @@
+{
+    "14970": [
+        {
+            "id": 88523,
+            "from_actor": 14976,
+            "to_actor": 14970,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88789,
+            "from_actor": 15134,
+            "to_actor": 14970,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89133,
+            "from_actor": 15147,
+            "to_actor": 14970,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89429,
+            "from_actor": 15156,
+            "to_actor": 14970,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89795,
+            "from_actor": 15170,
+            "to_actor": 14970,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89858,
+            "from_actor": 15162,
+            "to_actor": 14970,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90341,
+            "from_actor": 15184,
+            "to_actor": 14970,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90586,
+            "from_actor": 15177,
+            "to_actor": 14970,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90950,
+            "from_actor": 15190,
+            "to_actor": 14970,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91251,
+            "from_actor": 15227,
+            "to_actor": 14970,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91323,
+            "from_actor": 15231,
+            "to_actor": 14970,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91617,
+            "from_actor": 15243,
+            "to_actor": 14970,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91699,
+            "from_actor": 15251,
+            "to_actor": 14970,
+            "start": "1958-10-07",
+            "end": "1959-04-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Villy Heising",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91986,
+            "from_actor": 15264,
+            "to_actor": 14970,
+            "start": "1958-10-07",
+            "end": "1959-04-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Villy Heising",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525889,
+            "from_actor": 14970,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526074,
+            "from_actor": 14970,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526258,
+            "from_actor": 14970,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526442,
+            "from_actor": 14970,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526626,
+            "from_actor": 14970,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526806,
+            "from_actor": 14970,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527172,
+            "from_actor": 14970,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-04-11",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530273,
+            "from_actor": 14970,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530348,
+            "from_actor": 14970,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530425,
+            "from_actor": 14970,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530501,
+            "from_actor": 14970,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530567,
+            "from_actor": 14970,
+            "to_actor": 15227,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530637,
+            "from_actor": 14970,
+            "to_actor": 15243,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530726,
+            "from_actor": 14970,
+            "to_actor": 15264,
+            "start": "1958-10-07",
+            "end": "1959-04-11",
+            "role": "medlem",
+            "from_actor_name": "Villy Heising",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

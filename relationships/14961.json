@@ -1,0 +1,213 @@
+{
+    "14961": [
+        {
+            "id": 88514,
+            "from_actor": 14976,
+            "to_actor": 14961,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88749,
+            "from_actor": 15134,
+            "to_actor": 14961,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89124,
+            "from_actor": 15147,
+            "to_actor": 14961,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89391,
+            "from_actor": 15156,
+            "to_actor": 14961,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89757,
+            "from_actor": 15170,
+            "to_actor": 14961,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89850,
+            "from_actor": 15162,
+            "to_actor": 14961,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90303,
+            "from_actor": 15184,
+            "to_actor": 14961,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90578,
+            "from_actor": 15177,
+            "to_actor": 14961,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johs. Kjærbøl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914099,
+            "from_actor": 14961,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914100,
+            "from_actor": 14961,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914101,
+            "from_actor": 14961,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914102,
+            "from_actor": 14961,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22914103,
+            "from_actor": 14961,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914104,
+            "from_actor": 14961,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914105,
+            "from_actor": 14961,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914106,
+            "from_actor": 14961,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22914107,
+            "from_actor": 14961,
+            "to_actor": 16160,
+            "start": "1955-08-30",
+            "end": "1957-05-28",
+            "role": "Minister",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "boligministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 22914108,
+            "from_actor": 14961,
+            "to_actor": 16164,
+            "start": "1953-09-30",
+            "end": "1955-08-30",
+            "role": "Minister",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "indenrigs- og boligministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 22914109,
+            "from_actor": 14961,
+            "to_actor": 16166,
+            "start": "1955-08-30",
+            "end": "1957-05-28",
+            "role": "Minister",
+            "from_actor_name": "Johs. Kjærbøl",
+            "to_actor_name": "ministeren for Grønland",
+            "type": "Ministertitel"
+        }
+    ]
+}

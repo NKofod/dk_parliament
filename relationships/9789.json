@@ -1,0 +1,213 @@
+{
+    "9789": [
+        {
+            "id": 82408,
+            "from_actor": 14776,
+            "to_actor": 9789,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten - De Rød-Grønne",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82576,
+            "from_actor": 14778,
+            "to_actor": 9789,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82636,
+            "from_actor": 14782,
+            "to_actor": 9789,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten - De Rød-Grønne",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82956,
+            "from_actor": 14789,
+            "to_actor": 9789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83018,
+            "from_actor": 14793,
+            "to_actor": 9789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83382,
+            "from_actor": 14800,
+            "to_actor": 9789,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83452,
+            "from_actor": 14805,
+            "to_actor": 9789,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83776,
+            "from_actor": 14811,
+            "to_actor": 9789,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83847,
+            "from_actor": 14818,
+            "to_actor": 9789,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Bent Hindrup Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320455,
+            "from_actor": 9789,
+            "to_actor": 14776,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Enhedslisten - De Rød-Grønne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320456,
+            "from_actor": 9789,
+            "to_actor": 14782,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Enhedslisten - De Rød-Grønne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320457,
+            "from_actor": 9789,
+            "to_actor": 14793,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320458,
+            "from_actor": 9789,
+            "to_actor": 14805,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320459,
+            "from_actor": 9789,
+            "to_actor": 14818,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4320460,
+            "from_actor": 9789,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4320461,
+            "from_actor": 9789,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4320462,
+            "from_actor": 9789,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4320463,
+            "from_actor": 9789,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4320464,
+            "from_actor": 9789,
+            "to_actor": 14764,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Hindrup Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "6701": [
+        {
+            "id": 31310,
+            "from_actor": 842,
+            "to_actor": 6701,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 33637,
+            "from_actor": 528,
+            "to_actor": 6701,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34844,
+            "from_actor": 843,
+            "to_actor": 6701,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37685,
+            "from_actor": 232,
+            "to_actor": 6701,
+            "start": "2008-10-07",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 38054,
+            "from_actor": 577,
+            "to_actor": 6701,
+            "start": "2008-10-07",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 38387,
+            "from_actor": 1020,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38529,
+            "from_actor": 844,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38579,
+            "from_actor": 845,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38603,
+            "from_actor": 764,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38957,
+            "from_actor": 487,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2008-10-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39145,
+            "from_actor": 527,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39255,
+            "from_actor": 824,
+            "to_actor": 6701,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Kenneth F. Christensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803519,
+            "from_actor": 6701,
+            "to_actor": 577,
+            "start": "2008-10-07",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803520,
+            "from_actor": 6701,
+            "to_actor": 842,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803521,
+            "from_actor": 6701,
+            "to_actor": 844,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803522,
+            "from_actor": 6701,
+            "to_actor": 843,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803523,
+            "from_actor": 6701,
+            "to_actor": 845,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803524,
+            "from_actor": 6701,
+            "to_actor": 764,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803525,
+            "from_actor": 6701,
+            "to_actor": 528,
+            "start": "2008-10-07",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803526,
+            "from_actor": 6701,
+            "to_actor": 527,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803528,
+            "from_actor": 6701,
+            "to_actor": 824,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803529,
+            "from_actor": 6701,
+            "to_actor": 1020,
+            "start": "2008-10-08",
+            "end": "2009-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803530,
+            "from_actor": 6701,
+            "to_actor": 487,
+            "start": "2008-10-08",
+            "end": "2008-10-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24070704,
+            "from_actor": 6701,
+            "to_actor": 232,
+            "start": "2008-10-07",
+            "end": "2009-03-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth F. Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

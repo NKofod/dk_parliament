@@ -1,0 +1,114 @@
+{
+    "1612": [
+        {
+            "id": 80846,
+            "from_actor": 14730,
+            "to_actor": 1612,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vibeke Grønbæk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81084,
+            "from_actor": 14746,
+            "to_actor": 1612,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Vibeke Grønbæk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81431,
+            "from_actor": 14742,
+            "to_actor": 1612,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vibeke Grønbæk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81654,
+            "from_actor": 14754,
+            "to_actor": 1612,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Vibeke Grønbæk",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81710,
+            "from_actor": 14757,
+            "to_actor": 1612,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Vibeke Grønbæk",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132823,
+            "from_actor": 1612,
+            "to_actor": 14708,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Grønbæk",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133095,
+            "from_actor": 1612,
+            "to_actor": 14733,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Grønbæk",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133262,
+            "from_actor": 1612,
+            "to_actor": 14746,
+            "start": "1993-02-02",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Grønbæk",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133450,
+            "from_actor": 1612,
+            "to_actor": 14757,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Grønbæk",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911716,
+            "from_actor": 1612,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Vibeke Grønbæk",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

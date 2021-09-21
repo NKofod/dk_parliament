@@ -1,0 +1,48 @@
+{
+    "15178": [
+        {
+            "id": 90349,
+            "from_actor": 15184,
+            "to_actor": 15178,
+            "start": "1956-12-05",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Alfred Kristensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90751,
+            "from_actor": 15177,
+            "to_actor": 15178,
+            "start": "1956-12-05",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Kristensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526606,
+            "from_actor": 15178,
+            "to_actor": 15177,
+            "start": "1956-12-05",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alfred Kristensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530509,
+            "from_actor": 15178,
+            "to_actor": 15184,
+            "start": "1956-12-05",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Alfred Kristensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

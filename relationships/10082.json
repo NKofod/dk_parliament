@@ -1,0 +1,37 @@
+{
+    "10082": [
+        {
+            "id": 71725,
+            "from_actor": 14387,
+            "to_actor": 10082,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Nellemann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856029,
+            "from_actor": 10082,
+            "to_actor": 14394,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Finn Nellemann",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856030,
+            "from_actor": 10082,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Finn Nellemann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

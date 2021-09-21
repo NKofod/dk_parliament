@@ -1,0 +1,26 @@
+{
+    "15740": [
+        {
+            "id": 136399,
+            "from_actor": 15740,
+            "to_actor": 16163,
+            "start": "1966-09-21",
+            "end": "1967-10-01",
+            "role": "Minister",
+            "from_actor_name": "Tyge Dahlgaard",
+            "to_actor_name": "handelsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 136429,
+            "from_actor": 15740,
+            "to_actor": 16170,
+            "start": "1966-09-21",
+            "end": "1967-10-01",
+            "role": "Minister",
+            "from_actor_name": "Tyge Dahlgaard",
+            "to_actor_name": "ministeren for udenrigsøkonomi, europæiske markedsanliggender samt nordiske anl.",
+            "type": "Ministertitel"
+        }
+    ]
+}

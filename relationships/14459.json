@@ -1,0 +1,37 @@
+{
+    "14459": [
+        {
+            "id": 72752,
+            "from_actor": 14457,
+            "to_actor": 14459,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Munksø",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126850,
+            "from_actor": 14459,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Munksø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130654,
+            "from_actor": 14459,
+            "to_actor": 14469,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Poul Munksø",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "1115": [
+        {
+            "id": 15539,
+            "from_actor": 752,
+            "to_actor": 1115,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16017,
+            "from_actor": 898,
+            "to_actor": 1115,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16077,
+            "from_actor": 979,
+            "to_actor": 1115,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16147,
+            "from_actor": 516,
+            "to_actor": 1115,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16348,
+            "from_actor": 729,
+            "to_actor": 1115,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27605,
+            "from_actor": 423,
+            "to_actor": 1115,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87479,
+            "from_actor": 14917,
+            "to_actor": 1115,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87692,
+            "from_actor": 14926,
+            "to_actor": 1115,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87841,
+            "from_actor": 14931,
+            "to_actor": 1115,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88057,
+            "from_actor": 14943,
+            "to_actor": 1115,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88281,
+            "from_actor": 14957,
+            "to_actor": 1115,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88432,
+            "from_actor": 14259,
+            "to_actor": 1115,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Pedersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705950,
+            "from_actor": 1115,
+            "to_actor": 729,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705952,
+            "from_actor": 1115,
+            "to_actor": 516,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705953,
+            "from_actor": 1115,
+            "to_actor": 979,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705954,
+            "from_actor": 1115,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705955,
+            "from_actor": 1115,
+            "to_actor": 14943,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705956,
+            "from_actor": 1115,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22705957,
+            "from_actor": 1115,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705958,
+            "from_actor": 1115,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705959,
+            "from_actor": 1115,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22705960,
+            "from_actor": 1115,
+            "to_actor": 752,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "næstformand",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22705961,
+            "from_actor": 1115,
+            "to_actor": 898,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367252,
+            "from_actor": 1115,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Marianne Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

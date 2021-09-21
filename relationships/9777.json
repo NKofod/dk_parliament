@@ -1,0 +1,37 @@
+{
+    "9777": [
+        {
+            "id": 85835,
+            "from_actor": 14855,
+            "to_actor": 9777,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Kirkelund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8890827,
+            "from_actor": 9777,
+            "to_actor": 14857,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Arne Kirkelund",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8890828,
+            "from_actor": 9777,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Arne Kirkelund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

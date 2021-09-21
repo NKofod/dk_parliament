@@ -1,0 +1,48 @@
+{
+    "15734": [
+        {
+            "id": 103616,
+            "from_actor": 15721,
+            "to_actor": 15734,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128228,
+            "from_actor": 15726,
+            "to_actor": 15734,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Erik Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158739,
+            "from_actor": 15734,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Erik Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235314,
+            "from_actor": 15734,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

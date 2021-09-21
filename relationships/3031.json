@@ -1,0 +1,48 @@
+{
+    "3031": [
+        {
+            "id": 34526,
+            "from_actor": 819,
+            "to_actor": 3031,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Torben Peter Mikkelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36688,
+            "from_actor": 818,
+            "to_actor": 3031,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Torben Peter Mikkelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18231,
+            "from_actor": 3031,
+            "to_actor": 818,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Torben Peter Mikkelsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18232,
+            "from_actor": 3031,
+            "to_actor": 819,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Torben Peter Mikkelsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "5474": [
+        {
+            "id": 28563,
+            "from_actor": 1046,
+            "to_actor": 5474,
+            "start": "2007-01-02",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Lisa Goth",
+            "type": "Udvalg"
+        },
+        {
+            "id": 62063,
+            "from_actor": 743,
+            "to_actor": 5474,
+            "start": "2007-01-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Lisa Goth",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36878,
+            "from_actor": 5474,
+            "to_actor": 1046,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lisa Goth",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36879,
+            "from_actor": 5474,
+            "to_actor": 743,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lisa Goth",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

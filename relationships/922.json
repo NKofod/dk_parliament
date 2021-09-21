@@ -1,0 +1,147 @@
+{
+    "922": [
+        {
+            "id": 3814,
+            "from_actor": 22,
+            "to_actor": 922,
+            "start": "2014-02-04",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9081,
+            "from_actor": 283,
+            "to_actor": 922,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 74306,
+            "from_actor": 5166,
+            "to_actor": 922,
+            "start": "2015-03-29",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelses- og Forskningsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 114117,
+            "from_actor": 5161,
+            "to_actor": 922,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115714,
+            "from_actor": 15909,
+            "to_actor": 922,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelses- og Forskningsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 116020,
+            "from_actor": 15899,
+            "to_actor": 922,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127316,
+            "from_actor": 16017,
+            "to_actor": 922,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127447,
+            "from_actor": 16021,
+            "to_actor": 922,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Uddannelses- og Forskningsudvalget",
+            "to_actor_name": "Malene Maxe Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53590,
+            "from_actor": 922,
+            "to_actor": 5161,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Malene Maxe Petersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53591,
+            "from_actor": 922,
+            "to_actor": 283,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Malene Maxe Petersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 130472,
+            "from_actor": 922,
+            "to_actor": 15909,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Malene Maxe Petersen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 136104,
+            "from_actor": 922,
+            "to_actor": 15899,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Malene Maxe Petersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 588114,
+            "from_actor": 922,
+            "to_actor": 5166,
+            "start": "2015-03-29",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Malene Maxe Petersen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

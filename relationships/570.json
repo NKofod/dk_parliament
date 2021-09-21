@@ -1,0 +1,26 @@
+{
+    "570": [
+        {
+            "id": 72750,
+            "from_actor": 14457,
+            "to_actor": 570,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Edith Holm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130657,
+            "from_actor": 570,
+            "to_actor": 14470,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Edith Holm",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "15588": [
+        {
+            "id": 99286,
+            "from_actor": 15574,
+            "to_actor": 15588,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126513,
+            "from_actor": 15579,
+            "to_actor": 15588,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Johannes Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176835,
+            "from_actor": 15588,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Johannes Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530000,
+            "from_actor": 15588,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Johannes Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

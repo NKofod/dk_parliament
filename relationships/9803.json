@@ -1,0 +1,48 @@
+{
+    "9803": [
+        {
+            "id": 81461,
+            "from_actor": 14742,
+            "to_actor": 9803,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erling Hugger Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81862,
+            "from_actor": 14754,
+            "to_actor": 9803,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erling Hugger Jakobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133538,
+            "from_actor": 9803,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Erling Hugger Jakobsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750717,
+            "from_actor": 9803,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erling Hugger Jakobsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

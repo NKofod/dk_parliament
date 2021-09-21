@@ -1,0 +1,37 @@
+{
+    "14461": [
+        {
+            "id": 72760,
+            "from_actor": 14457,
+            "to_actor": 14461,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjørn Pavstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158939,
+            "from_actor": 14461,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Bjørn Pavstrup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158940,
+            "from_actor": 14461,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Bjørn Pavstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

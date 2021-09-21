@@ -1,0 +1,48 @@
+{
+    "15408": [
+        {
+            "id": 94663,
+            "from_actor": 15390,
+            "to_actor": 15408,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "K. Karbech Mouritzen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124512,
+            "from_actor": 15397,
+            "to_actor": 15408,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "K. Karbech Mouritzen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528311,
+            "from_actor": 15408,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "K. Karbech Mouritzen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531202,
+            "from_actor": 15408,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "K. Karbech Mouritzen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

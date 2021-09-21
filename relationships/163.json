@@ -1,0 +1,92 @@
+{
+    "163": [
+        {
+            "id": 27617377,
+            "from_actor": 163,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27619109,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2021-05-12",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619111,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2021-04-21",
+            "end": "2021-05-10",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619112,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2021-03-24",
+            "end": "2021-04-19",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619114,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-02-01",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619116,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2021-02-03",
+            "end": "2021-02-22",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619118,
+            "from_actor": 163,
+            "to_actor": 19392,
+            "start": "2021-02-24",
+            "end": "2021-03-22",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619281,
+            "from_actor": 163,
+            "to_actor": 19438,
+            "start": "2020-10-07",
+            "end": "2020-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ellen Trane Nørby",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "10000": [
+        {
+            "id": 71720,
+            "from_actor": 14387,
+            "to_actor": 10000,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl-Einar Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103612,
+            "from_actor": 15721,
+            "to_actor": 10000,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl-Einar Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128271,
+            "from_actor": 15728,
+            "to_actor": 10000,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Carl-Einar Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855938,
+            "from_actor": 10000,
+            "to_actor": 15728,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Carl-Einar Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855939,
+            "from_actor": 10000,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Carl-Einar Jørgensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855940,
+            "from_actor": 10000,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl-Einar Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855941,
+            "from_actor": 10000,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Carl-Einar Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

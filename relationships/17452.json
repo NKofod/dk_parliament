@@ -1,0 +1,26 @@
+{
+    "17452": [
+        {
+            "id": 10304344,
+            "from_actor": 17452,
+            "to_actor": 15865,
+            "start": "2017-06-01",
+            "end": "2018-07-31",
+            "role": "medlem",
+            "from_actor_name": "Turid Leirvoll (udpeget af SF)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        },
+        {
+            "id": 27574432,
+            "from_actor": 17452,
+            "to_actor": 18286,
+            "start": "2018-09-06",
+            "end": "2022-09-05",
+            "role": "medlem",
+            "from_actor_name": "Turid Leirvoll (udpeget af SF)",
+            "to_actor_name": "Bestyrelsen for Dansk Institut for Partier og Demokrati (DIPD)",
+            "type": "Kommission"
+        }
+    ]
+}

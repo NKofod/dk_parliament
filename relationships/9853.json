@@ -1,0 +1,37 @@
+{
+    "9853": [
+        {
+            "id": 85391,
+            "from_actor": 14841,
+            "to_actor": 9853,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23324183,
+            "from_actor": 9853,
+            "to_actor": 14847,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christian Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23324184,
+            "from_actor": 9853,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

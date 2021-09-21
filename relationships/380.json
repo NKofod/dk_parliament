@@ -1,0 +1,268 @@
+{
+    "380": [
+        {
+            "id": 50,
+            "from_actor": 6,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 300,
+            "from_actor": 146,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 403,
+            "from_actor": 26,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 920,
+            "from_actor": 170,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1848,
+            "from_actor": 289,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-09",
+            "role": "medlem",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Kommission"
+        },
+        {
+            "id": 2493,
+            "from_actor": 267,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Ligestillingsudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3403,
+            "from_actor": 9,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5375,
+            "from_actor": 51,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5417,
+            "from_actor": 10,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Grønlandsudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5915,
+            "from_actor": 15,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9609,
+            "from_actor": 290,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Færøudvalget",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53169,
+            "from_actor": 599,
+            "to_actor": 380,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Rasmus Lynghøj",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 53484,
+            "from_actor": 380,
+            "to_actor": 267,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53485,
+            "from_actor": 380,
+            "to_actor": 290,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53486,
+            "from_actor": 380,
+            "to_actor": 10,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53487,
+            "from_actor": 380,
+            "to_actor": 289,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 53488,
+            "from_actor": 380,
+            "to_actor": 15,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53490,
+            "from_actor": 380,
+            "to_actor": 170,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53492,
+            "from_actor": 380,
+            "to_actor": 146,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 312077,
+            "from_actor": 380,
+            "to_actor": 6,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 314318,
+            "from_actor": 380,
+            "to_actor": 9,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 315306,
+            "from_actor": 380,
+            "to_actor": 599,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 316222,
+            "from_actor": 380,
+            "to_actor": 51,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26392938,
+            "from_actor": 380,
+            "to_actor": 26,
+            "start": "2013-10-23",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Lynghøj",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "9765": [
+        {
+            "id": 73908,
+            "from_actor": 14495,
+            "to_actor": 9765,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Ottesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130923,
+            "from_actor": 9765,
+            "to_actor": 14517,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Ottesen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

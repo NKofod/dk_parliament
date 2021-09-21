@@ -1,0 +1,92 @@
+{
+    "9931": [
+        {
+            "id": 121179,
+            "from_actor": 14082,
+            "to_actor": 9931,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126653,
+            "from_actor": 15631,
+            "to_actor": 9931,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ib Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128364,
+            "from_actor": 14083,
+            "to_actor": 9931,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Ib Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9435929,
+            "from_actor": 9931,
+            "to_actor": 14083,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ib Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9435932,
+            "from_actor": 9931,
+            "to_actor": 15815,
+            "start": "1973-09-27",
+            "end": "1973-12-19",
+            "role": "Minister",
+            "from_actor_name": "Ib Frederiksen",
+            "to_actor_name": "landbrugs- og fiskeriministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 9435933,
+            "from_actor": 9931,
+            "to_actor": 15816,
+            "start": "1971-10-11",
+            "end": "1973-09-27",
+            "role": "Minister",
+            "from_actor_name": "Ib Frederiksen",
+            "to_actor_name": "landbrugsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 9435934,
+            "from_actor": 9931,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Ib Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422790,
+            "from_actor": 9931,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ib Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

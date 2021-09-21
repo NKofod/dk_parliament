@@ -1,0 +1,279 @@
+{
+    "9910": [
+        {
+            "id": 98256,
+            "from_actor": 15533,
+            "to_actor": 9910,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98346,
+            "from_actor": 15549,
+            "to_actor": 9910,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98619,
+            "from_actor": 15557,
+            "to_actor": 9910,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98717,
+            "from_actor": 15562,
+            "to_actor": 9910,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99041,
+            "from_actor": 15574,
+            "to_actor": 9910,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99140,
+            "from_actor": 15579,
+            "to_actor": 9910,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99435,
+            "from_actor": 15591,
+            "to_actor": 9910,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99539,
+            "from_actor": 15598,
+            "to_actor": 9910,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100294,
+            "from_actor": 15609,
+            "to_actor": 9910,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100552,
+            "from_actor": 15630,
+            "to_actor": 9910,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100652,
+            "from_actor": 15628,
+            "to_actor": 9910,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101024,
+            "from_actor": 15639,
+            "to_actor": 9910,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101163,
+            "from_actor": 15641,
+            "to_actor": 9910,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101545,
+            "from_actor": 15651,
+            "to_actor": 9910,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101642,
+            "from_actor": 15649,
+            "to_actor": 9910,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven Skovmand",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131607,
+            "from_actor": 9910,
+            "to_actor": 14587,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4678162,
+            "from_actor": 9910,
+            "to_actor": 15630,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131474,
+            "from_actor": 9910,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422225,
+            "from_actor": 9910,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422419,
+            "from_actor": 9910,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422614,
+            "from_actor": 9910,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529580,
+            "from_actor": 9910,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529758,
+            "from_actor": 9910,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529950,
+            "from_actor": 9910,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530146,
+            "from_actor": 9910,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Sven Skovmand",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

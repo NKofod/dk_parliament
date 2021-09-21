@@ -1,0 +1,37 @@
+{
+    "15946": [
+        {
+            "id": 118715,
+            "from_actor": 15942,
+            "to_actor": 15946,
+            "start": "2015-01-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet ikke gyldig",
+            "to_actor_name": "Knud Munksgaard (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 118730,
+            "from_actor": 15874,
+            "to_actor": 15946,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Knud Munksgaard (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 2754100,
+            "from_actor": 15946,
+            "to_actor": 15874,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Munksgaard (udpeget af RV)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

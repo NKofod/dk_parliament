@@ -1,0 +1,37 @@
+{
+    "1415": [
+        {
+            "id": 79153,
+            "from_actor": 14690,
+            "to_actor": 1415,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Hvid Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132503,
+            "from_actor": 1415,
+            "to_actor": 14681,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Peter Hvid Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132659,
+            "from_actor": 1415,
+            "to_actor": 14695,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Peter Hvid Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

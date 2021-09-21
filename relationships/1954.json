@@ -1,0 +1,70 @@
+{
+    "1954": [
+        {
+            "id": 52338,
+            "from_actor": 412,
+            "to_actor": 1954,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Louise Juul",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52459,
+            "from_actor": 312,
+            "to_actor": 1954,
+            "start": "2012-11-01",
+            "end": "2013-06-30",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Louise Juul",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53386,
+            "from_actor": 377,
+            "to_actor": 1954,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Louise Juul",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37041,
+            "from_actor": 1954,
+            "to_actor": 377,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Louise Juul",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37042,
+            "from_actor": 1954,
+            "to_actor": 412,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Louise Juul",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 638469,
+            "from_actor": 1954,
+            "to_actor": 312,
+            "start": "2012-11-01",
+            "end": "2013-06-30",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Louise Juul",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

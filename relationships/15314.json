@@ -1,0 +1,246 @@
+{
+    "15314": [
+        {
+            "id": 93118,
+            "from_actor": 15303,
+            "to_actor": 15314,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93269,
+            "from_actor": 15343,
+            "to_actor": 15314,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93482,
+            "from_actor": 15351,
+            "to_actor": 15314,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93637,
+            "from_actor": 15358,
+            "to_actor": 15314,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94025,
+            "from_actor": 15378,
+            "to_actor": 15314,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94606,
+            "from_actor": 15390,
+            "to_actor": 15314,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95399,
+            "from_actor": 15452,
+            "to_actor": 15314,
+            "start": "1964-10-06",
+            "end": "1965-03-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95578,
+            "from_actor": 15457,
+            "to_actor": 15314,
+            "start": "1964-10-06",
+            "end": "1965-03-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124491,
+            "from_actor": 15397,
+            "to_actor": 15314,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Hans Larsen (Bjerre)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21100316,
+            "from_actor": 15314,
+            "to_actor": 15810,
+            "start": "1964-09-26",
+            "end": "1964-10-08",
+            "role": "Minister",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "fiskeriministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21527690,
+            "from_actor": 15314,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527871,
+            "from_actor": 15314,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528056,
+            "from_actor": 15314,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528252,
+            "from_actor": 15314,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528417,
+            "from_actor": 15314,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528670,
+            "from_actor": 15314,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-03-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530944,
+            "from_actor": 15314,
+            "to_actor": 15343,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531021,
+            "from_actor": 15314,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531100,
+            "from_actor": 15314,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531183,
+            "from_actor": 15314,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531259,
+            "from_actor": 15314,
+            "to_actor": 15444,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531363,
+            "from_actor": 15314,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-03-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Larsen (Bjerre)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

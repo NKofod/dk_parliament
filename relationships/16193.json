@@ -1,0 +1,26 @@
+{
+    "16193": [
+        {
+            "id": 22363278,
+            "from_actor": 16193,
+            "to_actor": 15527,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Hans Tabor",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22363279,
+            "from_actor": 16193,
+            "to_actor": 29,
+            "start": "1967-10-01",
+            "end": "1968-02-02",
+            "role": "Minister",
+            "from_actor_name": "Hans Tabor",
+            "to_actor_name": "udenrigsministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

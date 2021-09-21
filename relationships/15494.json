@@ -1,0 +1,70 @@
+{
+    "15494": [
+        {
+            "id": 124581,
+            "from_actor": 15485,
+            "to_actor": 15494,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "A. Fuglsang-Damgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126244,
+            "from_actor": 15524,
+            "to_actor": 15494,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "A. Fuglsang-Damgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158804,
+            "from_actor": 15494,
+            "to_actor": 15524,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "A. Fuglsang-Damgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158805,
+            "from_actor": 15494,
+            "to_actor": 15485,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "A. Fuglsang-Damgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529053,
+            "from_actor": 15494,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "stedfortræder",
+            "from_actor_name": "A. Fuglsang-Damgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529428,
+            "from_actor": 15494,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "stedfortræder",
+            "from_actor_name": "A. Fuglsang-Damgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

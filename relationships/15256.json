@@ -1,0 +1,136 @@
+{
+    "15256": [
+        {
+            "id": 91898,
+            "from_actor": 15251,
+            "to_actor": 15256,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92054,
+            "from_actor": 15267,
+            "to_actor": 15256,
+            "start": "1959-09-02",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92234,
+            "from_actor": 15269,
+            "to_actor": 15256,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92422,
+            "from_actor": 15287,
+            "to_actor": 15256,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92607,
+            "from_actor": 15290,
+            "to_actor": 15256,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92785,
+            "from_actor": 15300,
+            "to_actor": 15256,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "C. Melchior Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5568414,
+            "from_actor": 15256,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5568415,
+            "from_actor": 15256,
+            "to_actor": 15300,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5568416,
+            "from_actor": 15256,
+            "to_actor": 15267,
+            "start": "1959-09-02",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527161,
+            "from_actor": 15256,
+            "to_actor": 15251,
+            "start": "1959-09-02",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527352,
+            "from_actor": 15256,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527540,
+            "from_actor": 15256,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "C. Melchior Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

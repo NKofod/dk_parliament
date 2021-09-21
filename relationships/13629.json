@@ -1,0 +1,125 @@
+{
+    "13629": [
+        {
+            "id": 53613,
+            "from_actor": 19,
+            "to_actor": 13629,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Maria Ulff Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55291,
+            "from_actor": 13691,
+            "to_actor": 13629,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Maria Ulff Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55309,
+            "from_actor": 13693,
+            "to_actor": 13629,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalgets Underudvalg",
+            "to_actor_name": "Maria Ulff Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 113754,
+            "from_actor": 15877,
+            "to_actor": 13629,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Maria Ulff Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 63968,
+            "from_actor": 13629,
+            "to_actor": 13693,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 63969,
+            "from_actor": 13629,
+            "to_actor": 13691,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 63970,
+            "from_actor": 13629,
+            "to_actor": 19,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 130581,
+            "from_actor": 13629,
+            "to_actor": 15877,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 135700,
+            "from_actor": 13629,
+            "to_actor": 16062,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1259492,
+            "from_actor": 13629,
+            "to_actor": 16063,
+            "start": "2015-10-07",
+            "end": "2015-12-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1709326,
+            "from_actor": 13629,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2015-12-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Maria Ulff Møller",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

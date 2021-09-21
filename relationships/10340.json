@@ -1,0 +1,92 @@
+{
+    "10340": [
+        {
+            "id": 73880,
+            "from_actor": 14495,
+            "to_actor": 10340,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Kindberg Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74278,
+            "from_actor": 14523,
+            "to_actor": 10340,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Kindberg Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74690,
+            "from_actor": 14546,
+            "to_actor": 10340,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Kindberg Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74751,
+            "from_actor": 14550,
+            "to_actor": 10340,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Grethe Kindberg Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130866,
+            "from_actor": 10340,
+            "to_actor": 14511,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Grethe Kindberg Jørgensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130955,
+            "from_actor": 10340,
+            "to_actor": 14532,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Grethe Kindberg Jørgensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131178,
+            "from_actor": 10340,
+            "to_actor": 14550,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Grethe Kindberg Jørgensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714932,
+            "from_actor": 10340,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Grethe Kindberg Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

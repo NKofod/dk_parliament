@@ -1,0 +1,81 @@
+{
+    "24": [
+        {
+            "id": 27617410,
+            "from_actor": 24,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27619262,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-12-09",
+            "end": "2020-12-09",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619264,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-12-07",
+            "end": "2020-12-07",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619266,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-12-04",
+            "end": "2020-12-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619271,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-11-16",
+            "end": "2020-11-21",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619299,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-12-11",
+            "end": "2020-12-11",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619302,
+            "from_actor": 24,
+            "to_actor": 19438,
+            "start": "2020-12-01",
+            "end": "2020-12-01",
+            "role": "medlem",
+            "from_actor_name": "Karsten Lauritzen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

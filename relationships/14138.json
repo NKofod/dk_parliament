@@ -1,0 +1,114 @@
+{
+    "14138": [
+        {
+            "id": 74926,
+            "from_actor": 14084,
+            "to_actor": 14138,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Jacobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103388,
+            "from_actor": 15721,
+            "to_actor": 14138,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103592,
+            "from_actor": 15732,
+            "to_actor": 14138,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Jacobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121030,
+            "from_actor": 14082,
+            "to_actor": 14138,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492843,
+            "from_actor": 14138,
+            "to_actor": 14264,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492844,
+            "from_actor": 14138,
+            "to_actor": 15732,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696672,
+            "from_actor": 14138,
+            "to_actor": 14084,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235267,
+            "from_actor": 14138,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235378,
+            "from_actor": 14138,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25877910,
+            "from_actor": 14138,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

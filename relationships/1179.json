@@ -1,0 +1,81 @@
+{
+    "1179": [
+        {
+            "id": 83179,
+            "from_actor": 14789,
+            "to_actor": 1179,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Michael Gammelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85399,
+            "from_actor": 14841,
+            "to_actor": 1179,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Michael Gammelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86788,
+            "from_actor": 14872,
+            "to_actor": 1179,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Michael Gammelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133867,
+            "from_actor": 1179,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Michael Gammelgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135083,
+            "from_actor": 1179,
+            "to_actor": 14883,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Michael Gammelgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588452,
+            "from_actor": 1179,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Michael Gammelgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893245,
+            "from_actor": 1179,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Michael Gammelgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

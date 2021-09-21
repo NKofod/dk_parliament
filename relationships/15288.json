@@ -1,0 +1,48 @@
+{
+    "15288": [
+        {
+            "id": 92429,
+            "from_actor": 15269,
+            "to_actor": 15288,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Clausen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124303,
+            "from_actor": 15287,
+            "to_actor": 15288,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Helge Clausen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13629767,
+            "from_actor": 15288,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Helge Clausen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527363,
+            "from_actor": 15288,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Helge Clausen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

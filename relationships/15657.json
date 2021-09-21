@@ -1,0 +1,48 @@
+{
+    "15657": [
+        {
+            "id": 101858,
+            "from_actor": 15649,
+            "to_actor": 15657,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Arpe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 116137,
+            "from_actor": 15652,
+            "to_actor": 15657,
+            "start": "1973-10-04",
+            "end": "1973-10-30",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Arpe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422320,
+            "from_actor": 15657,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Arpe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422941,
+            "from_actor": 15657,
+            "to_actor": 15652,
+            "start": "1973-10-04",
+            "end": "1973-10-30",
+            "role": "medlem",
+            "from_actor_name": "Svend Arpe",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

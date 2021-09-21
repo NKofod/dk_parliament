@@ -1,0 +1,180 @@
+{
+    "15321": [
+        {
+            "id": 93127,
+            "from_actor": 15303,
+            "to_actor": 15321,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93319,
+            "from_actor": 15346,
+            "to_actor": 15321,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93491,
+            "from_actor": 15351,
+            "to_actor": 15321,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93687,
+            "from_actor": 15361,
+            "to_actor": 15321,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94082,
+            "from_actor": 15381,
+            "to_actor": 15321,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94462,
+            "from_actor": 15400,
+            "to_actor": 15321,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94615,
+            "from_actor": 15390,
+            "to_actor": 15321,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127088,
+            "from_actor": 15656,
+            "to_actor": 15321,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Peter Dalsgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109307,
+            "from_actor": 15321,
+            "to_actor": 15346,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109308,
+            "from_actor": 15321,
+            "to_actor": 15361,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109309,
+            "from_actor": 15321,
+            "to_actor": 15381,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 109310,
+            "from_actor": 15321,
+            "to_actor": 15400,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527699,
+            "from_actor": 15321,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527880,
+            "from_actor": 15321,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528065,
+            "from_actor": 15321,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528261,
+            "from_actor": 15321,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Jens Peter Dalsgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

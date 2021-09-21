@@ -1,0 +1,26 @@
+{
+    "9979": [
+        {
+            "id": 88071,
+            "from_actor": 14931,
+            "to_actor": 9979,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kenneth Lambrecht",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135383,
+            "from_actor": 9979,
+            "to_actor": 14932,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Lambrecht",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

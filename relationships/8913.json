@@ -1,0 +1,48 @@
+{
+    "8913": [
+        {
+            "id": 37390,
+            "from_actor": 607,
+            "to_actor": 8913,
+            "start": "2008-06-01",
+            "end": "2008-12-12",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 39887,
+            "from_actor": 608,
+            "to_actor": 8913,
+            "start": "2008-06-01",
+            "end": "2008-12-12",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Iris Madsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859615,
+            "from_actor": 8913,
+            "to_actor": 608,
+            "start": "2008-06-01",
+            "end": "2008-12-12",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859650,
+            "from_actor": 8913,
+            "to_actor": 607,
+            "start": "2008-06-01",
+            "end": "2008-12-12",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Iris Madsen",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        }
+    ]
+}

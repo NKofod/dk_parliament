@@ -1,0 +1,37 @@
+{
+    "9984": [
+        {
+            "id": 86771,
+            "from_actor": 14872,
+            "to_actor": 9984,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annette Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135004,
+            "from_actor": 9984,
+            "to_actor": 14878,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Annette Jørgensen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588435,
+            "from_actor": 9984,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Annette Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

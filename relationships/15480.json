@@ -1,0 +1,48 @@
+{
+    "15480": [
+        {
+            "id": 96030,
+            "from_actor": 15467,
+            "to_actor": 15480,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Chr. Nybo Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124573,
+            "from_actor": 15476,
+            "to_actor": 15480,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Chr. Nybo Jacobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158977,
+            "from_actor": 15480,
+            "to_actor": 15476,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Chr. Nybo Jacobsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528864,
+            "from_actor": 15480,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Chr. Nybo Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

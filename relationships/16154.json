@@ -1,0 +1,59 @@
+{
+    "16154": [
+        {
+            "id": 15443633,
+            "from_actor": 16154,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christine Margit Løvig Sidenius",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15443635,
+            "from_actor": 16154,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christine Margit Løvig Sidenius",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15443636,
+            "from_actor": 16154,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christine Margit Løvig Sidenius",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15443637,
+            "from_actor": 16154,
+            "to_actor": 16061,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christine Margit Løvig Sidenius",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957012,
+            "from_actor": 16154,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Christine Margit Løvig Sidenius",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

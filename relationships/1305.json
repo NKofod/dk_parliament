@@ -1,0 +1,70 @@
+{
+    "1305": [
+        {
+            "id": 83610,
+            "from_actor": 14800,
+            "to_actor": 1305,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nina Berrig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88075,
+            "from_actor": 14931,
+            "to_actor": 1305,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nina Berrig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12957760,
+            "from_actor": 1305,
+            "to_actor": 14933,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Nina Berrig",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12957761,
+            "from_actor": 1305,
+            "to_actor": 14803,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Nina Berrig",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 12957762,
+            "from_actor": 1305,
+            "to_actor": 14931,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Nina Berrig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 12957763,
+            "from_actor": 1305,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Nina Berrig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

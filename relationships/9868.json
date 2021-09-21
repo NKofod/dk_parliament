@@ -1,0 +1,59 @@
+{
+    "9868": [
+        {
+            "id": 82795,
+            "from_actor": 14778,
+            "to_actor": 9868,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Espersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83175,
+            "from_actor": 14789,
+            "to_actor": 9868,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Espersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83605,
+            "from_actor": 14800,
+            "to_actor": 9868,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Espersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133866,
+            "from_actor": 9868,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Espersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134164,
+            "from_actor": 9868,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Espersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

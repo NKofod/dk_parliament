@@ -1,0 +1,59 @@
+{
+    "643": [
+        {
+            "id": 990,
+            "from_actor": 19,
+            "to_actor": 643,
+            "start": "2014-07-01",
+            "end": "2014-12-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Stina Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55297,
+            "from_actor": 13691,
+            "to_actor": 643,
+            "start": "2014-10-08",
+            "end": "2014-11-17",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Stina Jørgensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64060,
+            "from_actor": 643,
+            "to_actor": 13691,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Stina Jørgensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64061,
+            "from_actor": 643,
+            "to_actor": 19,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Stina Jørgensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 131169,
+            "from_actor": 643,
+            "to_actor": 15877,
+            "start": "2015-10-01",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Stina Jørgensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

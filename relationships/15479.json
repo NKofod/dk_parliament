@@ -1,0 +1,48 @@
+{
+    "15479": [
+        {
+            "id": 96029,
+            "from_actor": 15467,
+            "to_actor": 15479,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "V. E. Borch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124562,
+            "from_actor": 15472,
+            "to_actor": 15479,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "V. E. Borch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528863,
+            "from_actor": 15479,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "V. E. Borch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531447,
+            "from_actor": 15479,
+            "to_actor": 15472,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "V. E. Borch",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

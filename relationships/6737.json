@@ -1,0 +1,92 @@
+{
+    "6737": [
+        {
+            "id": 22803115,
+            "from_actor": 6737,
+            "to_actor": 16053,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803117,
+            "from_actor": 6737,
+            "to_actor": 16035,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803118,
+            "from_actor": 6737,
+            "to_actor": 16032,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803119,
+            "from_actor": 6737,
+            "to_actor": 16027,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803120,
+            "from_actor": 6737,
+            "to_actor": 16031,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803121,
+            "from_actor": 6737,
+            "to_actor": 16036,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Transport- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803122,
+            "from_actor": 6737,
+            "to_actor": 564,
+            "start": "2000-12-21",
+            "end": "2001-11-27",
+            "role": "Minister",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "kirkeministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 27617344,
+            "from_actor": 6737,
+            "to_actor": 16060,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "medlem",
+            "from_actor_name": "Johannes Lebech",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

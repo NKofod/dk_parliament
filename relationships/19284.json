@@ -1,0 +1,48 @@
+{
+    "19284": [
+        {
+            "id": 23529467,
+            "from_actor": 19284,
+            "to_actor": 18884,
+            "start": "2020-08-24",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Sofie Heje Fuglsang",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530698,
+            "from_actor": 19284,
+            "to_actor": 18878,
+            "start": "2020-08-24",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Sofie Heje Fuglsang",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27526598,
+            "from_actor": 19284,
+            "to_actor": 19386,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Sofie Heje Fuglsang",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27619163,
+            "from_actor": 19284,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-04-21",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Sofie Heje Fuglsang",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

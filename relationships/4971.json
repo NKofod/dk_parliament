@@ -1,0 +1,169 @@
+{
+    "4971": [
+        {
+            "id": 31058,
+            "from_actor": 428,
+            "to_actor": 4971,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31752,
+            "from_actor": 1259,
+            "to_actor": 4971,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32910,
+            "from_actor": 437,
+            "to_actor": 4971,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "stedfortræder",
+            "from_actor_name": "OSCEs parlamentariske Forsamling",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 34872,
+            "from_actor": 1242,
+            "to_actor": 4971,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41135,
+            "from_actor": 472,
+            "to_actor": 4971,
+            "start": "2009-10-29",
+            "end": "2009-11-18",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41535,
+            "from_actor": 775,
+            "to_actor": 4971,
+            "start": "2009-10-29",
+            "end": "2009-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84959,
+            "from_actor": 429,
+            "to_actor": 4971,
+            "start": "2009-10-28",
+            "end": "2009-11-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jane Alrø Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22803271,
+            "from_actor": 4971,
+            "to_actor": 1259,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803272,
+            "from_actor": 4971,
+            "to_actor": 428,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22803273,
+            "from_actor": 4971,
+            "to_actor": 1242,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803274,
+            "from_actor": 4971,
+            "to_actor": 472,
+            "start": "2009-10-29",
+            "end": "2009-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803275,
+            "from_actor": 4971,
+            "to_actor": 1163,
+            "start": "2009-10-28",
+            "end": "2009-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803277,
+            "from_actor": 4971,
+            "to_actor": 437,
+            "start": "2008-04-13",
+            "end": "2008-04-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "OSCEs parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 22803278,
+            "from_actor": 4971,
+            "to_actor": 775,
+            "start": "2009-10-29",
+            "end": "2009-11-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23916242,
+            "from_actor": 4971,
+            "to_actor": 429,
+            "start": "2009-10-28",
+            "end": "2009-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jane Alrø Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

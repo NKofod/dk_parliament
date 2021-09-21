@@ -1,0 +1,70 @@
+{
+    "18917": [
+        {
+            "id": 23072447,
+            "from_actor": 18917,
+            "to_actor": 18891,
+            "start": "2019-10-30",
+            "end": "2019-11-15",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072451,
+            "from_actor": 18917,
+            "to_actor": 18856,
+            "start": "2019-10-30",
+            "end": "2019-11-15",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23529395,
+            "from_actor": 18917,
+            "to_actor": 18860,
+            "start": "2019-10-30",
+            "end": "2019-11-15",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529438,
+            "from_actor": 18917,
+            "to_actor": 18884,
+            "start": "2019-10-30",
+            "end": "2019-11-15",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529965,
+            "from_actor": 18917,
+            "to_actor": 18873,
+            "start": "2019-10-30",
+            "end": "2019-11-14",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530782,
+            "from_actor": 18917,
+            "to_actor": 18879,
+            "start": "2019-10-30",
+            "end": "2019-11-15",
+            "role": "medlem",
+            "from_actor_name": "Balder Mørk Andersen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

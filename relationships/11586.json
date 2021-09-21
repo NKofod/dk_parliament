@@ -1,0 +1,158 @@
+{
+    "11586": [
+        {
+            "id": 42585,
+            "from_actor": 368,
+            "to_actor": 11586,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 43307,
+            "from_actor": 1088,
+            "to_actor": 11586,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 43610,
+            "from_actor": 848,
+            "to_actor": 11586,
+            "start": "2010-11-05",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44010,
+            "from_actor": 894,
+            "to_actor": 11586,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44295,
+            "from_actor": 1022,
+            "to_actor": 11586,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44409,
+            "from_actor": 526,
+            "to_actor": 11586,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44792,
+            "from_actor": 883,
+            "to_actor": 11586,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Bilal Inekci",
+            "type": "Kommission"
+        },
+        {
+            "id": 22882587,
+            "from_actor": 11586,
+            "to_actor": 1088,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882588,
+            "from_actor": 11586,
+            "to_actor": 848,
+            "start": "2010-11-05",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882589,
+            "from_actor": 11586,
+            "to_actor": 1022,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882590,
+            "from_actor": 11586,
+            "to_actor": 883,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "medlem",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22882591,
+            "from_actor": 11586,
+            "to_actor": 368,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882592,
+            "from_actor": 11586,
+            "to_actor": 526,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882593,
+            "from_actor": 11586,
+            "to_actor": 894,
+            "start": "2010-11-01",
+            "end": "2010-11-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Bilal Inekci",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

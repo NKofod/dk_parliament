@@ -1,0 +1,70 @@
+{
+    "14435": [
+        {
+            "id": 72312,
+            "from_actor": 14431,
+            "to_actor": 14435,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72719,
+            "from_actor": 14457,
+            "to_actor": 14435,
+            "start": "1980-10-07",
+            "end": "1981-01-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aage Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176781,
+            "from_actor": 14435,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Aage Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176782,
+            "from_actor": 14435,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Aage Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176783,
+            "from_actor": 14435,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Aage Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5176784,
+            "from_actor": 14435,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-01-01",
+            "role": "medlem",
+            "from_actor_name": "Aage Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

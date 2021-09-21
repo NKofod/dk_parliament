@@ -1,0 +1,37 @@
+{
+    "14509": [
+        {
+            "id": 73914,
+            "from_actor": 14495,
+            "to_actor": 14509,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henning Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125240,
+            "from_actor": 14509,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Henning Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130885,
+            "from_actor": 14509,
+            "to_actor": 14515,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henning Rasmussen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

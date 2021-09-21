@@ -1,0 +1,37 @@
+{
+    "14483": [
+        {
+            "id": 73162,
+            "from_actor": 14478,
+            "to_actor": 14483,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Verner Christiansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130832,
+            "from_actor": 14483,
+            "to_actor": 14491,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Verner Christiansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714624,
+            "from_actor": 14483,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Verner Christiansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

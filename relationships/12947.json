@@ -1,0 +1,70 @@
+{
+    "12947": [
+        {
+            "id": 51469,
+            "from_actor": 326,
+            "to_actor": 12947,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Christina Diekhöner Harbeck",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65229,
+            "from_actor": 5165,
+            "to_actor": 12947,
+            "start": "2014-11-04",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Christina Diekhöner Harbeck",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128178,
+            "from_actor": 16027,
+            "to_actor": 12947,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Social- og Indenrigsudvalget",
+            "to_actor_name": "Christina Diekhöner Harbeck",
+            "type": "Udvalg"
+        },
+        {
+            "id": 176375,
+            "from_actor": 12947,
+            "to_actor": 5165,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Christina Diekhöner Harbeck",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 176376,
+            "from_actor": 12947,
+            "to_actor": 326,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Christina Diekhöner Harbeck",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2234657,
+            "from_actor": 12947,
+            "to_actor": 15886,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Christina Diekhöner Harbeck",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

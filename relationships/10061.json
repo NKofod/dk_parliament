@@ -1,0 +1,81 @@
+{
+    "10061": [
+        {
+            "id": 96031,
+            "from_actor": 15467,
+            "to_actor": 10061,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Erik Særkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124574,
+            "from_actor": 15476,
+            "to_actor": 10061,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Knud Erik Særkjær",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124606,
+            "from_actor": 15492,
+            "to_actor": 10061,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Knud Erik Særkjær",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1658188,
+            "from_actor": 10061,
+            "to_actor": 15492,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Knud Erik Særkjær",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1658189,
+            "from_actor": 10061,
+            "to_actor": 15476,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Erik Særkjær",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528865,
+            "from_actor": 10061,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Erik Særkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529054,
+            "from_actor": 10061,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Erik Særkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

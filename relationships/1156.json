@@ -1,0 +1,37 @@
+{
+    "1156": [
+        {
+            "id": 85398,
+            "from_actor": 14841,
+            "to_actor": 1156,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Merete Behrndt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 907694,
+            "from_actor": 1156,
+            "to_actor": 14847,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Merete Behrndt",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 907695,
+            "from_actor": 1156,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Merete Behrndt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

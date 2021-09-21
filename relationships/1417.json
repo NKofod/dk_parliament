@@ -1,0 +1,224 @@
+{
+    "1417": [
+        {
+            "id": 14941,
+            "from_actor": 984,
+            "to_actor": 1417,
+            "start": "2004-11-11",
+            "end": "2004-11-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14969,
+            "from_actor": 800,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15061,
+            "from_actor": 612,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15352,
+            "from_actor": 857,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Pia Boisen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15450,
+            "from_actor": 513,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15512,
+            "from_actor": 1041,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15642,
+            "from_actor": 736,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15813,
+            "from_actor": 514,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16234,
+            "from_actor": 459,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Pia Boisen",
+            "type": "Kommission"
+        },
+        {
+            "id": 27674,
+            "from_actor": 423,
+            "to_actor": 1417,
+            "start": "2004-10-18",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pia Boisen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22738718,
+            "from_actor": 1417,
+            "to_actor": 857,
+            "start": "2004-10-18",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22738720,
+            "from_actor": 1417,
+            "to_actor": 800,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738721,
+            "from_actor": 1417,
+            "to_actor": 1041,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738722,
+            "from_actor": 1417,
+            "to_actor": 513,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738723,
+            "from_actor": 1417,
+            "to_actor": 459,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 22738724,
+            "from_actor": 1417,
+            "to_actor": 736,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738725,
+            "from_actor": 1417,
+            "to_actor": 984,
+            "start": "2004-11-11",
+            "end": "2004-11-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738726,
+            "from_actor": 1417,
+            "to_actor": 514,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22738727,
+            "from_actor": 1417,
+            "to_actor": 612,
+            "start": "2004-10-18",
+            "end": "2004-11-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367321,
+            "from_actor": 1417,
+            "to_actor": 423,
+            "start": "2004-10-18",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Pia Boisen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

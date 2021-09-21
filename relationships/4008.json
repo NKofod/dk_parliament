@@ -1,0 +1,224 @@
+{
+    "4008": [
+        {
+            "id": 23773,
+            "from_actor": 696,
+            "to_actor": 4008,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 30330,
+            "from_actor": 698,
+            "to_actor": 4008,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 33472,
+            "from_actor": 699,
+            "to_actor": 4008,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 36371,
+            "from_actor": 697,
+            "to_actor": 4008,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 37778,
+            "from_actor": 700,
+            "to_actor": 4008,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 40185,
+            "from_actor": 701,
+            "to_actor": 4008,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 42957,
+            "from_actor": 702,
+            "to_actor": 4008,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 48873,
+            "from_actor": 703,
+            "to_actor": 4008,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 48903,
+            "from_actor": 705,
+            "to_actor": 4008,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 50259,
+            "from_actor": 704,
+            "to_actor": 4008,
+            "start": "2010-10-05",
+            "end": "2013-10-01",
+            "role": "formand",
+            "from_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "to_actor_name": "Kalistat Lund",
+            "type": "Kommission"
+        },
+        {
+            "id": 24186,
+            "from_actor": 4008,
+            "to_actor": 696,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24187,
+            "from_actor": 4008,
+            "to_actor": 697,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24188,
+            "from_actor": 4008,
+            "to_actor": 698,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24189,
+            "from_actor": 4008,
+            "to_actor": 699,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24190,
+            "from_actor": 4008,
+            "to_actor": 700,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24191,
+            "from_actor": 4008,
+            "to_actor": 701,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24192,
+            "from_actor": 4008,
+            "to_actor": 702,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24193,
+            "from_actor": 4008,
+            "to_actor": 703,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24194,
+            "from_actor": 4008,
+            "to_actor": 704,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        },
+        {
+            "id": 24195,
+            "from_actor": 4008,
+            "to_actor": 705,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "formand",
+            "from_actor_name": "Kalistat Lund",
+            "to_actor_name": "Kommissionen om øget grønlandsk selvstyre",
+            "type": "Kommission"
+        }
+    ]
+}

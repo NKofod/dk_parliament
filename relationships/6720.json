@@ -1,0 +1,70 @@
+{
+    "6720": [
+        {
+            "id": 32879,
+            "from_actor": 1212,
+            "to_actor": 6720,
+            "start": "2008-01-08",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Manu Sareen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37465,
+            "from_actor": 1213,
+            "to_actor": 6720,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Manu Sareen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40211,
+            "from_actor": 1214,
+            "to_actor": 6720,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Manu Sareen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36510,
+            "from_actor": 6720,
+            "to_actor": 1212,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 36511,
+            "from_actor": 6720,
+            "to_actor": 1213,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 36512,
+            "from_actor": 6720,
+            "to_actor": 1214,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Manu Sareen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

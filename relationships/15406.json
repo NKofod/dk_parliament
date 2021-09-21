@@ -1,0 +1,48 @@
+{
+    "15406": [
+        {
+            "id": 94659,
+            "from_actor": 15390,
+            "to_actor": 15406,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Mølbjerg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124514,
+            "from_actor": 15398,
+            "to_actor": 15406,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Lis Mølbjerg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131315,
+            "from_actor": 15406,
+            "to_actor": 15398,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Lis Mølbjerg",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528307,
+            "from_actor": 15406,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Lis Mølbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

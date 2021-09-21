@@ -1,0 +1,48 @@
+{
+    "10094": [
+        {
+            "id": 79579,
+            "from_actor": 14704,
+            "to_actor": 10094,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Adolf Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81450,
+            "from_actor": 14742,
+            "to_actor": 10094,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Arne Adolf Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132828,
+            "from_actor": 10094,
+            "to_actor": 14711,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Arne Adolf Nielsen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 14670725,
+            "from_actor": 10094,
+            "to_actor": 14748,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Arne Adolf Nielsen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "2169": [
+        {
+            "id": 17785,
+            "from_actor": 1780,
+            "to_actor": 2169,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Ulla Runge (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19873,
+            "from_actor": 1781,
+            "to_actor": 2169,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Ulla Runge (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 24130,
+            "from_actor": 1782,
+            "to_actor": 2169,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Ulla Runge (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30122,
+            "from_actor": 1783,
+            "to_actor": 2169,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Ulla Runge (Udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17776,
+            "from_actor": 2169,
+            "to_actor": 1780,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Runge (Udpeget af SF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17777,
+            "from_actor": 2169,
+            "to_actor": 1781,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Runge (Udpeget af SF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17778,
+            "from_actor": 2169,
+            "to_actor": 1782,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Runge (Udpeget af SF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 17779,
+            "from_actor": 2169,
+            "to_actor": 1783,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Ulla Runge (Udpeget af SF)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

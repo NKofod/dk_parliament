@@ -1,0 +1,224 @@
+{
+    "4016": [
+        {
+            "id": 24088,
+            "from_actor": 1796,
+            "to_actor": 4016,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 29712,
+            "from_actor": 1797,
+            "to_actor": 4016,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30748,
+            "from_actor": 1798,
+            "to_actor": 4016,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33451,
+            "from_actor": 1799,
+            "to_actor": 4016,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37886,
+            "from_actor": 1800,
+            "to_actor": 4016,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40196,
+            "from_actor": 1801,
+            "to_actor": 4016,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42960,
+            "from_actor": 1802,
+            "to_actor": 4016,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 48812,
+            "from_actor": 1205,
+            "to_actor": 4016,
+            "start": "2005-06-01",
+            "end": "2009-05-31",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 48845,
+            "from_actor": 1803,
+            "to_actor": 4016,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50278,
+            "from_actor": 1206,
+            "to_actor": 4016,
+            "start": "2005-06-01",
+            "end": "2009-05-31",
+            "role": "medlem",
+            "from_actor_name": "Kulturfonden Danmark-Grønland",
+            "to_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30296,
+            "from_actor": 4016,
+            "to_actor": 1796,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30297,
+            "from_actor": 4016,
+            "to_actor": 1797,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30298,
+            "from_actor": 4016,
+            "to_actor": 1798,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30299,
+            "from_actor": 4016,
+            "to_actor": 1799,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30300,
+            "from_actor": 4016,
+            "to_actor": 1800,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30301,
+            "from_actor": 4016,
+            "to_actor": 1801,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30302,
+            "from_actor": 4016,
+            "to_actor": 1802,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30303,
+            "from_actor": 4016,
+            "to_actor": 1803,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30304,
+            "from_actor": 4016,
+            "to_actor": 1205,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        },
+        {
+            "id": 30305,
+            "from_actor": 4016,
+            "to_actor": 1206,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vestergaard (udpeget af V)",
+            "to_actor_name": "Kulturfonden Danmark-Grønland",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "10335": [
+        {
+            "id": 88069,
+            "from_actor": 14931,
+            "to_actor": 10335,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Bastholm",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 7149392,
+            "from_actor": 10335,
+            "to_actor": 14943,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Bastholm",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 7149393,
+            "from_actor": 10335,
+            "to_actor": 14931,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Bastholm",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

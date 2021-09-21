@@ -1,0 +1,81 @@
+{
+    "9839": [
+        {
+            "id": 80836,
+            "from_actor": 14730,
+            "to_actor": 9839,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Charlotte Enevoldsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81457,
+            "from_actor": 14742,
+            "to_actor": 9839,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Charlotte Enevoldsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81859,
+            "from_actor": 14754,
+            "to_actor": 9839,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Charlotte Enevoldsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133228,
+            "from_actor": 9839,
+            "to_actor": 14744,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Enevoldsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133414,
+            "from_actor": 9839,
+            "to_actor": 14755,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Enevoldsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911706,
+            "from_actor": 9839,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Charlotte Enevoldsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4911732,
+            "from_actor": 9839,
+            "to_actor": 14731,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Enevoldsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

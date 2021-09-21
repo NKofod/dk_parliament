@@ -1,0 +1,312 @@
+{
+    "1739": [
+        {
+            "id": 15008,
+            "from_actor": 612,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15517,
+            "from_actor": 752,
+            "to_actor": 1739,
+            "start": "2004-10-06",
+            "end": "2004-12-08",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15518,
+            "from_actor": 752,
+            "to_actor": 1739,
+            "start": "2004-12-10",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16013,
+            "from_actor": 898,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16122,
+            "from_actor": 492,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16314,
+            "from_actor": 729,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16867,
+            "from_actor": 535,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Kommission"
+        },
+        {
+            "id": 27513,
+            "from_actor": 423,
+            "to_actor": 1739,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87483,
+            "from_actor": 14917,
+            "to_actor": 1739,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87678,
+            "from_actor": 14926,
+            "to_actor": 1739,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87845,
+            "from_actor": 14931,
+            "to_actor": 1739,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88044,
+            "from_actor": 14943,
+            "to_actor": 1739,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88269,
+            "from_actor": 14957,
+            "to_actor": 1739,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88390,
+            "from_actor": 14259,
+            "to_actor": 1739,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thor Gunnar Kofoed",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22619937,
+            "from_actor": 1739,
+            "to_actor": 729,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22619939,
+            "from_actor": 1739,
+            "to_actor": 752,
+            "start": "2004-10-06",
+            "end": "2004-12-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22619940,
+            "from_actor": 1739,
+            "to_actor": 752,
+            "start": "2004-12-10",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22619941,
+            "from_actor": 1739,
+            "to_actor": 535,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22619942,
+            "from_actor": 1739,
+            "to_actor": 492,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22619943,
+            "from_actor": 1739,
+            "to_actor": 612,
+            "start": "2004-10-06",
+            "end": "2004-11-21",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22619944,
+            "from_actor": 1739,
+            "to_actor": 14943,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22619945,
+            "from_actor": 1739,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22619946,
+            "from_actor": 1739,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22619947,
+            "from_actor": 1739,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22619948,
+            "from_actor": 1739,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22619949,
+            "from_actor": 1739,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22619950,
+            "from_actor": 1739,
+            "to_actor": 898,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367160,
+            "from_actor": 1739,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Thor Gunnar Kofoed",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

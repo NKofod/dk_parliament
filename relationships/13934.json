@@ -1,0 +1,37 @@
+{
+    "13934": [
+        {
+            "id": 112459,
+            "from_actor": 13652,
+            "to_actor": 13934,
+            "start": "2014-07-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "to_actor_name": "Dennis Nørmark (udpeget af LA)",
+            "type": "Kommission"
+        },
+        {
+            "id": 2234878,
+            "from_actor": 13934,
+            "to_actor": 15872,
+            "start": "2015-01-01",
+            "end": "2018-12-31",
+            "role": "medlem",
+            "from_actor_name": "Dennis Nørmark (udpeget af LA)",
+            "to_actor_name": "Danmarks Radios bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 10304338,
+            "from_actor": 13934,
+            "to_actor": 15865,
+            "start": "2014-07-01",
+            "end": "2018-06-30",
+            "role": "medlem",
+            "from_actor_name": "Dennis Nørmark (udpeget af LA)",
+            "to_actor_name": "Bestyrelsen for Institut for Flerpartisamarbejde",
+            "type": "Kommission"
+        }
+    ]
+}

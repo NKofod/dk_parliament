@@ -1,0 +1,246 @@
+{
+    "1824": [
+        {
+            "id": 15845,
+            "from_actor": 795,
+            "to_actor": 1824,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Anders Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16054,
+            "from_actor": 713,
+            "to_actor": 1824,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Anders Møller",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16374,
+            "from_actor": 1825,
+            "to_actor": 1824,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Anders Møller",
+            "to_actor_name": "Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16887,
+            "from_actor": 535,
+            "to_actor": 1824,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Anders Møller",
+            "type": "Kommission"
+        },
+        {
+            "id": 27609,
+            "from_actor": 423,
+            "to_actor": 1824,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87480,
+            "from_actor": 14917,
+            "to_actor": 1824,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87689,
+            "from_actor": 14926,
+            "to_actor": 1824,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87842,
+            "from_actor": 14931,
+            "to_actor": 1824,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88054,
+            "from_actor": 14943,
+            "to_actor": 1824,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88234,
+            "from_actor": 14956,
+            "to_actor": 1824,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Anders Møller",
+            "to_actor_name": "Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88421,
+            "from_actor": 14259,
+            "to_actor": 1824,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706286,
+            "from_actor": 1824,
+            "to_actor": 1825,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Uden for folketingsgrupperne - Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706288,
+            "from_actor": 1824,
+            "to_actor": 14956,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Uden for folketingsgrupperne - Anders Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706289,
+            "from_actor": 1824,
+            "to_actor": 14943,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706290,
+            "from_actor": 1824,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706291,
+            "from_actor": 1824,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706292,
+            "from_actor": 1824,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706293,
+            "from_actor": 1824,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706294,
+            "from_actor": 1824,
+            "to_actor": 795,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22706295,
+            "from_actor": 1824,
+            "to_actor": 713,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22706296,
+            "from_actor": 1824,
+            "to_actor": 535,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 26367256,
+            "from_actor": 1824,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "10052": [
+        {
+            "id": 71703,
+            "from_actor": 14387,
+            "to_actor": 10052,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Keld Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856008,
+            "from_actor": 10052,
+            "to_actor": 14404,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Keld Larsen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856009,
+            "from_actor": 10052,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Keld Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

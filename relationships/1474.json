@@ -1,0 +1,114 @@
+{
+    "1474": [
+        {
+            "id": 23354,
+            "from_actor": 425,
+            "to_actor": 1474,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sidsel Leth Svensson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23457,
+            "from_actor": 886,
+            "to_actor": 1474,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Sidsel Leth Svensson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23661,
+            "from_actor": 780,
+            "to_actor": 1474,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Sidsel Leth Svensson",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24303,
+            "from_actor": 1079,
+            "to_actor": 1474,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Sidsel Leth Svensson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24819,
+            "from_actor": 591,
+            "to_actor": 1474,
+            "start": "2006-05-15",
+            "end": "2006-05-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Sidsel Leth Svensson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772316,
+            "from_actor": 1474,
+            "to_actor": 425,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Leth Svensson",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22772317,
+            "from_actor": 1474,
+            "to_actor": 780,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Leth Svensson",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772318,
+            "from_actor": 1474,
+            "to_actor": 1079,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Leth Svensson",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772319,
+            "from_actor": 1474,
+            "to_actor": 886,
+            "start": "2006-05-15",
+            "end": "2006-05-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Leth Svensson",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772320,
+            "from_actor": 1474,
+            "to_actor": 591,
+            "start": "2006-05-15",
+            "end": "2006-05-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Leth Svensson",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

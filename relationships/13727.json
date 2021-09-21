@@ -1,0 +1,180 @@
+{
+    "13727": [
+        {
+            "id": 64918,
+            "from_actor": 13635,
+            "to_actor": 13727,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 65281,
+            "from_actor": 5143,
+            "to_actor": 13727,
+            "start": "2014-11-04",
+            "end": "2014-11-04",
+            "role": "medlem",
+            "from_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65318,
+            "from_actor": 5141,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65350,
+            "from_actor": 5168,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Landdistrikter og Øer",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65351,
+            "from_actor": 5134,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65352,
+            "from_actor": 5169,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Småøer",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65353,
+            "from_actor": 13708,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 68016,
+            "from_actor": 5160,
+            "to_actor": 13727,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Udvalg"
+        },
+        {
+            "id": 103857,
+            "from_actor": 13643,
+            "to_actor": 13727,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Sarah Nørris",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 150522,
+            "from_actor": 13727,
+            "to_actor": 5141,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 313033,
+            "from_actor": 13727,
+            "to_actor": 13635,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 313330,
+            "from_actor": 13727,
+            "to_actor": 13643,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 315969,
+            "from_actor": 13727,
+            "to_actor": 13708,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 317607,
+            "from_actor": 13727,
+            "to_actor": 5168,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 587872,
+            "from_actor": 13727,
+            "to_actor": 5143,
+            "start": "2014-11-04",
+            "end": "2014-11-04",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5657764,
+            "from_actor": 13727,
+            "to_actor": 5160,
+            "start": "2014-10-21",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Sarah Nørris",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

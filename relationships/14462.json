@@ -1,0 +1,48 @@
+{
+    "14462": [
+        {
+            "id": 72763,
+            "from_actor": 14457,
+            "to_actor": 14462,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Margit Rønnow",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72956,
+            "from_actor": 14465,
+            "to_actor": 14462,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Margit Rønnow",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125758,
+            "from_actor": 14462,
+            "to_actor": 14465,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Margit Rønnow",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125759,
+            "from_actor": 14462,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Margit Rønnow",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

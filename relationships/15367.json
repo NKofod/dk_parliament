@@ -1,0 +1,48 @@
+{
+    "15367": [
+        {
+            "id": 93703,
+            "from_actor": 15351,
+            "to_actor": 15367,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124345,
+            "from_actor": 15358,
+            "to_actor": 15367,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527914,
+            "from_actor": 15367,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531032,
+            "from_actor": 15367,
+            "to_actor": 15358,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

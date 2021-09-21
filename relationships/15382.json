@@ -1,0 +1,92 @@
+{
+    "15382": [
+        {
+            "id": 94102,
+            "from_actor": 15372,
+            "to_actor": 15382,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Arup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 94653,
+            "from_actor": 15390,
+            "to_actor": 15382,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Arup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124413,
+            "from_actor": 15378,
+            "to_actor": 15382,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Arup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124508,
+            "from_actor": 15397,
+            "to_actor": 15382,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Niels Arup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528119,
+            "from_actor": 15382,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Arup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528301,
+            "from_actor": 15382,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Arup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531114,
+            "from_actor": 15382,
+            "to_actor": 15378,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Niels Arup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531200,
+            "from_actor": 15382,
+            "to_actor": 15397,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Niels Arup",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "12283": [
+        {
+            "id": 45314,
+            "from_actor": 345,
+            "to_actor": 12283,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 47834,
+            "from_actor": 545,
+            "to_actor": 12283,
+            "start": "2012-04-20",
+            "end": "2012-04-20",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48132,
+            "from_actor": 414,
+            "to_actor": 12283,
+            "start": "2012-05-10",
+            "end": "2012-05-10",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48260,
+            "from_actor": 792,
+            "to_actor": 12283,
+            "start": "2012-05-11",
+            "end": "2012-05-11",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48616,
+            "from_actor": 418,
+            "to_actor": 12283,
+            "start": "2012-05-09",
+            "end": "2012-05-09",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49087,
+            "from_actor": 1480,
+            "to_actor": 12283,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Javnaðarflokkurin",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 49383,
+            "from_actor": 409,
+            "to_actor": 12283,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Færøudvalget",
+            "to_actor_name": "Aksel V. Johannesen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913846,
+            "from_actor": 12283,
+            "to_actor": 1480,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913847,
+            "from_actor": 12283,
+            "to_actor": 345,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22913848,
+            "from_actor": 12283,
+            "to_actor": 414,
+            "start": "2012-05-10",
+            "end": "2012-05-10",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913849,
+            "from_actor": 12283,
+            "to_actor": 418,
+            "start": "2012-05-09",
+            "end": "2012-05-09",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913850,
+            "from_actor": 12283,
+            "to_actor": 792,
+            "start": "2012-05-11",
+            "end": "2012-05-11",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913851,
+            "from_actor": 12283,
+            "to_actor": 545,
+            "start": "2012-04-20",
+            "end": "2012-04-20",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913852,
+            "from_actor": 12283,
+            "to_actor": 409,
+            "start": "2012-04-20",
+            "end": "2012-05-20",
+            "role": "medlem",
+            "from_actor_name": "Aksel V. Johannesen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

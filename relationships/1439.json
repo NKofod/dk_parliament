@@ -1,0 +1,202 @@
+{
+    "1439": [
+        {
+            "id": 95217,
+            "from_actor": 15448,
+            "to_actor": 1439,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95469,
+            "from_actor": 15452,
+            "to_actor": 1439,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95616,
+            "from_actor": 15460,
+            "to_actor": 1439,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 95836,
+            "from_actor": 15467,
+            "to_actor": 1439,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 95985,
+            "from_actor": 15475,
+            "to_actor": 1439,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 96393,
+            "from_actor": 15481,
+            "to_actor": 1439,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96544,
+            "from_actor": 15491,
+            "to_actor": 1439,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97003,
+            "from_actor": 15498,
+            "to_actor": 1439,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97089,
+            "from_actor": 15519,
+            "to_actor": 1439,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97263,
+            "from_actor": 15523,
+            "to_actor": 1439,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97378,
+            "from_actor": 15530,
+            "to_actor": 1439,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Poul Adrian Andreasen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136331,
+            "from_actor": 1439,
+            "to_actor": 15448,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528487,
+            "from_actor": 1439,
+            "to_actor": 15409,
+            "start": "1964-09-22",
+            "end": "1964-10-06",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528664,
+            "from_actor": 1439,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528848,
+            "from_actor": 1439,
+            "to_actor": 15467,
+            "start": "1965-10-05",
+            "end": "1966-10-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529038,
+            "from_actor": 1439,
+            "to_actor": 15481,
+            "start": "1966-10-04",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529194,
+            "from_actor": 1439,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529381,
+            "from_actor": 1439,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Poul Adrian Andreasen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

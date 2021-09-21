@@ -1,0 +1,37 @@
+{
+    "18831": [
+        {
+            "id": 15958110,
+            "from_actor": 18831,
+            "to_actor": 18758,
+            "start": "2019-08-26",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rune Christiansen (udpeget af RV)",
+            "to_actor_name": "Sydslesvigudvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 21630340,
+            "from_actor": 18831,
+            "to_actor": 19378,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rune Christiansen (udpeget af RV)",
+            "to_actor_name": "Sydslesvigudvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 21656426,
+            "from_actor": 18831,
+            "to_actor": 18916,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rune Christiansen (udpeget af RV)",
+            "to_actor_name": "Sydslesvigudvalget",
+            "type": "Kommission"
+        }
+    ]
+}

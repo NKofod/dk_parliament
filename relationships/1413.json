@@ -1,0 +1,180 @@
+{
+    "1413": [
+        {
+            "id": 42616,
+            "from_actor": 368,
+            "to_actor": 1413,
+            "start": "2010-10-05",
+            "end": "2010-12-17",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Westermann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 43306,
+            "from_actor": 1088,
+            "to_actor": 1413,
+            "start": "2010-10-05",
+            "end": "2010-12-17",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Peter Westermann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 43394,
+            "from_actor": 1063,
+            "to_actor": 1413,
+            "start": "2010-10-06",
+            "end": "2011-01-10",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44070,
+            "from_actor": 895,
+            "to_actor": 1413,
+            "start": "2010-10-14",
+            "end": "2010-10-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44265,
+            "from_actor": 530,
+            "to_actor": 1413,
+            "start": "2010-10-06",
+            "end": "2010-10-25",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44266,
+            "from_actor": 530,
+            "to_actor": 1413,
+            "start": "2010-10-27",
+            "end": "2011-01-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44314,
+            "from_actor": 1022,
+            "to_actor": 1413,
+            "start": "2010-10-06",
+            "end": "2011-01-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44518,
+            "from_actor": 776,
+            "to_actor": 1413,
+            "start": "2010-10-06",
+            "end": "2011-01-11",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Peter Westermann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882538,
+            "from_actor": 1413,
+            "to_actor": 1088,
+            "start": "2010-10-05",
+            "end": "2010-12-17",
+            "role": "medlem",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882539,
+            "from_actor": 1413,
+            "to_actor": 1063,
+            "start": "2010-10-06",
+            "end": "2011-01-10",
+            "role": "medlem",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882540,
+            "from_actor": 1413,
+            "to_actor": 776,
+            "start": "2010-10-06",
+            "end": "2011-01-11",
+            "role": "medlem",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882541,
+            "from_actor": 1413,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2010-12-17",
+            "role": "medlem",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882542,
+            "from_actor": 1413,
+            "to_actor": 895,
+            "start": "2010-10-14",
+            "end": "2010-10-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882543,
+            "from_actor": 1413,
+            "to_actor": 1022,
+            "start": "2010-10-06",
+            "end": "2011-01-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882544,
+            "from_actor": 1413,
+            "to_actor": 530,
+            "start": "2010-10-06",
+            "end": "2010-10-25",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882545,
+            "from_actor": 1413,
+            "to_actor": 530,
+            "start": "2010-10-27",
+            "end": "2011-01-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Westermann",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        }
+    ]
+}

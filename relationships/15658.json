@@ -1,0 +1,37 @@
+{
+    "15658": [
+        {
+            "id": 101859,
+            "from_actor": 15649,
+            "to_actor": 15658,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oswald Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127079,
+            "from_actor": 15653,
+            "to_actor": 15658,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Oswald Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422321,
+            "from_actor": 15658,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Oswald Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

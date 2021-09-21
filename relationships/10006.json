@@ -1,0 +1,26 @@
+{
+    "10006": [
+        {
+            "id": 76880,
+            "from_actor": 14617,
+            "to_actor": 10006,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Grethe Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132244,
+            "from_actor": 10006,
+            "to_actor": 14624,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Grethe Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

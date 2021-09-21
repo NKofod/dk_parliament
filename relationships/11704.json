@@ -1,0 +1,136 @@
+{
+    "11704": [
+        {
+            "id": 44956,
+            "from_actor": 1130,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47770,
+            "from_actor": 1131,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47793,
+            "from_actor": 1141,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50335,
+            "from_actor": 1137,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53396,
+            "from_actor": 1138,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54192,
+            "from_actor": 13676,
+            "to_actor": 11704,
+            "start": "2011-01-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 44934,
+            "from_actor": 11704,
+            "to_actor": 1137,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 44935,
+            "from_actor": 11704,
+            "to_actor": 1138,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 44936,
+            "from_actor": 11704,
+            "to_actor": 1141,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 44937,
+            "from_actor": 11704,
+            "to_actor": 1130,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 44938,
+            "from_actor": 11704,
+            "to_actor": 1131,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 1053120,
+            "from_actor": 11704,
+            "to_actor": 13676,
+            "start": "2011-01-01",
+            "end": "2014-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Pelle Erik Andersen-Harild (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

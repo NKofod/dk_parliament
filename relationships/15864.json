@@ -1,0 +1,37 @@
+{
+    "15864": [
+        {
+            "id": 127869,
+            "from_actor": 15746,
+            "to_actor": 15864,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "minister, ej MF",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørn Neergaard Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1932590,
+            "from_actor": 15864,
+            "to_actor": 15746,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "minister, ej MF",
+            "from_actor_name": "Jørn Neergaard Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21629954,
+            "from_actor": 15864,
+            "to_actor": 136,
+            "start": "2015-06-28",
+            "end": "2016-11-28",
+            "role": "Minister",
+            "from_actor_name": "Jørn Neergaard Larsen",
+            "to_actor_name": "beskæftigelsesministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

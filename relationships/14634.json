@@ -1,0 +1,125 @@
+{
+    "14634": [
+        {
+            "id": 77230,
+            "from_actor": 14632,
+            "to_actor": 14634,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejner Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77449,
+            "from_actor": 14648,
+            "to_actor": 14634,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ejner Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77609,
+            "from_actor": 14649,
+            "to_actor": 14634,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejner Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77788,
+            "from_actor": 14658,
+            "to_actor": 14634,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ejner Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79574,
+            "from_actor": 14704,
+            "to_actor": 14634,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejner Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105940,
+            "from_actor": 14634,
+            "to_actor": 14648,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105941,
+            "from_actor": 14634,
+            "to_actor": 14658,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105942,
+            "from_actor": 14634,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105943,
+            "from_actor": 14634,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105944,
+            "from_actor": 14634,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 132897,
+            "from_actor": 14634,
+            "to_actor": 14713,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Ejner Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "15500": [
+        {
+            "id": 97012,
+            "from_actor": 15498,
+            "to_actor": 15500,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Kampp",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97082,
+            "from_actor": 15517,
+            "to_actor": 15500,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Poul Kampp",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97272,
+            "from_actor": 15523,
+            "to_actor": 15500,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Kampp",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97370,
+            "from_actor": 15528,
+            "to_actor": 15500,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Poul Kampp",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 122950,
+            "from_actor": 15500,
+            "to_actor": 15528,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Poul Kampp",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677008,
+            "from_actor": 15500,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Kampp",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529203,
+            "from_actor": 15500,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Kampp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529390,
+            "from_actor": 15500,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Poul Kampp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

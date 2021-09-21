@@ -1,0 +1,92 @@
+{
+    "10065": [
+        {
+            "id": 85852,
+            "from_actor": 14855,
+            "to_actor": 10065,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86040,
+            "from_actor": 14872,
+            "to_actor": 10065,
+            "start": "2001-01-16",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86163,
+            "from_actor": 14883,
+            "to_actor": 10065,
+            "start": "2001-01-16",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86970,
+            "from_actor": 14897,
+            "to_actor": 10065,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87086,
+            "from_actor": 14906,
+            "to_actor": 10065,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 135082,
+            "from_actor": 10065,
+            "to_actor": 14883,
+            "start": "2001-01-16",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588430,
+            "from_actor": 10065,
+            "to_actor": 14872,
+            "start": "2001-01-16",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893021,
+            "from_actor": 10065,
+            "to_actor": 14863,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Larsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

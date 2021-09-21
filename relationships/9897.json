@@ -1,0 +1,26 @@
+{
+    "9897": [
+        {
+            "id": 70813,
+            "from_actor": 14338,
+            "to_actor": 9897,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kaare Prien",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128880,
+            "from_actor": 9897,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kaare Prien",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "1255": [
+        {
+            "id": 4781,
+            "from_actor": 1211,
+            "to_actor": 1255,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28359,
+            "from_actor": 1209,
+            "to_actor": 1255,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32884,
+            "from_actor": 1212,
+            "to_actor": 1255,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36847,
+            "from_actor": 1210,
+            "to_actor": 1255,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37470,
+            "from_actor": 1213,
+            "to_actor": 1255,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40216,
+            "from_actor": 1214,
+            "to_actor": 1255,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28365,
+            "from_actor": 1255,
+            "to_actor": 1211,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 28366,
+            "from_actor": 1255,
+            "to_actor": 1209,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 28367,
+            "from_actor": 1255,
+            "to_actor": 1210,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 28368,
+            "from_actor": 1255,
+            "to_actor": 1212,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 28369,
+            "from_actor": 1255,
+            "to_actor": 1213,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 28370,
+            "from_actor": 1255,
+            "to_actor": 1214,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Øberg Palsøe (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

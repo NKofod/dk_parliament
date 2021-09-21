@@ -1,0 +1,37 @@
+{
+    "10051": [
+        {
+            "id": 83182,
+            "from_actor": 14789,
+            "to_actor": 10051,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Torp",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26802312,
+            "from_actor": 10051,
+            "to_actor": 14799,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Thomas Torp",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 26802313,
+            "from_actor": 10051,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Torp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

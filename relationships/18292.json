@@ -1,0 +1,26 @@
+{
+    "18292": [
+        {
+            "id": 23045875,
+            "from_actor": 18292,
+            "to_actor": 18325,
+            "start": "2018-10-25",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Lene Foged",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045876,
+            "from_actor": 18292,
+            "to_actor": 18303,
+            "start": "2018-10-25",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Lene Foged",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

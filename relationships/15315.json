@@ -1,0 +1,169 @@
+{
+    "15315": [
+        {
+            "id": 93119,
+            "from_actor": 15303,
+            "to_actor": 15315,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93316,
+            "from_actor": 15346,
+            "to_actor": 15315,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93483,
+            "from_actor": 15351,
+            "to_actor": 15315,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93684,
+            "from_actor": 15361,
+            "to_actor": 15315,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94079,
+            "from_actor": 15381,
+            "to_actor": 15315,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94459,
+            "from_actor": 15400,
+            "to_actor": 15315,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94607,
+            "from_actor": 15390,
+            "to_actor": 15315,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Johannes Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125483,
+            "from_actor": 15315,
+            "to_actor": 15346,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125484,
+            "from_actor": 15315,
+            "to_actor": 15361,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125485,
+            "from_actor": 15315,
+            "to_actor": 15381,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125486,
+            "from_actor": 15315,
+            "to_actor": 15400,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527691,
+            "from_actor": 15315,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527872,
+            "from_actor": 15315,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528057,
+            "from_actor": 15315,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528253,
+            "from_actor": 15315,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Johannes Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

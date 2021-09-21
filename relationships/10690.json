@@ -1,0 +1,202 @@
+{
+    "10690": [
+        {
+            "id": 39692,
+            "from_actor": 765,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-02-18",
+            "role": "medlem",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 40732,
+            "from_actor": 785,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 40994,
+            "from_actor": 534,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-03-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Energipolitiske Udvalg",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41125,
+            "from_actor": 472,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41179,
+            "from_actor": 948,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41584,
+            "from_actor": 1193,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-03-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41881,
+            "from_actor": 1021,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 41957,
+            "from_actor": 718,
+            "to_actor": 10690,
+            "start": "2010-04-18",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Færøudvalget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 84933,
+            "from_actor": 429,
+            "to_actor": 10690,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Konradsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22882317,
+            "from_actor": 10690,
+            "to_actor": 785,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882318,
+            "from_actor": 10690,
+            "to_actor": 765,
+            "start": "2010-02-11",
+            "end": "2010-02-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882319,
+            "from_actor": 10690,
+            "to_actor": 948,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882320,
+            "from_actor": 10690,
+            "to_actor": 1021,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882321,
+            "from_actor": 10690,
+            "to_actor": 472,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882323,
+            "from_actor": 10690,
+            "to_actor": 718,
+            "start": "2010-04-18",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882324,
+            "from_actor": 10690,
+            "to_actor": 534,
+            "start": "2010-02-11",
+            "end": "2010-03-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882325,
+            "from_actor": 10690,
+            "to_actor": 1193,
+            "start": "2010-02-11",
+            "end": "2010-03-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23916216,
+            "from_actor": 10690,
+            "to_actor": 429,
+            "start": "2010-02-11",
+            "end": "2010-04-18",
+            "role": "medlem",
+            "from_actor_name": "Steen Konradsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

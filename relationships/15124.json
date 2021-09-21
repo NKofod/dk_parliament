@@ -1,0 +1,92 @@
+{
+    "15124": [
+        {
+            "id": 88709,
+            "from_actor": 14976,
+            "to_actor": 15124,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Hansen (Rørby)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88931,
+            "from_actor": 15141,
+            "to_actor": 15124,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Hans Hansen (Rørby)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89289,
+            "from_actor": 15147,
+            "to_actor": 15124,
+            "start": "1954-10-05",
+            "end": "1954-12-13",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Hansen (Rørby)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89312,
+            "from_actor": 15152,
+            "to_actor": 15124,
+            "start": "1954-10-05",
+            "end": "1954-12-13",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Hans Hansen (Rørby)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107157,
+            "from_actor": 15124,
+            "to_actor": 15141,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Hansen (Rørby)",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 107158,
+            "from_actor": 15124,
+            "to_actor": 15152,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Hansen (Rørby)",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526047,
+            "from_actor": 15124,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Hansen (Rørby)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526244,
+            "from_actor": 15124,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1954-12-13",
+            "role": "medlem",
+            "from_actor_name": "Hans Hansen (Rørby)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

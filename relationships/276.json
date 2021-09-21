@@ -1,0 +1,180 @@
+{
+    "276": [
+        {
+            "id": 225,
+            "from_actor": 6,
+            "to_actor": 276,
+            "start": "2013-10-21",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5275,
+            "from_actor": 269,
+            "to_actor": 276,
+            "start": "2013-10-21",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 50138,
+            "from_actor": 342,
+            "to_actor": 276,
+            "start": "2013-01-01",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 51375,
+            "from_actor": 324,
+            "to_actor": 276,
+            "start": "2013-01-29",
+            "end": "2013-01-29",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51616,
+            "from_actor": 332,
+            "to_actor": 276,
+            "start": "2013-01-07",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52003,
+            "from_actor": 331,
+            "to_actor": 276,
+            "start": "2013-01-07",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52036,
+            "from_actor": 415,
+            "to_actor": 276,
+            "start": "2013-01-01",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52043,
+            "from_actor": 415,
+            "to_actor": 276,
+            "start": "2013-10-21",
+            "end": "2013-11-17",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88093,
+            "from_actor": 5296,
+            "to_actor": 276,
+            "start": "2013-10-21",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Uffe Elbæk",
+            "to_actor_name": "Pernille Boye Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52499,
+            "from_actor": 276,
+            "to_actor": 415,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52500,
+            "from_actor": 276,
+            "to_actor": 269,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 52501,
+            "from_actor": 276,
+            "to_actor": 332,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52503,
+            "from_actor": 276,
+            "to_actor": 324,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 312263,
+            "from_actor": 276,
+            "to_actor": 6,
+            "start": "2013-10-21",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 316089,
+            "from_actor": 276,
+            "to_actor": 331,
+            "start": "2013-01-07",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "type": "Udvalg"
+        },
+        {
+            "id": 1675446,
+            "from_actor": 276,
+            "to_actor": 342,
+            "start": "2013-01-01",
+            "end": "2013-01-31",
+            "role": "medlem",
+            "from_actor_name": "Pernille Boye Koch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

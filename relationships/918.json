@@ -1,0 +1,268 @@
+{
+    "918": [
+        {
+            "id": 15746,
+            "from_actor": 897,
+            "to_actor": 918,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15960,
+            "from_actor": 470,
+            "to_actor": 918,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16130,
+            "from_actor": 492,
+            "to_actor": 918,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16354,
+            "from_actor": 729,
+            "to_actor": 918,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27619,
+            "from_actor": 423,
+            "to_actor": 918,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87519,
+            "from_actor": 14917,
+            "to_actor": 918,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87693,
+            "from_actor": 14926,
+            "to_actor": 918,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87881,
+            "from_actor": 14931,
+            "to_actor": 918,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88058,
+            "from_actor": 14943,
+            "to_actor": 918,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88282,
+            "from_actor": 14957,
+            "to_actor": 918,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88436,
+            "from_actor": 14259,
+            "to_actor": 918,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lisbeth Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706859,
+            "from_actor": 918,
+            "to_actor": 729,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706861,
+            "from_actor": 918,
+            "to_actor": 897,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22706862,
+            "from_actor": 918,
+            "to_actor": 492,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22706863,
+            "from_actor": 918,
+            "to_actor": 14688,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706864,
+            "from_actor": 918,
+            "to_actor": 14957,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706865,
+            "from_actor": 918,
+            "to_actor": 14943,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706866,
+            "from_actor": 918,
+            "to_actor": 14926,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22706867,
+            "from_actor": 918,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706868,
+            "from_actor": 918,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706869,
+            "from_actor": 918,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22706870,
+            "from_actor": 918,
+            "to_actor": 470,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22706871,
+            "from_actor": 918,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 26367266,
+            "from_actor": 918,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Lisbeth Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

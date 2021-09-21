@@ -1,0 +1,48 @@
+{
+    "15405": [
+        {
+            "id": 94656,
+            "from_actor": 15390,
+            "to_actor": 15405,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Clausen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124428,
+            "from_actor": 15394,
+            "to_actor": 15405,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Axel Clausen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124783,
+            "from_actor": 15405,
+            "to_actor": 15394,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Axel Clausen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528304,
+            "from_actor": 15405,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Axel Clausen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

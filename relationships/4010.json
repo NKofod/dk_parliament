@@ -1,0 +1,136 @@
+{
+    "4010": [
+        {
+            "id": 23919,
+            "from_actor": 1052,
+            "to_actor": 4010,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 30879,
+            "from_actor": 1057,
+            "to_actor": 4010,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33442,
+            "from_actor": 1059,
+            "to_actor": 4010,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36257,
+            "from_actor": 1055,
+            "to_actor": 4010,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37940,
+            "from_actor": 1061,
+            "to_actor": 4010,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 40154,
+            "from_actor": 449,
+            "to_actor": 4010,
+            "start": "2009-10-06",
+            "end": "2009-06-30T00:00:00",
+            "role": "medlem",
+            "from_actor_name": "Kunstrådets repræsentantskab",
+            "to_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 35660,
+            "from_actor": 4010,
+            "to_actor": 1052,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 35661,
+            "from_actor": 4010,
+            "to_actor": 1055,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 35662,
+            "from_actor": 4010,
+            "to_actor": 1057,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 35663,
+            "from_actor": 4010,
+            "to_actor": 1059,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 35664,
+            "from_actor": 4010,
+            "to_actor": 1061,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 35665,
+            "from_actor": 4010,
+            "to_actor": 449,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uffe Elbæk (udpeget af RV)",
+            "to_actor_name": "Kunstrådets repræsentantskab",
+            "type": "Kommission"
+        }
+    ]
+}

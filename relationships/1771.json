@@ -1,0 +1,268 @@
+{
+    "1771": [
+        {
+            "id": 15328,
+            "from_actor": 502,
+            "to_actor": 1771,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Uno Larsson",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15523,
+            "from_actor": 752,
+            "to_actor": 1771,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15563,
+            "from_actor": 1154,
+            "to_actor": 1771,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Det Energipolitiske Udvalg",
+            "to_actor_name": "Uno Larsson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15684,
+            "from_actor": 921,
+            "to_actor": 1771,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Miljø- og Planlægningsudvalget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15892,
+            "from_actor": 597,
+            "to_actor": 1771,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27563,
+            "from_actor": 423,
+            "to_actor": 1771,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87503,
+            "from_actor": 14917,
+            "to_actor": 1771,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87542,
+            "from_actor": 14919,
+            "to_actor": 1771,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Uno Larsson",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87865,
+            "from_actor": 14931,
+            "to_actor": 1771,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87905,
+            "from_actor": 14932,
+            "to_actor": 1771,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Uno Larsson",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88120,
+            "from_actor": 14944,
+            "to_actor": 1771,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Uno Larsson",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88404,
+            "from_actor": 14259,
+            "to_actor": 1771,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Uno Larsson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22650738,
+            "from_actor": 1771,
+            "to_actor": 1154,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22650739,
+            "from_actor": 1771,
+            "to_actor": 752,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22650740,
+            "from_actor": 1771,
+            "to_actor": 597,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22650741,
+            "from_actor": 1771,
+            "to_actor": 502,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22650742,
+            "from_actor": 1771,
+            "to_actor": 14919,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22650743,
+            "from_actor": 1771,
+            "to_actor": 14932,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22650744,
+            "from_actor": 1771,
+            "to_actor": 14944,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22650745,
+            "from_actor": 1771,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22650746,
+            "from_actor": 1771,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22650747,
+            "from_actor": 1771,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22650748,
+            "from_actor": 1771,
+            "to_actor": 921,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367210,
+            "from_actor": 1771,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uno Larsson",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "1273": [
+        {
+            "id": 5055,
+            "from_actor": 174,
+            "to_actor": 1273,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19766,
+            "from_actor": 708,
+            "to_actor": 1273,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Prøvelse af Valgene",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30826,
+            "from_actor": 942,
+            "to_actor": 1273,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31288,
+            "from_actor": 1231,
+            "to_actor": 1273,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Prøvelse af Valgene",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31578,
+            "from_actor": 1287,
+            "to_actor": 1273,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36343,
+            "from_actor": 941,
+            "to_actor": 1273,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39291,
+            "from_actor": 1288,
+            "to_actor": 1273,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39533,
+            "from_actor": 1232,
+            "to_actor": 1273,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Prøvelse af Valgene",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 40810,
+            "from_actor": 1289,
+            "to_actor": 1273,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43278,
+            "from_actor": 1290,
+            "to_actor": 1273,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45572,
+            "from_actor": 1291,
+            "to_actor": 1273,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 45598,
+            "from_actor": 748,
+            "to_actor": 1273,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 50602,
+            "from_actor": 339,
+            "to_actor": 1273,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Rubenhagen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13241,
+            "from_actor": 1273,
+            "to_actor": 174,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13242,
+            "from_actor": 1273,
+            "to_actor": 941,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13244,
+            "from_actor": 1273,
+            "to_actor": 1287,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13245,
+            "from_actor": 1273,
+            "to_actor": 1288,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13246,
+            "from_actor": 1273,
+            "to_actor": 1289,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13247,
+            "from_actor": 1273,
+            "to_actor": 1290,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13248,
+            "from_actor": 1273,
+            "to_actor": 748,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13249,
+            "from_actor": 1273,
+            "to_actor": 339,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13250,
+            "from_actor": 1273,
+            "to_actor": 708,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Prøvelse af Valgene",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13251,
+            "from_actor": 1273,
+            "to_actor": 1231,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Prøvelse af Valgene",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13252,
+            "from_actor": 1273,
+            "to_actor": 1232,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Prøvelse af Valgene",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13253,
+            "from_actor": 1273,
+            "to_actor": 1291,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 57465,
+            "from_actor": 1273,
+            "to_actor": 13637,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9072431,
+            "from_actor": 1273,
+            "to_actor": 942,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jens Rubenhagen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        }
+    ]
+}

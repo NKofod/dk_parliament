@@ -1,0 +1,48 @@
+{
+    "10120": [
+        {
+            "id": 79156,
+            "from_actor": 14690,
+            "to_actor": 10120,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven B. Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81473,
+            "from_actor": 14742,
+            "to_actor": 10120,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sven B. Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133400,
+            "from_actor": 10120,
+            "to_actor": 14752,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Sven B. Nielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4732907,
+            "from_actor": 10120,
+            "to_actor": 14688,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Sven B. Nielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "15204": [
+        {
+            "id": 91111,
+            "from_actor": 15190,
+            "to_actor": 15204,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Morten Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91193,
+            "from_actor": 15225,
+            "to_actor": 15204,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Morten Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91476,
+            "from_actor": 15231,
+            "to_actor": 15204,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Morten Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91559,
+            "from_actor": 15241,
+            "to_actor": 15204,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Morten Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91847,
+            "from_actor": 15251,
+            "to_actor": 15204,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Morten Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91928,
+            "from_actor": 15262,
+            "to_actor": 15204,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Morten Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92208,
+            "from_actor": 15269,
+            "to_actor": 15204,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Morten Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92298,
+            "from_actor": 15281,
+            "to_actor": 15204,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Morten Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92577,
+            "from_actor": 15290,
+            "to_actor": 15204,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Morten Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92666,
+            "from_actor": 15294,
+            "to_actor": 15204,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Morten Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112188,
+            "from_actor": 15204,
+            "to_actor": 15225,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112189,
+            "from_actor": 15204,
+            "to_actor": 15241,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112190,
+            "from_actor": 15204,
+            "to_actor": 15262,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112191,
+            "from_actor": 15204,
+            "to_actor": 15281,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112192,
+            "from_actor": 15204,
+            "to_actor": 15294,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526778,
+            "from_actor": 15204,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526953,
+            "from_actor": 15204,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527135,
+            "from_actor": 15204,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527322,
+            "from_actor": 15204,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527510,
+            "from_actor": 15204,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Morten Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

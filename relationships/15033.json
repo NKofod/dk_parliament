@@ -1,0 +1,180 @@
+{
+    "15033": [
+        {
+            "id": 88595,
+            "from_actor": 14976,
+            "to_actor": 15033,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Steen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88918,
+            "from_actor": 15139,
+            "to_actor": 15033,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Oluf Steen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89201,
+            "from_actor": 15147,
+            "to_actor": 15033,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Steen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89359,
+            "from_actor": 15154,
+            "to_actor": 15033,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Oluf Steen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89725,
+            "from_actor": 15168,
+            "to_actor": 15033,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Oluf Steen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89926,
+            "from_actor": 15162,
+            "to_actor": 15033,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Steen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90270,
+            "from_actor": 15182,
+            "to_actor": 15033,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Oluf Steen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90651,
+            "from_actor": 15177,
+            "to_actor": 15033,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Steen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 113840,
+            "from_actor": 15033,
+            "to_actor": 15139,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 113841,
+            "from_actor": 15033,
+            "to_actor": 15154,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 113842,
+            "from_actor": 15033,
+            "to_actor": 15168,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 113843,
+            "from_actor": 15033,
+            "to_actor": 15182,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525956,
+            "from_actor": 15033,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526141,
+            "from_actor": 15033,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526325,
+            "from_actor": 15033,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526506,
+            "from_actor": 15033,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Oluf Steen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

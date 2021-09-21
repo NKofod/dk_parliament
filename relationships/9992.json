@@ -1,0 +1,26 @@
+{
+    "9992": [
+        {
+            "id": 69084,
+            "from_actor": 14329,
+            "to_actor": 9992,
+            "start": "1977-02-15",
+            "end": "1977-03-03",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Kirsten Brøsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 68908,
+            "from_actor": 9992,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Brøsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

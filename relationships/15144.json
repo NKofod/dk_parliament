@@ -1,0 +1,191 @@
+{
+    "15144": [
+        {
+            "id": 91683,
+            "from_actor": 15240,
+            "to_actor": 15144,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91686,
+            "from_actor": 15231,
+            "to_actor": 15144,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91867,
+            "from_actor": 15251,
+            "to_actor": 15144,
+            "start": "1958-10-07",
+            "end": "1959-07-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124239,
+            "from_actor": 15153,
+            "to_actor": 15144,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124250,
+            "from_actor": 15167,
+            "to_actor": 15144,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 124261,
+            "from_actor": 15181,
+            "to_actor": 15144,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Knud Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125594,
+            "from_actor": 15144,
+            "to_actor": 15240,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125595,
+            "from_actor": 15144,
+            "to_actor": 15261,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125596,
+            "from_actor": 15144,
+            "to_actor": 15153,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125597,
+            "from_actor": 15144,
+            "to_actor": 15167,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588507,
+            "from_actor": 15144,
+            "to_actor": 15181,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526062,
+            "from_actor": 15144,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526247,
+            "from_actor": 15144,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526429,
+            "from_actor": 15144,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526615,
+            "from_actor": 15144,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526973,
+            "from_actor": 15144,
+            "to_actor": 15231,
+            "start": "1958-03-21",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527169,
+            "from_actor": 15144,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-07-14",
+            "role": "medlem",
+            "from_actor_name": "Knud Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

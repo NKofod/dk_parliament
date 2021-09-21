@@ -1,0 +1,103 @@
+{
+    "6163": [
+        {
+            "id": 30104,
+            "from_actor": 604,
+            "to_actor": 6163,
+            "start": "2007-09-01",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Katja Lykke Friis",
+            "type": "Kommission"
+        },
+        {
+            "id": 30796,
+            "from_actor": 605,
+            "to_actor": 6163,
+            "start": "2007-09-01",
+            "end": "2007-11-13",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Katja Lykke Friis",
+            "type": "Kommission"
+        },
+        {
+            "id": 32685,
+            "from_actor": 606,
+            "to_actor": 6163,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Katja Lykke Friis",
+            "type": "Kommission"
+        },
+        {
+            "id": 37389,
+            "from_actor": 607,
+            "to_actor": 6163,
+            "start": "2007-11-28",
+            "end": "2008-05-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Katja Lykke Friis",
+            "type": "Kommission"
+        },
+        {
+            "id": 39885,
+            "from_actor": 608,
+            "to_actor": 6163,
+            "start": "2007-11-28",
+            "end": "2008-05-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "NATOs Parlamentariske Forsamling",
+            "to_actor_name": "Katja Lykke Friis",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859616,
+            "from_actor": 6163,
+            "to_actor": 608,
+            "start": "2007-11-28",
+            "end": "2008-05-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Lykke Friis",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859651,
+            "from_actor": 6163,
+            "to_actor": 607,
+            "start": "2007-11-28",
+            "end": "2008-05-31",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Lykke Friis",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859665,
+            "from_actor": 6163,
+            "to_actor": 606,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Lykke Friis",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 6312317,
+            "from_actor": 6163,
+            "to_actor": 604,
+            "start": "2007-09-01",
+            "end": "2007-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Lykke Friis",
+            "to_actor_name": "NATOs Parlamentariske Forsamling",
+            "type": "Kommission"
+        }
+    ]
+}

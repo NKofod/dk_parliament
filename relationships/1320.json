@@ -1,0 +1,70 @@
+{
+    "1320": [
+        {
+            "id": 72301,
+            "from_actor": 14431,
+            "to_actor": 1320,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Thomsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72715,
+            "from_actor": 14457,
+            "to_actor": 1320,
+            "start": "1980-10-07",
+            "end": "1981-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Thomsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8511523,
+            "from_actor": 1320,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Thomsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8511524,
+            "from_actor": 1320,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ole Thomsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8511525,
+            "from_actor": 1320,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Thomsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8511526,
+            "from_actor": 1320,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ole Thomsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

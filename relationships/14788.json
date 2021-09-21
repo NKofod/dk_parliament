@@ -1,0 +1,70 @@
+{
+    "14788": [
+        {
+            "id": 82782,
+            "from_actor": 14778,
+            "to_actor": 14788,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Irene Sønderby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83171,
+            "from_actor": 14789,
+            "to_actor": 14788,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Irene Sønderby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24507427,
+            "from_actor": 14788,
+            "to_actor": 14779,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Irene Sønderby",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24507428,
+            "from_actor": 14788,
+            "to_actor": 14790,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Irene Sønderby",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24507429,
+            "from_actor": 14788,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Irene Sønderby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24507430,
+            "from_actor": 14788,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Irene Sønderby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

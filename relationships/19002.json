@@ -1,0 +1,103 @@
+{
+    "19002": [
+        {
+            "id": 23072470,
+            "from_actor": 19002,
+            "to_actor": 18889,
+            "start": "2020-01-01",
+            "end": "2020-06-30",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23072471,
+            "from_actor": 19002,
+            "to_actor": 18856,
+            "start": "2020-01-01",
+            "end": "2020-06-30",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23529510,
+            "from_actor": 19002,
+            "to_actor": 18861,
+            "start": "2020-06-23",
+            "end": "2020-06-23",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529521,
+            "from_actor": 19002,
+            "to_actor": 18861,
+            "start": "2020-02-27",
+            "end": "2020-02-27",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529530,
+            "from_actor": 19002,
+            "to_actor": 18861,
+            "start": "2020-05-14",
+            "end": "2020-05-14",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529892,
+            "from_actor": 19002,
+            "to_actor": 18864,
+            "start": "2020-01-01",
+            "end": "2020-06-25",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530016,
+            "from_actor": 19002,
+            "to_actor": 18866,
+            "start": "2020-01-01",
+            "end": "2020-06-25",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530062,
+            "from_actor": 19002,
+            "to_actor": 18874,
+            "start": "2020-01-01",
+            "end": "2020-06-30",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530962,
+            "from_actor": 19002,
+            "to_actor": 18881,
+            "start": "2020-01-01",
+            "end": "2020-06-25",
+            "role": "medlem",
+            "from_actor_name": "Gitte Willumsen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        }
+    ]
+}

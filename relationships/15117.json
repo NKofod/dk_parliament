@@ -1,0 +1,48 @@
+{
+    "15117": [
+        {
+            "id": 88702,
+            "from_actor": 14976,
+            "to_actor": 15117,
+            "start": "1953-10-06",
+            "end": "1954-06-16",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88731,
+            "from_actor": 15134,
+            "to_actor": 15117,
+            "start": "1953-10-06",
+            "end": "1954-06-16",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Frede Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526057,
+            "from_actor": 15117,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-06-16",
+            "role": "medlem",
+            "from_actor_name": "Frede Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530280,
+            "from_actor": 15117,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-06-16",
+            "role": "medlem",
+            "from_actor_name": "Frede Nielsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

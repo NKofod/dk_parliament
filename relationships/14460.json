@@ -1,0 +1,70 @@
+{
+    "14460": [
+        {
+            "id": 72756,
+            "from_actor": 14457,
+            "to_actor": 14460,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Tranholm-Mikkelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79146,
+            "from_actor": 14690,
+            "to_actor": 14460,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Tranholm-Mikkelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125417,
+            "from_actor": 14460,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Inge Tranholm-Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125418,
+            "from_actor": 14460,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Inge Tranholm-Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130658,
+            "from_actor": 14460,
+            "to_actor": 14470,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Inge Tranholm-Mikkelsen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132675,
+            "from_actor": 14460,
+            "to_actor": 14697,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Inge Tranholm-Mikkelsen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

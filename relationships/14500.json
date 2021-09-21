@@ -1,0 +1,257 @@
+{
+    "14500": [
+        {
+            "id": 73882,
+            "from_actor": 14495,
+            "to_actor": 14500,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74280,
+            "from_actor": 14523,
+            "to_actor": 14500,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74692,
+            "from_actor": 14546,
+            "to_actor": 14500,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74775,
+            "from_actor": 14551,
+            "to_actor": 14500,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75453,
+            "from_actor": 14564,
+            "to_actor": 14500,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75547,
+            "from_actor": 14572,
+            "to_actor": 14500,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75823,
+            "from_actor": 14583,
+            "to_actor": 14500,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75921,
+            "from_actor": 14586,
+            "to_actor": 14500,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76236,
+            "from_actor": 14596,
+            "to_actor": 14500,
+            "start": "1985-10-01",
+            "end": "1985-10-19",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76339,
+            "from_actor": 14599,
+            "to_actor": 14500,
+            "start": "1985-10-01",
+            "end": "1985-10-19",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Elisabeth Krog",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105959,
+            "from_actor": 14500,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105960,
+            "from_actor": 14500,
+            "to_actor": 14586,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105961,
+            "from_actor": 14500,
+            "to_actor": 14599,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105962,
+            "from_actor": 14500,
+            "to_actor": 14533,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105963,
+            "from_actor": 14500,
+            "to_actor": 14551,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105964,
+            "from_actor": 14500,
+            "to_actor": 14512,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105965,
+            "from_actor": 14500,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105966,
+            "from_actor": 14500,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105968,
+            "from_actor": 14500,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105969,
+            "from_actor": 14500,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105970,
+            "from_actor": 14500,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 129079,
+            "from_actor": 14500,
+            "to_actor": 14395,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714934,
+            "from_actor": 14500,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

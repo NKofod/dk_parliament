@@ -1,0 +1,26 @@
+{
+    "1348": [
+        {
+            "id": 88076,
+            "from_actor": 14931,
+            "to_actor": 1348,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Palle Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 135507,
+            "from_actor": 1348,
+            "to_actor": 14943,
+            "start": "2002-10-08",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Palle Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

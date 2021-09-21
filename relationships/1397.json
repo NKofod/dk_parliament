@@ -1,0 +1,26 @@
+{
+    "1397": [
+        {
+            "id": 102204,
+            "from_actor": 15498,
+            "to_actor": 1397,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Bonnevie",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529241,
+            "from_actor": 1397,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Bonnevie",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

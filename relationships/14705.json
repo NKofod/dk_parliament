@@ -1,0 +1,48 @@
+{
+    "14705": [
+        {
+            "id": 79372,
+            "from_actor": 14704,
+            "to_actor": 14705,
+            "start": "1990-11-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79445,
+            "from_actor": 14709,
+            "to_actor": 14705,
+            "start": "1990-11-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Poul Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199368,
+            "from_actor": 14705,
+            "to_actor": 14709,
+            "start": "1990-11-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Poul Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199369,
+            "from_actor": 14705,
+            "to_actor": 14704,
+            "start": "1990-11-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Poul Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

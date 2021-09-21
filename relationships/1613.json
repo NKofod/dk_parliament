@@ -1,0 +1,26 @@
+{
+    "1613": [
+        {
+            "id": 19479738,
+            "from_actor": 1613,
+            "to_actor": 14813,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Vibeke Kiil",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19479739,
+            "from_actor": 1613,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Vibeke Kiil",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

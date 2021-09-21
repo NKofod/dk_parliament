@@ -1,0 +1,59 @@
+{
+    "15947": [
+        {
+            "id": 118717,
+            "from_actor": 15942,
+            "to_actor": 15947,
+            "start": "2015-01-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet ikke gyldig",
+            "to_actor_name": "Maria Temponeras (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 118731,
+            "from_actor": 15874,
+            "to_actor": 15947,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Maria Temponeras (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 21933493,
+            "from_actor": 15947,
+            "to_actor": 15874,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Maria Temponeras (udpeget af EL)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 23735610,
+            "from_actor": 15947,
+            "to_actor": 17186,
+            "start": "2017-02-01",
+            "end": "2021-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Maria Temponeras (udpeget af EL)",
+            "to_actor_name": "Miljø- og Fødevareklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24122094,
+            "from_actor": 15947,
+            "to_actor": 19465,
+            "start": "2021-02-01",
+            "end": "2025-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Maria Temponeras (udpeget af EL)",
+            "to_actor_name": "Miljø- og Fødevareklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "9966": [
+        {
+            "id": 74726,
+            "from_actor": 14546,
+            "to_actor": 9966,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Michaelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 131212,
+            "from_actor": 9966,
+            "to_actor": 14552,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Jens Michaelsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

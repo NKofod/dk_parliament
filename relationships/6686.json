@@ -1,0 +1,92 @@
+{
+    "6686": [
+        {
+            "id": 31071,
+            "from_actor": 428,
+            "to_actor": 6686,
+            "start": "2008-01-10",
+            "end": "2008-02-29",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Torben Lund",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31751,
+            "from_actor": 1259,
+            "to_actor": 6686,
+            "start": "2008-01-10",
+            "end": "2008-02-29",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Torben Lund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 34085,
+            "from_actor": 1166,
+            "to_actor": 6686,
+            "start": "2008-01-23",
+            "end": "2008-02-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Torben Lund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 34964,
+            "from_actor": 1092,
+            "to_actor": 6686,
+            "start": "2008-02-07",
+            "end": "2008-02-07",
+            "role": "medlem",
+            "from_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Torben Lund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803123,
+            "from_actor": 6686,
+            "to_actor": 1259,
+            "start": "2008-01-10",
+            "end": "2008-02-29",
+            "role": "medlem",
+            "from_actor_name": "Torben Lund",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22803124,
+            "from_actor": 6686,
+            "to_actor": 1092,
+            "start": "2008-02-07",
+            "end": "2008-02-07",
+            "role": "medlem",
+            "from_actor_name": "Torben Lund",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22803125,
+            "from_actor": 6686,
+            "to_actor": 428,
+            "start": "2008-01-10",
+            "end": "2008-02-29",
+            "role": "medlem",
+            "from_actor_name": "Torben Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22803126,
+            "from_actor": 6686,
+            "to_actor": 1166,
+            "start": "2008-01-23",
+            "end": "2008-02-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Torben Lund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

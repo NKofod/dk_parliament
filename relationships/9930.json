@@ -1,0 +1,257 @@
+{
+    "9930": [
+        {
+            "id": 84411,
+            "from_actor": 14835,
+            "to_actor": 9930,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84781,
+            "from_actor": 14847,
+            "to_actor": 9930,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85327,
+            "from_actor": 14841,
+            "to_actor": 9930,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85579,
+            "from_actor": 14855,
+            "to_actor": 9930,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85696,
+            "from_actor": 14861,
+            "to_actor": 9930,
+            "start": "1999-10-05",
+            "end": "1999-10-12",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85829,
+            "from_actor": 14868,
+            "to_actor": 9930,
+            "start": "1999-10-12",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Frihed 2000",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86021,
+            "from_actor": 14872,
+            "to_actor": 9930,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86092,
+            "from_actor": 14881,
+            "to_actor": 9930,
+            "start": "2000-10-03",
+            "end": "2001-02-07",
+            "role": "medlem",
+            "from_actor_name": "Frihed 2000",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86767,
+            "from_actor": 14894,
+            "to_actor": 9930,
+            "start": "2001-02-07",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Thorkild B. Fransgaard",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86951,
+            "from_actor": 14897,
+            "to_actor": 9930,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87105,
+            "from_actor": 14913,
+            "to_actor": 9930,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Thorkild B. Fransgaard",
+            "to_actor_name": "Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556612,
+            "from_actor": 9930,
+            "to_actor": 14894,
+            "start": "2001-02-07",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556613,
+            "from_actor": 9930,
+            "to_actor": 14913,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Uden for folketingsgrupperne - Thorkild B. Fransgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556614,
+            "from_actor": 9930,
+            "to_actor": 14847,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556615,
+            "from_actor": 9930,
+            "to_actor": 14861,
+            "start": "1999-10-05",
+            "end": "1999-10-12",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556616,
+            "from_actor": 9930,
+            "to_actor": 14868,
+            "start": "1999-10-12",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Frihed 2000",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556617,
+            "from_actor": 9930,
+            "to_actor": 14881,
+            "start": "2000-10-03",
+            "end": "2001-02-07",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Frihed 2000",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556618,
+            "from_actor": 9930,
+            "to_actor": 14835,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 556620,
+            "from_actor": 9930,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 556621,
+            "from_actor": 9930,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 556622,
+            "from_actor": 9930,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588411,
+            "from_actor": 9930,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594797,
+            "from_actor": 9930,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Thorkild B. Fransgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

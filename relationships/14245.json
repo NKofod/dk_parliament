@@ -1,0 +1,246 @@
+{
+    "14245": [
+        {
+            "id": 70659,
+            "from_actor": 14085,
+            "to_actor": 14245,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70732,
+            "from_actor": 14265,
+            "to_actor": 14245,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71664,
+            "from_actor": 14387,
+            "to_actor": 14245,
+            "start": "1979-10-01",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71933,
+            "from_actor": 14415,
+            "to_actor": 14245,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72017,
+            "from_actor": 14422,
+            "to_actor": 14245,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102691,
+            "from_actor": 15660,
+            "to_actor": 14245,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103619,
+            "from_actor": 15721,
+            "to_actor": 14245,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121182,
+            "from_actor": 14082,
+            "to_actor": 14245,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127100,
+            "from_actor": 15688,
+            "to_actor": 14245,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128078,
+            "from_actor": 15706,
+            "to_actor": 14245,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128224,
+            "from_actor": 15726,
+            "to_actor": 14245,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Frede Tandrup Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69851,
+            "from_actor": 14245,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70622,
+            "from_actor": 14245,
+            "to_actor": 14393,
+            "start": "1979-10-01",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70623,
+            "from_actor": 14245,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 106637,
+            "from_actor": 14245,
+            "to_actor": 14422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106638,
+            "from_actor": 14245,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 106639,
+            "from_actor": 14245,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 106640,
+            "from_actor": 14245,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696747,
+            "from_actor": 14245,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235317,
+            "from_actor": 14245,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235533,
+            "from_actor": 14245,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 25878065,
+            "from_actor": 14245,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Frede Tandrup Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

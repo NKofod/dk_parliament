@@ -1,0 +1,169 @@
+{
+    "9843": [
+        {
+            "id": 84326,
+            "from_actor": 14825,
+            "to_actor": 9843,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84364,
+            "from_actor": 14830,
+            "to_actor": 9843,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84734,
+            "from_actor": 14842,
+            "to_actor": 9843,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85297,
+            "from_actor": 14841,
+            "to_actor": 9843,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85549,
+            "from_actor": 14855,
+            "to_actor": 9843,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85647,
+            "from_actor": 14856,
+            "to_actor": 9843,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85991,
+            "from_actor": 14872,
+            "to_actor": 9843,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86046,
+            "from_actor": 14875,
+            "to_actor": 9843,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86921,
+            "from_actor": 14897,
+            "to_actor": 9843,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86975,
+            "from_actor": 14899,
+            "to_actor": 9843,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Annie Lunde Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134991,
+            "from_actor": 9843,
+            "to_actor": 14875,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Annie Lunde Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588381,
+            "from_actor": 9843,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Annie Lunde Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892935,
+            "from_actor": 9843,
+            "to_actor": 14899,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Annie Lunde Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893080,
+            "from_actor": 9843,
+            "to_actor": 14856,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Annie Lunde Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594767,
+            "from_actor": 9843,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Annie Lunde Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

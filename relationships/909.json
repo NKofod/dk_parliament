@@ -1,0 +1,37 @@
+{
+    "909": [
+        {
+            "id": 79583,
+            "from_actor": 14704,
+            "to_actor": 909,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lis Benfeldt",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18520903,
+            "from_actor": 909,
+            "to_actor": 14712,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Lis Benfeldt",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18520904,
+            "from_actor": 909,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Lis Benfeldt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

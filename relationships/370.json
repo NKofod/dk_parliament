@@ -1,0 +1,92 @@
+{
+    "370": [
+        {
+            "id": 55,
+            "from_actor": 6,
+            "to_actor": 370,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Medom",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 50068,
+            "from_actor": 342,
+            "to_actor": 370,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Medom",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 52084,
+            "from_actor": 1318,
+            "to_actor": 370,
+            "start": "2013-10-01",
+            "end": "2013-07-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thomas Medom",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 53328,
+            "from_actor": 1316,
+            "to_actor": 370,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thomas Medom",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096777,
+            "from_actor": 370,
+            "to_actor": 1318,
+            "start": "2013-10-01",
+            "end": "2013-07-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Medom",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096778,
+            "from_actor": 370,
+            "to_actor": 1316,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Medom",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096779,
+            "from_actor": 370,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Medom",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096780,
+            "from_actor": 370,
+            "to_actor": 342,
+            "start": "2013-10-01",
+            "end": "2013-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Medom",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

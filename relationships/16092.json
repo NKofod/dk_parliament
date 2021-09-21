@@ -1,0 +1,81 @@
+{
+    "16092": [
+        {
+            "id": 22994645,
+            "from_actor": 16092,
+            "to_actor": 16054,
+            "start": "2015-10-26",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22994646,
+            "from_actor": 16092,
+            "to_actor": 16016,
+            "start": "2015-10-30",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Udlændinge-, Integrations- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994647,
+            "from_actor": 16092,
+            "to_actor": 16018,
+            "start": "2015-10-28",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994648,
+            "from_actor": 16092,
+            "to_actor": 16026,
+            "start": "2015-10-28",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994649,
+            "from_actor": 16092,
+            "to_actor": 16035,
+            "start": "2015-10-28",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22994650,
+            "from_actor": 16092,
+            "to_actor": 16031,
+            "start": "2015-10-28",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27617368,
+            "from_actor": 16092,
+            "to_actor": 16060,
+            "start": "2015-10-26",
+            "end": "2015-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sisse Marie Welling",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

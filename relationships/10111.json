@@ -1,0 +1,268 @@
+{
+    "10111": [
+        {
+            "id": 77243,
+            "from_actor": 14632,
+            "to_actor": 10111,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77314,
+            "from_actor": 14639,
+            "to_actor": 10111,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77622,
+            "from_actor": 14649,
+            "to_actor": 10111,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77689,
+            "from_actor": 14653,
+            "to_actor": 10111,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78163,
+            "from_actor": 14663,
+            "to_actor": 10111,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78251,
+            "from_actor": 14666,
+            "to_actor": 10111,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78523,
+            "from_actor": 14676,
+            "to_actor": 10111,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 78621,
+            "from_actor": 14681,
+            "to_actor": 10111,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78903,
+            "from_actor": 14690,
+            "to_actor": 10111,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79001,
+            "from_actor": 14695,
+            "to_actor": 10111,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 79327,
+            "from_actor": 14704,
+            "to_actor": 10111,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79429,
+            "from_actor": 14708,
+            "to_actor": 10111,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Kirsten Damgaard Lee",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096935,
+            "from_actor": 10111,
+            "to_actor": 14666,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096936,
+            "from_actor": 10111,
+            "to_actor": 14681,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096937,
+            "from_actor": 10111,
+            "to_actor": 14695,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096938,
+            "from_actor": 10111,
+            "to_actor": 14708,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096939,
+            "from_actor": 10111,
+            "to_actor": 14653,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096940,
+            "from_actor": 10111,
+            "to_actor": 14639,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15096941,
+            "from_actor": 10111,
+            "to_actor": 14704,
+            "start": "1990-10-02",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096942,
+            "from_actor": 10111,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096943,
+            "from_actor": 10111,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096944,
+            "from_actor": 10111,
+            "to_actor": 14663,
+            "start": "1988-05-10",
+            "end": "1988-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096945,
+            "from_actor": 10111,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 15096946,
+            "from_actor": 10111,
+            "to_actor": 14632,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kirsten Damgaard Lee",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

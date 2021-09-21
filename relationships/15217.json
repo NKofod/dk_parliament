@@ -1,0 +1,224 @@
+{
+    "15217": [
+        {
+            "id": 91131,
+            "from_actor": 15190,
+            "to_actor": 15217,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91191,
+            "from_actor": 15225,
+            "to_actor": 15217,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91491,
+            "from_actor": 15231,
+            "to_actor": 15217,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91557,
+            "from_actor": 15241,
+            "to_actor": 15217,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91860,
+            "from_actor": 15251,
+            "to_actor": 15217,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91926,
+            "from_actor": 15262,
+            "to_actor": 15217,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92221,
+            "from_actor": 15269,
+            "to_actor": 15217,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92296,
+            "from_actor": 15281,
+            "to_actor": 15217,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92589,
+            "from_actor": 15290,
+            "to_actor": 15217,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92664,
+            "from_actor": 15294,
+            "to_actor": 15217,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Frederik Slipsager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106656,
+            "from_actor": 15217,
+            "to_actor": 15225,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106657,
+            "from_actor": 15217,
+            "to_actor": 15241,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106658,
+            "from_actor": 15217,
+            "to_actor": 15262,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106659,
+            "from_actor": 15217,
+            "to_actor": 15281,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106660,
+            "from_actor": 15217,
+            "to_actor": 15294,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526793,
+            "from_actor": 15217,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526966,
+            "from_actor": 15217,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527148,
+            "from_actor": 15217,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527334,
+            "from_actor": 15217,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527522,
+            "from_actor": 15217,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Frederik Slipsager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

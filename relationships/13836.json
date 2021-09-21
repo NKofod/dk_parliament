@@ -1,0 +1,114 @@
+{
+    "13836": [
+        {
+            "id": 64595,
+            "from_actor": 5163,
+            "to_actor": 13836,
+            "start": "2014-11-03",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Helge Vagn Jacobsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65223,
+            "from_actor": 13641,
+            "to_actor": 13836,
+            "start": "2014-11-03",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Radikale Venstre",
+            "to_actor_name": "Helge Vagn Jacobsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 65225,
+            "from_actor": 13635,
+            "to_actor": 13836,
+            "start": "2014-11-03",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Vagn Jacobsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 65282,
+            "from_actor": 13691,
+            "to_actor": 13836,
+            "start": "2014-11-03",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Helge Vagn Jacobsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 75705,
+            "from_actor": 5169,
+            "to_actor": 13836,
+            "start": "2015-04-08",
+            "end": "2015-04-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Småøer",
+            "to_actor_name": "Helge Vagn Jacobsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65215,
+            "from_actor": 13836,
+            "to_actor": 5163,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Helge Vagn Jacobsen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65246,
+            "from_actor": 13836,
+            "to_actor": 13641,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Helge Vagn Jacobsen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81224,
+            "from_actor": 13836,
+            "to_actor": 5169,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Helge Vagn Jacobsen",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 81225,
+            "from_actor": 13836,
+            "to_actor": 13691,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Helge Vagn Jacobsen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 313213,
+            "from_actor": 13836,
+            "to_actor": 13635,
+            "start": "2014-11-03",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Helge Vagn Jacobsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

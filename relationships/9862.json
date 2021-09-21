@@ -1,0 +1,213 @@
+{
+    "9862": [
+        {
+            "id": 79142,
+            "from_actor": 14690,
+            "to_actor": 9862,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Filt Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80160,
+            "from_actor": 14729,
+            "to_actor": 9862,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Filt Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 80403,
+            "from_actor": 14720,
+            "to_actor": 9862,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Filt Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80628,
+            "from_actor": 14730,
+            "to_actor": 9862,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Filt Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80822,
+            "from_actor": 14739,
+            "to_actor": 9862,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Filt Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81220,
+            "from_actor": 14752,
+            "to_actor": 9862,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Filt Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 81415,
+            "from_actor": 14742,
+            "to_actor": 9862,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Filt Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81638,
+            "from_actor": 14754,
+            "to_actor": 9862,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Filt Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81841,
+            "from_actor": 14762,
+            "to_actor": 9862,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Filt Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 540752,
+            "from_actor": 9862,
+            "to_actor": 14729,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 540753,
+            "from_actor": 9862,
+            "to_actor": 14739,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 540754,
+            "from_actor": 9862,
+            "to_actor": 14752,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 540757,
+            "from_actor": 9862,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 540758,
+            "from_actor": 9862,
+            "to_actor": 14742,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 540760,
+            "from_actor": 9862,
+            "to_actor": 14720,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 540761,
+            "from_actor": 9862,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4750752,
+            "from_actor": 9862,
+            "to_actor": 14762,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4875216,
+            "from_actor": 9862,
+            "to_actor": 14702,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911678,
+            "from_actor": 9862,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Filt Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

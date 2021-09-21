@@ -1,0 +1,257 @@
+{
+    "10391": [
+        {
+            "id": 69073,
+            "from_actor": 14327,
+            "to_actor": 10391,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70977,
+            "from_actor": 14338,
+            "to_actor": 10391,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71603,
+            "from_actor": 14387,
+            "to_actor": 10391,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71872,
+            "from_actor": 14415,
+            "to_actor": 10391,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71990,
+            "from_actor": 14420,
+            "to_actor": 10391,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72202,
+            "from_actor": 14431,
+            "to_actor": 10391,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72355,
+            "from_actor": 14446,
+            "to_actor": 10391,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72625,
+            "from_actor": 14457,
+            "to_actor": 10391,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73049,
+            "from_actor": 14478,
+            "to_actor": 10391,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jørgen Bolvig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589171,
+            "from_actor": 10391,
+            "to_actor": 14446,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589172,
+            "from_actor": 10391,
+            "to_actor": 14468,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589173,
+            "from_actor": 10391,
+            "to_actor": 14487,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589174,
+            "from_actor": 10391,
+            "to_actor": 14327,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589175,
+            "from_actor": 10391,
+            "to_actor": 14364,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589176,
+            "from_actor": 10391,
+            "to_actor": 14401,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589177,
+            "from_actor": 10391,
+            "to_actor": 14420,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 1589178,
+            "from_actor": 10391,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589180,
+            "from_actor": 10391,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589181,
+            "from_actor": 10391,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589182,
+            "from_actor": 10391,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589183,
+            "from_actor": 10391,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 1589184,
+            "from_actor": 10391,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714511,
+            "from_actor": 10391,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Jens Jørgen Bolvig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

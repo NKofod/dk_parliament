@@ -1,0 +1,158 @@
+{
+    "14000": [
+        {
+            "id": 65721,
+            "from_actor": 13649,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Siumut",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 65722,
+            "from_actor": 13635,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 65733,
+            "from_actor": 5140,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "næstformand",
+            "from_actor_name": "Grønlandsudvalget",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65734,
+            "from_actor": 5141,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65735,
+            "from_actor": 13709,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65751,
+            "from_actor": 13701,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 65850,
+            "from_actor": 5156,
+            "to_actor": 14000,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Nick Nielsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 13433246,
+            "from_actor": 14000,
+            "to_actor": 13649,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Siumut",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13433247,
+            "from_actor": 14000,
+            "to_actor": 13709,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13433248,
+            "from_actor": 14000,
+            "to_actor": 5141,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13433249,
+            "from_actor": 14000,
+            "to_actor": 5156,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 13433250,
+            "from_actor": 14000,
+            "to_actor": 13635,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "medlem",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 13433251,
+            "from_actor": 14000,
+            "to_actor": 5140,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "næstformand",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13433252,
+            "from_actor": 14000,
+            "to_actor": 13701,
+            "start": "2014-12-16",
+            "end": "2015-02-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Nick Nielsen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        }
+    ]
+}

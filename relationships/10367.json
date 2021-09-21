@@ -1,0 +1,224 @@
+{
+    "10367": [
+        {
+            "id": 70816,
+            "from_actor": 14338,
+            "to_actor": 10367,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72293,
+            "from_actor": 14431,
+            "to_actor": 10367,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72359,
+            "from_actor": 14446,
+            "to_actor": 10367,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Janne Normann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72707,
+            "from_actor": 14457,
+            "to_actor": 10367,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73129,
+            "from_actor": 14478,
+            "to_actor": 10367,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73976,
+            "from_actor": 14513,
+            "to_actor": 10367,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Janne Normann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74243,
+            "from_actor": 14523,
+            "to_actor": 10367,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74655,
+            "from_actor": 14546,
+            "to_actor": 10367,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74788,
+            "from_actor": 14552,
+            "to_actor": 10367,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Janne Normann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102695,
+            "from_actor": 15660,
+            "to_actor": 10367,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Janne Normann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127098,
+            "from_actor": 15677,
+            "to_actor": 10367,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Janne Normann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69529,
+            "from_actor": 10367,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128856,
+            "from_actor": 10367,
+            "to_actor": 14364,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130637,
+            "from_actor": 10367,
+            "to_actor": 14468,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130764,
+            "from_actor": 10367,
+            "to_actor": 14487,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131207,
+            "from_actor": 10367,
+            "to_actor": 14552,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588476,
+            "from_actor": 10367,
+            "to_actor": 15677,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714409,
+            "from_actor": 10367,
+            "to_actor": 14534,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714591,
+            "from_actor": 10367,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714897,
+            "from_actor": 10367,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Janne Normann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

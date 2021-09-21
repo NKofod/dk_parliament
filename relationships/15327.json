@@ -1,0 +1,169 @@
+{
+    "15327": [
+        {
+            "id": 93133,
+            "from_actor": 15303,
+            "to_actor": 15327,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93311,
+            "from_actor": 15346,
+            "to_actor": 15327,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93497,
+            "from_actor": 15351,
+            "to_actor": 15327,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93679,
+            "from_actor": 15361,
+            "to_actor": 15327,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94074,
+            "from_actor": 15381,
+            "to_actor": 15327,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94454,
+            "from_actor": 15400,
+            "to_actor": 15327,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94621,
+            "from_actor": 15390,
+            "to_actor": 15327,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Verner Sinnbeck",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 443501,
+            "from_actor": 15327,
+            "to_actor": 15346,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 443502,
+            "from_actor": 15327,
+            "to_actor": 15361,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 443503,
+            "from_actor": 15327,
+            "to_actor": 15381,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 443504,
+            "from_actor": 15327,
+            "to_actor": 15400,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527705,
+            "from_actor": 15327,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527886,
+            "from_actor": 15327,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528071,
+            "from_actor": 15327,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528267,
+            "from_actor": 15327,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Verner Sinnbeck",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

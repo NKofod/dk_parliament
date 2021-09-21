@@ -1,0 +1,136 @@
+{
+    "14455": [
+        {
+            "id": 72505,
+            "from_actor": 14431,
+            "to_actor": 14455,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mette Brigsted Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72753,
+            "from_actor": 14457,
+            "to_actor": 14455,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mette Brigsted Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73161,
+            "from_actor": 14478,
+            "to_actor": 14455,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mette Brigsted Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73919,
+            "from_actor": 14495,
+            "to_actor": 14455,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mette Brigsted Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126727,
+            "from_actor": 14455,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126729,
+            "from_actor": 14455,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126730,
+            "from_actor": 14455,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 130499,
+            "from_actor": 14455,
+            "to_actor": 14443,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130617,
+            "from_actor": 14455,
+            "to_actor": 14464,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130738,
+            "from_actor": 14455,
+            "to_actor": 14484,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130870,
+            "from_actor": 14455,
+            "to_actor": 14511,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714623,
+            "from_actor": 14455,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Mette Brigsted Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

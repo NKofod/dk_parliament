@@ -1,0 +1,92 @@
+{
+    "1513": [
+        {
+            "id": 48915,
+            "from_actor": 734,
+            "to_actor": 1513,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Liberal Alliance",
+            "to_actor_name": "Kisser Franciska Lehnert",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 49954,
+            "from_actor": 342,
+            "to_actor": 1513,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kisser Franciska Lehnert",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 52000,
+            "from_actor": 331,
+            "to_actor": 1513,
+            "start": "2012-10-04",
+            "end": "2012-10-04",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "to_actor_name": "Kisser Franciska Lehnert",
+            "type": "Udvalg"
+        },
+        {
+            "id": 52073,
+            "from_actor": 746,
+            "to_actor": 1513,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Liberal Alliance",
+            "to_actor_name": "Kisser Franciska Lehnert",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913853,
+            "from_actor": 1513,
+            "to_actor": 734,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Kisser Franciska Lehnert",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913854,
+            "from_actor": 1513,
+            "to_actor": 746,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Kisser Franciska Lehnert",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913855,
+            "from_actor": 1513,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2012-10-08",
+            "role": "medlem",
+            "from_actor_name": "Kisser Franciska Lehnert",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22913856,
+            "from_actor": 1513,
+            "to_actor": 331,
+            "start": "2012-10-04",
+            "end": "2012-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kisser Franciska Lehnert",
+            "to_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "type": "Udvalg"
+        }
+    ]
+}

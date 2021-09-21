@@ -1,0 +1,224 @@
+{
+    "9908": [
+        {
+            "id": 84335,
+            "from_actor": 14825,
+            "to_actor": 9908,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84408,
+            "from_actor": 14834,
+            "to_actor": 9908,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84778,
+            "from_actor": 14846,
+            "to_actor": 9908,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85306,
+            "from_actor": 14841,
+            "to_actor": 9908,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85558,
+            "from_actor": 14855,
+            "to_actor": 9908,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85693,
+            "from_actor": 14860,
+            "to_actor": 9908,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86000,
+            "from_actor": 14872,
+            "to_actor": 9908,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86089,
+            "from_actor": 14880,
+            "to_actor": 9908,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86930,
+            "from_actor": 14897,
+            "to_actor": 9908,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87017,
+            "from_actor": 14904,
+            "to_actor": 9908,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Enhedslisten",
+            "to_actor_name": "Søren Kolstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545571,
+            "from_actor": 9908,
+            "to_actor": 14834,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545572,
+            "from_actor": 9908,
+            "to_actor": 14846,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545573,
+            "from_actor": 9908,
+            "to_actor": 14860,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545574,
+            "from_actor": 9908,
+            "to_actor": 14880,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545575,
+            "from_actor": 9908,
+            "to_actor": 14904,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 16545576,
+            "from_actor": 9908,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 16545577,
+            "from_actor": 9908,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 16545578,
+            "from_actor": 9908,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 16545579,
+            "from_actor": 9908,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 16545580,
+            "from_actor": 9908,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Søren Kolstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

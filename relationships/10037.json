@@ -1,0 +1,235 @@
+{
+    "10037": [
+        {
+            "id": 83169,
+            "from_actor": 14789,
+            "to_actor": 10037,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83598,
+            "from_actor": 14800,
+            "to_actor": 10037,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84540,
+            "from_actor": 14825,
+            "to_actor": 10037,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85335,
+            "from_actor": 14841,
+            "to_actor": 10037,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85385,
+            "from_actor": 14841,
+            "to_actor": 10037,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85842,
+            "from_actor": 14855,
+            "to_actor": 10037,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86780,
+            "from_actor": 14872,
+            "to_actor": 10037,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Svane",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 166079,
+            "from_actor": 10037,
+            "to_actor": 14833,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166080,
+            "from_actor": 10037,
+            "to_actor": 14845,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166081,
+            "from_actor": 10037,
+            "to_actor": 14859,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166082,
+            "from_actor": 10037,
+            "to_actor": 14879,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166083,
+            "from_actor": 10037,
+            "to_actor": 14792,
+            "start": "1995-10-03",
+            "end": "1995-09-30",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166084,
+            "from_actor": 10037,
+            "to_actor": 14804,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 166085,
+            "from_actor": 10037,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 166087,
+            "from_actor": 10037,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 166088,
+            "from_actor": 10037,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1995-09-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 166090,
+            "from_actor": 10037,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 166091,
+            "from_actor": 10037,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588444,
+            "from_actor": 10037,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4910905,
+            "from_actor": 10037,
+            "to_actor": 14817,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594802,
+            "from_actor": 10037,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Svane",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

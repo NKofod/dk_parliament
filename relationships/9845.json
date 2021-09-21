@@ -1,0 +1,158 @@
+{
+    "9845": [
+        {
+            "id": 84322,
+            "from_actor": 14825,
+            "to_actor": 9845,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carsten Koch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84455,
+            "from_actor": 14836,
+            "to_actor": 9845,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Carsten Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84830,
+            "from_actor": 14849,
+            "to_actor": 9845,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Carsten Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85293,
+            "from_actor": 14841,
+            "to_actor": 9845,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carsten Koch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85545,
+            "from_actor": 14855,
+            "to_actor": 9845,
+            "start": "1999-10-05",
+            "end": "2000-09-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carsten Koch",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85742,
+            "from_actor": 14863,
+            "to_actor": 9845,
+            "start": "1999-10-05",
+            "end": "2000-09-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Carsten Koch",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17186183,
+            "from_actor": 9845,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17186184,
+            "from_actor": 9845,
+            "to_actor": 14836,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17186185,
+            "from_actor": 9845,
+            "to_actor": 14863,
+            "start": "1999-10-05",
+            "end": "2000-09-01",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17186186,
+            "from_actor": 9845,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17186187,
+            "from_actor": 9845,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17186188,
+            "from_actor": 9845,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-09-01",
+            "role": "medlem",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17186190,
+            "from_actor": 9845,
+            "to_actor": 13581,
+            "start": "1998-03-23",
+            "end": "2000-02-23",
+            "role": "Minister",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "sundhedsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 21630102,
+            "from_actor": 9845,
+            "to_actor": 203,
+            "start": "1994-11-01",
+            "end": "1998-03-23",
+            "role": "Minister",
+            "from_actor_name": "Carsten Koch",
+            "to_actor_name": "skatteministeren",
+            "type": "Ministertitel"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1089": [
+        {
+            "id": 85397,
+            "from_actor": 14841,
+            "to_actor": 1089,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Malene Vestergård",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4893171,
+            "from_actor": 1089,
+            "to_actor": 14850,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Malene Vestergård",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

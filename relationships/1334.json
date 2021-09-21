@@ -1,0 +1,158 @@
+{
+    "1334": [
+        {
+            "id": 54078,
+            "from_actor": 970,
+            "to_actor": 1334,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 54123,
+            "from_actor": 13666,
+            "to_actor": 1334,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 64517,
+            "from_actor": 5145,
+            "to_actor": 1334,
+            "start": "2014-10-22",
+            "end": "2014-11-06",
+            "role": "medlem",
+            "from_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64519,
+            "from_actor": 5165,
+            "to_actor": 1334,
+            "start": "2014-10-22",
+            "end": "2014-11-06",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64919,
+            "from_actor": 13635,
+            "to_actor": 1334,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103860,
+            "from_actor": 13644,
+            "to_actor": 1334,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Liberal Alliance",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 112948,
+            "from_actor": 15867,
+            "to_actor": 1334,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Peter Laigaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 9477134,
+            "from_actor": 1334,
+            "to_actor": 13644,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9477135,
+            "from_actor": 1334,
+            "to_actor": 5145,
+            "start": "2014-10-22",
+            "end": "2014-11-06",
+            "role": "medlem",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9477136,
+            "from_actor": 1334,
+            "to_actor": 13635,
+            "start": "2014-10-22",
+            "end": "2014-11-07",
+            "role": "medlem",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9477137,
+            "from_actor": 1334,
+            "to_actor": 5165,
+            "start": "2014-10-22",
+            "end": "2014-11-06",
+            "role": "medlem",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9477139,
+            "from_actor": 1334,
+            "to_actor": 970,
+            "start": "2014-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 9477140,
+            "from_actor": 1334,
+            "to_actor": 13666,
+            "start": "2014-05-18",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 19843113,
+            "from_actor": 1334,
+            "to_actor": 15867,
+            "start": "2014-05-18",
+            "end": "2020-05-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Laigaard",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

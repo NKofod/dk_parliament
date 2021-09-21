@@ -1,0 +1,92 @@
+{
+    "1958": [
+        {
+            "id": 15645,
+            "from_actor": 736,
+            "to_actor": 1958,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Lis Grønnegård Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19075,
+            "from_actor": 737,
+            "to_actor": 1958,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Lis Grønnegård Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25059,
+            "from_actor": 738,
+            "to_actor": 1958,
+            "start": "2005-10-05",
+            "end": "2006-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Lis Grønnegård Rasmussen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702411,
+            "from_actor": 1958,
+            "to_actor": 738,
+            "start": "2005-10-05",
+            "end": "2006-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lis Grønnegård Rasmussen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3702412,
+            "from_actor": 1958,
+            "to_actor": 737,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lis Grønnegård Rasmussen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 13868679,
+            "from_actor": 1958,
+            "to_actor": 736,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lis Grønnegård Rasmussen",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957343,
+            "from_actor": 1958,
+            "to_actor": 18768,
+            "start": "2019-08-23",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lis Grønnegård Rasmussen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530227,
+            "from_actor": 1958,
+            "to_actor": 18875,
+            "start": "2019-10-02",
+            "end": "2019-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lis Grønnegård Rasmussen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

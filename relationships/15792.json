@@ -1,0 +1,235 @@
+{
+    "15792": [
+        {
+            "id": 109575,
+            "from_actor": 15752,
+            "to_actor": 15792,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Alternativet",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 113431,
+            "from_actor": 15877,
+            "to_actor": 15792,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 114850,
+            "from_actor": 15897,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115071,
+            "from_actor": 15909,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uddannelses- og Forskningsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115118,
+            "from_actor": 15912,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Grønlandsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115566,
+            "from_actor": 15918,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Europarådet",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 115606,
+            "from_actor": 15902,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115631,
+            "from_actor": 15919,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 116224,
+            "from_actor": 15922,
+            "to_actor": 15792,
+            "start": "2015-07-11",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 116728,
+            "from_actor": 15920,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 124142,
+            "from_actor": 15746,
+            "to_actor": 15792,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125280,
+            "from_actor": 15908,
+            "to_actor": 15792,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 126070,
+            "from_actor": 15878,
+            "to_actor": 15792,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 126468,
+            "from_actor": 15898,
+            "to_actor": 15792,
+            "start": "2015-09-17",
+            "end": "2015-09-17",
+            "role": "medlem",
+            "from_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 126593,
+            "from_actor": 16008,
+            "to_actor": 15792,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Kommission"
+        },
+        {
+            "id": 127426,
+            "from_actor": 16021,
+            "to_actor": 15792,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uddannelses- og Forskningsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128124,
+            "from_actor": 16026,
+            "to_actor": 15792,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kulturudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128451,
+            "from_actor": 16033,
+            "to_actor": 15792,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128582,
+            "from_actor": 16037,
+            "to_actor": 15792,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Rasmus Nordqvist",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27617534,
+            "from_actor": 15792,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Nordqvist",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27619235,
+            "from_actor": 15792,
+            "to_actor": 19438,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Nordqvist",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

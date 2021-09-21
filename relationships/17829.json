@@ -1,0 +1,48 @@
+{
+    "17829": [
+        {
+            "id": 20106786,
+            "from_actor": 17829,
+            "to_actor": 18780,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Emilie Svensdatter Mehlsen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20106787,
+            "from_actor": 17829,
+            "to_actor": 18769,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Emilie Svensdatter Mehlsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20106788,
+            "from_actor": 17829,
+            "to_actor": 17658,
+            "start": "2018-02-05",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Emilie Svensdatter Mehlsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 20106790,
+            "from_actor": 17829,
+            "to_actor": 18348,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Emilie Svensdatter Mehlsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

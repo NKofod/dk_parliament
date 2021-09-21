@@ -1,0 +1,312 @@
+{
+    "15116": [
+        {
+            "id": 88701,
+            "from_actor": 14976,
+            "to_actor": 15116,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88865,
+            "from_actor": 15137,
+            "to_actor": 15116,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89282,
+            "from_actor": 15147,
+            "to_actor": 15116,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89475,
+            "from_actor": 15158,
+            "to_actor": 15116,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89838,
+            "from_actor": 15172,
+            "to_actor": 15116,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90007,
+            "from_actor": 15162,
+            "to_actor": 15116,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90565,
+            "from_actor": 15186,
+            "to_actor": 15116,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90731,
+            "from_actor": 15177,
+            "to_actor": 15116,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91072,
+            "from_actor": 15190,
+            "to_actor": 15116,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91295,
+            "from_actor": 15229,
+            "to_actor": 15116,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91445,
+            "from_actor": 15231,
+            "to_actor": 15116,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91665,
+            "from_actor": 15246,
+            "to_actor": 15116,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91819,
+            "from_actor": 15251,
+            "to_actor": 15116,
+            "start": "1958-10-07",
+            "end": "1959-09-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92038,
+            "from_actor": 15267,
+            "to_actor": 15116,
+            "start": "1958-10-07",
+            "end": "1959-09-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "O. Øllgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707941,
+            "from_actor": 15116,
+            "to_actor": 15229,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707942,
+            "from_actor": 15116,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707943,
+            "from_actor": 15116,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707944,
+            "from_actor": 15116,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707945,
+            "from_actor": 15116,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707946,
+            "from_actor": 15116,
+            "to_actor": 15137,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707947,
+            "from_actor": 15116,
+            "to_actor": 15267,
+            "start": "1958-10-07",
+            "end": "1959-09-01",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22707948,
+            "from_actor": 15116,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707949,
+            "from_actor": 15116,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707950,
+            "from_actor": 15116,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707951,
+            "from_actor": 15116,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707952,
+            "from_actor": 15116,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707953,
+            "from_actor": 15116,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22707954,
+            "from_actor": 15116,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-09-01",
+            "role": "medlem",
+            "from_actor_name": "O. Øllgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

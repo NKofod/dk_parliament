@@ -1,0 +1,48 @@
+{
+    "15464": [
+        {
+            "id": 95659,
+            "from_actor": 15452,
+            "to_actor": 15464,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorvald Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124538,
+            "from_actor": 15457,
+            "to_actor": 15464,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Thorvald Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25670576,
+            "from_actor": 15464,
+            "to_actor": 15457,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thorvald Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25670577,
+            "from_actor": 15464,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Thorvald Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

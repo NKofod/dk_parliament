@@ -1,0 +1,191 @@
+{
+    "15307": [
+        {
+            "id": 93099,
+            "from_actor": 15303,
+            "to_actor": 15307,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93278,
+            "from_actor": 15344,
+            "to_actor": 15307,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 93464,
+            "from_actor": 15351,
+            "to_actor": 15307,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 93646,
+            "from_actor": 15359,
+            "to_actor": 15307,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94041,
+            "from_actor": 15379,
+            "to_actor": 15307,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94421,
+            "from_actor": 15398,
+            "to_actor": 15307,
+            "start": "1963-10-01",
+            "end": "1964-03-27",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94471,
+            "from_actor": 15403,
+            "to_actor": 15307,
+            "start": "1964-03-27",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Erik A. Jensen",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 94591,
+            "from_actor": 15390,
+            "to_actor": 15307,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik A. Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158730,
+            "from_actor": 15307,
+            "to_actor": 15403,
+            "start": "1964-03-27",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Uden for folketingsgrupperne - Erik A. Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158731,
+            "from_actor": 15307,
+            "to_actor": 15344,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158732,
+            "from_actor": 15307,
+            "to_actor": 15359,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158733,
+            "from_actor": 15307,
+            "to_actor": 15379,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158734,
+            "from_actor": 15307,
+            "to_actor": 15398,
+            "start": "1963-10-01",
+            "end": "1964-03-27",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21527672,
+            "from_actor": 15307,
+            "to_actor": 15303,
+            "start": "1960-11-15",
+            "end": "1961-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527853,
+            "from_actor": 15307,
+            "to_actor": 15351,
+            "start": "1961-10-03",
+            "end": "1962-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528039,
+            "from_actor": 15307,
+            "to_actor": 15372,
+            "start": "1962-10-02",
+            "end": "1963-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21528236,
+            "from_actor": 15307,
+            "to_actor": 15390,
+            "start": "1963-10-01",
+            "end": "1964-09-22",
+            "role": "medlem",
+            "from_actor_name": "Erik A. Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

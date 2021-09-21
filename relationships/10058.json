@@ -1,0 +1,48 @@
+{
+    "10058": [
+        {
+            "id": 79373,
+            "from_actor": 14704,
+            "to_actor": 10058,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Klaus Bonde Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 79421,
+            "from_actor": 14707,
+            "to_actor": 10058,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Klaus Bonde Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23581758,
+            "from_actor": 10058,
+            "to_actor": 14707,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Klaus Bonde Larsen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23581759,
+            "from_actor": 10058,
+            "to_actor": 14704,
+            "start": "1990-10-04",
+            "end": "1990-12-12",
+            "role": "medlem",
+            "from_actor_name": "Klaus Bonde Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

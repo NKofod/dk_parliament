@@ -1,0 +1,180 @@
+{
+    "15237": [
+        {
+            "id": 91494,
+            "from_actor": 15231,
+            "to_actor": 15237,
+            "start": "1957-11-02",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elias Lauf",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91634,
+            "from_actor": 15244,
+            "to_actor": 15237,
+            "start": "1957-11-02",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Elias Lauf",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91862,
+            "from_actor": 15251,
+            "to_actor": 15237,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elias Lauf",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92008,
+            "from_actor": 15265,
+            "to_actor": 15237,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Elias Lauf",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92223,
+            "from_actor": 15269,
+            "to_actor": 15237,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elias Lauf",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92378,
+            "from_actor": 15285,
+            "to_actor": 15237,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Elias Lauf",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92591,
+            "from_actor": 15290,
+            "to_actor": 15237,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elias Lauf",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92742,
+            "from_actor": 15298,
+            "to_actor": 15237,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Elias Lauf",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105804,
+            "from_actor": 15237,
+            "to_actor": 15244,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105805,
+            "from_actor": 15237,
+            "to_actor": 15265,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105806,
+            "from_actor": 15237,
+            "to_actor": 15285,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105807,
+            "from_actor": 15237,
+            "to_actor": 15298,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526968,
+            "from_actor": 15237,
+            "to_actor": 15231,
+            "start": "1957-11-02",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527150,
+            "from_actor": 15237,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527336,
+            "from_actor": 15237,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527524,
+            "from_actor": 15237,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Elias Lauf",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

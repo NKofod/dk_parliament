@@ -1,0 +1,26 @@
+{
+    "9974": [
+        {
+            "id": 83612,
+            "from_actor": 14800,
+            "to_actor": 9974,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Jønsson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134165,
+            "from_actor": 9974,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Steen Jønsson",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

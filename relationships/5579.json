@@ -1,0 +1,268 @@
+{
+    "5579": [
+        {
+            "id": 30998,
+            "from_actor": 1144,
+            "to_actor": 5579,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 33157,
+            "from_actor": 1145,
+            "to_actor": 5579,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36472,
+            "from_actor": 1143,
+            "to_actor": 5579,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 37790,
+            "from_actor": 1127,
+            "to_actor": 5579,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39913,
+            "from_actor": 1128,
+            "to_actor": 5579,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42938,
+            "from_actor": 1129,
+            "to_actor": 5579,
+            "start": "2010-10-05",
+            "end": "2010-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Naturklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 44955,
+            "from_actor": 1130,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47769,
+            "from_actor": 1131,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47791,
+            "from_actor": 1141,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50333,
+            "from_actor": 1137,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53394,
+            "from_actor": 1138,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54190,
+            "from_actor": 13676,
+            "to_actor": 5579,
+            "start": "2011-01-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "type": "Kommission"
+        },
+        {
+            "id": 28904,
+            "from_actor": 5579,
+            "to_actor": 1137,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28905,
+            "from_actor": 5579,
+            "to_actor": 1138,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28906,
+            "from_actor": 5579,
+            "to_actor": 1141,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28907,
+            "from_actor": 5579,
+            "to_actor": 1143,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28908,
+            "from_actor": 5579,
+            "to_actor": 1144,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28909,
+            "from_actor": 5579,
+            "to_actor": 1145,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28910,
+            "from_actor": 5579,
+            "to_actor": 1127,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28911,
+            "from_actor": 5579,
+            "to_actor": 1128,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28912,
+            "from_actor": 5579,
+            "to_actor": 1129,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Naturklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28913,
+            "from_actor": 5579,
+            "to_actor": 1130,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28914,
+            "from_actor": 5579,
+            "to_actor": 1131,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 1053118,
+            "from_actor": 5579,
+            "to_actor": 13676,
+            "start": "2011-01-01",
+            "end": "2014-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Møldrup Christensen (udpeget af S)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

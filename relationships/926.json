@@ -1,0 +1,323 @@
+{
+    "926": [
+        {
+            "id": 1876,
+            "from_actor": 289,
+            "to_actor": 926,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 39962,
+            "from_actor": 882,
+            "to_actor": 926,
+            "start": "2009-10-09",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 44813,
+            "from_actor": 883,
+            "to_actor": 926,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 47738,
+            "from_actor": 2090,
+            "to_actor": 926,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 48008,
+            "from_actor": 562,
+            "to_actor": 926,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 50409,
+            "from_actor": 337,
+            "to_actor": 926,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 55852,
+            "from_actor": 13701,
+            "to_actor": 926,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 116756,
+            "from_actor": 15920,
+            "to_actor": 926,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Peder H. Pedersen",
+            "type": "Kommission"
+        },
+        {
+            "id": 42327,
+            "from_actor": 926,
+            "to_actor": 289,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 62795,
+            "from_actor": 926,
+            "to_actor": 13701,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 134343,
+            "from_actor": 926,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 1277886,
+            "from_actor": 926,
+            "to_actor": 16067,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2858973,
+            "from_actor": 926,
+            "to_actor": 337,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859056,
+            "from_actor": 926,
+            "to_actor": 562,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859114,
+            "from_actor": 926,
+            "to_actor": 882,
+            "start": "2009-10-09",
+            "end": "2010-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859178,
+            "from_actor": 926,
+            "to_actor": 883,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859260,
+            "from_actor": 926,
+            "to_actor": 2090,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 5965285,
+            "from_actor": 926,
+            "to_actor": 16934,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 12718540,
+            "from_actor": 926,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 14419509,
+            "from_actor": 926,
+            "to_actor": 18362,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 15956870,
+            "from_actor": 926,
+            "to_actor": 18787,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957418,
+            "from_actor": 926,
+            "to_actor": 18774,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21707826,
+            "from_actor": 926,
+            "to_actor": 18926,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21708675,
+            "from_actor": 926,
+            "to_actor": 18929,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23531026,
+            "from_actor": 926,
+            "to_actor": 18853,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 26315871,
+            "from_actor": 926,
+            "to_actor": 18759,
+            "start": "2020-10-06",
+            "end": "2021-06-29",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        },
+        {
+            "id": 27238478,
+            "from_actor": 926,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 27500735,
+            "from_actor": 926,
+            "to_actor": 19427,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27500758,
+            "from_actor": 926,
+            "to_actor": 19430,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Peder H. Pedersen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        }
+    ]
+}

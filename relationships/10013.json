@@ -1,0 +1,202 @@
+{
+    "10013": [
+        {
+            "id": 84337,
+            "from_actor": 14825,
+            "to_actor": 10013,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84377,
+            "from_actor": 14831,
+            "to_actor": 10013,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84747,
+            "from_actor": 14843,
+            "to_actor": 10013,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85308,
+            "from_actor": 14841,
+            "to_actor": 10013,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85560,
+            "from_actor": 14855,
+            "to_actor": 10013,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85660,
+            "from_actor": 14857,
+            "to_actor": 10013,
+            "start": "1999-10-05",
+            "end": "2000-06-21",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85832,
+            "from_actor": 14869,
+            "to_actor": 10013,
+            "start": "2000-09-20",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Liberale Højre",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86002,
+            "from_actor": 14872,
+            "to_actor": 10013,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86067,
+            "from_actor": 14877,
+            "to_actor": 10013,
+            "start": "2000-10-03",
+            "end": "2000-11-07",
+            "role": "medlem",
+            "from_actor_name": "Det Liberale Højre",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86764,
+            "from_actor": 14891,
+            "to_actor": 10013,
+            "start": "2000-11-07",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Inge Refshauge",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86765,
+            "from_actor": 14892,
+            "to_actor": 10013,
+            "start": "2000-12-14",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Demokratisk Folkeparti",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86932,
+            "from_actor": 14897,
+            "to_actor": 10013,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86988,
+            "from_actor": 14901,
+            "to_actor": 10013,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Demokratisk Folkeparti",
+            "to_actor_name": "Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134499,
+            "from_actor": 10013,
+            "to_actor": 14831,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Inge Refshauge",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134855,
+            "from_actor": 10013,
+            "to_actor": 14857,
+            "start": "1999-10-05",
+            "end": "2000-06-21",
+            "role": "medlem",
+            "from_actor_name": "Inge Refshauge",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136356,
+            "from_actor": 10013,
+            "to_actor": 14891,
+            "start": "2000-11-07",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Inge Refshauge",
+            "to_actor_name": "Uden for folketingsgrupperne - Inge Refshauge",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588392,
+            "from_actor": 10013,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Inge Refshauge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 11594778,
+            "from_actor": 10013,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Inge Refshauge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "15199": [
+        {
+            "id": 91093,
+            "from_actor": 15190,
+            "to_actor": 15199,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Justesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91305,
+            "from_actor": 15229,
+            "to_actor": 15199,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Holger Justesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91466,
+            "from_actor": 15231,
+            "to_actor": 15199,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Justesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91675,
+            "from_actor": 15246,
+            "to_actor": 15199,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Holger Justesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91837,
+            "from_actor": 15251,
+            "to_actor": 15199,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Justesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92048,
+            "from_actor": 15267,
+            "to_actor": 15199,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Holger Justesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92198,
+            "from_actor": 15269,
+            "to_actor": 15199,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Justesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92416,
+            "from_actor": 15287,
+            "to_actor": 15199,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Holger Justesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92567,
+            "from_actor": 15290,
+            "to_actor": 15199,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Holger Justesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92779,
+            "from_actor": 15300,
+            "to_actor": 15199,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Holger Justesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140077,
+            "from_actor": 15199,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140078,
+            "from_actor": 15199,
+            "to_actor": 15300,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140079,
+            "from_actor": 15199,
+            "to_actor": 15267,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140080,
+            "from_actor": 15199,
+            "to_actor": 15229,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140081,
+            "from_actor": 15199,
+            "to_actor": 15246,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526768,
+            "from_actor": 15199,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526943,
+            "from_actor": 15199,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527125,
+            "from_actor": 15199,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527312,
+            "from_actor": 15199,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527500,
+            "from_actor": 15199,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Holger Justesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

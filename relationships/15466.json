@@ -1,0 +1,48 @@
+{
+    "15466": [
+        {
+            "id": 95661,
+            "from_actor": 15452,
+            "to_actor": 15466,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anne Feldt-Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 124526,
+            "from_actor": 15454,
+            "to_actor": 15466,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "De uafhængige",
+            "to_actor_name": "Anne Feldt-Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158875,
+            "from_actor": 15466,
+            "to_actor": 15454,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Feldt-Rasmussen",
+            "to_actor_name": "De uafhængige",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21528676,
+            "from_actor": 15466,
+            "to_actor": 15452,
+            "start": "1964-10-06",
+            "end": "1965-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Anne Feldt-Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

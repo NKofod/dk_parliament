@@ -1,0 +1,37 @@
+{
+    "9921": [
+        {
+            "id": 103610,
+            "from_actor": 15721,
+            "to_actor": 9921,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Boertmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128286,
+            "from_actor": 15733,
+            "to_actor": 9921,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Asger Boertmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235308,
+            "from_actor": 9921,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Asger Boertmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

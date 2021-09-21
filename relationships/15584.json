@@ -1,0 +1,48 @@
+{
+    "15584": [
+        {
+            "id": 99236,
+            "from_actor": 13681,
+            "to_actor": 15584,
+            "start": "2015-04-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Lole Møller (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 113013,
+            "from_actor": 15873,
+            "to_actor": 15584,
+            "start": "2015-04-01",
+            "end": "2019-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "to_actor_name": "Lole Møller (udpeget af EL)",
+            "type": "Kommission"
+        },
+        {
+            "id": 99237,
+            "from_actor": 15584,
+            "to_actor": 13681,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Lole Møller (udpeget af EL)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 12979158,
+            "from_actor": 15584,
+            "to_actor": 15873,
+            "start": "2015-04-01",
+            "end": "2019-03-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Lole Møller (udpeget af EL)",
+            "to_actor_name": "Sygekassernes Helsefonds bestyrelse",
+            "type": "Kommission"
+        }
+    ]
+}

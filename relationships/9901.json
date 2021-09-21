@@ -1,0 +1,26 @@
+{
+    "9901": [
+        {
+            "id": 81453,
+            "from_actor": 14742,
+            "to_actor": 9901,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bent Aage Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133270,
+            "from_actor": 9901,
+            "to_actor": 14746,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Bent Aage Rasmussen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

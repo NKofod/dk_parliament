@@ -1,0 +1,180 @@
+{
+    "15131": [
+        {
+            "id": 88717,
+            "from_actor": 14976,
+            "to_actor": 15131,
+            "start": "1954-04-01",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88842,
+            "from_actor": 15137,
+            "to_actor": 15131,
+            "start": "1954-04-01",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89300,
+            "from_actor": 15147,
+            "to_actor": 15131,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89452,
+            "from_actor": 15158,
+            "to_actor": 15131,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89815,
+            "from_actor": 15172,
+            "to_actor": 15131,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90024,
+            "from_actor": 15162,
+            "to_actor": 15131,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90542,
+            "from_actor": 15186,
+            "to_actor": 15131,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90748,
+            "from_actor": 15177,
+            "to_actor": 15131,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Frode Carstensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 17731922,
+            "from_actor": 15131,
+            "to_actor": 15158,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731923,
+            "from_actor": 15131,
+            "to_actor": 15172,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731924,
+            "from_actor": 15131,
+            "to_actor": 15186,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731925,
+            "from_actor": 15131,
+            "to_actor": 15137,
+            "start": "1954-04-01",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526055,
+            "from_actor": 15131,
+            "to_actor": 14976,
+            "start": "1954-04-01",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526239,
+            "from_actor": 15131,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526423,
+            "from_actor": 15131,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526603,
+            "from_actor": 15131,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Frode Carstensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

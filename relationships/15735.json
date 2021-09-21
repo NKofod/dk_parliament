@@ -1,0 +1,48 @@
+{
+    "15735": [
+        {
+            "id": 103623,
+            "from_actor": 15721,
+            "to_actor": 15735,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harry Flensted Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128242,
+            "from_actor": 15727,
+            "to_actor": 15735,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Harry Flensted Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176817,
+            "from_actor": 15735,
+            "to_actor": 15727,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Harry Flensted Andersen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235321,
+            "from_actor": 15735,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Harry Flensted Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

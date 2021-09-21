@@ -1,0 +1,37 @@
+{
+    "10110": [
+        {
+            "id": 85837,
+            "from_actor": 14855,
+            "to_actor": 10110,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carsten Aagaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20132048,
+            "from_actor": 10110,
+            "to_actor": 14857,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Carsten Aagaard",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20132049,
+            "from_actor": 10110,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Carsten Aagaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

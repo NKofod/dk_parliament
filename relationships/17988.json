@@ -1,0 +1,26 @@
+{
+    "17988": [
+        {
+            "id": 15192054,
+            "from_actor": 17988,
+            "to_actor": 17617,
+            "start": "2018-05-07",
+            "end": "2018-05-13",
+            "role": "medlem",
+            "from_actor_name": "Bjarni Hammer",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20570218,
+            "from_actor": 17988,
+            "to_actor": 17605,
+            "start": "2018-05-07",
+            "end": "2018-05-13",
+            "role": "medlem",
+            "from_actor_name": "Bjarni Hammer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

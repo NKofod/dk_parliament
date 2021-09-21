@@ -1,0 +1,114 @@
+{
+    "1914": [
+        {
+            "id": 14962,
+            "from_actor": 800,
+            "to_actor": 1914,
+            "start": "2004-10-19",
+            "end": "2004-11-11",
+            "role": "medlem",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Jakob Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15281,
+            "from_actor": 571,
+            "to_actor": 1914,
+            "start": "2004-10-19",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jakob Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15705,
+            "from_actor": 1042,
+            "to_actor": 1914,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Jakob Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16000,
+            "from_actor": 898,
+            "to_actor": 1914,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Jakob Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27678,
+            "from_actor": 423,
+            "to_actor": 1914,
+            "start": "2004-10-19",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jakob Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22739140,
+            "from_actor": 1914,
+            "to_actor": 571,
+            "start": "2004-10-19",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Jakob Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22739142,
+            "from_actor": 1914,
+            "to_actor": 1042,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jakob Jensen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22739143,
+            "from_actor": 1914,
+            "to_actor": 898,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jakob Jensen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22739144,
+            "from_actor": 1914,
+            "to_actor": 800,
+            "start": "2004-10-19",
+            "end": "2004-11-11",
+            "role": "medlem",
+            "from_actor_name": "Jakob Jensen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 26367325,
+            "from_actor": 1914,
+            "to_actor": 423,
+            "start": "2004-10-19",
+            "end": "2004-11-12",
+            "role": "medlem",
+            "from_actor_name": "Jakob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

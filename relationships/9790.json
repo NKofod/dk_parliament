@@ -1,0 +1,81 @@
+{
+    "9790": [
+        {
+            "id": 70773,
+            "from_actor": 14319,
+            "to_actor": 9790,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jørgen Damgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70828,
+            "from_actor": 14338,
+            "to_actor": 9790,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Damgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71697,
+            "from_actor": 14387,
+            "to_actor": 9790,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Damgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128806,
+            "from_actor": 9790,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Damgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129153,
+            "from_actor": 9790,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Damgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129230,
+            "from_actor": 9790,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Damgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696823,
+            "from_actor": 9790,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Damgaard",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

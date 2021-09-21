@@ -1,0 +1,59 @@
+{
+    "10087": [
+        {
+            "id": 67596,
+            "from_actor": 14091,
+            "to_actor": 10087,
+            "start": "1976-08-17",
+            "end": "1976-08-23",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Anton Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70633,
+            "from_actor": 14091,
+            "to_actor": 10087,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Anton Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121177,
+            "from_actor": 14082,
+            "to_actor": 10087,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anton Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 69811,
+            "from_actor": 10087,
+            "to_actor": 14091,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anton Nielsen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235528,
+            "from_actor": 10087,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Anton Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

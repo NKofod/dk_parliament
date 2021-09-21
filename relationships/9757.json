@@ -1,0 +1,169 @@
+{
+    "9757": [
+        {
+            "id": 84312,
+            "from_actor": 14825,
+            "to_actor": 9757,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84366,
+            "from_actor": 14830,
+            "to_actor": 9757,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84736,
+            "from_actor": 14842,
+            "to_actor": 9757,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85284,
+            "from_actor": 14841,
+            "to_actor": 9757,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85536,
+            "from_actor": 14855,
+            "to_actor": 9757,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85649,
+            "from_actor": 14856,
+            "to_actor": 9757,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85981,
+            "from_actor": 14872,
+            "to_actor": 9757,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86048,
+            "from_actor": 14875,
+            "to_actor": 9757,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86911,
+            "from_actor": 14897,
+            "to_actor": 9757,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86977,
+            "from_actor": 14899,
+            "to_actor": 9757,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Susanne Clemensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134993,
+            "from_actor": 9757,
+            "to_actor": 14875,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Susanne Clemensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 588371,
+            "from_actor": 9757,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Susanne Clemensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4892937,
+            "from_actor": 9757,
+            "to_actor": 14899,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Susanne Clemensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893082,
+            "from_actor": 9757,
+            "to_actor": 14856,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Susanne Clemensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 11594753,
+            "from_actor": 9757,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Susanne Clemensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

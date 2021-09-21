@@ -1,0 +1,81 @@
+{
+    "15636": [
+        {
+            "id": 103618,
+            "from_actor": 15721,
+            "to_actor": 15636,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Uhrskov",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126655,
+            "from_actor": 15632,
+            "to_actor": 15636,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Eva Uhrskov",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128274,
+            "from_actor": 15729,
+            "to_actor": 15636,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Eva Uhrskov",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158800,
+            "from_actor": 15636,
+            "to_actor": 15729,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Eva Uhrskov",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158801,
+            "from_actor": 15636,
+            "to_actor": 15632,
+            "start": "1971-11-22",
+            "end": "1971-12-22",
+            "role": "medlem",
+            "from_actor_name": "Eva Uhrskov",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235316,
+            "from_actor": 15636,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Eva Uhrskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422705,
+            "from_actor": 15636,
+            "to_actor": 15628,
+            "start": "1971-11-22",
+            "end": "1971-12-22",
+            "role": "stedfortræder",
+            "from_actor_name": "Eva Uhrskov",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

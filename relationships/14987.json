@@ -1,0 +1,180 @@
+{
+    "14987": [
+        {
+            "id": 88539,
+            "from_actor": 14976,
+            "to_actor": 14987,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Rager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88910,
+            "from_actor": 15139,
+            "to_actor": 14987,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "E. Rager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89148,
+            "from_actor": 15147,
+            "to_actor": 14987,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Rager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89351,
+            "from_actor": 15154,
+            "to_actor": 14987,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "E. Rager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89717,
+            "from_actor": 15168,
+            "to_actor": 14987,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "E. Rager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89873,
+            "from_actor": 15162,
+            "to_actor": 14987,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Rager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90262,
+            "from_actor": 15182,
+            "to_actor": 14987,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "E. Rager",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90601,
+            "from_actor": 15177,
+            "to_actor": 14987,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "E. Rager",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105288,
+            "from_actor": 14987,
+            "to_actor": 15139,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105289,
+            "from_actor": 14987,
+            "to_actor": 15154,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105290,
+            "from_actor": 14987,
+            "to_actor": 15168,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105291,
+            "from_actor": 14987,
+            "to_actor": 15182,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525904,
+            "from_actor": 14987,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526089,
+            "from_actor": 14987,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526273,
+            "from_actor": 14987,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526457,
+            "from_actor": 14987,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "E. Rager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

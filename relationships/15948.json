@@ -1,0 +1,37 @@
+{
+    "15948": [
+        {
+            "id": 118718,
+            "from_actor": 15942,
+            "to_actor": 15948,
+            "start": "2015-01-01",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet ikke gyldig",
+            "to_actor_name": "Iver Pedersen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 118732,
+            "from_actor": 15874,
+            "to_actor": 15948,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Natur- og Miljøklagenævnet",
+            "to_actor_name": "Iver Pedersen (udpeget af V)",
+            "type": "Kommission"
+        },
+        {
+            "id": 2754102,
+            "from_actor": 15948,
+            "to_actor": 15874,
+            "start": "2015-01-01",
+            "end": "2017-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Iver Pedersen (udpeget af V)",
+            "to_actor_name": "Natur- og Miljøklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

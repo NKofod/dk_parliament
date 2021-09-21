@@ -1,0 +1,70 @@
+{
+    "2193": [
+        {
+            "id": 17950,
+            "from_actor": 1372,
+            "to_actor": 2193,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 19833,
+            "from_actor": 1374,
+            "to_actor": 2193,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 23901,
+            "from_actor": 1373,
+            "to_actor": 2193,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folk og Værn-Udvalget",
+            "to_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "type": "Kommission"
+        },
+        {
+            "id": 17968,
+            "from_actor": 2193,
+            "to_actor": 1372,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17969,
+            "from_actor": 2193,
+            "to_actor": 1373,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 17970,
+            "from_actor": 2193,
+            "to_actor": 1374,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Paul Anton Martinussen (udpeget af KD)",
+            "to_actor_name": "Folk og Værn-Udvalget",
+            "type": "Kommission"
+        }
+    ]
+}

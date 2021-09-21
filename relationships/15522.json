@@ -1,0 +1,92 @@
+{
+    "15522": [
+        {
+            "id": 99684,
+            "from_actor": 15591,
+            "to_actor": 15522,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102203,
+            "from_actor": 15498,
+            "to_actor": 15522,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126225,
+            "from_actor": 15516,
+            "to_actor": 15522,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126569,
+            "from_actor": 15600,
+            "to_actor": 15522,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jens Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529240,
+            "from_actor": 15522,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530200,
+            "from_actor": 15522,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531604,
+            "from_actor": 15522,
+            "to_actor": 15516,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531946,
+            "from_actor": 15522,
+            "to_actor": 15600,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Jens Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

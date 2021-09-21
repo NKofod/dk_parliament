@@ -1,0 +1,81 @@
+{
+    "19146": [
+        {
+            "id": 27212731,
+            "from_actor": 19146,
+            "to_actor": 18891,
+            "start": "2020-03-10",
+            "end": "2020-05-03",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27212732,
+            "from_actor": 19146,
+            "to_actor": 18866,
+            "start": "2020-03-10",
+            "end": "2020-05-11",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27212733,
+            "from_actor": 19146,
+            "to_actor": 18856,
+            "start": "2020-03-10",
+            "end": "2020-05-03",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27212734,
+            "from_actor": 19146,
+            "to_actor": 18867,
+            "start": "2020-03-10",
+            "end": "2020-05-11",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27212735,
+            "from_actor": 19146,
+            "to_actor": 18877,
+            "start": "2020-03-10",
+            "end": "2020-05-11",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27212736,
+            "from_actor": 19146,
+            "to_actor": 18861,
+            "start": "2020-03-19",
+            "end": "2020-03-19",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27212737,
+            "from_actor": 19146,
+            "to_actor": 18861,
+            "start": "2020-03-17",
+            "end": "2020-03-17",
+            "role": "medlem",
+            "from_actor_name": "Anna Brændemose",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

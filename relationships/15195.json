@@ -1,0 +1,180 @@
+{
+    "15195": [
+        {
+            "id": 91089,
+            "from_actor": 15190,
+            "to_actor": 15195,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Emil Francke",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91260,
+            "from_actor": 15227,
+            "to_actor": 15195,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Emil Francke",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91462,
+            "from_actor": 15231,
+            "to_actor": 15195,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Emil Francke",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91626,
+            "from_actor": 15243,
+            "to_actor": 15195,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Emil Francke",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91833,
+            "from_actor": 15251,
+            "to_actor": 15195,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Emil Francke",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91995,
+            "from_actor": 15264,
+            "to_actor": 15195,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Emil Francke",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92194,
+            "from_actor": 15269,
+            "to_actor": 15195,
+            "start": "1959-10-06",
+            "end": "1960-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Emil Francke",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92362,
+            "from_actor": 15283,
+            "to_actor": 15195,
+            "start": "1959-10-06",
+            "end": "1960-01-09",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Emil Francke",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526764,
+            "from_actor": 15195,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526939,
+            "from_actor": 15195,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527121,
+            "from_actor": 15195,
+            "to_actor": 15251,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21527360,
+            "from_actor": 15195,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-01-09",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530576,
+            "from_actor": 15195,
+            "to_actor": 15227,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530646,
+            "from_actor": 15195,
+            "to_actor": 15243,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530714,
+            "from_actor": 15195,
+            "to_actor": 15264,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530802,
+            "from_actor": 15195,
+            "to_actor": 15283,
+            "start": "1959-10-06",
+            "end": "1960-01-09",
+            "role": "medlem",
+            "from_actor_name": "Emil Francke",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

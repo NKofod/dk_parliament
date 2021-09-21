@@ -1,0 +1,224 @@
+{
+    "9822": [
+        {
+            "id": 84331,
+            "from_actor": 14825,
+            "to_actor": 9822,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 84525,
+            "from_actor": 14838,
+            "to_actor": 9822,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 84906,
+            "from_actor": 14852,
+            "to_actor": 9822,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85302,
+            "from_actor": 14841,
+            "to_actor": 9822,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85554,
+            "from_actor": 14855,
+            "to_actor": 9822,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85817,
+            "from_actor": 14866,
+            "to_actor": 9822,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85996,
+            "from_actor": 14872,
+            "to_actor": 9822,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 86753,
+            "from_actor": 14889,
+            "to_actor": 9822,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 86926,
+            "from_actor": 14897,
+            "to_actor": 9822,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87140,
+            "from_actor": 14915,
+            "to_actor": 9822,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Harald Kjøller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855289,
+            "from_actor": 9822,
+            "to_actor": 14889,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855290,
+            "from_actor": 9822,
+            "to_actor": 14915,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855291,
+            "from_actor": 9822,
+            "to_actor": 14852,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855292,
+            "from_actor": 9822,
+            "to_actor": 14866,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855293,
+            "from_actor": 9822,
+            "to_actor": 14838,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855294,
+            "from_actor": 9822,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855295,
+            "from_actor": 9822,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855296,
+            "from_actor": 9822,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855297,
+            "from_actor": 9822,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855298,
+            "from_actor": 9822,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Harald Kjøller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

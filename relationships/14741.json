@@ -1,0 +1,37 @@
+{
+    "14741": [
+        {
+            "id": 80841,
+            "from_actor": 14730,
+            "to_actor": 14741,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Julie Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379876,
+            "from_actor": 14741,
+            "to_actor": 14731,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Julie Andersen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24379877,
+            "from_actor": 14741,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Julie Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

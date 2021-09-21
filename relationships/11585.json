@@ -1,0 +1,224 @@
+{
+    "11585": [
+        {
+            "id": 42582,
+            "from_actor": 368,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 43094,
+            "from_actor": 556,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 43260,
+            "from_actor": 1290,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43595,
+            "from_actor": 848,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43625,
+            "from_actor": 767,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43712,
+            "from_actor": 849,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 43809,
+            "from_actor": 618,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44499,
+            "from_actor": 776,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 44779,
+            "from_actor": 883,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 45553,
+            "from_actor": 1291,
+            "to_actor": 11585,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Udvalget til Valgs Prøvelse",
+            "to_actor_name": "Jens Arne Hedegaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882612,
+            "from_actor": 11585,
+            "to_actor": 556,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22882613,
+            "from_actor": 11585,
+            "to_actor": 776,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882614,
+            "from_actor": 11585,
+            "to_actor": 848,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882615,
+            "from_actor": 11585,
+            "to_actor": 1290,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882616,
+            "from_actor": 11585,
+            "to_actor": 883,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22882617,
+            "from_actor": 11585,
+            "to_actor": 849,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882618,
+            "from_actor": 11585,
+            "to_actor": 767,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882619,
+            "from_actor": 11585,
+            "to_actor": 618,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882620,
+            "from_actor": 11585,
+            "to_actor": 1291,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22882621,
+            "from_actor": 11585,
+            "to_actor": 368,
+            "start": "2010-10-27",
+            "end": "2010-11-18",
+            "role": "medlem",
+            "from_actor_name": "Jens Arne Hedegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

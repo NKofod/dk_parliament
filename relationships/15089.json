@@ -1,0 +1,48 @@
+{
+    "15089": [
+        {
+            "id": 88671,
+            "from_actor": 14976,
+            "to_actor": 15089,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peder Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88768,
+            "from_actor": 15134,
+            "to_actor": 15089,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peder Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526012,
+            "from_actor": 15089,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peder Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530252,
+            "from_actor": 15089,
+            "to_actor": 15134,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peder Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

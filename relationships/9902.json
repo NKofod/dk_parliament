@@ -1,0 +1,37 @@
+{
+    "9902": [
+        {
+            "id": 77824,
+            "from_actor": 14649,
+            "to_actor": 9902,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 3439349,
+            "from_actor": 9902,
+            "to_actor": 14658,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Kurt Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 3439350,
+            "from_actor": 9902,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Kurt Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

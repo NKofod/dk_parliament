@@ -1,0 +1,114 @@
+{
+    "9938": [
+        {
+            "id": 82414,
+            "from_actor": 14777,
+            "to_actor": 9938,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82587,
+            "from_actor": 14778,
+            "to_actor": 9938,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82730,
+            "from_actor": 14786,
+            "to_actor": 9938,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82967,
+            "from_actor": 14789,
+            "to_actor": 9938,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83111,
+            "from_actor": 14797,
+            "to_actor": 9938,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83393,
+            "from_actor": 14800,
+            "to_actor": 9938,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83542,
+            "from_actor": 14809,
+            "to_actor": 9938,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83787,
+            "from_actor": 14811,
+            "to_actor": 9938,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83936,
+            "from_actor": 14823,
+            "to_actor": 9938,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "to_actor_name": "Jacob Haugaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136349,
+            "from_actor": 9938,
+            "to_actor": 14777,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jacob Haugaard",
+            "to_actor_name": "Uden for folketingsgrupperne - Jacob Haugaard ",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "16826": [
+        {
+            "id": 11423115,
+            "from_actor": 16826,
+            "to_actor": 16930,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423116,
+            "from_actor": 16826,
+            "to_actor": 17640,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423118,
+            "from_actor": 16826,
+            "to_actor": 16063,
+            "start": "2016-09-01",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423119,
+            "from_actor": 16826,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11423120,
+            "from_actor": 16826,
+            "to_actor": 16061,
+            "start": "2016-09-01",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14441771,
+            "from_actor": 16826,
+            "to_actor": 18357,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Henriette Benzon Bang",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        }
+    ]
+}

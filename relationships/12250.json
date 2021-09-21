@@ -1,0 +1,70 @@
+{
+    "12250": [
+        {
+            "id": 119209,
+            "from_actor": 15896,
+            "to_actor": 12250,
+            "start": "2015-08-07",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 126414,
+            "from_actor": 16003,
+            "to_actor": 12250,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 176183,
+            "from_actor": 12250,
+            "to_actor": 15896,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2771568,
+            "from_actor": 12250,
+            "to_actor": 16022,
+            "start": "2016-05-19",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2877669,
+            "from_actor": 12250,
+            "to_actor": 16003,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 2877706,
+            "from_actor": 12250,
+            "to_actor": 16863,
+            "start": "2016-10-05",
+            "end": "2016-10-09",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgitte Dengsø Toft-Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

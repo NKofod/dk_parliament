@@ -1,0 +1,26 @@
+{
+    "10123": [
+        {
+            "id": 85846,
+            "from_actor": 14855,
+            "to_actor": 10123,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Wilson",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 134852,
+            "from_actor": 10123,
+            "to_actor": 14857,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Knud Wilson",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

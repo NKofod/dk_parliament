@@ -1,0 +1,136 @@
+{
+    "15257": [
+        {
+            "id": 91899,
+            "from_actor": 15251,
+            "to_actor": 15257,
+            "start": "1958-10-07",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92056,
+            "from_actor": 15267,
+            "to_actor": 15257,
+            "start": "1959-10-01",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92235,
+            "from_actor": 15269,
+            "to_actor": 15257,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92424,
+            "from_actor": 15287,
+            "to_actor": 15257,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 92610,
+            "from_actor": 15290,
+            "to_actor": 15257,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 92787,
+            "from_actor": 15300,
+            "to_actor": 15257,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Joachim Mosbech",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21551407,
+            "from_actor": 15257,
+            "to_actor": 15287,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21551408,
+            "from_actor": 15257,
+            "to_actor": 15300,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21551409,
+            "from_actor": 15257,
+            "to_actor": 15267,
+            "start": "1959-10-01",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21551410,
+            "from_actor": 15257,
+            "to_actor": 15251,
+            "start": "1959-10-01",
+            "end": "1959-10-06",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21551411,
+            "from_actor": 15257,
+            "to_actor": 15269,
+            "start": "1959-10-06",
+            "end": "1960-10-04",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21551412,
+            "from_actor": 15257,
+            "to_actor": 15290,
+            "start": "1960-10-04",
+            "end": "1960-11-15",
+            "role": "medlem",
+            "from_actor_name": "Joachim Mosbech",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

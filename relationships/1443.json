@@ -1,0 +1,191 @@
+{
+    "1443": [
+        {
+            "id": 75479,
+            "from_actor": 14564,
+            "to_actor": 1443,
+            "start": "1984-06-07",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75647,
+            "from_actor": 14576,
+            "to_actor": 1443,
+            "start": "1984-06-07",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75849,
+            "from_actor": 14583,
+            "to_actor": 1443,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76019,
+            "from_actor": 14590,
+            "to_actor": 1443,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76262,
+            "from_actor": 14596,
+            "to_actor": 1443,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76435,
+            "from_actor": 14603,
+            "to_actor": 1443,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76647,
+            "from_actor": 14617,
+            "to_actor": 1443,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76816,
+            "from_actor": 14623,
+            "to_actor": 1443,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77176,
+            "from_actor": 14632,
+            "to_actor": 1443,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77367,
+            "from_actor": 14642,
+            "to_actor": 1443,
+            "start": "1987-09-08",
+            "end": "1987-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 77555,
+            "from_actor": 14649,
+            "to_actor": 1443,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77747,
+            "from_actor": 14657,
+            "to_actor": 1443,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Erik Korneliusen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131534,
+            "from_actor": 1443,
+            "to_actor": 14576,
+            "start": "1984-06-07",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Korneliusen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131648,
+            "from_actor": 1443,
+            "to_actor": 14590,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Korneliusen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132050,
+            "from_actor": 1443,
+            "to_actor": 14603,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Korneliusen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4715072,
+            "from_actor": 1443,
+            "to_actor": 14657,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Korneliusen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24379865,
+            "from_actor": 1443,
+            "to_actor": 14623,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Poul Erik Korneliusen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

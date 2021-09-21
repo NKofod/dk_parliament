@@ -1,0 +1,268 @@
+{
+    "14980": [
+        {
+            "id": 88532,
+            "from_actor": 14976,
+            "to_actor": 14980,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88933,
+            "from_actor": 15141,
+            "to_actor": 14980,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89141,
+            "from_actor": 15147,
+            "to_actor": 14980,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89314,
+            "from_actor": 15152,
+            "to_actor": 14980,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89678,
+            "from_actor": 15166,
+            "to_actor": 14980,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89866,
+            "from_actor": 15162,
+            "to_actor": 14980,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90224,
+            "from_actor": 15180,
+            "to_actor": 14980,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90594,
+            "from_actor": 15177,
+            "to_actor": 14980,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90958,
+            "from_actor": 15190,
+            "to_actor": 14980,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91143,
+            "from_actor": 15223,
+            "to_actor": 14980,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 91331,
+            "from_actor": 15231,
+            "to_actor": 14980,
+            "start": "1957-10-01",
+            "end": "1958-03-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91506,
+            "from_actor": 15239,
+            "to_actor": 14980,
+            "start": "1957-10-01",
+            "end": "1958-03-21",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Knud Tholstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111087,
+            "from_actor": 14980,
+            "to_actor": 15166,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111088,
+            "from_actor": 14980,
+            "to_actor": 15180,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111089,
+            "from_actor": 14980,
+            "to_actor": 15223,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111090,
+            "from_actor": 14980,
+            "to_actor": 15239,
+            "start": "1957-10-01",
+            "end": "1958-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111091,
+            "from_actor": 14980,
+            "to_actor": 15141,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111092,
+            "from_actor": 14980,
+            "to_actor": 15152,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21525897,
+            "from_actor": 14980,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526082,
+            "from_actor": 14980,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526266,
+            "from_actor": 14980,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526450,
+            "from_actor": 14980,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526634,
+            "from_actor": 14980,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-10-01",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526978,
+            "from_actor": 14980,
+            "to_actor": 15231,
+            "start": "1957-10-01",
+            "end": "1958-03-21",
+            "role": "medlem",
+            "from_actor_name": "Knud Tholstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

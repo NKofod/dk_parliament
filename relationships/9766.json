@@ -1,0 +1,37 @@
+{
+    "9766": [
+        {
+            "id": 85838,
+            "from_actor": 14855,
+            "to_actor": 9766,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christen Amby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9456525,
+            "from_actor": 9766,
+            "to_actor": 14864,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Christen Amby",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9456526,
+            "from_actor": 9766,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Christen Amby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

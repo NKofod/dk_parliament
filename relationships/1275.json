@@ -1,0 +1,224 @@
+{
+    "1275": [
+        {
+            "id": 82217,
+            "from_actor": 14764,
+            "to_actor": 1275,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82256,
+            "from_actor": 14767,
+            "to_actor": 1275,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82565,
+            "from_actor": 14778,
+            "to_actor": 1275,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82626,
+            "from_actor": 14780,
+            "to_actor": 1275,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82945,
+            "from_actor": 14789,
+            "to_actor": 1275,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83008,
+            "from_actor": 14791,
+            "to_actor": 1275,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83371,
+            "from_actor": 14800,
+            "to_actor": 1275,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83440,
+            "from_actor": 14803,
+            "to_actor": 1275,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83765,
+            "from_actor": 14811,
+            "to_actor": 1275,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83834,
+            "from_actor": 14816,
+            "to_actor": 1275,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Niels Langkilde",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331084,
+            "from_actor": 1275,
+            "to_actor": 14816,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331085,
+            "from_actor": 1275,
+            "to_actor": 14803,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331086,
+            "from_actor": 1275,
+            "to_actor": 14767,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331087,
+            "from_actor": 1275,
+            "to_actor": 14780,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331088,
+            "from_actor": 1275,
+            "to_actor": 14791,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331089,
+            "from_actor": 1275,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331090,
+            "from_actor": 1275,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331091,
+            "from_actor": 1275,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331092,
+            "from_actor": 1275,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331093,
+            "from_actor": 1275,
+            "to_actor": 14764,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Niels Langkilde",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

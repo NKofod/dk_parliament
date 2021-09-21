@@ -1,0 +1,257 @@
+{
+    "1414": [
+        {
+            "id": 80845,
+            "from_actor": 14730,
+            "to_actor": 1414,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81471,
+            "from_actor": 14742,
+            "to_actor": 1414,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81879,
+            "from_actor": 14754,
+            "to_actor": 1414,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82340,
+            "from_actor": 14770,
+            "to_actor": 1414,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82580,
+            "from_actor": 14778,
+            "to_actor": 1414,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82715,
+            "from_actor": 14784,
+            "to_actor": 1414,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82960,
+            "from_actor": 14789,
+            "to_actor": 1414,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83096,
+            "from_actor": 14795,
+            "to_actor": 1414,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83386,
+            "from_actor": 14800,
+            "to_actor": 1414,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83526,
+            "from_actor": 14807,
+            "to_actor": 1414,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83780,
+            "from_actor": 14811,
+            "to_actor": 1414,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83920,
+            "from_actor": 14820,
+            "to_actor": 1414,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 85403,
+            "from_actor": 14841,
+            "to_actor": 1414,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87164,
+            "from_actor": 14897,
+            "to_actor": 1414,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Christian Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133534,
+            "from_actor": 1414,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133714,
+            "from_actor": 1414,
+            "to_actor": 14784,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133858,
+            "from_actor": 1414,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134151,
+            "from_actor": 1414,
+            "to_actor": 14807,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 134328,
+            "from_actor": 1414,
+            "to_actor": 14820,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750637,
+            "from_actor": 1414,
+            "to_actor": 14736,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4750714,
+            "from_actor": 1414,
+            "to_actor": 14749,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4893241,
+            "from_actor": 1414,
+            "to_actor": 14849,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4911715,
+            "from_actor": 1414,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Christian Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

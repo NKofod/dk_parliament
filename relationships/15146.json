@@ -1,0 +1,147 @@
+{
+    "15146": [
+        {
+            "id": 89294,
+            "from_actor": 15147,
+            "to_actor": 15146,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 89434,
+            "from_actor": 15156,
+            "to_actor": 15146,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 89799,
+            "from_actor": 15170,
+            "to_actor": 15146,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90018,
+            "from_actor": 15162,
+            "to_actor": 15146,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 90345,
+            "from_actor": 15184,
+            "to_actor": 15146,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 90742,
+            "from_actor": 15177,
+            "to_actor": 15146,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Axel Conradsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526064,
+            "from_actor": 15146,
+            "to_actor": 14976,
+            "start": "1953-10-06",
+            "end": "1954-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526233,
+            "from_actor": 15146,
+            "to_actor": 15147,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526417,
+            "from_actor": 15146,
+            "to_actor": 15162,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21526597,
+            "from_actor": 15146,
+            "to_actor": 15177,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21530352,
+            "from_actor": 15146,
+            "to_actor": 15156,
+            "start": "1954-10-05",
+            "end": "1955-10-04",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530429,
+            "from_actor": 15146,
+            "to_actor": 15170,
+            "start": "1955-10-04",
+            "end": "1956-10-02",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530505,
+            "from_actor": 15146,
+            "to_actor": 15184,
+            "start": "1956-10-02",
+            "end": "1957-05-14",
+            "role": "medlem",
+            "from_actor_name": "Axel Conradsen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

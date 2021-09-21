@@ -1,0 +1,48 @@
+{
+    "9954": [
+        {
+            "id": 102430,
+            "from_actor": 15688,
+            "to_actor": 9954,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Christian Valdemar Gede",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102663,
+            "from_actor": 15660,
+            "to_actor": 9954,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Valdemar Gede",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102861,
+            "from_actor": 15699,
+            "to_actor": 9954,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Valdemar Gede",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102954,
+            "from_actor": 15706,
+            "to_actor": 9954,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Christian Valdemar Gede",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

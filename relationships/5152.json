@@ -1,0 +1,158 @@
+{
+    "5152": [
+        {
+            "id": 26000,
+            "from_actor": 976,
+            "to_actor": 5152,
+            "start": "2008-05-18",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 32590,
+            "from_actor": 971,
+            "to_actor": 5152,
+            "start": "2008-05-30",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 39827,
+            "from_actor": 972,
+            "to_actor": 5152,
+            "start": "2008-05-30",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 42831,
+            "from_actor": 973,
+            "to_actor": 5152,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47649,
+            "from_actor": 977,
+            "to_actor": 5152,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 47720,
+            "from_actor": 974,
+            "to_actor": 5152,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50450,
+            "from_actor": 975,
+            "to_actor": 5152,
+            "start": "2010-10-05",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Rigsretten",
+            "to_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "type": "Kommission"
+        },
+        {
+            "id": 36955,
+            "from_actor": 5152,
+            "to_actor": 976,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36956,
+            "from_actor": 5152,
+            "to_actor": 971,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36957,
+            "from_actor": 5152,
+            "to_actor": 972,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36958,
+            "from_actor": 5152,
+            "to_actor": 973,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36959,
+            "from_actor": 5152,
+            "to_actor": 974,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36960,
+            "from_actor": 5152,
+            "to_actor": 975,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 36961,
+            "from_actor": 5152,
+            "to_actor": 977,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jamilla Jaffer (udpeget af NY)",
+            "to_actor_name": "Rigsretten",
+            "type": "Kommission"
+        }
+    ]
+}

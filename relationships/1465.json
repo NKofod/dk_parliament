@@ -1,0 +1,191 @@
+{
+    "1465": [
+        {
+            "id": 101300,
+            "from_actor": 15639,
+            "to_actor": 1465,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102201,
+            "from_actor": 15498,
+            "to_actor": 1465,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103635,
+            "from_actor": 15721,
+            "to_actor": 1465,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121193,
+            "from_actor": 14082,
+            "to_actor": 1465,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126224,
+            "from_actor": 15516,
+            "to_actor": 1465,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126316,
+            "from_actor": 15527,
+            "to_actor": 1465,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126690,
+            "from_actor": 15642,
+            "to_actor": 1465,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128267,
+            "from_actor": 15728,
+            "to_actor": 1465,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Robert Dalskov Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18568785,
+            "from_actor": 1465,
+            "to_actor": 15728,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18568792,
+            "from_actor": 1465,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18568793,
+            "from_actor": 1465,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422516,
+            "from_actor": 1465,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422866,
+            "from_actor": 1465,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529238,
+            "from_actor": 1465,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529425,
+            "from_actor": 1465,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "stedfortræder",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531603,
+            "from_actor": 1465,
+            "to_actor": 15516,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531676,
+            "from_actor": 1465,
+            "to_actor": 15527,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Robert Dalskov Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

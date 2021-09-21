@@ -1,0 +1,235 @@
+{
+    "15627": [
+        {
+            "id": 100738,
+            "from_actor": 15628,
+            "to_actor": 15627,
+            "start": "1972-01-11",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100830,
+            "from_actor": 15632,
+            "to_actor": 15627,
+            "start": "1972-01-11",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101107,
+            "from_actor": 15639,
+            "to_actor": 15627,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101185,
+            "from_actor": 15643,
+            "to_actor": 15627,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101731,
+            "from_actor": 15649,
+            "to_actor": 15627,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101747,
+            "from_actor": 15653,
+            "to_actor": 15627,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103626,
+            "from_actor": 15721,
+            "to_actor": 15627,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126627,
+            "from_actor": 15623,
+            "to_actor": 15627,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128273,
+            "from_actor": 15729,
+            "to_actor": 15627,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128376,
+            "from_actor": 14088,
+            "to_actor": 15627,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Jette Boutrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232353,
+            "from_actor": 15627,
+            "to_actor": 14088,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232354,
+            "from_actor": 15627,
+            "to_actor": 14273,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232355,
+            "from_actor": 15627,
+            "to_actor": 15729,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232357,
+            "from_actor": 15627,
+            "to_actor": 15643,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232358,
+            "from_actor": 15627,
+            "to_actor": 15653,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232359,
+            "from_actor": 15627,
+            "to_actor": 15623,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677939,
+            "from_actor": 15627,
+            "to_actor": 15632,
+            "start": "1972-01-11",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235324,
+            "from_actor": 15627,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422313,
+            "from_actor": 15627,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422506,
+            "from_actor": 15627,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422696,
+            "from_actor": 15627,
+            "to_actor": 15628,
+            "start": "1972-01-11",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jette Boutrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

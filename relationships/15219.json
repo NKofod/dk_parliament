@@ -1,0 +1,48 @@
+{
+    "15219": [
+        {
+            "id": 91133,
+            "from_actor": 15190,
+            "to_actor": 15219,
+            "start": "1957-05-14",
+            "end": "1957-07-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thorstein Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 91314,
+            "from_actor": 15230,
+            "to_actor": 15219,
+            "start": "1957-05-14",
+            "end": "1957-07-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "to_actor_name": "Thorstein Petersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121823,
+            "from_actor": 15219,
+            "to_actor": 15230,
+            "start": "1957-05-14",
+            "end": "1957-07-05",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Petersen",
+            "to_actor_name": "Uden for folketingsgrupperne - valgt på Færøerne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21526795,
+            "from_actor": 15219,
+            "to_actor": 15190,
+            "start": "1957-05-14",
+            "end": "1957-07-05",
+            "role": "medlem",
+            "from_actor_name": "Thorstein Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

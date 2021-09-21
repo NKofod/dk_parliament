@@ -1,0 +1,70 @@
+{
+    "9802": [
+        {
+            "id": 81455,
+            "from_actor": 14742,
+            "to_actor": 9802,
+            "start": "1992-10-06",
+            "end": "1993-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81855,
+            "from_actor": 14754,
+            "to_actor": 9802,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83160,
+            "from_actor": 14789,
+            "to_actor": 9802,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 85387,
+            "from_actor": 14841,
+            "to_actor": 9802,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bjarne Petersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 133541,
+            "from_actor": 9802,
+            "to_actor": 14760,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bjarne Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 133864,
+            "from_actor": 9802,
+            "to_actor": 14795,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bjarne Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}
