@@ -1,46 +1,42 @@
 {
-    "Europa-parlamentet": [
-        {
-            "id": 1096,
-            "name": "Danske repræsentanter i Europa-parlamentet",
-            "short_name": "Europa-parlamentet",
-            "start": "2004-10-05T00:00:00",
-            "end": "2005-02-08T00:00:00",
-            "periodid": 20
-        },
-        {
-            "id": 1097,
-            "name": "Danske repræsentanter i Europa-parlamentet",
-            "short_name": "Europa-parlamentet",
-            "start": "2005-02-08T00:00:00",
-            "end": "2005-10-04T00:00:00",
-            "periodid": 21
-        },
-        {
-            "id": 1098,
-            "name": "Danske repræsentanter i Europa-parlamentet",
-            "short_name": "Europa-parlamentet",
-            "start": "2005-10-04T00:00:00",
-            "end": "2006-10-03T00:00:00",
-            "periodid": 22
-        },
-        {
-            "id": 1099,
-            "name": "Danske repræsentanter i Europa-parlamentet",
-            "short_name": "Europa-parlamentet",
-            "start": "2006-10-03T00:00:00",
-            "end": "2007-10-02T00:00:00",
-            "periodid": 23
-        }
-    ],
-    "TST": [
-        {
-            "id": 4019,
-            "name": "Fejl - oprettet ved en fejl",
-            "short_name": "TST",
-            "start": null,
-            "end": null,
-            "periodid": null
-        }
-    ]
+    "1096": {
+        "id": 1096,
+        "name": "Danske repræsentanter i Europa-parlamentet",
+        "short_name": "Europa-parlamentet",
+        "start": "2004-10-05",
+        "end": "2005-02-08",
+        "periodid": 20
+    },
+    "1097": {
+        "id": 1097,
+        "name": "Danske repræsentanter i Europa-parlamentet",
+        "short_name": "Europa-parlamentet",
+        "start": "2005-02-08",
+        "end": "2005-10-04",
+        "periodid": 21
+    },
+    "1098": {
+        "id": 1098,
+        "name": "Danske repræsentanter i Europa-parlamentet",
+        "short_name": "Europa-parlamentet",
+        "start": "2005-10-04",
+        "end": "2006-10-03",
+        "periodid": 22
+    },
+    "1099": {
+        "id": 1099,
+        "name": "Danske repræsentanter i Europa-parlamentet",
+        "short_name": "Europa-parlamentet",
+        "start": "2006-10-03",
+        "end": "2007-10-02",
+        "periodid": 23
+    },
+    "4019": {
+        "id": 4019,
+        "name": "Fejl - oprettet ved en fejl",
+        "short_name": "TST",
+        "start": null,
+        "end": null,
+        "periodid": null
+    }
 }

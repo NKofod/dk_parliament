@@ -213,7 +213,7 @@ def run_writing_loop(data, memberlist, count):
     return memberlist, count
 
 
-def main():
+def main_function():
     import requests
     import json
     url = "https://oda.ft.dk/api/Akt%C3%B8r?$inlinecount=allpages&$filter=typeid%20eq%205"
@@ -238,4 +238,4 @@ def main():
 
 
 if __name__ == '__main__': 
-    main()
+    main_function()
