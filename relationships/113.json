@@ -474,7 +474,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604057,
+            "id": 31729709,
             "from_actor": 113,
             "to_actor": 511,
             "start": "2011-09-15",
@@ -485,7 +485,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604058,
+            "id": 31729710,
             "from_actor": 113,
             "to_actor": 430,
             "start": "2011-10-04",
@@ -496,7 +496,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604059,
+            "id": 31729711,
+            "from_actor": 113,
+            "to_actor": 19882,
+            "start": "2022-03-16",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Tingsekretærer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729712,
             "from_actor": 113,
             "to_actor": 18890,
             "start": "2019-11-16",
@@ -507,7 +518,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604060,
+            "id": 31729713,
             "from_actor": 113,
             "to_actor": 19355,
             "start": "2020-10-06",
@@ -518,7 +529,40 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604061,
+            "id": 31729714,
+            "from_actor": 113,
+            "to_actor": 19857,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31729715,
+            "from_actor": 113,
+            "to_actor": 19386,
+            "start": "2021-09-10",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729716,
+            "from_actor": 113,
+            "to_actor": 19900,
+            "start": "2022-03-20",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729717,
             "from_actor": 113,
             "to_actor": 18777,
             "start": "2019-08-14",
@@ -529,7 +573,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604062,
+            "id": 31729718,
             "from_actor": 113,
             "to_actor": 18677,
             "start": "2019-06-05",
@@ -540,7 +584,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604063,
+            "id": 31729719,
             "from_actor": 113,
             "to_actor": 5143,
             "start": "2014-10-08",
@@ -551,7 +595,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604064,
+            "id": 31729720,
             "from_actor": 113,
             "to_actor": 60,
             "start": "2013-10-02",
@@ -562,7 +606,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604065,
+            "id": 31729721,
             "from_actor": 113,
             "to_actor": 15884,
             "start": "2015-07-03",
@@ -573,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604066,
+            "id": 31729722,
             "from_actor": 113,
             "to_actor": 16014,
             "start": "2015-10-07",
@@ -584,7 +628,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604067,
+            "id": 31729723,
             "from_actor": 113,
             "to_actor": 5165,
             "start": "2014-10-08",
@@ -595,7 +639,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604068,
+            "id": 31729724,
             "from_actor": 113,
             "to_actor": 16048,
             "start": "2015-10-06",
@@ -606,7 +650,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604069,
+            "id": 31729725,
             "from_actor": 113,
             "to_actor": 15748,
             "start": "2015-06-18",
@@ -617,7 +661,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604070,
+            "id": 31729726,
             "from_actor": 113,
             "to_actor": 16874,
             "start": "2016-10-04",
@@ -628,7 +672,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604071,
+            "id": 31729727,
             "from_actor": 113,
             "to_actor": 18323,
             "start": "2018-10-02",
@@ -639,7 +683,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604072,
+            "id": 31729728,
             "from_actor": 113,
             "to_actor": 16950,
             "start": "2016-10-05",
@@ -650,7 +694,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604073,
+            "id": 31729729,
             "from_actor": 113,
             "to_actor": 18316,
             "start": "2019-02-22",
@@ -661,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604074,
+            "id": 31729730,
             "from_actor": 113,
             "to_actor": 5166,
             "start": "2014-10-08",
@@ -672,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604075,
+            "id": 31729731,
             "from_actor": 113,
             "to_actor": 17603,
             "start": "2018-05-23",
@@ -683,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604076,
+            "id": 31729732,
             "from_actor": 113,
             "to_actor": 36,
             "start": "2013-10-02",
@@ -694,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604077,
+            "id": 31729733,
             "from_actor": 113,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -705,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604078,
+            "id": 31729734,
             "from_actor": 113,
             "to_actor": 431,
             "start": "2012-10-02",
@@ -716,7 +760,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604079,
+            "id": 31729735,
             "from_actor": 113,
             "to_actor": 455,
             "start": "2013-10-01",
@@ -727,7 +771,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604080,
+            "id": 31729736,
             "from_actor": 113,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -738,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604081,
+            "id": 31729737,
             "from_actor": 113,
             "to_actor": 17607,
             "start": "2017-10-03",
@@ -749,7 +793,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604082,
+            "id": 31729738,
             "from_actor": 113,
             "to_actor": 18860,
             "start": "2019-11-16",
@@ -760,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604083,
+            "id": 31729739,
             "from_actor": 113,
             "to_actor": 18890,
             "start": "2019-10-01",
@@ -771,7 +815,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604084,
+            "id": 31729740,
             "from_actor": 113,
             "to_actor": 559,
             "start": "2011-10-07",
@@ -782,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604085,
+            "id": 31729741,
             "from_actor": 113,
             "to_actor": 114,
             "start": "2013-10-02",
@@ -793,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604086,
+            "id": 31729742,
             "from_actor": 113,
             "to_actor": 397,
             "start": "2011-10-07",
@@ -804,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604087,
+            "id": 31729743,
             "from_actor": 113,
             "to_actor": 544,
             "start": "2011-10-07",
@@ -815,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604088,
+            "id": 31729744,
             "from_actor": 113,
             "to_actor": 13640,
             "start": "2014-10-07",
@@ -826,7 +870,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604089,
+            "id": 31729745,
             "from_actor": 113,
             "to_actor": 413,
             "start": "2011-10-07",
@@ -837,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604090,
+            "id": 31729746,
             "from_actor": 113,
             "to_actor": 16910,
             "start": "2016-10-05",
@@ -848,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604091,
+            "id": 31729747,
             "from_actor": 113,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -859,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604092,
+            "id": 31729748,
             "from_actor": 113,
             "to_actor": 16021,
             "start": "2015-10-07",
@@ -870,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604093,
+            "id": 31729749,
             "from_actor": 113,
             "to_actor": 17603,
             "start": "2018-04-06",
@@ -881,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604094,
+            "id": 31729750,
             "from_actor": 113,
             "to_actor": 18856,
             "start": "2019-11-16",
@@ -892,7 +936,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604095,
+            "id": 31729751,
             "from_actor": 113,
             "to_actor": 15909,
             "start": "2015-07-09",
@@ -903,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604096,
+            "id": 31729752,
             "from_actor": 113,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -914,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604097,
+            "id": 31729753,
             "from_actor": 113,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -925,7 +969,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604098,
+            "id": 31729754,
+            "from_actor": 113,
+            "to_actor": 19877,
+            "start": "2022-03-16",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729755,
             "from_actor": 113,
             "to_actor": 319,
             "start": "2012-10-03",
@@ -936,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604099,
+            "id": 31729756,
             "from_actor": 113,
             "to_actor": 5136,
             "start": "2014-10-08",
@@ -947,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604100,
+            "id": 31729757,
             "from_actor": 113,
             "to_actor": 146,
             "start": "2013-10-02",
@@ -958,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604101,
+            "id": 31729758,
             "from_actor": 113,
             "to_actor": 15896,
             "start": "2015-07-09",
@@ -969,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604102,
+            "id": 31729759,
             "from_actor": 113,
             "to_actor": 308,
             "start": "2012-12-15",
@@ -980,7 +1035,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604103,
+            "id": 31729760,
+            "from_actor": 113,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31729761,
             "from_actor": 113,
             "to_actor": 331,
             "start": "2012-10-03",
@@ -991,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604104,
+            "id": 31729762,
             "from_actor": 113,
             "to_actor": 327,
             "start": "2012-10-03",
@@ -1002,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604105,
+            "id": 31729763,
             "from_actor": 113,
             "to_actor": 308,
             "start": "2012-10-25",
@@ -1013,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604106,
+            "id": 31729764,
             "from_actor": 113,
             "to_actor": 18780,
             "start": "2019-07-04",
@@ -1024,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604107,
+            "id": 31729765,
             "from_actor": 113,
             "to_actor": 18344,
             "start": "2018-10-03",
@@ -1035,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604108,
+            "id": 31729766,
             "from_actor": 113,
             "to_actor": 18784,
             "start": "2019-07-04",
@@ -1046,7 +1112,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604109,
+            "id": 31729767,
+            "from_actor": 113,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729768,
             "from_actor": 113,
             "to_actor": 19439,
             "start": "2020-10-07",
@@ -1057,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604110,
+            "id": 31729769,
             "from_actor": 113,
             "to_actor": 16950,
             "start": "2016-11-23",
@@ -1068,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604111,
+            "id": 31729770,
             "from_actor": 113,
             "to_actor": 17654,
             "start": "2017-10-04",
@@ -1079,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604112,
+            "id": 31729771,
             "from_actor": 113,
             "to_actor": 18304,
             "start": "2018-10-03",
@@ -1090,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604113,
+            "id": 31729772,
             "from_actor": 113,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -1101,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604114,
+            "id": 31729773,
             "from_actor": 113,
             "to_actor": 18316,
             "start": "2018-10-03",
@@ -1112,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604115,
+            "id": 31729774,
             "from_actor": 113,
             "to_actor": 18761,
             "start": "2019-07-04",
@@ -1123,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604116,
+            "id": 31729775,
             "from_actor": 113,
             "to_actor": 60,
             "start": "2013-12-05",
@@ -1134,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604117,
+            "id": 31729776,
             "from_actor": 113,
             "to_actor": 18783,
             "start": "2019-07-04",
@@ -1145,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604118,
+            "id": 31729777,
             "from_actor": 113,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1156,7 +1233,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604119,
+            "id": 31729778,
             "from_actor": 113,
             "to_actor": 17604,
             "start": "2017-10-04",
@@ -1167,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604120,
+            "id": 31729779,
             "from_actor": 113,
             "to_actor": 18757,
             "start": "2019-07-04",
@@ -1178,7 +1255,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604121,
+            "id": 31729780,
+            "from_actor": 113,
+            "to_actor": 19911,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729781,
+            "from_actor": 113,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-03-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729782,
+            "from_actor": 113,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31729783,
             "from_actor": 113,
             "to_actor": 19404,
             "start": "2020-10-07",
@@ -1189,7 +1299,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604122,
+            "id": 31729784,
+            "from_actor": 113,
+            "to_actor": 19921,
+            "start": "2021-10-27",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729785,
             "from_actor": 113,
             "to_actor": 19415,
             "start": "2020-10-07",
@@ -1200,18 +1321,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604123,
+            "id": 31729786,
+            "from_actor": 113,
+            "to_actor": 19909,
+            "start": "2021-10-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729787,
+            "from_actor": 113,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2021-10-25",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729788,
             "from_actor": 113,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Jens Henrik Thulesen Dahl",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604124,
+            "id": 31729789,
             "from_actor": 113,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -1222,7 +1365,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604125,
+            "id": 31729790,
             "from_actor": 113,
             "to_actor": 19408,
             "start": "2020-10-07",
@@ -1233,7 +1376,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604126,
+            "id": 31729791,
+            "from_actor": 113,
+            "to_actor": 19916,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729792,
+            "from_actor": 113,
+            "to_actor": 19895,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729793,
             "from_actor": 113,
             "to_actor": 19413,
             "start": "2020-10-07",
@@ -1244,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604127,
+            "id": 31729794,
             "from_actor": 113,
             "to_actor": 17603,
             "start": "2017-10-04",
@@ -1255,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604128,
+            "id": 31729795,
             "from_actor": 113,
             "to_actor": 18870,
             "start": "2019-11-16",
@@ -1266,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604129,
+            "id": 31729796,
             "from_actor": 113,
             "to_actor": 18860,
             "start": "2019-10-02",
@@ -1277,7 +1442,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604130,
+            "id": 31729797,
             "from_actor": 113,
             "to_actor": 16014,
             "start": "2016-02-25",
@@ -1288,7 +1453,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604131,
+            "id": 31729798,
             "from_actor": 113,
             "to_actor": 18870,
             "start": "2019-10-02",
@@ -1299,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604132,
+            "id": 31729799,
             "from_actor": 113,
             "to_actor": 18881,
             "start": "2019-10-02",
@@ -1310,7 +1475,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604133,
+            "id": 31729800,
+            "from_actor": 113,
+            "to_actor": 19896,
+            "start": "2022-01-08",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729801,
+            "from_actor": 113,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2022-01-06",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729802,
+            "from_actor": 113,
+            "to_actor": 19915,
+            "start": "2022-01-05",
+            "end": "2022-01-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729803,
             "from_actor": 113,
             "to_actor": 18921,
             "start": "2020-05-13",
@@ -1321,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604134,
+            "id": 31729804,
             "from_actor": 113,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -1332,7 +1530,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604135,
+            "id": 31729805,
             "from_actor": 113,
             "to_actor": 18874,
             "start": "2019-12-14",
@@ -1343,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604136,
+            "id": 31729806,
             "from_actor": 113,
             "to_actor": 18921,
             "start": "2019-10-02",
@@ -1354,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604137,
+            "id": 31729807,
             "from_actor": 113,
             "to_actor": 416,
             "start": "2011-11-29",
@@ -1365,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604138,
+            "id": 31729808,
             "from_actor": 113,
             "to_actor": 18874,
             "start": "2019-10-02",
@@ -1376,7 +1574,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604139,
+            "id": 31729809,
+            "from_actor": 113,
+            "to_actor": 19915,
+            "start": "2022-02-22",
+            "end": "2022-02-22",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729810,
             "from_actor": 113,
             "to_actor": 19620,
             "start": "2021-08-21",
@@ -1387,7 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604140,
+            "id": 31729811,
             "from_actor": 113,
             "to_actor": 19620,
             "start": "2021-05-19",
@@ -1398,7 +1607,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604141,
+            "id": 31729812,
+            "from_actor": 113,
+            "to_actor": 19915,
+            "start": "2022-02-02",
+            "end": "2022-02-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729813,
             "from_actor": 113,
             "to_actor": 19620,
             "start": "2021-04-07",
@@ -1409,7 +1629,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604142,
+            "id": 31729814,
             "from_actor": 113,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1420,7 +1640,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604143,
+            "id": 31729815,
             "from_actor": 113,
             "to_actor": 16027,
             "start": "2016-05-26",
@@ -1431,7 +1651,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604144,
+            "id": 31729816,
+            "from_actor": 113,
+            "to_actor": 19915,
+            "start": "2022-01-25",
+            "end": "2022-01-25",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729817,
             "from_actor": 113,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1442,7 +1673,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604145,
+            "id": 31729818,
             "from_actor": 113,
             "to_actor": 16027,
             "start": "2016-06-01",
@@ -1453,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604146,
+            "id": 31729819,
             "from_actor": 113,
             "to_actor": 18877,
             "start": "2019-11-06",
@@ -1464,7 +1695,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604147,
+            "id": 31729820,
             "from_actor": 113,
             "to_actor": 18877,
             "start": "2019-10-02",
@@ -1475,7 +1706,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604148,
+            "id": 31729821,
             "from_actor": 113,
             "to_actor": 16027,
             "start": "2016-06-03",
@@ -1486,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604149,
+            "id": 31729822,
             "from_actor": 113,
             "to_actor": 18861,
             "start": "2019-11-16",
@@ -1497,7 +1728,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604150,
+            "id": 31729823,
             "from_actor": 113,
             "to_actor": 18861,
             "start": "2019-10-02",
@@ -1508,18 +1739,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604151,
+            "id": 31729824,
             "from_actor": 113,
             "to_actor": 19386,
             "start": "2021-04-07",
-            "end": "2021-10-05",
+            "end": "2021-09-08",
             "role": "medlem",
             "from_actor_name": "Jens Henrik Thulesen Dahl",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604152,
+            "id": 31729825,
             "from_actor": 113,
             "to_actor": 5141,
             "start": "2015-05-26",
@@ -1530,18 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604153,
-            "from_actor": 113,
-            "to_actor": 19437,
-            "start": "2021-02-03",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jens Henrik Thulesen Dahl",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604154,
+            "id": 31729826,
             "from_actor": 113,
             "to_actor": 16870,
             "start": "2017-02-09",
@@ -1552,7 +1772,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604155,
+            "id": 31729827,
+            "from_actor": 113,
+            "to_actor": 19437,
+            "start": "2021-02-03",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729828,
             "from_actor": 113,
             "to_actor": 19437,
             "start": "2020-11-11",
@@ -1563,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604156,
+            "id": 31729829,
             "from_actor": 113,
             "to_actor": 19437,
             "start": "2020-10-07",
@@ -1574,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604157,
+            "id": 31729830,
             "from_actor": 113,
             "to_actor": 19414,
             "start": "2020-10-07",
@@ -1585,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604158,
+            "id": 31729831,
             "from_actor": 113,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1596,7 +1827,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604160,
+            "id": 31729833,
             "from_actor": 113,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1607,7 +1838,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604161,
+            "id": 31729834,
             "from_actor": 113,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1618,7 +1849,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604162,
+            "id": 31729835,
             "from_actor": 113,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -1629,7 +1860,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604163,
+            "id": 31729836,
             "from_actor": 113,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1640,7 +1871,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604164,
+            "id": 31729837,
             "from_actor": 113,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -1651,7 +1882,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604165,
+            "id": 31729838,
             "from_actor": 113,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -1662,7 +1893,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604166,
+            "id": 31729839,
             "from_actor": 113,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -1673,7 +1904,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604167,
+            "id": 31729840,
             "from_actor": 113,
             "to_actor": 17143,
             "start": "2016-12-12",
@@ -1684,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604168,
+            "id": 31729841,
             "from_actor": 113,
             "to_actor": 16863,
             "start": "2016-10-05",
@@ -1695,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604169,
+            "id": 31729842,
             "from_actor": 113,
             "to_actor": 16003,
             "start": "2015-10-07",
@@ -1706,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604170,
+            "id": 31729843,
             "from_actor": 113,
             "to_actor": 17646,
             "start": "2017-10-04",
@@ -1717,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604171,
+            "id": 31729844,
             "from_actor": 113,
             "to_actor": 15896,
             "start": "2015-09-30",
@@ -1728,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604172,
+            "id": 31729845,
             "from_actor": 113,
             "to_actor": 18345,
             "start": "2018-10-03",
@@ -1739,7 +1970,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604173,
+            "id": 31729846,
+            "from_actor": 113,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31729847,
             "from_actor": 113,
             "to_actor": 18934,
             "start": "2019-10-02",
@@ -1750,7 +1992,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604174,
+            "id": 31729848,
             "from_actor": 113,
             "to_actor": 19416,
             "start": "2020-10-07",
@@ -1761,7 +2003,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604175,
+            "id": 31729849,
             "from_actor": 113,
             "to_actor": 18786,
             "start": "2019-07-04",
@@ -1772,7 +2014,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27604176,
+            "id": 31729850,
+            "from_actor": 113,
+            "to_actor": 19927,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Henrik Thulesen Dahl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31729851,
             "from_actor": 113,
             "to_actor": 18890,
             "start": "2019-10-30",
@@ -1783,7 +2036,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604177,
+            "id": 31729852,
             "from_actor": 113,
             "to_actor": 18856,
             "start": "2019-10-30",
@@ -1794,7 +2047,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617439,
+            "id": 31743558,
             "from_actor": 113,
             "to_actor": 16060,
             "start": "2015-10-06",

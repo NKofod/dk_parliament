@@ -1684,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617598,
+            "id": 31746988,
             "from_actor": 80,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -1695,7 +1695,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617599,
+            "id": 31746989,
             "from_actor": 80,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -1706,18 +1706,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617600,
-            "from_actor": 80,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617601,
+            "id": 31746990,
             "from_actor": 80,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -1728,18 +1717,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617602,
-            "from_actor": 80,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617603,
+            "id": 31746991,
             "from_actor": 80,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -1750,7 +1728,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617604,
+            "id": 31746992,
             "from_actor": 80,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -1761,7 +1739,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617605,
+            "id": 31746993,
             "from_actor": 80,
             "to_actor": 553,
             "start": "2007-11-13",
@@ -1772,7 +1750,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617606,
+            "id": 31746994,
             "from_actor": 80,
             "to_actor": 553,
             "start": "2008-01-29",
@@ -1783,7 +1761,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617607,
+            "id": 31746995,
             "from_actor": 80,
             "to_actor": 553,
             "start": "2008-05-01",
@@ -1794,7 +1772,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617608,
+            "id": 31746996,
             "from_actor": 80,
             "to_actor": 554,
             "start": "2008-10-07",
@@ -1805,7 +1783,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617609,
+            "id": 31746997,
             "from_actor": 80,
             "to_actor": 555,
             "start": "2009-10-06",
@@ -1816,7 +1794,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617610,
+            "id": 31746998,
             "from_actor": 80,
             "to_actor": 556,
             "start": "2010-10-05",
@@ -1827,7 +1805,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617611,
+            "id": 31746999,
             "from_actor": 80,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -1838,7 +1816,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617612,
+            "id": 31747000,
             "from_actor": 80,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -1849,7 +1827,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617613,
+            "id": 31747001,
             "from_actor": 80,
             "to_actor": 1166,
             "start": "2007-11-28",
@@ -1860,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617614,
+            "id": 31747002,
             "from_actor": 80,
             "to_actor": 1166,
             "start": "2008-01-29",
@@ -1871,7 +1849,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617615,
+            "id": 31747003,
             "from_actor": 80,
             "to_actor": 1166,
             "start": "2008-05-01",
@@ -1882,7 +1860,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617616,
+            "id": 31747004,
             "from_actor": 80,
             "to_actor": 622,
             "start": "2007-11-28",
@@ -1893,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617617,
+            "id": 31747005,
             "from_actor": 80,
             "to_actor": 622,
             "start": "2008-01-29",
@@ -1904,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617618,
+            "id": 31747006,
             "from_actor": 80,
             "to_actor": 622,
             "start": "2008-05-01",
@@ -1915,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617619,
+            "id": 31747007,
             "from_actor": 80,
             "to_actor": 1107,
             "start": "2009-04-21",
@@ -1926,7 +1904,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617620,
+            "id": 31747008,
             "from_actor": 80,
             "to_actor": 233,
             "start": "2008-10-08",
@@ -1937,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617621,
+            "id": 31747009,
             "from_actor": 80,
             "to_actor": 890,
             "start": "2008-10-08",
@@ -1948,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617622,
+            "id": 31747010,
             "from_actor": 80,
             "to_actor": 760,
             "start": "2009-10-07",
@@ -1959,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617623,
+            "id": 31747011,
             "from_actor": 80,
             "to_actor": 1266,
             "start": "2010-10-01",
@@ -1970,7 +1948,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617624,
+            "id": 31747012,
             "from_actor": 80,
             "to_actor": 1193,
             "start": "2009-10-07",
@@ -1981,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617625,
+            "id": 31747013,
             "from_actor": 80,
             "to_actor": 1456,
             "start": "2010-10-06",
@@ -1992,7 +1970,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617626,
+            "id": 31747014,
             "from_actor": 80,
             "to_actor": 894,
             "start": "2010-10-06",
@@ -2003,7 +1981,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617627,
+            "id": 31747015,
             "from_actor": 80,
             "to_actor": 1016,
             "start": "2010-10-06",
@@ -2014,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617628,
+            "id": 31747016,
             "from_actor": 80,
             "to_actor": 1457,
             "start": "2010-10-06",
@@ -2025,7 +2003,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617629,
+            "id": 31747017,
             "from_actor": 80,
             "to_actor": 1135,
             "start": "2010-05-07",
@@ -2036,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617630,
+            "id": 31747018,
             "from_actor": 80,
             "to_actor": 892,
             "start": "2010-10-06",
@@ -2047,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617631,
+            "id": 31747019,
             "from_actor": 80,
             "to_actor": 1135,
             "start": "2010-03-02",
@@ -2058,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617632,
+            "id": 31747020,
             "from_actor": 80,
             "to_actor": 15869,
             "start": "2011-11-01",
@@ -2069,7 +2047,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617633,
+            "id": 31747021,
             "from_actor": 80,
             "to_actor": 428,
             "start": "2008-05-01",
@@ -2080,7 +2058,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617634,
+            "id": 31747022,
             "from_actor": 80,
             "to_actor": 978,
             "start": "2005-02-23",
@@ -2091,7 +2069,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617635,
+            "id": 31747023,
             "from_actor": 80,
             "to_actor": 714,
             "start": "2005-02-23",
@@ -2102,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617636,
+            "id": 31747024,
             "from_actor": 80,
             "to_actor": 940,
             "start": "2005-10-05",
@@ -2113,7 +2091,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617637,
+            "id": 31747025,
             "from_actor": 80,
             "to_actor": 715,
             "start": "2005-10-05",
@@ -2124,7 +2102,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617638,
+            "id": 31747026,
             "from_actor": 80,
             "to_actor": 1062,
             "start": "2005-12-20",
@@ -2135,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617639,
+            "id": 31747027,
             "from_actor": 80,
             "to_actor": 617,
             "start": "2006-10-04",
@@ -2146,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617640,
+            "id": 31747028,
             "from_actor": 80,
             "to_actor": 941,
             "start": "2006-10-04",
@@ -2157,7 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617641,
+            "id": 31747029,
             "from_actor": 80,
             "to_actor": 716,
             "start": "2007-10-03",
@@ -2168,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617642,
+            "id": 31747030,
             "from_actor": 80,
             "to_actor": 2161,
             "start": "2011-11-01",
@@ -2179,7 +2157,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617643,
+            "id": 31747031,
             "from_actor": 80,
             "to_actor": 13677,
             "start": "2011-11-01",
@@ -2190,7 +2168,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617644,
+            "id": 31747032,
             "from_actor": 80,
             "to_actor": 1458,
             "start": "2011-11-01",
@@ -2201,7 +2179,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617645,
+            "id": 31747033,
             "from_actor": 80,
             "to_actor": 755,
             "start": "2005-02-23",
@@ -2212,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617646,
+            "id": 31747034,
             "from_actor": 80,
             "to_actor": 756,
             "start": "2005-10-05",
@@ -2223,7 +2201,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617647,
+            "id": 31747035,
             "from_actor": 80,
             "to_actor": 757,
             "start": "2006-10-04",
@@ -2234,7 +2212,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617648,
+            "id": 31747036,
             "from_actor": 80,
             "to_actor": 758,
             "start": "2007-10-03",
@@ -2245,7 +2223,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617649,
+            "id": 31747037,
             "from_actor": 80,
             "to_actor": 1022,
             "start": "2011-06-05",
@@ -2256,7 +2234,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617650,
+            "id": 31747038,
             "from_actor": 80,
             "to_actor": 1078,
             "start": "2011-04-28",
@@ -2267,18 +2245,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617651,
-            "from_actor": 80,
-            "to_actor": 19527,
-            "start": "2021-02-01",
-            "end": "2025-01-31",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Planklagenævnet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617652,
+            "id": 31747039,
             "from_actor": 80,
             "to_actor": 708,
             "start": "2005-02-22",
@@ -2289,7 +2256,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617653,
+            "id": 31747040,
+            "from_actor": 80,
+            "to_actor": 19897,
+            "start": "2022-03-30",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747041,
+            "from_actor": 80,
+            "to_actor": 19896,
+            "start": "2022-04-02",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747042,
             "from_actor": 80,
             "to_actor": 630,
             "start": "2009-10-07",
@@ -2300,7 +2289,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617654,
+            "id": 31747043,
             "from_actor": 80,
             "to_actor": 1459,
             "start": "2011-11-01",
@@ -2311,7 +2300,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27617655,
+            "id": 31747044,
+            "from_actor": 80,
+            "to_actor": 19527,
+            "start": "2021-02-01",
+            "end": "2025-01-31",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Planklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747045,
             "from_actor": 80,
             "to_actor": 16742,
             "start": "2016-06-01",
@@ -2322,7 +2322,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617656,
+            "id": 31747046,
             "from_actor": 80,
             "to_actor": 13637,
             "start": "2014-10-08",
@@ -2333,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617657,
+            "id": 31747047,
             "from_actor": 80,
             "to_actor": 18927,
             "start": "2020-01-29",
@@ -2344,7 +2344,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617658,
+            "id": 31747048,
             "from_actor": 80,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -2355,7 +2355,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617659,
+            "id": 31747049,
             "from_actor": 80,
             "to_actor": 942,
             "start": "2007-10-03",
@@ -2366,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617660,
+            "id": 31747050,
             "from_actor": 80,
             "to_actor": 174,
             "start": "2013-10-02",
@@ -2377,7 +2377,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617661,
+            "id": 31747051,
             "from_actor": 80,
             "to_actor": 339,
             "start": "2012-10-03",
@@ -2388,7 +2388,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617662,
+            "id": 31747052,
+            "from_actor": 80,
+            "to_actor": 19892,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747053,
             "from_actor": 80,
             "to_actor": 16870,
             "start": "2016-10-05",
@@ -2399,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617663,
+            "id": 31747054,
             "from_actor": 80,
             "to_actor": 748,
             "start": "2011-10-07",
@@ -2410,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617664,
+            "id": 31747055,
             "from_actor": 80,
             "to_actor": 16868,
             "start": "2016-10-05",
@@ -2421,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617665,
+            "id": 31747056,
             "from_actor": 80,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -2432,7 +2443,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617666,
+            "id": 31747057,
             "from_actor": 80,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -2443,7 +2454,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617667,
+            "id": 31747058,
             "from_actor": 80,
             "to_actor": 19428,
             "start": "2020-10-07",
@@ -2454,7 +2465,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617668,
+            "id": 31747059,
             "from_actor": 80,
             "to_actor": 16891,
             "start": "2016-10-05",
@@ -2465,7 +2476,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617669,
+            "id": 31747060,
             "from_actor": 80,
             "to_actor": 16865,
             "start": "2016-10-05",
@@ -2476,7 +2487,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617670,
+            "id": 31747061,
             "from_actor": 80,
             "to_actor": 16911,
             "start": "2016-10-05",
@@ -2487,7 +2498,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617671,
+            "id": 31747062,
             "from_actor": 80,
             "to_actor": 16861,
             "start": "2016-10-05",
@@ -2498,7 +2509,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617672,
+            "id": 31747063,
             "from_actor": 80,
             "to_actor": 16866,
             "start": "2016-10-05",
@@ -2509,7 +2520,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617673,
+            "id": 31747064,
             "from_actor": 80,
             "to_actor": 26,
             "start": "2013-10-02",
@@ -2520,7 +2531,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617674,
+            "id": 31747065,
+            "from_actor": 80,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31747066,
             "from_actor": 80,
             "to_actor": 16864,
             "start": "2016-10-05",
@@ -2531,7 +2553,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617675,
+            "id": 31747067,
             "from_actor": 80,
             "to_actor": 428,
             "start": "2008-01-29",
@@ -2542,7 +2564,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617676,
+            "id": 31747068,
             "from_actor": 80,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -2553,7 +2575,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617677,
+            "id": 31747069,
             "from_actor": 80,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -2564,7 +2586,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617678,
+            "id": 31747070,
             "from_actor": 80,
             "to_actor": 16913,
             "start": "2016-10-05",
@@ -2575,7 +2597,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617679,
+            "id": 31747071,
             "from_actor": 80,
             "to_actor": 18307,
             "start": "2018-10-03",
@@ -2586,7 +2608,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617680,
+            "id": 31747072,
             "from_actor": 80,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -2597,7 +2619,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617681,
+            "id": 31747073,
             "from_actor": 80,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -2608,7 +2630,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617682,
+            "id": 31747074,
             "from_actor": 80,
             "to_actor": 16013,
             "start": "2015-10-07",
@@ -2619,7 +2641,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617683,
+            "id": 31747075,
             "from_actor": 80,
             "to_actor": 16034,
             "start": "2015-10-07",
@@ -2630,7 +2652,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617684,
+            "id": 31747076,
             "from_actor": 80,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -2641,7 +2663,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617685,
+            "id": 31747077,
             "from_actor": 80,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -2652,7 +2674,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617686,
+            "id": 31747078,
             "from_actor": 80,
             "to_actor": 15883,
             "start": "2015-07-03",
@@ -2663,7 +2685,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617687,
+            "id": 31747079,
             "from_actor": 80,
             "to_actor": 17621,
             "start": "2017-10-04",
@@ -2674,7 +2696,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617688,
+            "id": 31747080,
             "from_actor": 80,
             "to_actor": 16080,
             "start": "2015-10-07",
@@ -2685,7 +2707,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617689,
+            "id": 31747081,
             "from_actor": 80,
             "to_actor": 15897,
             "start": "2015-07-09",
@@ -2696,7 +2718,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617690,
+            "id": 31747082,
             "from_actor": 80,
             "to_actor": 16033,
             "start": "2015-10-07",
@@ -2707,7 +2729,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617691,
+            "id": 31747083,
             "from_actor": 80,
             "to_actor": 15912,
             "start": "2015-07-09",
@@ -2718,7 +2740,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617692,
+            "id": 31747084,
             "from_actor": 80,
             "to_actor": 16094,
             "start": "2015-10-07",
@@ -2729,7 +2751,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617693,
+            "id": 31747085,
             "from_actor": 80,
             "to_actor": 16035,
             "start": "2015-10-07",
@@ -2740,7 +2762,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617694,
+            "id": 31747086,
             "from_actor": 80,
             "to_actor": 414,
             "start": "2011-10-07",
@@ -2751,7 +2773,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617695,
+            "id": 31747087,
             "from_actor": 80,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -2762,7 +2784,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617696,
+            "id": 31747088,
             "from_actor": 80,
             "to_actor": 16036,
             "start": "2015-10-07",
@@ -2773,7 +2795,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617697,
+            "id": 31747089,
             "from_actor": 80,
             "to_actor": 15882,
             "start": "2015-07-03",
@@ -2784,7 +2806,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617698,
+            "id": 31747090,
             "from_actor": 80,
             "to_actor": 16019,
             "start": "2015-10-07",
@@ -2795,7 +2817,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617699,
+            "id": 31747091,
             "from_actor": 80,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -2806,7 +2828,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617700,
+            "id": 31747092,
             "from_actor": 80,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -2817,7 +2839,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617701,
+            "id": 31747093,
             "from_actor": 80,
             "to_actor": 16031,
             "start": "2015-10-07",
@@ -2828,7 +2850,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617702,
+            "id": 31747094,
             "from_actor": 80,
             "to_actor": 16037,
             "start": "2015-10-07",
@@ -2839,7 +2861,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617703,
+            "id": 31747095,
             "from_actor": 80,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -2850,7 +2872,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617704,
+            "id": 31747096,
             "from_actor": 80,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -2861,7 +2883,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617705,
+            "id": 31747097,
             "from_actor": 80,
             "to_actor": 15904,
             "start": "2015-07-09",
@@ -2872,7 +2894,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617706,
+            "id": 31747098,
             "from_actor": 80,
             "to_actor": 15898,
             "start": "2015-07-09",
@@ -2883,7 +2905,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617707,
+            "id": 31747099,
             "from_actor": 80,
             "to_actor": 15905,
             "start": "2015-07-09",
@@ -2894,7 +2916,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617708,
+            "id": 31747100,
             "from_actor": 80,
             "to_actor": 408,
             "start": "2011-10-07",
@@ -2905,7 +2927,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617709,
+            "id": 31747101,
             "from_actor": 80,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -2916,7 +2938,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617710,
+            "id": 31747102,
             "from_actor": 80,
             "to_actor": 16916,
             "start": "2016-10-05",
@@ -2927,7 +2949,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617711,
+            "id": 31747103,
             "from_actor": 80,
             "to_actor": 17642,
             "start": "2017-10-04",
@@ -2938,7 +2960,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617712,
+            "id": 31747104,
             "from_actor": 80,
             "to_actor": 15908,
             "start": "2015-07-09",
@@ -2949,7 +2971,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617713,
+            "id": 31747105,
             "from_actor": 80,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -2960,7 +2982,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617714,
+            "id": 31747106,
             "from_actor": 80,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -2971,7 +2993,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617715,
+            "id": 31747107,
             "from_actor": 80,
             "to_actor": 5138,
             "start": "2014-12-11",
@@ -2982,7 +3004,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617716,
+            "id": 31747108,
             "from_actor": 80,
             "to_actor": 18762,
             "start": "2019-08-15",
@@ -2993,7 +3015,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617717,
+            "id": 31747109,
             "from_actor": 80,
             "to_actor": 17638,
             "start": "2017-10-04",
@@ -3004,7 +3026,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617718,
+            "id": 31747110,
             "from_actor": 80,
             "to_actor": 18339,
             "start": "2018-10-03",
@@ -3015,7 +3037,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617719,
+            "id": 31747111,
             "from_actor": 80,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -3026,7 +3048,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617720,
+            "id": 31747112,
             "from_actor": 80,
             "to_actor": 18738,
             "start": "2019-06-21",
@@ -3037,7 +3059,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617721,
+            "id": 31747113,
             "from_actor": 80,
             "to_actor": 18763,
             "start": "2019-07-04",
@@ -3048,7 +3070,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617722,
+            "id": 31747114,
             "from_actor": 80,
             "to_actor": 17643,
             "start": "2017-12-08",
@@ -3059,7 +3081,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617723,
+            "id": 31747115,
             "from_actor": 80,
             "to_actor": 18340,
             "start": "2018-10-03",
@@ -3070,7 +3092,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617724,
+            "id": 31747116,
             "from_actor": 80,
             "to_actor": 311,
             "start": "2012-10-03",
@@ -3081,7 +3103,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617725,
+            "id": 31747117,
             "from_actor": 80,
             "to_actor": 17643,
             "start": "2017-10-04",
@@ -3092,7 +3114,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617726,
+            "id": 31747118,
             "from_actor": 80,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -3103,7 +3125,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617727,
+            "id": 31747119,
             "from_actor": 80,
             "to_actor": 5168,
             "start": "2014-10-08",
@@ -3114,7 +3136,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617728,
+            "id": 31747120,
+            "from_actor": 80,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2022-03-28",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747121,
             "from_actor": 80,
             "to_actor": 18732,
             "start": "2019-06-21",
@@ -3125,7 +3158,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617729,
+            "id": 31747122,
             "from_actor": 80,
             "to_actor": 325,
             "start": "2012-10-03",
@@ -3136,7 +3169,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617730,
+            "id": 31747123,
+            "from_actor": 80,
+            "to_actor": 19907,
+            "start": "2021-11-20",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747124,
+            "from_actor": 80,
+            "to_actor": 19907,
+            "start": "2021-10-06",
+            "end": "2021-11-18",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747125,
             "from_actor": 80,
             "to_actor": 5172,
             "start": "2014-10-08",
@@ -3147,7 +3202,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617731,
+            "id": 31747126,
             "from_actor": 80,
             "to_actor": 18764,
             "start": "2019-07-04",
@@ -3158,7 +3213,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617732,
+            "id": 31747127,
             "from_actor": 80,
             "to_actor": 222,
             "start": "2013-10-02",
@@ -3169,7 +3224,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617733,
+            "id": 31747128,
             "from_actor": 80,
             "to_actor": 1,
             "start": "2014-01-15",
@@ -3180,7 +3235,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617734,
+            "id": 31747129,
             "from_actor": 80,
             "to_actor": 18761,
             "start": "2019-07-04",
@@ -3191,7 +3246,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617735,
+            "id": 31747130,
             "from_actor": 80,
             "to_actor": 18769,
             "start": "2019-07-04",
@@ -3202,7 +3257,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617736,
+            "id": 31747131,
             "from_actor": 80,
             "to_actor": 333,
             "start": "2012-12-12",
@@ -3213,7 +3268,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617737,
+            "id": 31747132,
             "from_actor": 80,
             "to_actor": 18779,
             "start": "2019-07-04",
@@ -3224,7 +3279,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617738,
+            "id": 31747133,
             "from_actor": 80,
             "to_actor": 18314,
             "start": "2018-11-22",
@@ -3235,7 +3290,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617739,
+            "id": 31747134,
             "from_actor": 80,
             "to_actor": 19387,
             "start": "2020-11-12",
@@ -3246,7 +3301,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617740,
+            "id": 31747135,
             "from_actor": 80,
             "to_actor": 333,
             "start": "2012-10-03",
@@ -3257,7 +3312,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617741,
+            "id": 31747136,
             "from_actor": 80,
             "to_actor": 19387,
             "start": "2020-10-07",
@@ -3268,7 +3323,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617742,
+            "id": 31747137,
             "from_actor": 80,
             "to_actor": 222,
             "start": "2013-10-23",
@@ -3279,7 +3334,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617743,
+            "id": 31747138,
             "from_actor": 80,
             "to_actor": 17622,
             "start": "2017-10-04",
@@ -3290,7 +3345,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617744,
+            "id": 31747139,
             "from_actor": 80,
             "to_actor": 17623,
             "start": "2017-10-04",
@@ -3301,7 +3356,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617745,
+            "id": 31747140,
             "from_actor": 80,
             "to_actor": 18871,
             "start": "2019-10-02",
@@ -3312,7 +3367,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617746,
+            "id": 31747141,
             "from_actor": 80,
             "to_actor": 5134,
             "start": "2014-11-26",
@@ -3323,7 +3378,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617747,
+            "id": 31747142,
             "from_actor": 80,
             "to_actor": 222,
             "start": "2013-11-27",
@@ -3334,7 +3389,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617748,
+            "id": 31747143,
             "from_actor": 80,
             "to_actor": 16934,
             "start": "2016-11-02",
@@ -3345,7 +3400,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617749,
+            "id": 31747144,
             "from_actor": 80,
             "to_actor": 146,
             "start": "2013-12-11",
@@ -3356,7 +3411,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617750,
+            "id": 31747145,
             "from_actor": 80,
             "to_actor": 26,
             "start": "2014-02-05",
@@ -3367,18 +3422,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617751,
-            "from_actor": 80,
-            "to_actor": 19412,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617752,
+            "id": 31747146,
             "from_actor": 80,
             "to_actor": 18293,
             "start": "2018-10-03",
@@ -3389,18 +3433,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617753,
+            "id": 31747147,
             "from_actor": 80,
-            "to_actor": 19405,
-            "start": "2020-11-27",
-            "end": "2021-10-05",
+            "to_actor": 19896,
+            "start": "2022-02-24",
+            "end": "2022-03-31",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
+            "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27617754,
+            "id": 31747148,
             "from_actor": 80,
             "to_actor": 325,
             "start": "2013-01-11",
@@ -3411,7 +3455,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617755,
+            "id": 31747149,
             "from_actor": 80,
             "to_actor": 18870,
             "start": "2020-02-18",
@@ -3422,7 +3466,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617756,
+            "id": 31747150,
             "from_actor": 80,
             "to_actor": 18315,
             "start": "2018-10-03",
@@ -3433,7 +3477,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617757,
+            "id": 31747151,
             "from_actor": 80,
             "to_actor": 16862,
             "start": "2017-06-20",
@@ -3444,18 +3488,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617758,
+            "id": 31747152,
             "from_actor": 80,
-            "to_actor": 19405,
-            "start": "2020-10-07",
-            "end": "2020-11-25",
+            "to_actor": 19896,
+            "start": "2022-02-03",
+            "end": "2022-02-22",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
+            "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27617759,
+            "id": 31747153,
             "from_actor": 80,
             "to_actor": 416,
             "start": "2011-10-07",
@@ -3466,7 +3510,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617760,
+            "id": 31747154,
             "from_actor": 80,
             "to_actor": 18305,
             "start": "2018-10-03",
@@ -3477,7 +3521,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617761,
+            "id": 31747155,
+            "from_actor": 80,
+            "to_actor": 19896,
+            "start": "2022-01-08",
+            "end": "2022-02-01",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747156,
+            "from_actor": 80,
+            "to_actor": 19412,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747157,
             "from_actor": 80,
             "to_actor": 18343,
             "start": "2018-10-03",
@@ -3488,7 +3554,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617762,
+            "id": 31747158,
+            "from_actor": 80,
+            "to_actor": 19896,
+            "start": "2021-11-10",
+            "end": "2022-01-06",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747159,
+            "from_actor": 80,
+            "to_actor": 19405,
+            "start": "2020-11-27",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747160,
+            "from_actor": 80,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2021-11-08",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747161,
+            "from_actor": 80,
+            "to_actor": 19405,
+            "start": "2020-10-07",
+            "end": "2020-11-25",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747162,
             "from_actor": 80,
             "to_actor": 18932,
             "start": "2020-01-16",
@@ -3499,7 +3609,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617763,
+            "id": 31747163,
+            "from_actor": 80,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31747164,
             "from_actor": 80,
             "to_actor": 18348,
             "start": "2018-10-03",
@@ -3510,7 +3631,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617764,
+            "id": 31747165,
             "from_actor": 80,
             "to_actor": 18932,
             "start": "2020-01-09",
@@ -3521,7 +3642,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617765,
+            "id": 31747166,
             "from_actor": 80,
             "to_actor": 333,
             "start": "2013-04-04",
@@ -3532,7 +3653,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617766,
+            "id": 31747167,
             "from_actor": 80,
             "to_actor": 16916,
             "start": "2017-05-05",
@@ -3543,18 +3664,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617767,
-            "from_actor": 80,
-            "to_actor": 19620,
-            "start": "2021-06-05",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617768,
+            "id": 31747168,
             "from_actor": 80,
             "to_actor": 18932,
             "start": "2019-10-02",
@@ -3565,18 +3675,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617769,
+            "id": 31747169,
             "from_actor": 80,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27617770,
+            "id": 31747170,
             "from_actor": 80,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -3587,7 +3697,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27617771,
+            "id": 31747171,
             "from_actor": 80,
             "to_actor": 16015,
             "start": "2015-12-11",
@@ -3598,29 +3708,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617772,
+            "id": 31747172,
             "from_actor": 80,
             "to_actor": 19620,
-            "start": "2021-04-24",
-            "end": "2021-06-02",
+            "start": "2021-06-05",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27617773,
-            "from_actor": 80,
-            "to_actor": 19620,
-            "start": "2021-04-22",
-            "end": "2021-04-22",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617774,
+            "id": 31747173,
             "from_actor": 80,
             "to_actor": 329,
             "start": "2013-06-25",
@@ -3631,7 +3730,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617775,
+            "id": 31747174,
             "from_actor": 80,
             "to_actor": 18876,
             "start": "2020-02-07",
@@ -3642,18 +3741,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617776,
+            "id": 31747175,
             "from_actor": 80,
             "to_actor": 19620,
-            "start": "2021-03-27",
-            "end": "2021-04-20",
+            "start": "2021-04-24",
+            "end": "2021-06-02",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27617777,
+            "id": 31747176,
             "from_actor": 80,
             "to_actor": 18876,
             "start": "2019-11-08",
@@ -3664,18 +3763,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617778,
+            "id": 31747177,
             "from_actor": 80,
             "to_actor": 19620,
-            "start": "2021-03-02",
-            "end": "2021-03-25",
+            "start": "2021-04-22",
+            "end": "2021-04-22",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27617779,
+            "id": 31747178,
+            "from_actor": 80,
+            "to_actor": 19914,
+            "start": "2022-02-08",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747179,
             "from_actor": 80,
             "to_actor": 18876,
             "start": "2019-11-02",
@@ -3686,7 +3796,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617780,
+            "id": 31747180,
             "from_actor": 80,
             "to_actor": 16016,
             "start": "2016-02-11",
@@ -3697,7 +3807,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617781,
+            "id": 31747181,
+            "from_actor": 80,
+            "to_actor": 19620,
+            "start": "2021-03-27",
+            "end": "2021-04-20",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747182,
             "from_actor": 80,
             "to_actor": 26,
             "start": "2014-02-28",
@@ -3708,7 +3829,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617782,
+            "id": 31747183,
+            "from_actor": 80,
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-02-06",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747184,
             "from_actor": 80,
             "to_actor": 16861,
             "start": "2017-03-23",
@@ -3719,7 +3851,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617783,
+            "id": 31747185,
             "from_actor": 80,
             "to_actor": 17652,
             "start": "2017-10-04",
@@ -3730,7 +3862,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617784,
+            "id": 31747186,
+            "from_actor": 80,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-03-25",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747187,
+            "from_actor": 80,
+            "to_actor": 19913,
+            "start": "2022-03-31",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747188,
             "from_actor": 80,
             "to_actor": 18876,
             "start": "2019-10-02",
@@ -3741,7 +3895,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617785,
+            "id": 31747189,
             "from_actor": 80,
             "to_actor": 18863,
             "start": "2020-07-02",
@@ -3752,7 +3906,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617786,
+            "id": 31747190,
+            "from_actor": 80,
+            "to_actor": 19913,
+            "start": "2021-10-14",
+            "end": "2022-03-28",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747191,
+            "from_actor": 80,
+            "to_actor": 19913,
+            "start": "2021-10-06",
+            "end": "2021-10-12",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747192,
             "from_actor": 80,
             "to_actor": 232,
             "start": "2008-10-07",
@@ -3763,7 +3939,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617787,
+            "id": 31747193,
             "from_actor": 80,
             "to_actor": 17658,
             "start": "2017-10-04",
@@ -3774,7 +3950,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617788,
+            "id": 31747194,
             "from_actor": 80,
             "to_actor": 26,
             "start": "2014-05-09",
@@ -3785,7 +3961,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617789,
+            "id": 31747195,
             "from_actor": 80,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -3796,7 +3972,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617790,
+            "id": 31747196,
             "from_actor": 80,
             "to_actor": 428,
             "start": "2007-11-13",
@@ -3807,7 +3983,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617791,
+            "id": 31747197,
             "from_actor": 80,
             "to_actor": 26,
             "start": "2014-05-20",
@@ -3818,7 +3994,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617792,
+            "id": 31747198,
             "from_actor": 80,
             "to_actor": 41,
             "start": "2014-03-21",
@@ -3829,7 +4005,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617793,
+            "id": 31747199,
             "from_actor": 80,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -3840,7 +4016,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617794,
+            "id": 31747200,
             "from_actor": 80,
             "to_actor": 41,
             "start": "2014-04-23",
@@ -3851,7 +4027,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617795,
+            "id": 31747201,
             "from_actor": 80,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -3862,7 +4038,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617797,
+            "id": 31747202,
             "from_actor": 80,
             "to_actor": 16019,
             "start": "2016-05-27",
@@ -3873,634 +4049,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617801,
+            "id": 31747203,
             "from_actor": 80,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Torsten Schack Pedersen",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617802,
-            "from_actor": 80,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617803,
-            "from_actor": 80,
-            "to_actor": 368,
-            "start": "2010-10-05",
-            "end": "2011-09-15",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617804,
-            "from_actor": 80,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617805,
-            "from_actor": 80,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617806,
-            "from_actor": 80,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617807,
-            "from_actor": 80,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617808,
-            "from_actor": 80,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617809,
-            "from_actor": 80,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617810,
-            "from_actor": 80,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617811,
-            "from_actor": 80,
-            "to_actor": 429,
-            "start": "2009-10-06",
-            "end": "2010-10-05",
-            "role": "medlem",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617812,
-            "from_actor": 80,
-            "to_actor": 18762,
-            "start": "2019-07-04",
-            "end": "2019-08-14",
-            "role": "formand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617813,
-            "from_actor": 80,
-            "to_actor": 826,
-            "start": "2007-11-28",
-            "end": "2008-01-20",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617814,
-            "from_actor": 80,
-            "to_actor": 826,
-            "start": "2008-01-29",
-            "end": "2008-04-01",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617815,
-            "from_actor": 80,
-            "to_actor": 826,
-            "start": "2008-05-01",
-            "end": "2008-10-07",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617816,
-            "from_actor": 80,
-            "to_actor": 827,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617817,
-            "from_actor": 80,
-            "to_actor": 589,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617818,
-            "from_actor": 80,
-            "to_actor": 1064,
-            "start": "2010-10-06",
-            "end": "2011-09-15",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617819,
-            "from_actor": 80,
-            "to_actor": 804,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617820,
-            "from_actor": 80,
-            "to_actor": 805,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617821,
-            "from_actor": 80,
-            "to_actor": 611,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617822,
-            "from_actor": 80,
-            "to_actor": 806,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617823,
-            "from_actor": 80,
-            "to_actor": 18738,
-            "start": "2019-08-21",
-            "end": "2019-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617824,
-            "from_actor": 80,
-            "to_actor": 18863,
-            "start": "2020-06-03",
-            "end": "2020-07-01",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617825,
-            "from_actor": 80,
-            "to_actor": 18863,
-            "start": "2020-05-20",
-            "end": "2020-06-01",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617826,
-            "from_actor": 80,
-            "to_actor": 18863,
-            "start": "2019-10-02",
-            "end": "2020-05-18",
-            "role": "næstformand",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617827,
-            "from_actor": 80,
-            "to_actor": 16936,
-            "start": "2016-10-05",
-            "end": "2016-12-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617828,
-            "from_actor": 80,
-            "to_actor": 16069,
-            "start": "2015-07-09",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617829,
-            "from_actor": 80,
-            "to_actor": 15922,
-            "start": "2015-07-09",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617830,
-            "from_actor": 80,
-            "to_actor": 1034,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Arbejdsmarkedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617831,
-            "from_actor": 80,
-            "to_actor": 943,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Arbejdsmarkedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617832,
-            "from_actor": 80,
-            "to_actor": 906,
-            "start": "2006-10-04",
-            "end": "2007-01-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Arbejdsmarkedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617833,
-            "from_actor": 80,
-            "to_actor": 623,
-            "start": "2008-01-29",
-            "end": "2008-04-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617834,
-            "from_actor": 80,
-            "to_actor": 623,
-            "start": "2008-05-01",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617835,
-            "from_actor": 80,
-            "to_actor": 623,
-            "start": "2007-11-28",
-            "end": "2008-01-20",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617836,
-            "from_actor": 80,
-            "to_actor": 610,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617837,
-            "from_actor": 80,
-            "to_actor": 740,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617838,
-            "from_actor": 80,
-            "to_actor": 753,
-            "start": "2006-11-23",
-            "end": "2006-11-23",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617839,
-            "from_actor": 80,
-            "to_actor": 1019,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617840,
-            "from_actor": 80,
-            "to_actor": 1020,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617841,
-            "from_actor": 80,
-            "to_actor": 1021,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617842,
-            "from_actor": 80,
-            "to_actor": 1022,
-            "start": "2010-10-06",
-            "end": "2011-06-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617843,
-            "from_actor": 80,
-            "to_actor": 15871,
-            "start": "2015-10-08",
-            "end": "2018-02-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617844,
-            "from_actor": 80,
-            "to_actor": 456,
-            "start": "2007-11-28",
-            "end": "2008-01-20",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617845,
-            "from_actor": 80,
-            "to_actor": 456,
-            "start": "2008-01-29",
-            "end": "2008-04-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617846,
-            "from_actor": 80,
-            "to_actor": 456,
-            "start": "2008-05-01",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617847,
-            "from_actor": 80,
-            "to_actor": 458,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617848,
-            "from_actor": 80,
-            "to_actor": 893,
-            "start": "2011-02-01",
-            "end": "2011-02-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617849,
-            "from_actor": 80,
-            "to_actor": 893,
-            "start": "2011-05-12",
-            "end": "2011-05-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617850,
-            "from_actor": 80,
-            "to_actor": 17753,
-            "start": "2018-03-01",
-            "end": "2022-02-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617851,
-            "from_actor": 80,
-            "to_actor": 457,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617852,
-            "from_actor": 80,
-            "to_actor": 706,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617853,
-            "from_actor": 80,
-            "to_actor": 237,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617854,
-            "from_actor": 80,
-            "to_actor": 553,
-            "start": "2008-01-22",
-            "end": "2008-01-28",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27617855,
-            "from_actor": 80,
-            "to_actor": 553,
-            "start": "2008-04-01",
-            "end": "2008-04-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27617856,
-            "from_actor": 80,
-            "to_actor": 428,
-            "start": "2008-04-01",
-            "end": "2008-04-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617857,
-            "from_actor": 80,
-            "to_actor": 428,
-            "start": "2008-01-22",
-            "end": "2008-01-28",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Torsten Schack Pedersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619283,
+            "id": 31747204,
             "from_actor": 80,
             "to_actor": 19438,
             "start": "2021-08-28",
@@ -4511,7 +4071,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619285,
+            "id": 31747205,
             "from_actor": 80,
             "to_actor": 19438,
             "start": "2020-12-03",
@@ -4522,7 +4082,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619287,
+            "id": 31747206,
             "from_actor": 80,
             "to_actor": 19438,
             "start": "2020-11-28",
@@ -4533,7 +4093,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619288,
+            "id": 31747207,
             "from_actor": 80,
             "to_actor": 19438,
             "start": "2020-10-07",
@@ -4542,6 +4102,666 @@
             "from_actor_name": "Torsten Schack Pedersen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31747208,
+            "from_actor": 80,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747209,
+            "from_actor": 80,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747210,
+            "from_actor": 80,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747211,
+            "from_actor": 80,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747212,
+            "from_actor": 80,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747213,
+            "from_actor": 80,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747214,
+            "from_actor": 80,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747215,
+            "from_actor": 80,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747216,
+            "from_actor": 80,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747217,
+            "from_actor": 80,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747218,
+            "from_actor": 80,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747219,
+            "from_actor": 80,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747220,
+            "from_actor": 80,
+            "to_actor": 429,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747221,
+            "from_actor": 80,
+            "to_actor": 18762,
+            "start": "2019-07-04",
+            "end": "2019-08-14",
+            "role": "formand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747222,
+            "from_actor": 80,
+            "to_actor": 826,
+            "start": "2007-11-28",
+            "end": "2008-01-20",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747223,
+            "from_actor": 80,
+            "to_actor": 826,
+            "start": "2008-01-29",
+            "end": "2008-04-01",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747224,
+            "from_actor": 80,
+            "to_actor": 826,
+            "start": "2008-05-01",
+            "end": "2008-10-07",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747225,
+            "from_actor": 80,
+            "to_actor": 827,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747226,
+            "from_actor": 80,
+            "to_actor": 589,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747227,
+            "from_actor": 80,
+            "to_actor": 1064,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747228,
+            "from_actor": 80,
+            "to_actor": 804,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747229,
+            "from_actor": 80,
+            "to_actor": 805,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747230,
+            "from_actor": 80,
+            "to_actor": 611,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747231,
+            "from_actor": 80,
+            "to_actor": 806,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747232,
+            "from_actor": 80,
+            "to_actor": 18738,
+            "start": "2019-08-21",
+            "end": "2019-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747233,
+            "from_actor": 80,
+            "to_actor": 18863,
+            "start": "2020-06-03",
+            "end": "2020-07-01",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747234,
+            "from_actor": 80,
+            "to_actor": 18863,
+            "start": "2020-05-20",
+            "end": "2020-06-01",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747235,
+            "from_actor": 80,
+            "to_actor": 18863,
+            "start": "2019-10-02",
+            "end": "2020-05-18",
+            "role": "næstformand",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747236,
+            "from_actor": 80,
+            "to_actor": 16936,
+            "start": "2016-10-05",
+            "end": "2016-12-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747237,
+            "from_actor": 80,
+            "to_actor": 16069,
+            "start": "2015-07-09",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747238,
+            "from_actor": 80,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747239,
+            "from_actor": 80,
+            "to_actor": 15922,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747240,
+            "from_actor": 80,
+            "to_actor": 1034,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747241,
+            "from_actor": 80,
+            "to_actor": 943,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747242,
+            "from_actor": 80,
+            "to_actor": 906,
+            "start": "2006-10-04",
+            "end": "2007-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747243,
+            "from_actor": 80,
+            "to_actor": 623,
+            "start": "2008-01-29",
+            "end": "2008-04-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747244,
+            "from_actor": 80,
+            "to_actor": 623,
+            "start": "2008-05-01",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747245,
+            "from_actor": 80,
+            "to_actor": 623,
+            "start": "2007-11-28",
+            "end": "2008-01-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747246,
+            "from_actor": 80,
+            "to_actor": 610,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747247,
+            "from_actor": 80,
+            "to_actor": 740,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747248,
+            "from_actor": 80,
+            "to_actor": 753,
+            "start": "2006-11-23",
+            "end": "2006-11-23",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747249,
+            "from_actor": 80,
+            "to_actor": 1019,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747250,
+            "from_actor": 80,
+            "to_actor": 1020,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747251,
+            "from_actor": 80,
+            "to_actor": 1021,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747252,
+            "from_actor": 80,
+            "to_actor": 1022,
+            "start": "2010-10-06",
+            "end": "2011-06-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747253,
+            "from_actor": 80,
+            "to_actor": 15871,
+            "start": "2015-10-08",
+            "end": "2018-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747254,
+            "from_actor": 80,
+            "to_actor": 456,
+            "start": "2007-11-28",
+            "end": "2008-01-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747255,
+            "from_actor": 80,
+            "to_actor": 456,
+            "start": "2008-01-29",
+            "end": "2008-04-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747256,
+            "from_actor": 80,
+            "to_actor": 456,
+            "start": "2008-05-01",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747257,
+            "from_actor": 80,
+            "to_actor": 458,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747258,
+            "from_actor": 80,
+            "to_actor": 893,
+            "start": "2011-02-01",
+            "end": "2011-02-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747259,
+            "from_actor": 80,
+            "to_actor": 893,
+            "start": "2011-05-12",
+            "end": "2011-05-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747260,
+            "from_actor": 80,
+            "to_actor": 17753,
+            "start": "2018-03-01",
+            "end": "2022-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747261,
+            "from_actor": 80,
+            "to_actor": 457,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747262,
+            "from_actor": 80,
+            "to_actor": 706,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31747263,
+            "from_actor": 80,
+            "to_actor": 237,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31747264,
+            "from_actor": 80,
+            "to_actor": 553,
+            "start": "2008-01-22",
+            "end": "2008-01-28",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31747265,
+            "from_actor": 80,
+            "to_actor": 553,
+            "start": "2008-04-01",
+            "end": "2008-04-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31747266,
+            "from_actor": 80,
+            "to_actor": 428,
+            "start": "2008-04-01",
+            "end": "2008-04-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31747267,
+            "from_actor": 80,
+            "to_actor": 428,
+            "start": "2008-01-22",
+            "end": "2008-01-28",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Torsten Schack Pedersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

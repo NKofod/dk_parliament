@@ -1530,17 +1530,6 @@
             "type": "Kommission"
         },
         {
-            "id": 22771729,
-            "from_actor": 133,
-            "to_actor": 425,
-            "start": "2006-02-06",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "John Dyrby Paulsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22771730,
             "from_actor": 133,
             "to_actor": 573,
@@ -1550,17 +1539,6 @@
             "from_actor_name": "John Dyrby Paulsen",
             "to_actor_name": "Socialdemokratiet",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22771731,
-            "from_actor": 133,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "John Dyrby Paulsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22771732,
@@ -1693,17 +1671,6 @@
             "from_actor_name": "John Dyrby Paulsen",
             "to_actor_name": "Socialdemokratiet",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22771744,
-            "from_actor": 133,
-            "to_actor": 425,
-            "start": "2005-09-06",
-            "end": "2006-02-06",
-            "role": "medlem",
-            "from_actor_name": "John Dyrby Paulsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22771745,
@@ -3130,6 +3097,39 @@
             "to_actor": 232,
             "start": "2008-10-07",
             "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "John Dyrby Paulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499572,
+            "from_actor": 133,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "John Dyrby Paulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499796,
+            "from_actor": 133,
+            "to_actor": 425,
+            "start": "2006-02-06",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "John Dyrby Paulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499797,
+            "from_actor": 133,
+            "to_actor": 425,
+            "start": "2005-09-06",
+            "end": "2006-02-06",
             "role": "medlem",
             "from_actor_name": "John Dyrby Paulsen",
             "to_actor_name": "Folketinget",

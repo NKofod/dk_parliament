@@ -3037,17 +3037,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22653123,
-            "from_actor": 198,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Anne Baastrup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22653124,
             "from_actor": 198,
             "to_actor": 1122,
@@ -3057,17 +3046,6 @@
             "from_actor_name": "Anne Baastrup",
             "to_actor_name": "Socialistisk Folkeparti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22653125,
-            "from_actor": 198,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Anne Baastrup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22653126,
@@ -5985,17 +5963,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22653394,
-            "from_actor": 198,
-            "to_actor": 426,
-            "start": "2007-04-05",
-            "end": "2007-03-19",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Anne Baastrup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22653395,
             "from_actor": 198,
             "to_actor": 1045,
@@ -6089,6 +6056,39 @@
             "to_actor": 423,
             "start": "2004-10-05",
             "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Anne Baastrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499460,
+            "from_actor": 198,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anne Baastrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499599,
+            "from_actor": 198,
+            "to_actor": 426,
+            "start": "2007-04-05",
+            "end": "2007-03-19",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Anne Baastrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499682,
+            "from_actor": 198,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Anne Baastrup",
             "to_actor_name": "Folketinget",

@@ -2047,17 +2047,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 19673816,
-            "from_actor": 126,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Kim Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 19673817,
             "from_actor": 126,
             "to_actor": 550,
@@ -2067,17 +2056,6 @@
             "from_actor_name": "Kim Andersen",
             "to_actor_name": "Venstre, Danmarks Liberale Parti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 19673818,
-            "from_actor": 126,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Kim Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 19673819,
@@ -4190,6 +4168,28 @@
             "from_actor_name": "Kim Andersen",
             "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 29499451,
+            "from_actor": 126,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kim Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499673,
+            "from_actor": 126,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kim Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

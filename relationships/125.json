@@ -12,7 +12,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27601057,
+            "id": 31726416,
             "from_actor": 125,
             "to_actor": 729,
             "start": "2004-10-05",
@@ -23,7 +23,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601058,
+            "id": 31726417,
             "from_actor": 125,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -34,7 +34,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601059,
+            "id": 31726418,
             "from_actor": 125,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -45,7 +45,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601060,
+            "id": 31726419,
             "from_actor": 125,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -56,18 +56,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601061,
-            "from_actor": 125,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601062,
+            "id": 31726420,
             "from_actor": 125,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -78,18 +67,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601063,
-            "from_actor": 125,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601064,
+            "id": 31726421,
             "from_actor": 125,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -100,7 +78,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601065,
+            "id": 31726422,
             "from_actor": 125,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -111,7 +89,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601066,
+            "id": 31726423,
             "from_actor": 125,
             "to_actor": 553,
             "start": "2007-11-13",
@@ -122,7 +100,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601067,
+            "id": 31726424,
             "from_actor": 125,
             "to_actor": 554,
             "start": "2008-10-07",
@@ -133,7 +111,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601068,
+            "id": 31726425,
             "from_actor": 125,
             "to_actor": 555,
             "start": "2009-10-06",
@@ -144,7 +122,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601069,
+            "id": 31726426,
             "from_actor": 125,
             "to_actor": 556,
             "start": "2010-10-05",
@@ -155,7 +133,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601070,
+            "id": 31726427,
             "from_actor": 125,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -166,7 +144,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601071,
+            "id": 31726428,
             "from_actor": 125,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -177,7 +155,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601072,
+            "id": 31726429,
             "from_actor": 125,
             "to_actor": 17608,
             "start": "2017-11-11",
@@ -188,7 +166,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601073,
+            "id": 31726430,
             "from_actor": 125,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -199,7 +177,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601074,
+            "id": 31726431,
             "from_actor": 125,
             "to_actor": 487,
             "start": "2008-10-08",
@@ -210,7 +188,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601075,
+            "id": 31726432,
             "from_actor": 125,
             "to_actor": 487,
             "start": "2009-09-14",
@@ -221,7 +199,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601076,
+            "id": 31726433,
             "from_actor": 125,
             "to_actor": 695,
             "start": "2008-01-18",
@@ -232,7 +210,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601077,
+            "id": 31726434,
             "from_actor": 125,
             "to_actor": 1103,
             "start": "2008-10-07",
@@ -243,7 +221,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601078,
+            "id": 31726435,
             "from_actor": 125,
             "to_actor": 1104,
             "start": "2009-10-06",
@@ -254,7 +232,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601079,
+            "id": 31726436,
             "from_actor": 125,
             "to_actor": 233,
             "start": "2008-10-08",
@@ -265,7 +243,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601080,
+            "id": 31726437,
             "from_actor": 125,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -276,7 +254,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601081,
+            "id": 31726438,
             "from_actor": 125,
             "to_actor": 831,
             "start": "2007-11-28",
@@ -287,7 +265,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601082,
+            "id": 31726439,
             "from_actor": 125,
             "to_actor": 306,
             "start": "2008-10-08",
@@ -298,7 +276,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601083,
+            "id": 31726440,
             "from_actor": 125,
             "to_actor": 1077,
             "start": "2009-10-07",
@@ -309,7 +287,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601084,
+            "id": 31726441,
             "from_actor": 125,
             "to_actor": 18364,
             "start": "2018-10-03",
@@ -320,7 +298,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601085,
+            "id": 31726442,
             "from_actor": 125,
             "to_actor": 707,
             "start": "2007-11-28",
@@ -331,7 +309,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601086,
+            "id": 31726443,
             "from_actor": 125,
             "to_actor": 717,
             "start": "2008-10-08",
@@ -342,7 +320,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601087,
+            "id": 31726444,
             "from_actor": 125,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -353,7 +331,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601088,
+            "id": 31726445,
+            "from_actor": 125,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31726446,
             "from_actor": 125,
             "to_actor": 486,
             "start": "2007-11-28",
@@ -364,7 +353,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601089,
+            "id": 31726447,
             "from_actor": 125,
             "to_actor": 17651,
             "start": "2017-11-12",
@@ -375,7 +364,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601090,
+            "id": 31726448,
             "from_actor": 125,
             "to_actor": 16866,
             "start": "2017-09-22",
@@ -386,7 +375,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601091,
+            "id": 31726449,
             "from_actor": 125,
             "to_actor": 17638,
             "start": "2017-12-15",
@@ -397,7 +386,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601092,
+            "id": 31726450,
             "from_actor": 125,
             "to_actor": 17659,
             "start": "2017-11-12",
@@ -408,7 +397,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601093,
+            "id": 31726451,
             "from_actor": 125,
             "to_actor": 18339,
             "start": "2018-10-03",
@@ -419,7 +408,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601094,
+            "id": 31726452,
             "from_actor": 125,
             "to_actor": 18346,
             "start": "2018-10-03",
@@ -430,7 +419,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601095,
+            "id": 31726453,
             "from_actor": 125,
             "to_actor": 17658,
             "start": "2018-02-01",
@@ -441,7 +430,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601096,
+            "id": 31726454,
             "from_actor": 125,
             "to_actor": 18348,
             "start": "2018-10-03",
@@ -452,7 +441,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601097,
+            "id": 31726455,
             "from_actor": 125,
             "to_actor": 18769,
             "start": "2019-08-13",
@@ -463,7 +452,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601098,
+            "id": 31726456,
             "from_actor": 125,
             "to_actor": 18764,
             "start": "2019-09-23",
@@ -474,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601099,
+            "id": 31726457,
             "from_actor": 125,
             "to_actor": 17643,
             "start": "2017-12-07",
@@ -485,7 +474,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601100,
+            "id": 31726458,
             "from_actor": 125,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -496,7 +485,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601101,
+            "id": 31726459,
             "from_actor": 125,
             "to_actor": 17642,
             "start": "2018-09-25",
@@ -507,7 +496,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601102,
+            "id": 31726460,
             "from_actor": 125,
             "to_actor": 465,
             "start": "2007-11-28",
@@ -518,7 +507,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601103,
+            "id": 31726461,
             "from_actor": 125,
             "to_actor": 466,
             "start": "2008-10-08",
@@ -529,7 +518,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601104,
+            "id": 31726462,
             "from_actor": 125,
             "to_actor": 904,
             "start": "2007-10-03",
@@ -540,7 +529,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601105,
+            "id": 31726463,
             "from_actor": 125,
             "to_actor": 497,
             "start": "2009-10-07",
@@ -551,7 +540,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601106,
+            "id": 31726464,
             "from_actor": 125,
             "to_actor": 467,
             "start": "2007-11-28",
@@ -562,7 +551,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601107,
+            "id": 31726465,
             "from_actor": 125,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -573,7 +562,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601108,
+            "id": 31726466,
             "from_actor": 125,
             "to_actor": 547,
             "start": "2011-10-07",
@@ -584,7 +573,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601109,
+            "id": 31726467,
             "from_actor": 125,
             "to_actor": 17633,
             "start": "2017-12-07",
@@ -595,7 +584,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601110,
+            "id": 31726468,
             "from_actor": 125,
             "to_actor": 630,
             "start": "2009-12-11",
@@ -606,7 +595,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601111,
+            "id": 31726469,
             "from_actor": 125,
             "to_actor": 19429,
             "start": "2020-10-07",
@@ -617,7 +606,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601112,
+            "id": 31726470,
             "from_actor": 125,
             "to_actor": 5172,
             "start": "2014-10-08",
@@ -628,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601113,
+            "id": 31726471,
             "from_actor": 125,
             "to_actor": 18928,
             "start": "2019-10-02",
@@ -639,7 +628,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27601114,
+            "id": 31726472,
+            "from_actor": 125,
+            "to_actor": 19893,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726473,
             "from_actor": 125,
             "to_actor": 18310,
             "start": "2018-10-03",
@@ -650,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601115,
+            "id": 31726474,
             "from_actor": 125,
             "to_actor": 630,
             "start": "2009-10-07",
@@ -661,7 +661,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601116,
+            "id": 31726475,
             "from_actor": 125,
             "to_actor": 540,
             "start": "2011-10-07",
@@ -672,7 +672,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601117,
+            "id": 31726476,
             "from_actor": 125,
             "to_actor": 496,
             "start": "2008-10-08",
@@ -683,7 +683,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601118,
+            "id": 31726477,
             "from_actor": 125,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -694,7 +694,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601119,
+            "id": 31726478,
             "from_actor": 125,
             "to_actor": 495,
             "start": "2007-11-28",
@@ -705,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601120,
+            "id": 31726479,
             "from_actor": 125,
             "to_actor": 13636,
             "start": "2014-11-10",
@@ -716,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601121,
+            "id": 31726480,
             "from_actor": 125,
             "to_actor": 18329,
             "start": "2019-04-10",
@@ -727,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601122,
+            "id": 31726481,
             "from_actor": 125,
             "to_actor": 18346,
             "start": "2018-11-14",
@@ -738,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601123,
+            "id": 31726482,
             "from_actor": 125,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -749,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601124,
+            "id": 31726483,
             "from_actor": 125,
             "to_actor": 36,
             "start": "2013-10-02",
@@ -760,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601125,
+            "id": 31726484,
             "from_actor": 125,
             "to_actor": 14943,
             "start": "2002-10-01",
@@ -771,7 +771,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601126,
+            "id": 31726485,
             "from_actor": 125,
             "to_actor": 14957,
             "start": "2003-10-07",
@@ -782,7 +782,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601127,
+            "id": 31726486,
             "from_actor": 125,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -793,7 +793,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601128,
+            "id": 31726487,
             "from_actor": 125,
             "to_actor": 18319,
             "start": "2018-12-14",
@@ -804,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601129,
+            "id": 31726488,
             "from_actor": 125,
             "to_actor": 14926,
             "start": "2001-11-20",
@@ -815,7 +815,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601130,
+            "id": 31726489,
             "from_actor": 125,
             "to_actor": 17633,
             "start": "2017-11-12",
@@ -826,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601131,
+            "id": 31726490,
             "from_actor": 125,
             "to_actor": 5134,
             "start": "2014-10-08",
@@ -837,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601132,
+            "id": 31726491,
             "from_actor": 125,
             "to_actor": 17669,
             "start": "2017-11-12",
@@ -848,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601133,
+            "id": 31726492,
             "from_actor": 125,
             "to_actor": 397,
             "start": "2011-10-07",
@@ -859,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601134,
+            "id": 31726493,
             "from_actor": 125,
             "to_actor": 18776,
             "start": "2019-07-04",
@@ -870,7 +870,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601135,
+            "id": 31726494,
             "from_actor": 125,
             "to_actor": 1066,
             "start": "2012-01-10",
@@ -881,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601136,
+            "id": 31726495,
             "from_actor": 125,
             "to_actor": 414,
             "start": "2011-10-07",
@@ -892,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601137,
+            "id": 31726496,
             "from_actor": 125,
             "to_actor": 411,
             "start": "2011-10-07",
@@ -903,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601138,
+            "id": 31726497,
             "from_actor": 125,
             "to_actor": 411,
             "start": "2012-02-24",
@@ -914,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601139,
+            "id": 31726498,
             "from_actor": 125,
             "to_actor": 5162,
             "start": "2014-10-08",
@@ -925,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601140,
+            "id": 31726499,
             "from_actor": 125,
             "to_actor": 14889,
             "start": "2000-10-03",
@@ -936,7 +936,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601141,
+            "id": 31726500,
             "from_actor": 125,
             "to_actor": 14915,
             "start": "2001-10-02",
@@ -947,7 +947,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601142,
+            "id": 31726501,
             "from_actor": 125,
             "to_actor": 26,
             "start": "2013-10-02",
@@ -958,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601143,
+            "id": 31726502,
             "from_actor": 125,
             "to_actor": 13708,
             "start": "2014-10-08",
@@ -969,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601144,
+            "id": 31726503,
             "from_actor": 125,
             "to_actor": 229,
             "start": "2013-10-02",
@@ -980,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601145,
+            "id": 31726504,
             "from_actor": 125,
             "to_actor": 14852,
             "start": "1998-10-06",
@@ -991,7 +991,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601146,
+            "id": 31726505,
             "from_actor": 125,
             "to_actor": 14866,
             "start": "1999-10-05",
@@ -1002,7 +1002,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601147,
+            "id": 31726506,
             "from_actor": 125,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -1013,7 +1013,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601148,
+            "id": 31726507,
             "from_actor": 125,
             "to_actor": 16936,
             "start": "2016-12-14",
@@ -1024,7 +1024,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601149,
+            "id": 31726508,
             "from_actor": 125,
             "to_actor": 17655,
             "start": "2017-10-26",
@@ -1035,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601150,
+            "id": 31726509,
             "from_actor": 125,
             "to_actor": 14838,
             "start": "1998-03-11",
@@ -1046,7 +1046,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601151,
+            "id": 31726510,
             "from_actor": 125,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -1057,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601152,
+            "id": 31726511,
             "from_actor": 125,
             "to_actor": 5114,
             "start": "2014-10-08",
@@ -1068,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601153,
+            "id": 31726512,
             "from_actor": 125,
             "to_actor": 18884,
             "start": "2019-10-02",
@@ -1079,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601154,
+            "id": 31726513,
             "from_actor": 125,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -1090,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601155,
+            "id": 31726514,
             "from_actor": 125,
             "to_actor": 5171,
             "start": "2014-10-08",
@@ -1101,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601156,
+            "id": 31726515,
             "from_actor": 125,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -1112,18 +1112,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601157,
-            "from_actor": 125,
-            "to_actor": 19405,
-            "start": "2021-06-15",
-            "end": "2021-06-15",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601158,
+            "id": 31726516,
             "from_actor": 125,
             "to_actor": 5143,
             "start": "2014-10-08",
@@ -1134,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601159,
+            "id": 31726517,
             "from_actor": 125,
             "to_actor": 41,
             "start": "2013-10-02",
@@ -1145,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601160,
+            "id": 31726518,
             "from_actor": 125,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1156,7 +1145,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601161,
+            "id": 31726519,
             "from_actor": 125,
             "to_actor": 17651,
             "start": "2017-10-04",
@@ -1167,7 +1156,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601162,
+            "id": 31726520,
             "from_actor": 125,
             "to_actor": 17638,
             "start": "2017-12-07",
@@ -1178,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601163,
+            "id": 31726521,
             "from_actor": 125,
             "to_actor": 320,
             "start": "2012-12-06",
@@ -1189,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601164,
+            "id": 31726522,
             "from_actor": 125,
             "to_actor": 18780,
             "start": "2019-07-04",
@@ -1200,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601165,
+            "id": 31726523,
             "from_actor": 125,
             "to_actor": 311,
             "start": "2012-10-03",
@@ -1211,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601166,
+            "id": 31726524,
             "from_actor": 125,
             "to_actor": 17642,
             "start": "2018-03-15",
@@ -1222,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601167,
+            "id": 31726525,
             "from_actor": 125,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -1233,7 +1222,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601168,
+            "id": 31726526,
+            "from_actor": 125,
+            "to_actor": 19405,
+            "start": "2021-06-15",
+            "end": "2021-06-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726527,
             "from_actor": 125,
             "to_actor": 323,
             "start": "2012-12-06",
@@ -1244,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601169,
+            "id": 31726528,
             "from_actor": 125,
             "to_actor": 17658,
             "start": "2017-11-09",
@@ -1255,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601170,
+            "id": 31726529,
             "from_actor": 125,
             "to_actor": 327,
             "start": "2012-10-03",
@@ -1266,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601171,
+            "id": 31726530,
             "from_actor": 125,
             "to_actor": 51,
             "start": "2013-10-02",
@@ -1277,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601172,
+            "id": 31726531,
             "from_actor": 125,
             "to_actor": 14824,
             "start": "1997-10-07",
@@ -1288,7 +1288,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601173,
+            "id": 31726532,
+            "from_actor": 125,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31726533,
             "from_actor": 125,
             "to_actor": 323,
             "start": "2012-11-21",
@@ -1299,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601174,
+            "id": 31726534,
             "from_actor": 125,
             "to_actor": 18765,
             "start": "2019-07-04",
@@ -1310,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601175,
+            "id": 31726535,
             "from_actor": 125,
             "to_actor": 14773,
             "start": "1994-09-21",
@@ -1321,7 +1332,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601176,
+            "id": 31726536,
             "from_actor": 125,
             "to_actor": 14787,
             "start": "1994-10-04",
@@ -1332,7 +1343,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601177,
+            "id": 31726537,
             "from_actor": 125,
             "to_actor": 14798,
             "start": "1995-10-03",
@@ -1343,7 +1354,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601178,
+            "id": 31726538,
             "from_actor": 125,
             "to_actor": 14810,
             "start": "1996-10-01",
@@ -1354,7 +1365,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601179,
+            "id": 31726539,
             "from_actor": 125,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -1365,7 +1376,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601180,
+            "id": 31726540,
             "from_actor": 125,
             "to_actor": 128,
             "start": "2014-04-01",
@@ -1376,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601181,
+            "id": 31726541,
             "from_actor": 125,
             "to_actor": 318,
             "start": "2012-10-03",
@@ -1387,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601182,
+            "id": 31726542,
             "from_actor": 125,
             "to_actor": 17605,
             "start": "2017-11-11",
@@ -1398,7 +1409,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601183,
+            "id": 31726543,
             "from_actor": 125,
             "to_actor": 19419,
             "start": "2020-10-06",
@@ -1409,7 +1420,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27601184,
+            "id": 31726544,
             "from_actor": 125,
             "to_actor": 323,
             "start": "2012-11-15",
@@ -1420,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601185,
+            "id": 31726545,
             "from_actor": 125,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1431,7 +1442,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601186,
+            "id": 31726546,
+            "from_actor": 125,
+            "to_actor": 19908,
+            "start": "2021-12-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726547,
             "from_actor": 125,
             "to_actor": 329,
             "start": "2012-12-14",
@@ -1442,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601187,
+            "id": 31726548,
             "from_actor": 125,
             "to_actor": 17655,
             "start": "2018-05-24",
@@ -1453,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601188,
+            "id": 31726549,
             "from_actor": 125,
             "to_actor": 15,
             "start": "2013-10-23",
@@ -1464,7 +1486,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601189,
+            "id": 31726550,
+            "from_actor": 125,
+            "to_actor": 19908,
+            "start": "2021-10-06",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726551,
             "from_actor": 125,
             "to_actor": 546,
             "start": "2011-11-11",
@@ -1475,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601190,
+            "id": 31726552,
             "from_actor": 125,
             "to_actor": 5144,
             "start": "2014-10-22",
@@ -1486,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601191,
+            "id": 31726553,
             "from_actor": 125,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -1497,7 +1530,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601192,
+            "id": 31726554,
             "from_actor": 125,
             "to_actor": 18902,
             "start": "2020-06-26",
@@ -1508,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601193,
+            "id": 31726555,
             "from_actor": 125,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -1519,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601194,
+            "id": 31726556,
             "from_actor": 125,
             "to_actor": 63,
             "start": "2013-10-30",
@@ -1530,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601195,
+            "id": 31726557,
             "from_actor": 125,
             "to_actor": 329,
             "start": "2012-10-03",
@@ -1541,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601196,
+            "id": 31726558,
             "from_actor": 125,
             "to_actor": 60,
             "start": "2013-11-15",
@@ -1552,7 +1585,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601197,
+            "id": 31726559,
+            "from_actor": 125,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726560,
             "from_actor": 125,
             "to_actor": 170,
             "start": "2013-11-28",
@@ -1563,7 +1607,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601198,
+            "id": 31726561,
+            "from_actor": 125,
+            "to_actor": 19921,
+            "start": "2022-02-28",
+            "end": "2022-02-28",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726562,
             "from_actor": 125,
             "to_actor": 546,
             "start": "2011-10-07",
@@ -1574,7 +1629,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601199,
+            "id": 31726563,
             "from_actor": 125,
             "to_actor": 18932,
             "start": "2020-01-09",
@@ -1585,7 +1640,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601200,
+            "id": 31726564,
+            "from_actor": 125,
+            "to_actor": 19921,
+            "start": "2022-03-22",
+            "end": "2022-03-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726565,
             "from_actor": 125,
             "to_actor": 5136,
             "start": "2014-12-08",
@@ -1596,7 +1662,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601201,
+            "id": 31726566,
             "from_actor": 125,
             "to_actor": 418,
             "start": "2012-03-14",
@@ -1607,7 +1673,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601202,
+            "id": 31726567,
             "from_actor": 125,
             "to_actor": 13708,
             "start": "2014-11-14",
@@ -1618,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601203,
+            "id": 31726568,
             "from_actor": 125,
             "to_actor": 5170,
             "start": "2015-02-16",
@@ -1629,7 +1695,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601204,
+            "id": 31726569,
             "from_actor": 125,
             "to_actor": 18932,
             "start": "2019-10-02",
@@ -1640,7 +1706,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601205,
+            "id": 31726570,
             "from_actor": 125,
             "to_actor": 5171,
             "start": "2014-10-24",
@@ -1651,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601206,
+            "id": 31726571,
             "from_actor": 125,
             "to_actor": 16862,
             "start": "2016-12-14",
@@ -1662,7 +1728,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601207,
+            "id": 31726572,
+            "from_actor": 125,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726573,
+            "from_actor": 125,
+            "to_actor": 19913,
+            "start": "2022-01-20",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726574,
             "from_actor": 125,
             "to_actor": 5136,
             "start": "2014-12-16",
@@ -1673,7 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601208,
+            "id": 31726575,
             "from_actor": 125,
             "to_actor": 18757,
             "start": "2019-09-25",
@@ -1684,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601209,
+            "id": 31726576,
             "from_actor": 125,
             "to_actor": 17653,
             "start": "2017-11-12",
@@ -1695,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601210,
+            "id": 31726577,
             "from_actor": 125,
             "to_actor": 18932,
             "start": "2019-12-06",
@@ -1706,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601211,
+            "id": 31726578,
             "from_actor": 125,
             "to_actor": 5134,
             "start": "2014-11-27",
@@ -1717,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601212,
+            "id": 31726579,
             "from_actor": 125,
             "to_actor": 18872,
             "start": "2019-10-08",
@@ -1728,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601213,
+            "id": 31726580,
             "from_actor": 125,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -1739,7 +1827,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601214,
+            "id": 31726581,
             "from_actor": 125,
             "to_actor": 17659,
             "start": "2017-10-04",
@@ -1750,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601215,
+            "id": 31726582,
             "from_actor": 125,
             "to_actor": 16896,
             "start": "2016-12-14",
@@ -1761,18 +1849,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601216,
+            "id": 31726583,
             "from_actor": 125,
-            "to_actor": 19371,
-            "start": "2021-07-20",
-            "end": "2021-10-05",
+            "to_actor": 19913,
+            "start": "2022-01-13",
+            "end": "2022-01-18",
             "role": "medlem",
             "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Forretningsordenen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27601217,
+            "id": 31726584,
             "from_actor": 125,
             "to_actor": 170,
             "start": "2013-12-21",
@@ -1783,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601218,
+            "id": 31726585,
             "from_actor": 125,
             "to_actor": 5136,
             "start": "2015-01-29",
@@ -1794,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601219,
+            "id": 31726586,
             "from_actor": 125,
             "to_actor": 5170,
             "start": "2015-04-10",
@@ -1805,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601220,
+            "id": 31726587,
             "from_actor": 125,
             "to_actor": 17633,
             "start": "2017-10-04",
@@ -1816,7 +1904,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601221,
+            "id": 31726588,
+            "from_actor": 125,
+            "to_actor": 19371,
+            "start": "2021-07-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726589,
             "from_actor": 125,
             "to_actor": 319,
             "start": "2013-05-28",
@@ -1827,7 +1926,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601222,
+            "id": 31726590,
+            "from_actor": 125,
+            "to_actor": 19913,
+            "start": "2021-12-23",
+            "end": "2022-01-11",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726591,
+            "from_actor": 125,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726592,
             "from_actor": 125,
             "to_actor": 16918,
             "start": "2016-12-14",
@@ -1838,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601223,
+            "id": 31726593,
             "from_actor": 125,
             "to_actor": 16868,
             "start": "2016-12-14",
@@ -1849,18 +1970,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601224,
+            "id": 31726594,
             "from_actor": 125,
-            "to_actor": 19371,
-            "start": "2020-10-07",
-            "end": "2020-12-31",
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Hans Christian Schmidt",
             "to_actor_name": "Udvalget for Forretningsordenen",
             "type": "Udvalg"
         },
         {
-            "id": 27601225,
+            "id": 31726595,
             "from_actor": 125,
             "to_actor": 36,
             "start": "2014-01-15",
@@ -1871,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601226,
+            "id": 31726596,
             "from_actor": 125,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -1882,7 +2003,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601227,
+            "id": 31726597,
             "from_actor": 125,
             "to_actor": 319,
             "start": "2013-05-30",
@@ -1893,18 +2014,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601228,
+            "id": 31726598,
             "from_actor": 125,
             "to_actor": 19371,
-            "start": "2021-01-12",
-            "end": "2021-07-18",
+            "start": "2020-10-07",
+            "end": "2020-12-31",
             "role": "medlem",
             "from_actor_name": "Hans Christian Schmidt",
             "to_actor_name": "Udvalget for Forretningsordenen",
             "type": "Udvalg"
         },
         {
-            "id": 27601229,
+            "id": 31726599,
             "from_actor": 125,
             "to_actor": 60,
             "start": "2014-01-16",
@@ -1915,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601230,
+            "id": 31726600,
             "from_actor": 125,
             "to_actor": 5170,
             "start": "2015-05-20",
@@ -1926,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601231,
+            "id": 31726601,
             "from_actor": 125,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1937,7 +2058,40 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601232,
+            "id": 31726602,
+            "from_actor": 125,
+            "to_actor": 19371,
+            "start": "2021-01-12",
+            "end": "2021-07-18",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726603,
+            "from_actor": 125,
+            "to_actor": 19913,
+            "start": "2021-10-15",
+            "end": "2021-12-21",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726604,
+            "from_actor": 125,
+            "to_actor": 19907,
+            "start": "2022-02-21",
+            "end": "2022-02-25",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726605,
             "from_actor": 125,
             "to_actor": 5144,
             "start": "2014-11-06",
@@ -1948,7 +2102,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601233,
+            "id": 31726606,
             "from_actor": 125,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -1959,7 +2113,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601234,
+            "id": 31726607,
             "from_actor": 125,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -1970,7 +2124,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601235,
+            "id": 31726608,
             "from_actor": 125,
             "to_actor": 310,
             "start": "2013-04-25",
@@ -1981,18 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601236,
-            "from_actor": 125,
-            "to_actor": 19388,
-            "start": "2020-11-13",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601237,
+            "id": 31726609,
             "from_actor": 125,
             "to_actor": 60,
             "start": "2014-01-27",
@@ -2003,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601238,
+            "id": 31726610,
             "from_actor": 125,
             "to_actor": 16894,
             "start": "2017-02-07",
@@ -2014,7 +2157,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601239,
+            "id": 31726611,
             "from_actor": 125,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -2025,18 +2168,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601240,
+            "id": 31726612,
             "from_actor": 125,
-            "to_actor": 19388,
-            "start": "2020-10-07",
-            "end": "2020-11-11",
+            "to_actor": 19913,
+            "start": "2021-10-08",
+            "end": "2021-10-13",
             "role": "medlem",
             "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Forsvarsudvalget",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27601241,
+            "id": 31726613,
             "from_actor": 125,
             "to_actor": 329,
             "start": "2013-02-08",
@@ -2047,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601242,
+            "id": 31726614,
             "from_actor": 125,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -2058,7 +2201,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601243,
+            "id": 31726615,
             "from_actor": 125,
             "to_actor": 16868,
             "start": "2017-02-11",
@@ -2069,18 +2212,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601244,
-            "from_actor": 125,
-            "to_actor": 19620,
-            "start": "2021-06-03",
-            "end": "2021-06-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601245,
+            "id": 31726616,
             "from_actor": 125,
             "to_actor": 170,
             "start": "2014-02-20",
@@ -2091,18 +2223,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601246,
+            "id": 31726617,
             "from_actor": 125,
-            "to_actor": 19398,
-            "start": "2021-03-02",
-            "end": "2021-03-02",
+            "to_actor": 19913,
+            "start": "2021-10-06",
+            "end": "2021-10-06",
             "role": "medlem",
             "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27601247,
+            "id": 31726618,
+            "from_actor": 125,
+            "to_actor": 19388,
+            "start": "2020-11-13",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726619,
             "from_actor": 125,
             "to_actor": 323,
             "start": "2013-01-11",
@@ -2113,7 +2256,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601248,
+            "id": 31726620,
+            "from_actor": 125,
+            "to_actor": 19388,
+            "start": "2020-10-07",
+            "end": "2020-11-11",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726621,
             "from_actor": 125,
             "to_actor": 329,
             "start": "2013-03-16",
@@ -2124,7 +2278,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601249,
+            "id": 31726622,
             "from_actor": 125,
             "to_actor": 60,
             "start": "2014-03-25",
@@ -2135,7 +2289,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601250,
+            "id": 31726623,
+            "from_actor": 125,
+            "to_actor": 19620,
+            "start": "2021-06-03",
+            "end": "2021-06-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726624,
             "from_actor": 125,
             "to_actor": 18878,
             "start": "2020-02-04",
@@ -2146,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601251,
+            "id": 31726625,
             "from_actor": 125,
             "to_actor": 18874,
             "start": "2019-11-21",
@@ -2157,7 +2322,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601252,
+            "id": 31726626,
             "from_actor": 125,
             "to_actor": 18867,
             "start": "2020-02-05",
@@ -2168,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601253,
+            "id": 31726627,
             "from_actor": 125,
             "to_actor": 22,
             "start": "2013-12-10",
@@ -2179,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601254,
+            "id": 31726628,
             "from_actor": 125,
             "to_actor": 16861,
             "start": "2017-03-22",
@@ -2190,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601255,
+            "id": 31726629,
             "from_actor": 125,
             "to_actor": 5171,
             "start": "2015-05-08",
@@ -2201,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601256,
+            "id": 31726630,
             "from_actor": 125,
             "to_actor": 5144,
             "start": "2014-11-22",
@@ -2212,7 +2377,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601257,
+            "id": 31726631,
+            "from_actor": 125,
+            "to_actor": 19398,
+            "start": "2021-03-02",
+            "end": "2021-03-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726632,
             "from_actor": 125,
             "to_actor": 18867,
             "start": "2019-12-13",
@@ -2223,7 +2399,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601258,
+            "id": 31726633,
             "from_actor": 125,
             "to_actor": 17669,
             "start": "2017-10-04",
@@ -2234,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601259,
+            "id": 31726634,
             "from_actor": 125,
             "to_actor": 332,
             "start": "2013-06-05",
@@ -2245,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601260,
+            "id": 31726635,
             "from_actor": 125,
             "to_actor": 311,
             "start": "2013-03-14",
@@ -2256,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601261,
+            "id": 31726636,
             "from_actor": 125,
             "to_actor": 5144,
             "start": "2014-12-18",
@@ -2267,7 +2443,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601262,
+            "id": 31726637,
             "from_actor": 125,
             "to_actor": 18867,
             "start": "2019-10-02",
@@ -2278,18 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601263,
-            "from_actor": 125,
-            "to_actor": 19398,
-            "start": "2021-01-21",
-            "end": "2021-01-21",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601264,
+            "id": 31726638,
             "from_actor": 125,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2300,18 +2465,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601265,
-            "from_actor": 125,
-            "to_actor": 19437,
-            "start": "2021-05-04",
-            "end": "2021-05-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601266,
+            "id": 31726639,
             "from_actor": 125,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -2322,7 +2476,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601267,
+            "id": 31726640,
+            "from_actor": 125,
+            "to_actor": 19437,
+            "start": "2021-05-04",
+            "end": "2021-05-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726641,
+            "from_actor": 125,
+            "to_actor": 19398,
+            "start": "2021-01-21",
+            "end": "2021-01-21",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726642,
             "from_actor": 125,
             "to_actor": 16861,
             "start": "2017-04-21",
@@ -2333,7 +2509,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601268,
+            "id": 31726643,
             "from_actor": 125,
             "to_actor": 14931,
             "start": "2002-10-01",
@@ -2344,7 +2520,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601269,
+            "id": 31726644,
             "from_actor": 125,
             "to_actor": 14917,
             "start": "2001-11-20",
@@ -2355,7 +2531,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601270,
+            "id": 31726645,
             "from_actor": 125,
             "to_actor": 17653,
             "start": "2017-10-04",
@@ -2366,7 +2542,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601271,
+            "id": 31726646,
             "from_actor": 125,
             "to_actor": 17658,
             "start": "2017-10-04",
@@ -2377,7 +2553,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601272,
+            "id": 31726647,
             "from_actor": 125,
             "to_actor": 18871,
             "start": "2020-02-04",
@@ -2388,7 +2564,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601275,
+            "id": 31726649,
+            "from_actor": 125,
+            "to_actor": 19438,
+            "start": "2021-10-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726650,
             "from_actor": 125,
             "to_actor": 17655,
             "start": "2017-10-04",
@@ -2399,7 +2586,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601277,
+            "id": 31726651,
+            "from_actor": 125,
+            "to_actor": 19438,
+            "start": "2021-09-14",
+            "end": "2021-09-29",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726652,
             "from_actor": 125,
             "to_actor": 18329,
             "start": "2018-10-03",
@@ -2410,7 +2608,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601279,
+            "id": 31726653,
+            "from_actor": 125,
+            "to_actor": 19438,
+            "start": "2021-09-08",
+            "end": "2021-09-12",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726654,
             "from_actor": 125,
             "to_actor": 16870,
             "start": "2016-12-14",
@@ -2421,766 +2630,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601282,
-            "from_actor": 125,
-            "to_actor": 16920,
-            "start": "2017-06-01",
-            "end": "2017-06-01",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601289,
-            "from_actor": 125,
-            "to_actor": 41,
-            "start": "2014-04-25",
-            "end": "2014-05-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601290,
-            "from_actor": 125,
-            "to_actor": 16920,
-            "start": "2017-06-23",
-            "end": "2017-06-23",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601291,
-            "from_actor": 125,
-            "to_actor": 41,
-            "start": "2014-05-15",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601292,
-            "from_actor": 125,
-            "to_actor": 14872,
-            "start": "2000-10-03",
-            "end": "2001-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601293,
-            "from_actor": 125,
-            "to_actor": 14897,
-            "start": "2001-10-02",
-            "end": "2001-11-20",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601294,
-            "from_actor": 125,
-            "to_actor": 14855,
-            "start": "1999-10-05",
-            "end": "2000-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601295,
-            "from_actor": 125,
-            "to_actor": 14841,
-            "start": "1998-10-06",
-            "end": "1999-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601296,
-            "from_actor": 125,
-            "to_actor": 14825,
-            "start": "1998-03-11",
-            "end": "1998-10-06",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601297,
-            "from_actor": 125,
-            "to_actor": 429,
-            "start": "2009-10-06",
-            "end": "2010-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601298,
-            "from_actor": 125,
-            "to_actor": 428,
-            "start": "2007-11-13",
-            "end": "2008-10-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601299,
-            "from_actor": 125,
-            "to_actor": 14259,
-            "start": "2003-10-07",
-            "end": "2004-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601300,
-            "from_actor": 125,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601301,
-            "from_actor": 125,
-            "to_actor": 14811,
-            "start": "1997-10-07",
-            "end": "1998-03-11",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601302,
-            "from_actor": 125,
-            "to_actor": 14800,
-            "start": "1996-10-01",
-            "end": "1997-10-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601303,
-            "from_actor": 125,
-            "to_actor": 14789,
-            "start": "1995-10-03",
-            "end": "1996-10-01",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601304,
-            "from_actor": 125,
-            "to_actor": 14778,
-            "start": "1994-10-04",
-            "end": "1995-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601305,
-            "from_actor": 125,
-            "to_actor": 232,
-            "start": "2008-10-07",
-            "end": "2009-10-06",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601306,
-            "from_actor": 125,
-            "to_actor": 14764,
-            "start": "1994-09-21",
-            "end": "1994-10-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601307,
-            "from_actor": 125,
-            "to_actor": 368,
-            "start": "2010-10-05",
-            "end": "2011-09-15",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601308,
-            "from_actor": 125,
-            "to_actor": 1092,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601309,
-            "from_actor": 125,
-            "to_actor": 803,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601310,
-            "from_actor": 125,
-            "to_actor": 1135,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601311,
-            "from_actor": 125,
-            "to_actor": 5169,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601312,
-            "from_actor": 125,
-            "to_actor": 373,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601313,
-            "from_actor": 125,
-            "to_actor": 1367,
-            "start": "2011-10-13",
-            "end": "2012-10-02",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601314,
-            "from_actor": 125,
-            "to_actor": 334,
-            "start": "2012-10-03",
-            "end": "2013-10-01",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601315,
-            "from_actor": 125,
-            "to_actor": 5168,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601316,
-            "from_actor": 125,
-            "to_actor": 13703,
-            "start": "2013-09-17",
-            "end": "2015-06-18",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601317,
-            "from_actor": 125,
-            "to_actor": 408,
-            "start": "2011-10-07",
-            "end": "2012-10-02",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601318,
-            "from_actor": 125,
-            "to_actor": 222,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601319,
-            "from_actor": 125,
-            "to_actor": 383,
-            "start": "2013-09-17",
-            "end": "2014-10-07",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601320,
-            "from_actor": 125,
-            "to_actor": 547,
-            "start": "2013-09-17",
-            "end": "2013-10-01",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601321,
-            "from_actor": 125,
-            "to_actor": 333,
-            "start": "2012-10-03",
-            "end": "2013-10-01",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601322,
-            "from_actor": 125,
-            "to_actor": 19441,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601323,
-            "from_actor": 125,
-            "to_actor": 18867,
-            "start": "2020-02-05",
-            "end": "2020-10-06",
-            "role": "formand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601324,
-            "from_actor": 125,
-            "to_actor": 18778,
-            "start": "2019-08-20",
-            "end": "2019-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transport- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601325,
-            "from_actor": 125,
-            "to_actor": 18878,
-            "start": "2020-02-18",
-            "end": "2020-10-06",
-            "role": "næstformand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601326,
-            "from_actor": 125,
-            "to_actor": 18878,
-            "start": "2019-10-02",
-            "end": "2020-02-03",
-            "role": "næstformand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601328,
-            "from_actor": 125,
-            "to_actor": 165,
-            "start": "2004-08-02",
-            "end": "2007-09-12",
-            "role": "Minister",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "fødevareministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27601329,
-            "from_actor": 125,
-            "to_actor": 150,
-            "start": "2001-11-27",
-            "end": "2004-08-02",
-            "role": "Minister",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "miljøministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27601330,
-            "from_actor": 125,
-            "to_actor": 40,
-            "start": "2010-02-23",
-            "end": "2011-10-03",
-            "role": "Minister",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "transportministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27601331,
-            "from_actor": 125,
-            "to_actor": 15850,
-            "start": "2015-06-28",
-            "end": "2016-11-28",
-            "role": "Minister",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "transport- og bygningsministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27601332,
-            "from_actor": 125,
-            "to_actor": 1246,
-            "start": "2008-01-18",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601333,
-            "from_actor": 125,
-            "to_actor": 1197,
-            "start": "2008-10-07",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601334,
-            "from_actor": 125,
-            "to_actor": 769,
-            "start": "2009-10-06",
-            "end": "2010-03-03T00:00:00",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601335,
-            "from_actor": 125,
-            "to_actor": 1185,
-            "start": "2009-04-21",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Europarådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601336,
-            "from_actor": 125,
-            "to_actor": 439,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "OSCEs parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601337,
-            "from_actor": 125,
-            "to_actor": 824,
-            "start": "2008-10-08",
-            "end": "2008-10-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601338,
-            "from_actor": 125,
-            "to_actor": 1186,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Europarådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601339,
-            "from_actor": 125,
-            "to_actor": 1153,
-            "start": "2007-10-03",
-            "end": "2007-10-16",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601340,
-            "from_actor": 125,
-            "to_actor": 1080,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601341,
-            "from_actor": 125,
-            "to_actor": 534,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601342,
-            "from_actor": 125,
-            "to_actor": 1084,
-            "start": "2009-04-21",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601343,
-            "from_actor": 125,
-            "to_actor": 983,
-            "start": "2007-10-02",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601344,
-            "from_actor": 125,
-            "to_actor": 620,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601345,
-            "from_actor": 125,
-            "to_actor": 1242,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601346,
-            "from_actor": 125,
-            "to_actor": 1142,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601347,
-            "from_actor": 125,
-            "to_actor": 880,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601348,
-            "from_actor": 125,
-            "to_actor": 881,
-            "start": "2008-10-09",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601349,
-            "from_actor": 125,
-            "to_actor": 622,
-            "start": "2007-11-28",
-            "end": "2008-06-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601350,
-            "from_actor": 125,
-            "to_actor": 622,
-            "start": "2008-06-14",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601351,
-            "from_actor": 125,
-            "to_actor": 456,
-            "start": "2007-11-28",
-            "end": "2007-11-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601352,
-            "from_actor": 125,
-            "to_actor": 882,
-            "start": "2009-10-07",
-            "end": "2009-11-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601353,
-            "from_actor": 125,
-            "to_actor": 17608,
-            "start": "2017-10-25",
-            "end": "2017-11-10",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27601354,
-            "from_actor": 125,
-            "to_actor": 17605,
-            "start": "2017-10-25",
-            "end": "2017-11-10",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617387,
-            "from_actor": 125,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619162,
-            "from_actor": 125,
-            "to_actor": 19392,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "næstformand",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27619196,
-            "from_actor": 125,
-            "to_actor": 19438,
-            "start": "2021-09-08",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Schmidt",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27619257,
+            "id": 31726655,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2021-04-24",
@@ -3191,7 +2641,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619259,
+            "id": 31726656,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2021-04-22",
@@ -3202,7 +2652,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619261,
+            "id": 31726657,
+            "from_actor": 125,
+            "to_actor": 16920,
+            "start": "2017-06-01",
+            "end": "2017-06-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726658,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2021-01-21",
@@ -3213,7 +2674,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619263,
+            "id": 31726659,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-12-10",
@@ -3224,7 +2685,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619265,
+            "id": 31726660,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-12-08",
@@ -3235,7 +2696,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619267,
+            "id": 31726661,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-12-05",
@@ -3246,7 +2707,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619269,
+            "id": 31726662,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-12-03",
@@ -3257,7 +2718,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619270,
+            "id": 31726663,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-11-22",
@@ -3268,7 +2729,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619273,
+            "id": 31726664,
+            "from_actor": 125,
+            "to_actor": 41,
+            "start": "2014-04-25",
+            "end": "2014-05-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726665,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-11-13",
@@ -3279,7 +2751,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619274,
+            "id": 31726666,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2020-10-07",
@@ -3290,7 +2762,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619276,
+            "id": 31726667,
             "from_actor": 125,
             "to_actor": 19438,
             "start": "2021-08-28",
@@ -3299,6 +2771,776 @@
             "from_actor_name": "Hans Christian Schmidt",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31726668,
+            "from_actor": 125,
+            "to_actor": 16920,
+            "start": "2017-06-23",
+            "end": "2017-06-23",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726669,
+            "from_actor": 125,
+            "to_actor": 41,
+            "start": "2014-05-15",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726670,
+            "from_actor": 125,
+            "to_actor": 14872,
+            "start": "2000-10-03",
+            "end": "2001-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726671,
+            "from_actor": 125,
+            "to_actor": 14897,
+            "start": "2001-10-02",
+            "end": "2001-11-20",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726672,
+            "from_actor": 125,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726673,
+            "from_actor": 125,
+            "to_actor": 14841,
+            "start": "1998-10-06",
+            "end": "1999-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726674,
+            "from_actor": 125,
+            "to_actor": 14825,
+            "start": "1998-03-11",
+            "end": "1998-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726675,
+            "from_actor": 125,
+            "to_actor": 429,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726676,
+            "from_actor": 125,
+            "to_actor": 428,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726677,
+            "from_actor": 125,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726678,
+            "from_actor": 125,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726679,
+            "from_actor": 125,
+            "to_actor": 14811,
+            "start": "1997-10-07",
+            "end": "1998-03-11",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726680,
+            "from_actor": 125,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1997-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726681,
+            "from_actor": 125,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726682,
+            "from_actor": 125,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726683,
+            "from_actor": 125,
+            "to_actor": 232,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726684,
+            "from_actor": 125,
+            "to_actor": 14764,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726685,
+            "from_actor": 125,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726686,
+            "from_actor": 125,
+            "to_actor": 1092,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726687,
+            "from_actor": 125,
+            "to_actor": 803,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726688,
+            "from_actor": 125,
+            "to_actor": 1135,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726689,
+            "from_actor": 125,
+            "to_actor": 5169,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726690,
+            "from_actor": 125,
+            "to_actor": 373,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726691,
+            "from_actor": 125,
+            "to_actor": 1367,
+            "start": "2011-10-13",
+            "end": "2012-10-02",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726692,
+            "from_actor": 125,
+            "to_actor": 334,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726693,
+            "from_actor": 125,
+            "to_actor": 5168,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726694,
+            "from_actor": 125,
+            "to_actor": 13703,
+            "start": "2013-09-17",
+            "end": "2015-06-18",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726695,
+            "from_actor": 125,
+            "to_actor": 408,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726696,
+            "from_actor": 125,
+            "to_actor": 222,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726697,
+            "from_actor": 125,
+            "to_actor": 383,
+            "start": "2013-09-17",
+            "end": "2014-10-07",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726698,
+            "from_actor": 125,
+            "to_actor": 547,
+            "start": "2013-09-17",
+            "end": "2013-10-01",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726699,
+            "from_actor": 125,
+            "to_actor": 333,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726700,
+            "from_actor": 125,
+            "to_actor": 19912,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726701,
+            "from_actor": 125,
+            "to_actor": 19441,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726702,
+            "from_actor": 125,
+            "to_actor": 18867,
+            "start": "2020-02-05",
+            "end": "2020-10-06",
+            "role": "formand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726703,
+            "from_actor": 125,
+            "to_actor": 18778,
+            "start": "2019-08-20",
+            "end": "2019-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transport- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726704,
+            "from_actor": 125,
+            "to_actor": 18878,
+            "start": "2020-02-18",
+            "end": "2020-10-06",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726705,
+            "from_actor": 125,
+            "to_actor": 19915,
+            "start": "2022-04-08",
+            "end": "2022-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726706,
+            "from_actor": 125,
+            "to_actor": 19915,
+            "start": "2022-03-16",
+            "end": "2022-04-06",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726707,
+            "from_actor": 125,
+            "to_actor": 18878,
+            "start": "2019-10-02",
+            "end": "2020-02-03",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726708,
+            "from_actor": 125,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-03-14",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726709,
+            "from_actor": 125,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726710,
+            "from_actor": 125,
+            "to_actor": 165,
+            "start": "2004-08-02",
+            "end": "2007-09-12",
+            "role": "Minister",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "fødevareministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31726711,
+            "from_actor": 125,
+            "to_actor": 150,
+            "start": "2001-11-27",
+            "end": "2004-08-02",
+            "role": "Minister",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "miljøministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31726712,
+            "from_actor": 125,
+            "to_actor": 40,
+            "start": "2010-02-23",
+            "end": "2011-10-03",
+            "role": "Minister",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "transportministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31726713,
+            "from_actor": 125,
+            "to_actor": 15850,
+            "start": "2015-06-28",
+            "end": "2016-11-28",
+            "role": "Minister",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "transport- og bygningsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31726714,
+            "from_actor": 125,
+            "to_actor": 1246,
+            "start": "2008-01-18",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726715,
+            "from_actor": 125,
+            "to_actor": 1197,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726716,
+            "from_actor": 125,
+            "to_actor": 769,
+            "start": "2009-10-06",
+            "end": "2010-03-03T00:00:00",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726717,
+            "from_actor": 125,
+            "to_actor": 1185,
+            "start": "2009-04-21",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726718,
+            "from_actor": 125,
+            "to_actor": 439,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "OSCEs parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726719,
+            "from_actor": 125,
+            "to_actor": 824,
+            "start": "2008-10-08",
+            "end": "2008-10-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726720,
+            "from_actor": 125,
+            "to_actor": 1186,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726721,
+            "from_actor": 125,
+            "to_actor": 1153,
+            "start": "2007-10-03",
+            "end": "2007-10-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726722,
+            "from_actor": 125,
+            "to_actor": 1080,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726723,
+            "from_actor": 125,
+            "to_actor": 534,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726724,
+            "from_actor": 125,
+            "to_actor": 1084,
+            "start": "2009-04-21",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726725,
+            "from_actor": 125,
+            "to_actor": 983,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726726,
+            "from_actor": 125,
+            "to_actor": 620,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726727,
+            "from_actor": 125,
+            "to_actor": 1242,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726728,
+            "from_actor": 125,
+            "to_actor": 1142,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726729,
+            "from_actor": 125,
+            "to_actor": 880,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726730,
+            "from_actor": 125,
+            "to_actor": 881,
+            "start": "2008-10-09",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726731,
+            "from_actor": 125,
+            "to_actor": 622,
+            "start": "2007-11-28",
+            "end": "2008-06-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726732,
+            "from_actor": 125,
+            "to_actor": 622,
+            "start": "2008-06-14",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726733,
+            "from_actor": 125,
+            "to_actor": 456,
+            "start": "2007-11-28",
+            "end": "2007-11-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726734,
+            "from_actor": 125,
+            "to_actor": 882,
+            "start": "2009-10-07",
+            "end": "2009-11-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726735,
+            "from_actor": 125,
+            "to_actor": 17608,
+            "start": "2017-10-25",
+            "end": "2017-11-10",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31726736,
+            "from_actor": 125,
+            "to_actor": 17605,
+            "start": "2017-10-25",
+            "end": "2017-11-10",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743506,
+            "from_actor": 125,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

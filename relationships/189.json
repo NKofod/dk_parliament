@@ -1695,17 +1695,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 19310624,
-            "from_actor": 189,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-04",
-            "role": "orlov uden vederlag",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 20570464,
             "from_actor": 189,
             "to_actor": 17605,
@@ -1769,17 +1758,6 @@
             "role": "medlem",
             "from_actor_name": "Mai Mercado",
             "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 22734210,
-            "from_actor": 189,
-            "to_actor": 19373,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Udvalget til Valgs Prøvelse",
             "type": "Udvalg"
         },
         {
@@ -1937,62 +1915,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 25255535,
+            "id": 28043488,
             "from_actor": 189,
-            "to_actor": 19372,
+            "to_actor": 19373,
             "start": "2020-10-07",
             "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
             "type": "Udvalg"
         },
         {
-            "id": 26674353,
-            "from_actor": 189,
-            "to_actor": 19371,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27264203,
-            "from_actor": 189,
-            "to_actor": 18370,
-            "start": "2020-10-01",
-            "end": "2021-03-31",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Statsrevisorerne",
-            "type": "Kommission"
-        },
-        {
-            "id": 27264642,
-            "from_actor": 189,
-            "to_actor": 19620,
-            "start": "2021-03-17",
-            "end": "2021-03-17",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27343264,
-            "from_actor": 189,
-            "to_actor": 19689,
-            "start": "2021-04-14",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Granskningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27369312,
+            "id": 28153016,
             "from_actor": 189,
             "to_actor": 19404,
             "start": "2021-03-06",
@@ -2003,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27369313,
+            "id": 28153017,
             "from_actor": 189,
             "to_actor": 19404,
             "start": "2020-10-07",
@@ -2014,7 +1948,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27395101,
+            "id": 28154966,
+            "from_actor": 189,
+            "to_actor": 19372,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28155877,
             "from_actor": 189,
             "to_actor": 19359,
             "start": "2020-10-06",
@@ -2025,62 +1970,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27500365,
-            "from_actor": 189,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27549972,
-            "from_actor": 189,
-            "to_actor": 19411,
-            "start": "2021-05-01",
-            "end": "2021-05-03",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27549973,
-            "from_actor": 189,
-            "to_actor": 19411,
-            "start": "2020-12-10",
-            "end": "2021-01-31",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27549974,
-            "from_actor": 189,
-            "to_actor": 19411,
-            "start": "2020-10-07",
-            "end": "2020-12-02",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27549976,
-            "from_actor": 189,
-            "to_actor": 19411,
-            "start": "2020-12-04",
-            "end": "2020-12-08",
-            "role": "medlem",
-            "from_actor_name": "Mai Mercado",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27574410,
+            "id": 28182659,
             "from_actor": 189,
             "to_actor": 19414,
             "start": "2021-05-20",
@@ -2091,7 +1981,238 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617483,
+            "id": 28183872,
+            "from_actor": 189,
+            "to_actor": 19371,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184050,
+            "from_actor": 189,
+            "to_actor": 19689,
+            "start": "2021-04-14",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184133,
+            "from_actor": 189,
+            "to_actor": 19411,
+            "start": "2021-05-01",
+            "end": "2021-05-03",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184134,
+            "from_actor": 189,
+            "to_actor": 19411,
+            "start": "2020-12-10",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184135,
+            "from_actor": 189,
+            "to_actor": 19411,
+            "start": "2020-10-07",
+            "end": "2020-12-02",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184137,
+            "from_actor": 189,
+            "to_actor": 19411,
+            "start": "2020-12-04",
+            "end": "2020-12-08",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28211427,
+            "from_actor": 189,
+            "to_actor": 19620,
+            "start": "2021-03-17",
+            "end": "2021-03-17",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28639741,
+            "from_actor": 189,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30552186,
+            "from_actor": 189,
+            "to_actor": 19879,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30822415,
+            "from_actor": 189,
+            "to_actor": 19861,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31340828,
+            "from_actor": 189,
+            "to_actor": 19880,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31394924,
+            "from_actor": 189,
+            "to_actor": 18370,
+            "start": "2020-10-01",
+            "end": "2021-03-31",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31449417,
+            "from_actor": 189,
+            "to_actor": 19877,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31584874,
+            "from_actor": 189,
+            "to_actor": 19912,
+            "start": "2022-03-31",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31584910,
+            "from_actor": 189,
+            "to_actor": 19912,
+            "start": "2021-10-06",
+            "end": "2022-03-29",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31639199,
+            "from_actor": 189,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-04",
+            "role": "orlov uden vederlag",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31666265,
+            "from_actor": 189,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2021-11-18",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666266,
+            "from_actor": 189,
+            "to_actor": 19878,
+            "start": "2021-11-20",
+            "end": "2022-01-11",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666267,
+            "from_actor": 189,
+            "to_actor": 19878,
+            "start": "2022-01-13",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666606,
+            "from_actor": 189,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31694157,
+            "from_actor": 189,
+            "to_actor": 19895,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Mai Mercado",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31743602,
             "from_actor": 189,
             "to_actor": 16060,
             "start": "2015-10-06",
@@ -2102,7 +2223,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617558,
+            "id": 31743677,
             "from_actor": 189,
             "to_actor": 16060,
             "start": "2016-01-20",
@@ -2113,7 +2234,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617574,
+            "id": 31743693,
             "from_actor": 189,
             "to_actor": 16060,
             "start": "2016-04-26",
@@ -2124,7 +2245,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617579,
+            "id": 31743698,
             "from_actor": 189,
             "to_actor": 16060,
             "start": "2015-12-04",

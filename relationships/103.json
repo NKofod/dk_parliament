@@ -408,7 +408,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574436,
+            "id": 28907900,
             "from_actor": 103,
             "to_actor": 583,
             "start": "2011-10-27",
@@ -419,7 +419,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27574437,
+            "id": 28907901,
+            "from_actor": 103,
+            "to_actor": 19352,
+            "start": "2021-09-19",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28907902,
+            "from_actor": 103,
+            "to_actor": 19353,
+            "start": "2021-09-19",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28907904,
             "from_actor": 103,
             "to_actor": 950,
             "start": "2011-10-27",
@@ -430,7 +452,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574438,
+            "id": 28907905,
             "from_actor": 103,
             "to_actor": 411,
             "start": "2011-10-27",
@@ -441,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574439,
+            "id": 28907907,
             "from_actor": 103,
             "to_actor": 748,
             "start": "2011-10-27",
@@ -452,7 +474,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574440,
+            "id": 28907908,
             "from_actor": 103,
             "to_actor": 500,
             "start": "2011-10-27",
@@ -463,7 +485,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574441,
+            "id": 28907909,
             "from_actor": 103,
             "to_actor": 839,
             "start": "2011-10-27",
@@ -474,7 +496,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574442,
+            "id": 28907910,
             "from_actor": 103,
             "to_actor": 397,
             "start": "2011-10-27",
@@ -485,7 +507,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574443,
+            "id": 28907911,
             "from_actor": 103,
             "to_actor": 16046,
             "start": "2016-02-09",
@@ -496,7 +518,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27574444,
+            "id": 28907914,
             "from_actor": 103,
             "to_actor": 13672,
             "start": "2014-09-02",
@@ -507,7 +529,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27574445,
+            "id": 28907916,
             "from_actor": 103,
             "to_actor": 598,
             "start": "2012-10-24",
@@ -518,7 +540,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27574446,
+            "id": 28907917,
             "from_actor": 103,
             "to_actor": 317,
             "start": "2012-10-24",
@@ -529,7 +551,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574447,
+            "id": 28907918,
             "from_actor": 103,
             "to_actor": 1194,
             "start": "2014-09-02",
@@ -540,7 +562,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27574448,
+            "id": 28907919,
+            "from_actor": 103,
+            "to_actor": 19371,
+            "start": "2021-09-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28907920,
             "from_actor": 103,
             "to_actor": 562,
             "start": "2011-10-27",
@@ -551,7 +584,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27574449,
+            "id": 28907921,
+            "from_actor": 103,
+            "to_actor": 19620,
+            "start": "2021-04-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28907923,
             "from_actor": 103,
             "to_actor": 322,
             "start": "2012-10-24",
@@ -562,7 +606,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574450,
+            "id": 28907924,
             "from_actor": 103,
             "to_actor": 419,
             "start": "2011-10-27",
@@ -573,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574451,
+            "id": 28907925,
             "from_actor": 103,
             "to_actor": 321,
             "start": "2012-10-24",
@@ -584,7 +628,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574452,
+            "id": 28907926,
             "from_actor": 103,
             "to_actor": 333,
             "start": "2012-10-24",
@@ -595,7 +639,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574453,
+            "id": 28907927,
             "from_actor": 103,
             "to_actor": 750,
             "start": "2011-10-27",
@@ -606,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574454,
+            "id": 28907928,
             "from_actor": 103,
             "to_actor": 310,
             "start": "2012-10-24",
@@ -617,7 +661,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574455,
+            "id": 28907930,
+            "from_actor": 103,
+            "to_actor": 19411,
+            "start": "2021-09-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28907931,
             "from_actor": 103,
             "to_actor": 15890,
             "start": "2016-02-09",
@@ -628,7 +683,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27574457,
+            "id": 28907932,
+            "from_actor": 103,
+            "to_actor": 19405,
+            "start": "2021-09-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28907934,
             "from_actor": 103,
             "to_actor": 5172,
             "start": "2014-10-08",
@@ -639,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574458,
+            "id": 28907935,
             "from_actor": 103,
             "to_actor": 13708,
             "start": "2014-10-08",
@@ -650,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574459,
+            "id": 28907937,
             "from_actor": 103,
             "to_actor": 5147,
             "start": "2014-10-08",
@@ -661,7 +727,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27574460,
+            "id": 28907938,
             "from_actor": 103,
             "to_actor": 5143,
             "start": "2014-10-08",
@@ -672,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574461,
+            "id": 28907939,
             "from_actor": 103,
             "to_actor": 5163,
             "start": "2014-10-08",
@@ -683,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574462,
+            "id": 28907940,
             "from_actor": 103,
             "to_actor": 375,
             "start": "2014-01-01",
@@ -694,7 +760,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27574463,
+            "id": 28907941,
             "from_actor": 103,
             "to_actor": 5146,
             "start": "2014-10-08",
@@ -705,7 +771,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574464,
+            "id": 28907942,
             "from_actor": 103,
             "to_actor": 345,
             "start": "2011-10-27",
@@ -716,7 +782,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27574465,
+            "id": 28907943,
             "from_actor": 103,
             "to_actor": 104,
             "start": "2014-01-01",
@@ -727,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574466,
+            "id": 28907944,
             "from_actor": 103,
             "to_actor": 36,
             "start": "2014-01-01",
@@ -738,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574467,
+            "id": 28907945,
             "from_actor": 103,
             "to_actor": 13639,
             "start": "2014-10-07",
@@ -749,7 +815,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27574468,
+            "id": 28907946,
             "from_actor": 103,
             "to_actor": 15,
             "start": "2014-02-25",
@@ -760,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574469,
+            "id": 28907947,
             "from_actor": 103,
             "to_actor": 16034,
             "start": "2016-02-10",
@@ -771,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574470,
+            "id": 28907948,
             "from_actor": 103,
             "to_actor": 26,
             "start": "2014-02-04",
@@ -782,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574471,
+            "id": 28907949,
             "from_actor": 103,
             "to_actor": 76,
             "start": "2014-02-04",
@@ -793,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574472,
+            "id": 28907950,
             "from_actor": 103,
             "to_actor": 16013,
             "start": "2016-02-10",
@@ -804,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574473,
+            "id": 28907951,
             "from_actor": 103,
             "to_actor": 16031,
             "start": "2016-02-10",
@@ -815,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574474,
+            "id": 28907952,
             "from_actor": 103,
             "to_actor": 41,
             "start": "2014-01-01",
@@ -826,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574475,
+            "id": 28907953,
             "from_actor": 103,
             "to_actor": 16031,
             "start": "2016-02-24",
@@ -837,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574476,
+            "id": 28907954,
             "from_actor": 103,
             "to_actor": 16015,
             "start": "2016-02-10",
@@ -848,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27574477,
+            "id": 28907955,
             "from_actor": 103,
             "to_actor": 599,
             "start": "2014-01-01",
@@ -859,7 +925,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27574478,
+            "id": 28907956,
             "from_actor": 103,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -870,7 +936,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27574479,
+            "id": 28907957,
             "from_actor": 103,
             "to_actor": 342,
             "start": "2012-10-24",
@@ -881,7 +947,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27574480,
+            "id": 28907958,
             "from_actor": 103,
             "to_actor": 6,
             "start": "2014-01-01",
@@ -892,7 +958,95 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617351,
+            "id": 30989327,
+            "from_actor": 103,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31259477,
+            "from_actor": 103,
+            "to_actor": 19392,
+            "start": "2021-09-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31503574,
+            "from_actor": 103,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31557883,
+            "from_actor": 103,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666244,
+            "from_actor": 103,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666426,
+            "from_actor": 103,
+            "to_actor": 19855,
+            "start": "2021-10-05",
+            "end": "2021-11-14",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31666487,
+            "from_actor": 103,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2021-11-14",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693770,
+            "from_actor": 103,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31743470,
             "from_actor": 103,
             "to_actor": 16060,
             "start": "2016-02-09",

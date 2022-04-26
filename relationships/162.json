@@ -573,7 +573,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605508,
+            "id": 31731946,
             "from_actor": 162,
             "to_actor": 511,
             "start": "2011-09-15",
@@ -584,7 +584,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605509,
+            "id": 31731947,
             "from_actor": 162,
             "to_actor": 430,
             "start": "2011-10-04",
@@ -595,7 +595,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605510,
+            "id": 31731948,
+            "from_actor": 162,
+            "to_actor": 20076,
+            "start": "2022-02-22",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Uden for folketingsgrupperne - Karina Adsbøl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731949,
+            "from_actor": 162,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31731950,
             "from_actor": 162,
             "to_actor": 19419,
             "start": "2020-10-01",
@@ -606,7 +628,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27605511,
+            "id": 31731951,
             "from_actor": 162,
             "to_actor": 18677,
             "start": "2019-06-05",
@@ -617,7 +639,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605512,
+            "id": 31731952,
             "from_actor": 162,
             "to_actor": 17604,
             "start": "2018-05-31",
@@ -628,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605513,
+            "id": 31731953,
             "from_actor": 162,
             "to_actor": 16048,
             "start": "2015-10-06",
@@ -639,7 +661,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605514,
+            "id": 31731954,
             "from_actor": 162,
             "to_actor": 5165,
             "start": "2014-10-08",
@@ -650,7 +672,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605515,
+            "id": 31731955,
             "from_actor": 162,
             "to_actor": 5143,
             "start": "2014-10-08",
@@ -661,7 +683,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605516,
+            "id": 31731956,
             "from_actor": 162,
             "to_actor": 15748,
             "start": "2015-06-18",
@@ -672,7 +694,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605517,
+            "id": 31731957,
             "from_actor": 162,
             "to_actor": 16874,
             "start": "2016-10-04",
@@ -683,7 +705,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605518,
+            "id": 31731958,
             "from_actor": 162,
             "to_actor": 18323,
             "start": "2018-10-02",
@@ -694,7 +716,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605519,
+            "id": 31731959,
             "from_actor": 162,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -705,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605520,
+            "id": 31731960,
             "from_actor": 162,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -716,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605521,
+            "id": 31731961,
             "from_actor": 162,
             "to_actor": 5168,
             "start": "2014-10-08",
@@ -727,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605522,
+            "id": 31731962,
             "from_actor": 162,
             "to_actor": 431,
             "start": "2012-10-02",
@@ -738,7 +760,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605523,
+            "id": 31731963,
             "from_actor": 162,
             "to_actor": 455,
             "start": "2013-10-01",
@@ -749,7 +771,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605524,
+            "id": 31731964,
             "from_actor": 162,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -760,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605525,
+            "id": 31731965,
             "from_actor": 162,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -771,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605526,
+            "id": 31731966,
             "from_actor": 162,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -782,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605527,
+            "id": 31731967,
             "from_actor": 162,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -793,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605528,
+            "id": 31731968,
             "from_actor": 162,
             "to_actor": 36,
             "start": "2013-10-02",
@@ -804,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605529,
+            "id": 31731969,
             "from_actor": 162,
             "to_actor": 17607,
             "start": "2017-10-03",
@@ -815,7 +837,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605530,
+            "id": 31731970,
             "from_actor": 162,
             "to_actor": 18890,
             "start": "2019-10-01",
@@ -826,7 +848,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605531,
+            "id": 31731971,
             "from_actor": 162,
             "to_actor": 19355,
             "start": "2020-10-06",
@@ -837,7 +859,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605532,
+            "id": 31731972,
+            "from_actor": 162,
+            "to_actor": 19857,
+            "start": "2021-10-05",
+            "end": "2022-02-21",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731973,
             "from_actor": 162,
             "to_actor": 15887,
             "start": "2015-07-03",
@@ -848,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605533,
+            "id": 31731974,
             "from_actor": 162,
             "to_actor": 5137,
             "start": "2014-10-08",
@@ -859,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605534,
+            "id": 31731975,
             "from_actor": 162,
             "to_actor": 13640,
             "start": "2014-10-07",
@@ -870,7 +903,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27605535,
+            "id": 31731976,
             "from_actor": 162,
             "to_actor": 18304,
             "start": "2018-10-03",
@@ -881,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605536,
+            "id": 31731977,
             "from_actor": 162,
             "to_actor": 543,
             "start": "2011-10-07",
@@ -892,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605537,
+            "id": 31731978,
             "from_actor": 162,
             "to_actor": 90,
             "start": "2013-10-02",
@@ -903,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605538,
+            "id": 31731979,
             "from_actor": 162,
             "to_actor": 222,
             "start": "2013-10-02",
@@ -914,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605539,
+            "id": 31731980,
             "from_actor": 162,
             "to_actor": 408,
             "start": "2011-10-07",
@@ -925,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605540,
+            "id": 31731981,
             "from_actor": 162,
             "to_actor": 146,
             "start": "2013-10-02",
@@ -936,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605541,
+            "id": 31731982,
             "from_actor": 162,
             "to_actor": 397,
             "start": "2012-06-11",
@@ -947,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605542,
+            "id": 31731983,
             "from_actor": 162,
             "to_actor": 397,
             "start": "2012-09-20",
@@ -958,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605543,
+            "id": 31731984,
             "from_actor": 162,
             "to_actor": 15910,
             "start": "2015-07-09",
@@ -969,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605544,
+            "id": 31731985,
             "from_actor": 162,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -980,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605545,
+            "id": 31731986,
             "from_actor": 162,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -991,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605546,
+            "id": 31731987,
             "from_actor": 162,
             "to_actor": 309,
             "start": "2012-10-03",
@@ -1002,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605547,
+            "id": 31731988,
             "from_actor": 162,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -1013,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605548,
+            "id": 31731989,
             "from_actor": 162,
             "to_actor": 16914,
             "start": "2017-03-23",
@@ -1024,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605549,
+            "id": 31731990,
             "from_actor": 162,
             "to_actor": 16028,
             "start": "2015-10-07",
@@ -1035,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605550,
+            "id": 31731991,
             "from_actor": 162,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -1046,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605551,
+            "id": 31731992,
             "from_actor": 162,
             "to_actor": 15912,
             "start": "2015-07-09",
@@ -1057,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605552,
+            "id": 31731993,
             "from_actor": 162,
             "to_actor": 17669,
             "start": "2017-10-04",
@@ -1068,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605553,
+            "id": 31731994,
             "from_actor": 162,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -1079,7 +1112,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605554,
+            "id": 31731995,
+            "from_actor": 162,
+            "to_actor": 19900,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731996,
             "from_actor": 162,
             "to_actor": 308,
             "start": "2012-12-14",
@@ -1090,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605555,
+            "id": 31731997,
             "from_actor": 162,
             "to_actor": 16910,
             "start": "2016-10-05",
@@ -1101,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605556,
+            "id": 31731998,
             "from_actor": 162,
             "to_actor": 326,
             "start": "2012-10-03",
@@ -1112,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605557,
+            "id": 31731999,
             "from_actor": 162,
             "to_actor": 18875,
             "start": "2019-10-02",
@@ -1123,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605558,
+            "id": 31732000,
             "from_actor": 162,
             "to_actor": 327,
             "start": "2012-10-03",
@@ -1134,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605559,
+            "id": 31732001,
             "from_actor": 162,
             "to_actor": 325,
             "start": "2012-10-03",
@@ -1145,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605560,
+            "id": 31732002,
             "from_actor": 162,
             "to_actor": 15903,
             "start": "2015-09-03",
@@ -1156,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605561,
+            "id": 31732003,
             "from_actor": 162,
             "to_actor": 18768,
             "start": "2019-07-04",
@@ -1167,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605562,
+            "id": 31732004,
             "from_actor": 162,
             "to_actor": 333,
             "start": "2012-10-03",
@@ -1178,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605563,
+            "id": 31732005,
             "from_actor": 162,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -1189,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605564,
+            "id": 31732006,
             "from_actor": 162,
             "to_actor": 5142,
             "start": "2014-11-20",
@@ -1200,18 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605565,
-            "from_actor": 162,
-            "to_actor": 19409,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605566,
+            "id": 31732007,
             "from_actor": 162,
             "to_actor": 18783,
             "start": "2019-07-04",
@@ -1222,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605567,
+            "id": 31732008,
             "from_actor": 162,
             "to_actor": 751,
             "start": "2011-10-07",
@@ -1233,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605568,
+            "id": 31732009,
             "from_actor": 162,
             "to_actor": 16014,
             "start": "2016-01-18",
@@ -1244,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605569,
+            "id": 31732010,
             "from_actor": 162,
             "to_actor": 18770,
             "start": "2019-07-04",
@@ -1255,7 +1288,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605570,
+            "id": 31732011,
+            "from_actor": 162,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31732012,
+            "from_actor": 162,
+            "to_actor": 19409,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732013,
             "from_actor": 162,
             "to_actor": 16911,
             "start": "2016-12-21",
@@ -1266,18 +1321,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605571,
+            "id": 31732014,
+            "from_actor": 162,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732015,
             "from_actor": 162,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27605572,
+            "id": 31732016,
             "from_actor": 162,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -1288,7 +1354,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27605573,
+            "id": 31732017,
             "from_actor": 162,
             "to_actor": 18316,
             "start": "2018-10-03",
@@ -1299,7 +1365,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605574,
+            "id": 31732018,
             "from_actor": 162,
             "to_actor": 17603,
             "start": "2017-10-04",
@@ -1310,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605575,
+            "id": 31732019,
             "from_actor": 162,
             "to_actor": 545,
             "start": "2012-06-27",
@@ -1321,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605576,
+            "id": 31732020,
             "from_actor": 162,
             "to_actor": 16910,
             "start": "2016-10-29",
@@ -1332,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605577,
+            "id": 31732021,
             "from_actor": 162,
             "to_actor": 18869,
             "start": "2019-10-02",
@@ -1343,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605578,
+            "id": 31732022,
             "from_actor": 162,
             "to_actor": 17634,
             "start": "2017-11-23",
@@ -1354,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605579,
+            "id": 31732023,
             "from_actor": 162,
             "to_actor": 16014,
             "start": "2016-02-24",
@@ -1365,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605580,
+            "id": 31732024,
             "from_actor": 162,
             "to_actor": 17604,
             "start": "2017-10-04",
@@ -1376,7 +1442,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605581,
+            "id": 31732025,
+            "from_actor": 162,
+            "to_actor": 19906,
+            "start": "2021-10-29",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732026,
             "from_actor": 162,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -1387,7 +1464,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605582,
+            "id": 31732027,
             "from_actor": 162,
             "to_actor": 18921,
             "start": "2019-10-02",
@@ -1398,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605583,
+            "id": 31732028,
             "from_actor": 162,
             "to_actor": 16027,
             "start": "2016-02-10",
@@ -1409,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605584,
+            "id": 31732029,
             "from_actor": 162,
             "to_actor": 17143,
             "start": "2017-02-14",
@@ -1420,7 +1497,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605585,
+            "id": 31732030,
+            "from_actor": 162,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2021-10-27",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732031,
             "from_actor": 162,
             "to_actor": 416,
             "start": "2011-12-23",
@@ -1431,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605586,
+            "id": 31732032,
             "from_actor": 162,
             "to_actor": 17143,
             "start": "2017-04-18",
@@ -1442,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605587,
+            "id": 31732033,
             "from_actor": 162,
             "to_actor": 416,
             "start": "2011-10-07",
@@ -1453,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605588,
+            "id": 31732034,
             "from_actor": 162,
             "to_actor": 750,
             "start": "2011-10-07",
@@ -1464,18 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605589,
-            "from_actor": 162,
-            "to_actor": 19411,
-            "start": "2021-03-26",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605590,
+            "id": 31732035,
             "from_actor": 162,
             "to_actor": 21,
             "start": "2014-04-04",
@@ -1486,29 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605591,
-            "from_actor": 162,
-            "to_actor": 19411,
-            "start": "2021-01-21",
-            "end": "2021-03-24",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605592,
-            "from_actor": 162,
-            "to_actor": 19411,
-            "start": "2020-10-07",
-            "end": "2021-01-19",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605593,
+            "id": 31732036,
             "from_actor": 162,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1519,7 +1574,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605594,
+            "id": 31732037,
             "from_actor": 162,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1530,7 +1585,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605595,
+            "id": 31732038,
             "from_actor": 162,
             "to_actor": 19620,
             "start": "2021-05-18",
@@ -1541,18 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605596,
-            "from_actor": 162,
-            "to_actor": 19620,
-            "start": "2021-08-20",
-            "end": "2021-08-20",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605597,
+            "id": 31732039,
             "from_actor": 162,
             "to_actor": 308,
             "start": "2013-04-26",
@@ -1563,18 +1607,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605598,
+            "id": 31732040,
             "from_actor": 162,
-            "to_actor": 19437,
-            "start": "2021-04-29",
-            "end": "2021-10-05",
+            "to_actor": 19620,
+            "start": "2021-08-20",
+            "end": "2021-08-20",
             "role": "medlem",
             "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27605599,
+            "id": 31732041,
+            "from_actor": 162,
+            "to_actor": 19411,
+            "start": "2021-03-26",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732042,
+            "from_actor": 162,
+            "to_actor": 19411,
+            "start": "2021-01-21",
+            "end": "2021-03-24",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732043,
+            "from_actor": 162,
+            "to_actor": 19411,
+            "start": "2020-10-07",
+            "end": "2021-01-19",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732044,
             "from_actor": 162,
             "to_actor": 16915,
             "start": "2017-04-27",
@@ -1585,7 +1662,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605600,
+            "id": 31732045,
+            "from_actor": 162,
+            "to_actor": 19437,
+            "start": "2021-04-29",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732046,
             "from_actor": 162,
             "to_actor": 19437,
             "start": "2021-02-23",
@@ -1596,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605601,
+            "id": 31732047,
             "from_actor": 162,
             "to_actor": 19437,
             "start": "2020-10-07",
@@ -1607,7 +1695,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605602,
+            "id": 31732048,
+            "from_actor": 162,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732049,
             "from_actor": 162,
             "to_actor": 16915,
             "start": "2017-06-01",
@@ -1618,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27605603,
+            "id": 31732050,
             "from_actor": 162,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1629,7 +1728,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605604,
+            "id": 31732051,
             "from_actor": 162,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1640,7 +1739,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605606,
+            "id": 31732053,
             "from_actor": 162,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1651,7 +1750,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605608,
+            "id": 31732054,
             "from_actor": 162,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1662,271 +1761,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27605610,
-            "from_actor": 162,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27605611,
-            "from_actor": 162,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27605612,
-            "from_actor": 162,
-            "to_actor": 420,
-            "start": "2011-09-15",
-            "end": "2011-10-04",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27605613,
-            "from_actor": 162,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27605614,
-            "from_actor": 162,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27605615,
-            "from_actor": 162,
-            "to_actor": 16919,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605616,
-            "from_actor": 162,
-            "to_actor": 15914,
-            "start": "2015-07-09",
-            "end": "2015-10-06",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605617,
-            "from_actor": 162,
-            "to_actor": 16022,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605618,
-            "from_actor": 162,
-            "to_actor": 18313,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605619,
-            "from_actor": 162,
-            "to_actor": 17664,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605620,
-            "from_actor": 162,
-            "to_actor": 18311,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605621,
-            "from_actor": 162,
-            "to_actor": 16894,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605622,
-            "from_actor": 162,
-            "to_actor": 17636,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605623,
-            "from_actor": 162,
-            "to_actor": 16028,
-            "start": "2016-05-18",
-            "end": "2016-10-04",
-            "role": "formand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605624,
-            "from_actor": 162,
-            "to_actor": 18777,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Social- og Indenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605625,
-            "from_actor": 162,
-            "to_actor": 18877,
-            "start": "2019-10-02",
-            "end": "2020-10-06",
-            "role": "næstformand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Social- og Indenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605626,
-            "from_actor": 162,
-            "to_actor": 19414,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "næstformand",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27605627,
-            "from_actor": 162,
-            "to_actor": 16951,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27605628,
-            "from_actor": 162,
-            "to_actor": 18350,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27605629,
-            "from_actor": 162,
-            "to_actor": 16023,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27605630,
-            "from_actor": 162,
-            "to_actor": 17670,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27605631,
-            "from_actor": 162,
-            "to_actor": 15915,
-            "start": "2015-09-03",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27605632,
-            "from_actor": 162,
-            "to_actor": 15920,
-            "start": "2015-07-09",
-            "end": "2015-09-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27617437,
-            "from_actor": 162,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Karina Adsbøl",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619314,
+            "id": 31732055,
             "from_actor": 162,
             "to_actor": 19438,
             "start": "2020-11-27",
@@ -1937,7 +1772,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619322,
+            "id": 31732056,
+            "from_actor": 162,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732057,
+            "from_actor": 162,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732058,
             "from_actor": 162,
             "to_actor": 19438,
             "start": "2020-12-02",
@@ -1946,6 +1803,259 @@
             "from_actor_name": "Karina Adsbøl",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31732059,
+            "from_actor": 162,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732060,
+            "from_actor": 162,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732061,
+            "from_actor": 162,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31732062,
+            "from_actor": 162,
+            "to_actor": 16919,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732063,
+            "from_actor": 162,
+            "to_actor": 15914,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732064,
+            "from_actor": 162,
+            "to_actor": 16022,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732065,
+            "from_actor": 162,
+            "to_actor": 18313,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732066,
+            "from_actor": 162,
+            "to_actor": 17664,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732067,
+            "from_actor": 162,
+            "to_actor": 18311,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732068,
+            "from_actor": 162,
+            "to_actor": 16894,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732069,
+            "from_actor": 162,
+            "to_actor": 17636,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732070,
+            "from_actor": 162,
+            "to_actor": 16028,
+            "start": "2016-05-18",
+            "end": "2016-10-04",
+            "role": "formand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732071,
+            "from_actor": 162,
+            "to_actor": 18777,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732072,
+            "from_actor": 162,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732073,
+            "from_actor": 162,
+            "to_actor": 18877,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "næstformand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732074,
+            "from_actor": 162,
+            "to_actor": 19414,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31732075,
+            "from_actor": 162,
+            "to_actor": 16951,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31732076,
+            "from_actor": 162,
+            "to_actor": 18350,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31732077,
+            "from_actor": 162,
+            "to_actor": 16023,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31732078,
+            "from_actor": 162,
+            "to_actor": 17670,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31732079,
+            "from_actor": 162,
+            "to_actor": 15915,
+            "start": "2015-09-03",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31732080,
+            "from_actor": 162,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-09-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31743556,
+            "from_actor": 162,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Adsbøl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

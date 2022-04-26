@@ -23,7 +23,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612119,
+            "id": 31740386,
             "from_actor": 12,
             "to_actor": 571,
             "start": "2004-10-05",
@@ -34,7 +34,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612120,
+            "id": 31740387,
             "from_actor": 12,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -45,7 +45,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612121,
+            "id": 31740388,
             "from_actor": 12,
             "to_actor": 582,
             "start": "2011-09-15",
@@ -56,7 +56,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612122,
+            "id": 31740389,
             "from_actor": 12,
             "to_actor": 583,
             "start": "2011-10-04",
@@ -67,7 +67,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612123,
+            "id": 31740390,
             "from_actor": 12,
             "to_actor": 470,
             "start": "2004-10-06",
@@ -78,7 +78,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612124,
+            "id": 31740391,
             "from_actor": 12,
             "to_actor": 471,
             "start": "2004-10-05",
@@ -89,7 +89,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612125,
+            "id": 31740392,
             "from_actor": 12,
             "to_actor": 16639,
             "start": "2019-01-10",
@@ -100,7 +100,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612126,
+            "id": 31740393,
             "from_actor": 12,
             "to_actor": 18675,
             "start": "2019-06-05",
@@ -111,7 +111,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612127,
+            "id": 31740394,
             "from_actor": 12,
             "to_actor": 18887,
             "start": "2019-10-01",
@@ -122,7 +122,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612128,
+            "id": 31740395,
             "from_actor": 12,
             "to_actor": 15747,
             "start": "2015-06-18",
@@ -133,7 +133,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612129,
+            "id": 31740396,
             "from_actor": 12,
             "to_actor": 16885,
             "start": "2016-10-04",
@@ -144,7 +144,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612130,
+            "id": 31740397,
             "from_actor": 12,
             "to_actor": 18322,
             "start": "2018-10-02",
@@ -155,7 +155,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612131,
+            "id": 31740398,
             "from_actor": 12,
             "to_actor": 19353,
             "start": "2020-10-06",
@@ -166,7 +166,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612132,
+            "id": 31740399,
             "from_actor": 12,
             "to_actor": 13639,
             "start": "2014-10-07",
@@ -177,7 +177,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612133,
+            "id": 31740400,
             "from_actor": 12,
             "to_actor": 897,
             "start": "2004-10-06",
@@ -188,7 +188,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612134,
+            "id": 31740401,
             "from_actor": 12,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -199,7 +199,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612135,
+            "id": 31740402,
             "from_actor": 12,
             "to_actor": 17606,
             "start": "2017-10-03",
@@ -210,7 +210,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612136,
+            "id": 31740403,
             "from_actor": 12,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -221,7 +221,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612137,
+            "id": 31740404,
+            "from_actor": 12,
+            "to_actor": 19855,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nicolai Wammen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31740405,
             "from_actor": 12,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -232,7 +243,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612138,
+            "id": 31740406,
             "from_actor": 12,
             "to_actor": 16013,
             "start": "2015-11-27",
@@ -243,7 +254,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612139,
+            "id": 31740407,
             "from_actor": 12,
             "to_actor": 17602,
             "start": "2018-04-20",
@@ -254,7 +265,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612140,
+            "id": 31740408,
             "from_actor": 12,
             "to_actor": 835,
             "start": "2004-10-06",
@@ -265,7 +276,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612141,
+            "id": 31740409,
             "from_actor": 12,
             "to_actor": 16046,
             "start": "2015-10-06",
@@ -276,7 +287,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612142,
+            "id": 31740410,
             "from_actor": 12,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -287,7 +298,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612143,
+            "id": 31740411,
             "from_actor": 12,
             "to_actor": 598,
             "start": "2012-10-02",
@@ -298,7 +309,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612144,
+            "id": 31740412,
             "from_actor": 12,
             "to_actor": 18302,
             "start": "2018-10-03",
@@ -309,7 +320,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612145,
+            "id": 31740413,
             "from_actor": 12,
             "to_actor": 599,
             "start": "2013-10-01",
@@ -320,7 +331,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612146,
+            "id": 31740414,
             "from_actor": 12,
             "to_actor": 14952,
             "start": "2003-10-07",
@@ -331,7 +342,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612147,
+            "id": 31740415,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2016-10-05",
@@ -342,7 +353,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612148,
+            "id": 31740416,
             "from_actor": 12,
             "to_actor": 14924,
             "start": "2001-11-20",
@@ -353,7 +364,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612149,
+            "id": 31740417,
             "from_actor": 12,
             "to_actor": 14939,
             "start": "2002-10-01",
@@ -364,7 +375,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612150,
+            "id": 31740418,
             "from_actor": 12,
             "to_actor": 18343,
             "start": "2018-12-07",
@@ -375,7 +386,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612151,
+            "id": 31740419,
             "from_actor": 12,
             "to_actor": 17658,
             "start": "2018-01-31",
@@ -386,7 +397,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612152,
+            "id": 31740420,
+            "from_actor": 12,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nicolai Wammen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31740421,
             "from_actor": 12,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -397,7 +419,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612153,
+            "id": 31740422,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2016-10-28",
@@ -408,7 +430,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612154,
+            "id": 31740423,
             "from_actor": 12,
             "to_actor": 17602,
             "start": "2017-10-04",
@@ -419,7 +441,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612155,
+            "id": 31740424,
             "from_actor": 12,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -430,7 +452,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612156,
+            "id": 31740425,
             "from_actor": 12,
             "to_actor": 16031,
             "start": "2016-02-23",
@@ -441,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612157,
+            "id": 31740426,
             "from_actor": 12,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -452,7 +474,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612158,
+            "id": 31740427,
             "from_actor": 12,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -463,7 +485,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612159,
+            "id": 31740428,
             "from_actor": 12,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -474,7 +496,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612160,
+            "id": 31740429,
             "from_actor": 12,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -485,7 +507,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612161,
+            "id": 31740430,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2017-02-23",
@@ -496,7 +518,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612162,
+            "id": 31740431,
             "from_actor": 12,
             "to_actor": 16008,
             "start": "2016-04-04",
@@ -507,7 +529,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612163,
+            "id": 31740432,
             "from_actor": 12,
             "to_actor": 18737,
             "start": "2019-06-21",
@@ -518,7 +540,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612164,
+            "id": 31740433,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2017-03-01",
@@ -529,7 +551,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612165,
+            "id": 31740434,
             "from_actor": 12,
             "to_actor": 16891,
             "start": "2017-06-30",
@@ -540,7 +562,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612167,
+            "id": 31740436,
+            "from_actor": 12,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Nicolai Wammen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31740437,
             "from_actor": 12,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -551,7 +584,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612168,
+            "id": 31740438,
             "from_actor": 12,
             "to_actor": 16920,
             "start": "2017-06-01",
@@ -562,7 +595,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612169,
+            "id": 31740439,
             "from_actor": 12,
             "to_actor": 19418,
             "start": "2021-05-03",
@@ -573,7 +606,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27612170,
+            "id": 31740440,
             "from_actor": 12,
             "to_actor": 14931,
             "start": "2002-10-01",
@@ -584,7 +617,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612171,
+            "id": 31740441,
             "from_actor": 12,
             "to_actor": 14917,
             "start": "2001-11-20",
@@ -595,7 +628,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612172,
+            "id": 31740442,
             "from_actor": 12,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -606,7 +639,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612173,
+            "id": 31740443,
             "from_actor": 12,
             "to_actor": 14259,
             "start": "2003-10-07",
@@ -617,7 +650,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612174,
+            "id": 31740444,
             "from_actor": 12,
             "to_actor": 3,
             "start": "2019-06-27",
@@ -628,7 +661,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27612175,
+            "id": 31740445,
             "from_actor": 12,
             "to_actor": 8,
             "start": "2013-08-09",
@@ -639,7 +672,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27612176,
+            "id": 31740446,
             "from_actor": 12,
             "to_actor": 359,
             "start": "2011-10-03",
@@ -650,7 +683,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27612177,
+            "id": 31740447,
             "from_actor": 12,
             "to_actor": 535,
             "start": "2004-10-05",
@@ -661,7 +694,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612178,
+            "id": 31740448,
             "from_actor": 12,
             "to_actor": 16008,
             "start": "2015-10-07",
@@ -672,7 +705,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612179,
+            "id": 31740449,
             "from_actor": 12,
             "to_actor": 15878,
             "start": "2015-07-03",
@@ -683,7 +716,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612180,
+            "id": 31740450,
             "from_actor": 12,
             "to_actor": 17602,
             "start": "2018-04-19",
@@ -694,7 +727,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612181,
+            "id": 31740451,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2017-02-22",
@@ -705,7 +738,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612182,
+            "id": 31740452,
             "from_actor": 12,
             "to_actor": 16860,
             "start": "2017-02-28",
@@ -716,7 +749,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617392,
+            "id": 31743511,
             "from_actor": 12,
             "to_actor": 16060,
             "start": "2015-10-06",

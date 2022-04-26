@@ -3664,39 +3664,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 198914,
-            "from_actor": 195,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Pernille Vigsø Bagge",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 199220,
-            "from_actor": 195,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Pernille Vigsø Bagge",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 199276,
-            "from_actor": 195,
-            "to_actor": 425,
-            "start": "2006-06-10",
-            "end": "2006-01-09",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Pernille Vigsø Bagge",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 310519,
             "from_actor": 195,
             "to_actor": 22,
@@ -4223,6 +4190,39 @@
             "from_actor_name": "Pernille Vigsø Bagge",
             "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 29499560,
+            "from_actor": 195,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Pernille Vigsø Bagge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499783,
+            "from_actor": 195,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Pernille Vigsø Bagge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499837,
+            "from_actor": 195,
+            "to_actor": 425,
+            "start": "2006-06-10",
+            "end": "2006-01-09",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Pernille Vigsø Bagge",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

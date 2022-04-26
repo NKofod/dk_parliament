@@ -2949,17 +2949,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22740454,
-            "from_actor": 5,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Frank Aaen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22740455,
             "from_actor": 5,
             "to_actor": 859,
@@ -2969,17 +2958,6 @@
             "from_actor_name": "Frank Aaen",
             "to_actor_name": "Enhedslisten",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22740456,
-            "from_actor": 5,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Frank Aaen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22740457,
@@ -5853,28 +5831,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22740723,
-            "from_actor": 5,
-            "to_actor": 425,
-            "start": "2005-12-19",
-            "end": "2005-12-11",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Frank Aaen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 22740724,
-            "from_actor": 5,
-            "to_actor": 425,
-            "start": "2006-04-19",
-            "end": "2006-03-20",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Frank Aaen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22740725,
             "from_actor": 5,
             "to_actor": 859,
@@ -5941,12 +5897,56 @@
             "type": "Udvalg"
         },
         {
-            "id": 27264201,
+            "id": 29499526,
+            "from_actor": 5,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Frank Aaen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499749,
+            "from_actor": 5,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Frank Aaen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499833,
+            "from_actor": 5,
+            "to_actor": 425,
+            "start": "2005-12-19",
+            "end": "2005-12-11",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Frank Aaen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499834,
+            "from_actor": 5,
+            "to_actor": 425,
+            "start": "2006-04-19",
+            "end": "2006-03-20",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Frank Aaen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31394927,
             "from_actor": 5,
             "to_actor": 18370,
             "start": "2018-10-01",
             "end": "2022-09-30",
-            "role": "medlem",
+            "role": "næstformand",
             "from_actor_name": "Frank Aaen",
             "to_actor_name": "Statsrevisorerne",
             "type": "Kommission"

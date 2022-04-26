@@ -1145,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600829,
+            "id": 31726170,
             "from_actor": 164,
             "to_actor": 729,
             "start": "2004-10-05",
@@ -1156,7 +1156,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600830,
+            "id": 31726171,
             "from_actor": 164,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -1167,7 +1167,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600831,
+            "id": 31726172,
             "from_actor": 164,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -1178,7 +1178,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600832,
+            "id": 31726173,
             "from_actor": 164,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -1189,18 +1189,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600833,
-            "from_actor": 164,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27600834,
+            "id": 31726174,
             "from_actor": 164,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -1211,18 +1200,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600835,
-            "from_actor": 164,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27600836,
+            "id": 31726175,
             "from_actor": 164,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -1233,7 +1211,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600837,
+            "id": 31726176,
             "from_actor": 164,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -1244,7 +1222,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600838,
+            "id": 31726177,
             "from_actor": 164,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -1255,7 +1233,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600839,
+            "id": 31726178,
             "from_actor": 164,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -1266,7 +1244,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600840,
+            "id": 31726179,
             "from_actor": 164,
             "to_actor": 16884,
             "start": "2017-06-05",
@@ -1277,7 +1255,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600841,
+            "id": 31726180,
             "from_actor": 164,
             "to_actor": 1041,
             "start": "2004-10-05",
@@ -1288,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600842,
+            "id": 31726181,
             "from_actor": 164,
             "to_actor": 937,
             "start": "2005-02-23",
@@ -1299,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600843,
+            "id": 31726182,
             "from_actor": 164,
             "to_actor": 815,
             "start": "2005-02-23",
@@ -1310,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600844,
+            "id": 31726183,
             "from_actor": 164,
             "to_actor": 828,
             "start": "2005-02-23",
@@ -1321,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600845,
+            "id": 31726184,
             "from_actor": 164,
             "to_actor": 829,
             "start": "2005-10-05",
@@ -1332,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600846,
+            "id": 31726185,
             "from_actor": 164,
             "to_actor": 822,
             "start": "2005-10-05",
@@ -1343,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600847,
+            "id": 31726186,
             "from_actor": 164,
             "to_actor": 938,
             "start": "2005-10-05",
@@ -1354,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600848,
+            "id": 31726187,
             "from_actor": 164,
             "to_actor": 1040,
             "start": "2006-10-04",
@@ -1365,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600849,
+            "id": 31726188,
             "from_actor": 164,
             "to_actor": 1024,
             "start": "2007-04-01",
@@ -1376,7 +1354,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600850,
+            "id": 31726189,
             "from_actor": 164,
             "to_actor": 819,
             "start": "2007-10-03",
@@ -1387,7 +1365,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600851,
+            "id": 31726190,
             "from_actor": 164,
             "to_actor": 1317,
             "start": "2007-10-03",
@@ -1398,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600852,
+            "id": 31726191,
             "from_actor": 164,
             "to_actor": 1382,
             "start": "2007-10-03",
@@ -1409,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600853,
+            "id": 31726192,
             "from_actor": 164,
             "to_actor": 1025,
             "start": "2007-04-01",
@@ -1420,7 +1398,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600854,
+            "id": 31726193,
             "from_actor": 164,
             "to_actor": 1026,
             "start": "2007-04-01",
@@ -1431,7 +1409,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600855,
+            "id": 31726194,
             "from_actor": 164,
             "to_actor": 1027,
             "start": "2007-04-01",
@@ -1442,7 +1420,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600856,
+            "id": 31726195,
             "from_actor": 164,
             "to_actor": 1028,
             "start": "2007-04-01",
@@ -1453,7 +1431,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600857,
+            "id": 31726196,
             "from_actor": 164,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -1464,7 +1442,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600858,
+            "id": 31726197,
             "from_actor": 164,
             "to_actor": 886,
             "start": "2006-09-13",
@@ -1475,7 +1453,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600859,
+            "id": 31726198,
             "from_actor": 164,
             "to_actor": 17712,
             "start": "2018-05-15",
@@ -1486,7 +1464,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600860,
+            "id": 31726199,
             "from_actor": 164,
             "to_actor": 14259,
             "start": "2003-10-07",
@@ -1497,7 +1475,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600861,
+            "id": 31726200,
             "from_actor": 164,
             "to_actor": 16886,
             "start": "2017-06-05",
@@ -1508,7 +1486,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600862,
+            "id": 31726201,
             "from_actor": 164,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -1519,7 +1497,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600863,
+            "id": 31726202,
             "from_actor": 164,
             "to_actor": 939,
             "start": "2006-10-04",
@@ -1530,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600864,
+            "id": 31726203,
             "from_actor": 164,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -1541,7 +1519,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600865,
+            "id": 31726204,
             "from_actor": 164,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -1552,7 +1530,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600866,
+            "id": 31726205,
             "from_actor": 164,
             "to_actor": 818,
             "start": "2006-11-14",
@@ -1563,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600867,
+            "id": 31726206,
             "from_actor": 164,
             "to_actor": 810,
             "start": "2006-10-04",
@@ -1574,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600868,
+            "id": 31726207,
             "from_actor": 164,
             "to_actor": 15951,
             "start": "2014-03-01",
@@ -1585,18 +1563,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600869,
-            "from_actor": 164,
-            "to_actor": 19437,
-            "start": "2021-08-20",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600870,
+            "id": 31726208,
             "from_actor": 164,
             "to_actor": 18877,
             "start": "2020-08-28",
@@ -1607,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600871,
+            "id": 31726209,
             "from_actor": 164,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -1618,7 +1585,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600872,
+            "id": 31726210,
+            "from_actor": 164,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31726211,
             "from_actor": 164,
             "to_actor": 795,
             "start": "2004-10-06",
@@ -1629,7 +1607,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600873,
+            "id": 31726212,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-09-29",
@@ -1640,7 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600874,
+            "id": 31726213,
             "from_actor": 164,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -1651,7 +1629,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600875,
+            "id": 31726214,
             "from_actor": 164,
             "to_actor": 15914,
             "start": "2015-07-09",
@@ -1662,7 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600876,
+            "id": 31726215,
             "from_actor": 164,
             "to_actor": 16022,
             "start": "2015-10-07",
@@ -1673,7 +1651,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600877,
+            "id": 31726216,
             "from_actor": 164,
             "to_actor": 17753,
             "start": "2018-03-01",
@@ -1684,7 +1662,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27600878,
+            "id": 31726217,
+            "from_actor": 164,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31726218,
             "from_actor": 164,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -1695,7 +1684,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600879,
+            "id": 31726219,
             "from_actor": 164,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -1706,7 +1695,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600880,
+            "id": 31726220,
             "from_actor": 164,
             "to_actor": 479,
             "start": "2005-02-08",
@@ -1717,7 +1706,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600881,
+            "id": 31726221,
             "from_actor": 164,
             "to_actor": 480,
             "start": "2005-10-05",
@@ -1728,7 +1717,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600882,
+            "id": 31726222,
             "from_actor": 164,
             "to_actor": 485,
             "start": "2007-10-02",
@@ -1739,7 +1728,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600883,
+            "id": 31726223,
             "from_actor": 164,
             "to_actor": 483,
             "start": "2006-10-03",
@@ -1750,7 +1739,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600884,
+            "id": 31726224,
             "from_actor": 164,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -1761,7 +1750,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600885,
+            "id": 31726225,
             "from_actor": 164,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1772,7 +1761,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600886,
+            "id": 31726226,
             "from_actor": 164,
             "to_actor": 15871,
             "start": "2014-03-01",
@@ -1783,7 +1772,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600887,
+            "id": 31726227,
             "from_actor": 164,
             "to_actor": 16896,
             "start": "2016-10-05",
@@ -1794,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600888,
+            "id": 31726228,
             "from_actor": 164,
             "to_actor": 60,
             "start": "2013-10-02",
@@ -1805,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600889,
+            "id": 31726229,
             "from_actor": 164,
             "to_actor": 5136,
             "start": "2014-10-08",
@@ -1816,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600890,
+            "id": 31726230,
             "from_actor": 164,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -1827,7 +1816,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600891,
+            "id": 31726231,
             "from_actor": 164,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -1838,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600892,
+            "id": 31726232,
             "from_actor": 164,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -1849,7 +1838,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600893,
+            "id": 31726233,
             "from_actor": 164,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -1860,7 +1849,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600894,
+            "id": 31726234,
             "from_actor": 164,
             "to_actor": 13675,
             "start": "2014-03-01",
@@ -1871,7 +1860,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600895,
+            "id": 31726235,
             "from_actor": 164,
             "to_actor": 16894,
             "start": "2016-10-05",
@@ -1882,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600896,
+            "id": 31726236,
             "from_actor": 164,
             "to_actor": 885,
             "start": "2004-10-06",
@@ -1893,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600897,
+            "id": 31726237,
             "from_actor": 164,
             "to_actor": 413,
             "start": "2011-10-07",
@@ -1904,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600898,
+            "id": 31726238,
             "from_actor": 164,
             "to_actor": 16014,
             "start": "2015-10-07",
@@ -1915,7 +1904,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600899,
+            "id": 31726239,
             "from_actor": 164,
             "to_actor": 18346,
             "start": "2018-10-03",
@@ -1926,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600900,
+            "id": 31726240,
             "from_actor": 164,
             "to_actor": 471,
             "start": "2004-10-06",
@@ -1937,7 +1926,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600901,
+            "id": 31726241,
             "from_actor": 164,
             "to_actor": 146,
             "start": "2013-10-02",
@@ -1948,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600902,
+            "id": 31726242,
             "from_actor": 164,
             "to_actor": 16036,
             "start": "2015-10-07",
@@ -1959,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600903,
+            "id": 31726243,
             "from_actor": 164,
             "to_actor": 325,
             "start": "2012-10-03",
@@ -1970,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600904,
+            "id": 31726244,
             "from_actor": 164,
             "to_actor": 15884,
             "start": "2015-07-03",
@@ -1981,7 +1970,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600905,
+            "id": 31726245,
             "from_actor": 164,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -1992,7 +1981,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600906,
+            "id": 31726246,
             "from_actor": 164,
             "to_actor": 15909,
             "start": "2015-07-09",
@@ -2003,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600907,
+            "id": 31726247,
             "from_actor": 164,
             "to_actor": 16021,
             "start": "2015-10-07",
@@ -2014,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600908,
+            "id": 31726248,
             "from_actor": 164,
             "to_actor": 16026,
             "start": "2015-10-07",
@@ -2025,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600909,
+            "id": 31726249,
             "from_actor": 164,
             "to_actor": 17646,
             "start": "2018-02-20",
@@ -2036,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600910,
+            "id": 31726250,
             "from_actor": 164,
             "to_actor": 17643,
             "start": "2018-05-09",
@@ -2047,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600911,
+            "id": 31726251,
             "from_actor": 164,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -2058,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600912,
+            "id": 31726252,
             "from_actor": 164,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -2069,7 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600913,
+            "id": 31726253,
             "from_actor": 164,
             "to_actor": 15902,
             "start": "2015-07-09",
@@ -2080,7 +2069,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600914,
+            "id": 31726254,
             "from_actor": 164,
             "to_actor": 308,
             "start": "2012-10-03",
@@ -2091,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600915,
+            "id": 31726255,
             "from_actor": 164,
             "to_actor": 326,
             "start": "2012-10-03",
@@ -2102,7 +2091,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600916,
+            "id": 31726256,
             "from_actor": 164,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -2113,7 +2102,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600917,
+            "id": 31726257,
             "from_actor": 164,
             "to_actor": 16950,
             "start": "2016-10-05",
@@ -2124,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600918,
+            "id": 31726258,
             "from_actor": 164,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -2135,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600919,
+            "id": 31726259,
             "from_actor": 164,
             "to_actor": 15903,
             "start": "2015-07-09",
@@ -2146,7 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600920,
+            "id": 31726260,
             "from_actor": 164,
             "to_actor": 16028,
             "start": "2015-10-07",
@@ -2157,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600921,
+            "id": 31726261,
             "from_actor": 164,
             "to_actor": 18738,
             "start": "2019-06-21",
@@ -2168,7 +2157,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600922,
+            "id": 31726262,
             "from_actor": 164,
             "to_actor": 18316,
             "start": "2018-11-28",
@@ -2179,7 +2168,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600923,
+            "id": 31726263,
             "from_actor": 164,
             "to_actor": 16870,
             "start": "2016-10-05",
@@ -2190,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600924,
+            "id": 31726264,
             "from_actor": 164,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -2201,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600925,
+            "id": 31726265,
             "from_actor": 164,
             "to_actor": 5165,
             "start": "2014-10-08",
@@ -2212,7 +2201,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600926,
+            "id": 31726266,
             "from_actor": 164,
             "to_actor": 18884,
             "start": "2019-10-02",
@@ -2223,7 +2212,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600927,
+            "id": 31726267,
             "from_actor": 164,
             "to_actor": 14943,
             "start": "2002-10-01",
@@ -2234,7 +2223,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600928,
+            "id": 31726268,
             "from_actor": 164,
             "to_actor": 14957,
             "start": "2003-10-07",
@@ -2245,7 +2234,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600929,
+            "id": 31726269,
             "from_actor": 164,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -2256,7 +2245,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600930,
+            "id": 31726270,
             "from_actor": 164,
             "to_actor": 416,
             "start": "2011-10-07",
@@ -2267,7 +2256,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600931,
+            "id": 31726271,
+            "from_actor": 164,
+            "to_actor": 19889,
+            "start": "2021-12-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726272,
             "from_actor": 164,
             "to_actor": 14926,
             "start": "2001-11-20",
@@ -2278,7 +2278,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600932,
+            "id": 31726273,
             "from_actor": 164,
             "to_actor": 18757,
             "start": "2019-08-16",
@@ -2289,7 +2289,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600933,
+            "id": 31726274,
+            "from_actor": 164,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726275,
             "from_actor": 164,
             "to_actor": 18784,
             "start": "2019-07-04",
@@ -2300,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600934,
+            "id": 31726276,
             "from_actor": 164,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -2311,7 +2322,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600935,
+            "id": 31726277,
+            "from_actor": 164,
+            "to_actor": 19897,
+            "start": "2022-03-29",
+            "end": "2022-03-29",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726278,
             "from_actor": 164,
             "to_actor": 16910,
             "start": "2016-10-05",
@@ -2322,7 +2344,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600936,
+            "id": 31726279,
+            "from_actor": 164,
+            "to_actor": 19896,
+            "start": "2022-02-02",
+            "end": "2022-02-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726280,
             "from_actor": 164,
             "to_actor": 19415,
             "start": "2020-10-07",
@@ -2333,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600937,
+            "id": 31726281,
             "from_actor": 164,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -2344,7 +2377,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600938,
+            "id": 31726282,
             "from_actor": 164,
             "to_actor": 18921,
             "start": "2020-09-04",
@@ -2355,7 +2388,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600939,
+            "id": 31726283,
             "from_actor": 164,
             "to_actor": 18777,
             "start": "2019-07-04",
@@ -2366,7 +2399,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600940,
+            "id": 31726284,
             "from_actor": 164,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -2377,7 +2410,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600941,
+            "id": 31726285,
             "from_actor": 164,
             "to_actor": 18921,
             "start": "2020-06-19",
@@ -2388,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600942,
+            "id": 31726286,
             "from_actor": 164,
             "to_actor": 18768,
             "start": "2019-07-04",
@@ -2399,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600943,
+            "id": 31726287,
             "from_actor": 164,
             "to_actor": 18921,
             "start": "2020-06-13",
@@ -2410,18 +2443,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600944,
-            "from_actor": 164,
-            "to_actor": 19437,
-            "start": "2021-06-04",
-            "end": "2021-08-18",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600945,
+            "id": 31726288,
             "from_actor": 164,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -2432,7 +2454,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600946,
+            "id": 31726289,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-03-11",
@@ -2443,29 +2465,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600947,
+            "id": 31726290,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-05-05",
-            "end": "2021-06-02",
+            "start": "2021-08-20",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600948,
+            "id": 31726291,
+            "from_actor": 164,
+            "to_actor": 19896,
+            "start": "2022-01-07",
+            "end": "2022-01-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726292,
+            "from_actor": 164,
+            "to_actor": 19909,
+            "start": "2021-11-24",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726293,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-04-17",
-            "end": "2021-05-03",
+            "start": "2021-06-04",
+            "end": "2021-08-18",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600949,
+            "id": 31726294,
             "from_actor": 164,
             "to_actor": 18305,
             "start": "2018-10-03",
@@ -2476,7 +2520,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600950,
+            "id": 31726295,
             "from_actor": 164,
             "to_actor": 18311,
             "start": "2018-10-03",
@@ -2487,7 +2531,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600951,
+            "id": 31726296,
+            "from_actor": 164,
+            "to_actor": 19896,
+            "start": "2022-01-26",
+            "end": "2022-01-26",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726297,
             "from_actor": 164,
             "to_actor": 750,
             "start": "2012-05-26",
@@ -2498,7 +2553,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600952,
+            "id": 31726298,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-03-19",
@@ -2509,7 +2564,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600953,
+            "id": 31726299,
+            "from_actor": 164,
+            "to_actor": 19909,
+            "start": "2021-10-06",
+            "end": "2021-11-22",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726300,
             "from_actor": 164,
             "to_actor": 5172,
             "start": "2015-01-21",
@@ -2520,7 +2586,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600954,
+            "id": 31726301,
             "from_actor": 164,
             "to_actor": 18921,
             "start": "2019-10-02",
@@ -2531,18 +2597,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600955,
+            "id": 31726302,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-04-14",
-            "end": "2021-04-15",
+            "start": "2021-05-05",
+            "end": "2021-06-02",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600956,
+            "id": 31726303,
+            "from_actor": 164,
+            "to_actor": 19921,
+            "start": "2022-01-12",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726304,
             "from_actor": 164,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -2553,18 +2630,40 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600957,
+            "id": 31726305,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-03-24",
-            "end": "2021-04-12",
+            "start": "2021-04-17",
+            "end": "2021-05-03",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600958,
+            "id": 31726306,
+            "from_actor": 164,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2022-01-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726307,
+            "from_actor": 164,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726308,
             "from_actor": 164,
             "to_actor": 750,
             "start": "2012-05-17",
@@ -2575,7 +2674,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600959,
+            "id": 31726309,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-02-08",
@@ -2586,18 +2685,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600960,
+            "id": 31726310,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-02-25",
-            "end": "2021-03-22",
+            "start": "2021-04-14",
+            "end": "2021-04-15",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600961,
+            "id": 31726311,
+            "from_actor": 164,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726312,
+            "from_actor": 164,
+            "to_actor": 19896,
+            "start": "2022-02-23",
+            "end": "2022-02-23",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726313,
             "from_actor": 164,
             "to_actor": 5142,
             "start": "2014-12-03",
@@ -2608,7 +2729,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600962,
+            "id": 31726314,
             "from_actor": 164,
             "to_actor": 19387,
             "start": "2020-11-03",
@@ -2619,18 +2740,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600963,
+            "id": 31726315,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-02-10",
-            "end": "2021-02-23",
+            "start": "2021-03-24",
+            "end": "2021-04-12",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600964,
+            "id": 31726316,
             "from_actor": 164,
             "to_actor": 16034,
             "start": "2016-02-04",
@@ -2641,7 +2762,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600965,
+            "id": 31726317,
             "from_actor": 164,
             "to_actor": 18344,
             "start": "2018-10-03",
@@ -2652,7 +2773,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600966,
+            "id": 31726318,
             "from_actor": 164,
             "to_actor": 750,
             "start": "2011-10-07",
@@ -2663,7 +2784,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600967,
+            "id": 31726319,
             "from_actor": 164,
             "to_actor": 146,
             "start": "2013-12-12",
@@ -2674,7 +2795,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600968,
+            "id": 31726320,
             "from_actor": 164,
             "to_actor": 18860,
             "start": "2019-10-02",
@@ -2685,7 +2806,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600969,
+            "id": 31726321,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-01-31",
@@ -2696,18 +2817,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600970,
+            "id": 31726322,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2021-01-20",
-            "end": "2021-02-08",
+            "start": "2021-02-25",
+            "end": "2021-03-22",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600971,
+            "id": 31726323,
             "from_actor": 164,
             "to_actor": 16021,
             "start": "2015-12-16",
@@ -2718,7 +2839,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600972,
+            "id": 31726324,
             "from_actor": 164,
             "to_actor": 5142,
             "start": "2014-12-30",
@@ -2729,18 +2850,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600973,
+            "id": 31726325,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2020-12-04",
-            "end": "2021-01-18",
+            "start": "2021-02-10",
+            "end": "2021-02-23",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600974,
+            "id": 31726326,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2020-01-08",
@@ -2751,40 +2872,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600975,
+            "id": 31726327,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2020-12-01",
-            "end": "2020-12-02",
+            "start": "2021-01-20",
+            "end": "2021-02-08",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600976,
+            "id": 31726328,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2020-11-17",
-            "end": "2020-11-29",
+            "start": "2020-12-04",
+            "end": "2021-01-18",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600977,
-            "from_actor": 164,
-            "to_actor": 19337,
-            "start": "2020-10-30",
-            "end": "2020-10-30",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600978,
+            "id": 31726329,
             "from_actor": 164,
             "to_actor": 18304,
             "start": "2018-10-03",
@@ -2795,7 +2905,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600979,
+            "id": 31726330,
             "from_actor": 164,
             "to_actor": 17654,
             "start": "2017-10-04",
@@ -2806,7 +2916,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600980,
+            "id": 31726331,
             "from_actor": 164,
             "to_actor": 5142,
             "start": "2015-05-01",
@@ -2817,7 +2927,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600981,
+            "id": 31726332,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2019-11-13",
@@ -2828,7 +2938,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600982,
+            "id": 31726333,
+            "from_actor": 164,
+            "to_actor": 19915,
+            "start": "2022-04-02",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726334,
+            "from_actor": 164,
+            "to_actor": 19437,
+            "start": "2020-12-01",
+            "end": "2020-12-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726335,
             "from_actor": 164,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -2839,7 +2971,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600983,
+            "id": 31726336,
             "from_actor": 164,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -2850,7 +2982,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600984,
+            "id": 31726337,
             "from_actor": 164,
             "to_actor": 5165,
             "start": "2015-02-27",
@@ -2861,7 +2993,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600985,
+            "id": 31726338,
             "from_actor": 164,
             "to_actor": 18878,
             "start": "2019-10-02",
@@ -2872,18 +3004,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600986,
+            "id": 31726339,
+            "from_actor": 164,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-03-30",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726340,
             "from_actor": 164,
             "to_actor": 19437,
-            "start": "2020-11-11",
-            "end": "2020-11-15",
+            "start": "2020-11-17",
+            "end": "2020-11-29",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600987,
+            "id": 31726341,
             "from_actor": 164,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2894,18 +3037,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600988,
-            "from_actor": 164,
-            "to_actor": 19437,
-            "start": "2020-10-07",
-            "end": "2020-11-08",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600989,
+            "id": 31726342,
             "from_actor": 164,
             "to_actor": 16950,
             "start": "2017-06-06",
@@ -2916,7 +3048,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600990,
+            "id": 31726343,
             "from_actor": 164,
             "to_actor": 16894,
             "start": "2017-05-06",
@@ -2927,7 +3059,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600991,
+            "id": 31726344,
+            "from_actor": 164,
+            "to_actor": 19437,
+            "start": "2020-11-11",
+            "end": "2020-11-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726345,
             "from_actor": 164,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -2938,18 +3081,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600992,
+            "id": 31726346,
             "from_actor": 164,
-            "to_actor": 19386,
-            "start": "2021-02-11",
-            "end": "2021-02-11",
+            "to_actor": 19437,
+            "start": "2020-10-07",
+            "end": "2020-11-08",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600993,
+            "id": 31726347,
+            "from_actor": 164,
+            "to_actor": 19337,
+            "start": "2020-10-30",
+            "end": "2020-10-30",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726348,
             "from_actor": 164,
             "to_actor": 17636,
             "start": "2017-10-04",
@@ -2960,18 +3114,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600994,
+            "id": 31726349,
             "from_actor": 164,
             "to_actor": 19386,
-            "start": "2021-05-13",
-            "end": "2021-10-05",
+            "start": "2021-02-11",
+            "end": "2021-02-11",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600995,
+            "id": 31726350,
             "from_actor": 164,
             "to_actor": 5165,
             "start": "2015-04-10",
@@ -2982,18 +3136,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600996,
+            "id": 31726351,
             "from_actor": 164,
             "to_actor": 19386,
-            "start": "2021-02-12",
-            "end": "2021-05-11",
+            "start": "2021-05-13",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600997,
+            "id": 31726352,
             "from_actor": 164,
             "to_actor": 16918,
             "start": "2017-06-06",
@@ -3004,18 +3158,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600998,
+            "id": 31726353,
             "from_actor": 164,
             "to_actor": 19386,
-            "start": "2020-10-07",
-            "end": "2021-02-10",
+            "start": "2021-02-12",
+            "end": "2021-05-11",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600999,
+            "id": 31726354,
             "from_actor": 164,
             "to_actor": 329,
             "start": "2013-06-25",
@@ -3026,7 +3180,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601000,
+            "id": 31726355,
+            "from_actor": 164,
+            "to_actor": 19386,
+            "start": "2020-10-07",
+            "end": "2021-02-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726356,
+            "from_actor": 164,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31726357,
             "from_actor": 164,
             "to_actor": 17604,
             "start": "2017-10-04",
@@ -3037,7 +3213,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601001,
+            "id": 31726358,
             "from_actor": 164,
             "to_actor": 18877,
             "start": "2019-10-02",
@@ -3048,7 +3224,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601002,
+            "id": 31726359,
             "from_actor": 164,
             "to_actor": 17669,
             "start": "2017-10-04",
@@ -3059,7 +3235,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601003,
+            "id": 31726360,
             "from_actor": 164,
             "to_actor": 18877,
             "start": "2019-11-29",
@@ -3070,7 +3246,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601004,
+            "id": 31726361,
             "from_actor": 164,
             "to_actor": 18871,
             "start": "2020-09-25",
@@ -3081,18 +3257,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601005,
+            "id": 31726362,
             "from_actor": 164,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Hans Andersen",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27601006,
+            "id": 31726363,
             "from_actor": 164,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -3103,7 +3279,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27601007,
+            "id": 31726364,
             "from_actor": 164,
             "to_actor": 5165,
             "start": "2015-04-22",
@@ -3114,7 +3290,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601008,
+            "id": 31726365,
             "from_actor": 164,
             "to_actor": 16910,
             "start": "2017-06-06",
@@ -3125,7 +3301,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601009,
+            "id": 31726366,
             "from_actor": 164,
             "to_actor": 146,
             "start": "2014-04-30",
@@ -3136,7 +3312,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601010,
+            "id": 31726367,
             "from_actor": 164,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -3147,7 +3323,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601011,
+            "id": 31726368,
             "from_actor": 164,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -3158,7 +3334,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601012,
+            "id": 31726369,
             "from_actor": 164,
             "to_actor": 18316,
             "start": "2018-10-03",
@@ -3169,7 +3345,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601013,
+            "id": 31726370,
             "from_actor": 164,
             "to_actor": 325,
             "start": "2013-08-30",
@@ -3180,7 +3356,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601015,
+            "id": 31726371,
             "from_actor": 164,
             "to_actor": 41,
             "start": "2014-02-06",
@@ -3191,7 +3367,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601016,
+            "id": 31726372,
             "from_actor": 164,
             "to_actor": 16014,
             "start": "2016-05-28",
@@ -3202,7 +3378,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601019,
+            "id": 31726373,
             "from_actor": 164,
             "to_actor": 17653,
             "start": "2017-10-04",
@@ -3213,7 +3389,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601021,
+            "id": 31726374,
             "from_actor": 164,
             "to_actor": 16061,
             "start": "2016-03-11",
@@ -3224,381 +3400,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601022,
-            "from_actor": 164,
-            "to_actor": 17603,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601024,
-            "from_actor": 164,
-            "to_actor": 16061,
-            "start": "2016-03-17",
-            "end": "2016-03-17",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601026,
-            "from_actor": 164,
-            "to_actor": 19414,
-            "start": "2021-03-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601027,
-            "from_actor": 164,
-            "to_actor": 16917,
-            "start": "2017-06-06",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601028,
-            "from_actor": 164,
-            "to_actor": 19414,
-            "start": "2021-02-26",
-            "end": "2021-03-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601029,
-            "from_actor": 164,
-            "to_actor": 19414,
-            "start": "2020-10-21",
-            "end": "2021-02-24",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601030,
-            "from_actor": 164,
-            "to_actor": 19414,
-            "start": "2020-10-07",
-            "end": "2020-10-19",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601031,
-            "from_actor": 164,
-            "to_actor": 13708,
-            "start": "2015-05-07",
-            "end": "2015-05-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601032,
-            "from_actor": 164,
-            "to_actor": 18329,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601033,
-            "from_actor": 164,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601034,
-            "from_actor": 164,
-            "to_actor": 16036,
-            "start": "2016-04-22",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Transport- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601035,
-            "from_actor": 164,
-            "to_actor": 16870,
-            "start": "2017-06-06",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601036,
-            "from_actor": 164,
-            "to_actor": 427,
-            "start": "2007-10-02",
-            "end": "2007-11-13",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601037,
-            "from_actor": 164,
-            "to_actor": 14931,
-            "start": "2002-10-01",
-            "end": "2003-10-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601038,
-            "from_actor": 164,
-            "to_actor": 14917,
-            "start": "2001-11-20",
-            "end": "2002-10-08",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601039,
-            "from_actor": 164,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601040,
-            "from_actor": 164,
-            "to_actor": 811,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Socialudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601041,
-            "from_actor": 164,
-            "to_actor": 18757,
-            "start": "2019-07-04",
-            "end": "2019-08-15",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601042,
-            "from_actor": 164,
-            "to_actor": 397,
-            "start": "2011-10-07",
-            "end": "2011-11-28",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601043,
-            "from_actor": 164,
-            "to_actor": 397,
-            "start": "2011-11-30",
-            "end": "2012-10-02",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601044,
-            "from_actor": 164,
-            "to_actor": 5143,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601045,
-            "from_actor": 164,
-            "to_actor": 327,
-            "start": "2012-10-03",
-            "end": "2013-09-25",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601046,
-            "from_actor": 164,
-            "to_actor": 36,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601047,
-            "from_actor": 164,
-            "to_actor": 327,
-            "start": "2013-09-27",
-            "end": "2013-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601048,
-            "from_actor": 164,
-            "to_actor": 759,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601049,
-            "from_actor": 164,
-            "to_actor": 1155,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601050,
-            "from_actor": 164,
-            "to_actor": 816,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601051,
-            "from_actor": 164,
-            "to_actor": 1152,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601052,
-            "from_actor": 164,
-            "to_actor": 817,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601053,
-            "from_actor": 164,
-            "to_actor": 625,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601054,
-            "from_actor": 164,
-            "to_actor": 818,
-            "start": "2006-10-04",
-            "end": "2006-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601055,
-            "from_actor": 164,
-            "to_actor": 16884,
-            "start": "2017-03-20",
-            "end": "2017-06-04",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27601056,
-            "from_actor": 164,
-            "to_actor": 16886,
-            "start": "2017-03-20",
-            "end": "2017-06-04",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617397,
-            "from_actor": 164,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Hans Andersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619099,
+            "id": 31726375,
             "from_actor": 164,
             "to_actor": 19392,
             "start": "2021-04-28",
@@ -3609,7 +3411,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619101,
+            "id": 31726376,
+            "from_actor": 164,
+            "to_actor": 17603,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726377,
             "from_actor": 164,
             "to_actor": 19392,
             "start": "2021-04-14",
@@ -3620,7 +3433,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619102,
+            "id": 31726378,
+            "from_actor": 164,
+            "to_actor": 16061,
+            "start": "2016-03-17",
+            "end": "2016-03-17",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726379,
             "from_actor": 164,
             "to_actor": 19392,
             "start": "2020-11-04",
@@ -3631,7 +3455,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619103,
+            "id": 31726380,
             "from_actor": 164,
             "to_actor": 19392,
             "start": "2020-10-28",
@@ -3642,7 +3466,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619106,
+            "id": 31726382,
             "from_actor": 164,
             "to_actor": 19392,
             "start": "2020-10-08",
@@ -3651,6 +3475,380 @@
             "from_actor_name": "Hans Andersen",
             "to_actor_name": "Transportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31726383,
+            "from_actor": 164,
+            "to_actor": 16917,
+            "start": "2017-06-06",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726384,
+            "from_actor": 164,
+            "to_actor": 19414,
+            "start": "2021-03-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726385,
+            "from_actor": 164,
+            "to_actor": 19414,
+            "start": "2021-02-26",
+            "end": "2021-03-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726386,
+            "from_actor": 164,
+            "to_actor": 19414,
+            "start": "2020-10-21",
+            "end": "2021-02-24",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726387,
+            "from_actor": 164,
+            "to_actor": 19414,
+            "start": "2020-10-07",
+            "end": "2020-10-19",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726388,
+            "from_actor": 164,
+            "to_actor": 13708,
+            "start": "2015-05-07",
+            "end": "2015-05-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726389,
+            "from_actor": 164,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726390,
+            "from_actor": 164,
+            "to_actor": 18329,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726391,
+            "from_actor": 164,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726392,
+            "from_actor": 164,
+            "to_actor": 16036,
+            "start": "2016-04-22",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transport- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726393,
+            "from_actor": 164,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726394,
+            "from_actor": 164,
+            "to_actor": 16870,
+            "start": "2017-06-06",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726395,
+            "from_actor": 164,
+            "to_actor": 427,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726396,
+            "from_actor": 164,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726397,
+            "from_actor": 164,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726398,
+            "from_actor": 164,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31726399,
+            "from_actor": 164,
+            "to_actor": 811,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726400,
+            "from_actor": 164,
+            "to_actor": 18757,
+            "start": "2019-07-04",
+            "end": "2019-08-15",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726401,
+            "from_actor": 164,
+            "to_actor": 397,
+            "start": "2011-10-07",
+            "end": "2011-11-28",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726402,
+            "from_actor": 164,
+            "to_actor": 397,
+            "start": "2011-11-30",
+            "end": "2012-10-02",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726403,
+            "from_actor": 164,
+            "to_actor": 5143,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726404,
+            "from_actor": 164,
+            "to_actor": 327,
+            "start": "2012-10-03",
+            "end": "2013-09-25",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726405,
+            "from_actor": 164,
+            "to_actor": 36,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726406,
+            "from_actor": 164,
+            "to_actor": 327,
+            "start": "2013-09-27",
+            "end": "2013-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726407,
+            "from_actor": 164,
+            "to_actor": 759,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726408,
+            "from_actor": 164,
+            "to_actor": 1155,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726409,
+            "from_actor": 164,
+            "to_actor": 816,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726410,
+            "from_actor": 164,
+            "to_actor": 1152,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726411,
+            "from_actor": 164,
+            "to_actor": 817,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726412,
+            "from_actor": 164,
+            "to_actor": 625,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726413,
+            "from_actor": 164,
+            "to_actor": 818,
+            "start": "2006-10-04",
+            "end": "2006-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31726414,
+            "from_actor": 164,
+            "to_actor": 16884,
+            "start": "2017-03-20",
+            "end": "2017-06-04",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31726415,
+            "from_actor": 164,
+            "to_actor": 16886,
+            "start": "2017-03-20",
+            "end": "2017-06-04",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743516,
+            "from_actor": 164,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

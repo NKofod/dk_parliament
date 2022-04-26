@@ -1409,17 +1409,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 21116880,
-            "from_actor": 88,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 21116881,
             "from_actor": 88,
             "to_actor": 342,
@@ -1651,62 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27238633,
-            "from_actor": 88,
-            "to_actor": 19437,
-            "start": "2021-05-27",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27238634,
-            "from_actor": 88,
-            "to_actor": 19437,
-            "start": "2021-02-12",
-            "end": "2021-05-25",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27238635,
-            "from_actor": 88,
-            "to_actor": 19437,
-            "start": "2020-10-07",
-            "end": "2021-02-10",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27264619,
-            "from_actor": 88,
-            "to_actor": 19620,
-            "start": "2021-06-12",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27264621,
-            "from_actor": 88,
-            "to_actor": 19620,
-            "start": "2021-03-02",
-            "end": "2021-06-10",
-            "role": "medlem",
-            "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27396038,
+            "id": 28155263,
             "from_actor": 88,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -1717,7 +1651,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27447736,
+            "id": 28182539,
             "from_actor": 88,
             "to_actor": 19412,
             "start": "2020-10-08",
@@ -1728,18 +1662,62 @@
             "type": "Udvalg"
         },
         {
-            "id": 27448057,
+            "id": 28183261,
             "from_actor": 88,
-            "to_actor": 19387,
-            "start": "2020-11-03",
-            "end": "2020-11-03",
+            "to_actor": 19437,
+            "start": "2021-05-27",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Martin Geertsen",
-            "to_actor_name": "Erhvervsudvalget",
+            "to_actor_name": "Sundhedsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27500358,
+            "id": 28183262,
+            "from_actor": 88,
+            "to_actor": 19437,
+            "start": "2021-02-12",
+            "end": "2021-05-25",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28183263,
+            "from_actor": 88,
+            "to_actor": 19437,
+            "start": "2020-10-07",
+            "end": "2021-02-10",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28211404,
+            "from_actor": 88,
+            "to_actor": 19620,
+            "start": "2021-06-12",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28211406,
+            "from_actor": 88,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-06-10",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28639734,
             "from_actor": 88,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1750,7 +1728,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27619131,
+            "id": 28827139,
+            "from_actor": 88,
+            "to_actor": 19387,
+            "start": "2020-11-03",
+            "end": "2020-11-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30388119,
+            "from_actor": 88,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31259567,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-09-29",
@@ -1761,7 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619133,
+            "id": 31259569,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-05-26",
@@ -1772,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619135,
+            "id": 31259571,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-04-28",
@@ -1783,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619136,
+            "id": 31259572,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-03-24",
@@ -1794,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619139,
+            "id": 31259575,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-02-26",
@@ -1805,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619141,
+            "id": 31259577,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-02-24",
@@ -1816,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619143,
+            "id": 31259579,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2021-02-03",
@@ -1827,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619145,
+            "id": 31259581,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2020-10-28",
@@ -1838,11 +1838,99 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619146,
+            "id": 31259582,
             "from_actor": 88,
             "to_actor": 19392,
             "start": "2020-10-07",
             "end": "2020-10-26",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31341048,
+            "from_actor": 88,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31530584,
+            "from_actor": 88,
+            "to_actor": 19916,
+            "start": "2022-03-10",
+            "end": "2022-03-10",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31530586,
+            "from_actor": 88,
+            "to_actor": 19916,
+            "start": "2022-03-29",
+            "end": "2022-03-29",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31557910,
+            "from_actor": 88,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31639165,
+            "from_actor": 88,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31666600,
+            "from_actor": 88,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693805,
+            "from_actor": 88,
+            "to_actor": 19915,
+            "start": "2022-02-04",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Geertsen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693806,
+            "from_actor": 88,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-02-02",
             "role": "medlem",
             "from_actor_name": "Martin Geertsen",
             "to_actor_name": "Transportudvalget",

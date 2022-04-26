@@ -309,17 +309,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 27596989,
-            "from_actor": 59,
-            "to_actor": 19447,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
             "id": 27596990,
             "from_actor": 59,
             "to_actor": 336,
@@ -529,17 +518,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597009,
-            "from_actor": 59,
-            "to_actor": 19371,
-            "start": "2021-02-02",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
             "id": 27597010,
             "from_actor": 59,
             "to_actor": 792,
@@ -595,17 +573,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597015,
-            "from_actor": 59,
-            "to_actor": 19439,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
             "id": 27597016,
             "from_actor": 59,
             "to_actor": 18888,
@@ -648,17 +615,6 @@
             "from_actor_name": "Rasmus Helveg Petersen",
             "to_actor_name": "Boligudvalget",
             "type": "Udvalg"
-        },
-        {
-            "id": 27597020,
-            "from_actor": 59,
-            "to_actor": 19356,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
         },
         {
             "id": 27597021,
@@ -738,17 +694,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597028,
-            "from_actor": 59,
-            "to_actor": 19397,
-            "start": "2020-11-17",
-            "end": "2021-02-02",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
             "id": 27597029,
             "from_actor": 59,
             "to_actor": 501,
@@ -757,17 +702,6 @@
             "role": "medlem",
             "from_actor_name": "Rasmus Helveg Petersen",
             "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597030,
-            "from_actor": 59,
-            "to_actor": 19414,
-            "start": "2020-10-07",
-            "end": "2020-11-16",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Social- og Ældreudvalget",
             "type": "Udvalg"
         },
         {
@@ -823,28 +757,6 @@
             "role": "medlem",
             "from_actor_name": "Rasmus Helveg Petersen",
             "to_actor_name": "Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597036,
-            "from_actor": 59,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-05-07",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597037,
-            "from_actor": 59,
-            "to_actor": 19398,
-            "start": "2020-10-21",
-            "end": "2020-12-09",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
             "type": "Udvalg"
         },
         {
@@ -1046,17 +958,6 @@
             "type": "Kommission"
         },
         {
-            "id": 27597056,
-            "from_actor": 59,
-            "to_actor": 19386,
-            "start": "2020-10-07",
-            "end": "2021-02-01",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
             "id": 27597057,
             "from_actor": 59,
             "to_actor": 16037,
@@ -1244,17 +1145,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27597080,
-            "from_actor": 59,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 27597081,
             "from_actor": 59,
             "to_actor": 18856,
@@ -1271,17 +1161,6 @@
             "to_actor": 18874,
             "start": "2020-04-17",
             "end": "2020-10-06",
-            "role": "formand",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597084,
-            "from_actor": 59,
-            "to_actor": 19408,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
             "role": "formand",
             "from_actor_name": "Rasmus Helveg Petersen",
             "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
@@ -1387,17 +1266,6 @@
             "type": "Kommission"
         },
         {
-            "id": 27597094,
-            "from_actor": 59,
-            "to_actor": 19416,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
             "id": 27597095,
             "from_actor": 59,
             "to_actor": 18928,
@@ -1420,7 +1288,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27597097,
+            "id": 28070646,
+            "from_actor": 59,
+            "to_actor": 19881,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "4. næstformand",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Folketingets Præsidium",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153375,
             "from_actor": 59,
             "to_actor": 19374,
             "start": "2021-02-02",
@@ -1431,29 +1310,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617551,
+            "id": 28153572,
             "from_actor": 59,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2015-12-31",
-            "role": "medlem",
-            "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619075,
-            "from_actor": 59,
-            "to_actor": 19392,
+            "to_actor": 19386,
             "start": "2020-10-07",
-            "end": "2021-10-05",
+            "end": "2021-02-01",
             "role": "medlem",
             "from_actor_name": "Rasmus Helveg Petersen",
-            "to_actor_name": "Transportudvalget",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27619222,
+            "id": 28153751,
+            "from_actor": 59,
+            "to_actor": 19408,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "formand",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153899,
             "from_actor": 59,
             "to_actor": 19438,
             "start": "2020-11-20",
@@ -1464,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619223,
+            "id": 28153900,
             "from_actor": 59,
             "to_actor": 19438,
             "start": "2020-11-18",
@@ -1475,7 +1354,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619225,
+            "id": 28153902,
             "from_actor": 59,
             "to_actor": 19438,
             "start": "2020-11-12",
@@ -1486,7 +1365,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619227,
+            "id": 28153904,
             "from_actor": 59,
             "to_actor": 19438,
             "start": "2020-11-05",
@@ -1497,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619228,
+            "id": 28153905,
             "from_actor": 59,
             "to_actor": 19438,
             "start": "2020-10-07",
@@ -1506,6 +1385,270 @@
             "from_actor_name": "Rasmus Helveg Petersen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 28154686,
+            "from_actor": 59,
+            "to_actor": 19397,
+            "start": "2020-11-17",
+            "end": "2021-02-02",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154900,
+            "from_actor": 59,
+            "to_actor": 19439,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154936,
+            "from_actor": 59,
+            "to_actor": 19447,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182579,
+            "from_actor": 59,
+            "to_actor": 19414,
+            "start": "2020-10-07",
+            "end": "2020-11-16",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182722,
+            "from_actor": 59,
+            "to_actor": 19398,
+            "start": "2020-10-21",
+            "end": "2020-12-09",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28183837,
+            "from_actor": 59,
+            "to_actor": 19371,
+            "start": "2021-02-02",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28318734,
+            "from_actor": 59,
+            "to_actor": 19893,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 28639600,
+            "from_actor": 59,
+            "to_actor": 19356,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28639769,
+            "from_actor": 59,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28693571,
+            "from_actor": 59,
+            "to_actor": 19416,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30497665,
+            "from_actor": 59,
+            "to_actor": 19927,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30822393,
+            "from_actor": 59,
+            "to_actor": 19859,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31259508,
+            "from_actor": 59,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31503348,
+            "from_actor": 59,
+            "to_actor": 19908,
+            "start": "2022-02-24",
+            "end": "2022-02-25",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31557675,
+            "from_actor": 59,
+            "to_actor": 19845,
+            "start": "2022-02-24",
+            "end": "2022-02-24",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31611982,
+            "from_actor": 59,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31612015,
+            "from_actor": 59,
+            "to_actor": 19967,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31638997,
+            "from_actor": 59,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-05-07",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31666238,
+            "from_actor": 59,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2021-11-23",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666239,
+            "from_actor": 59,
+            "to_actor": 19878,
+            "start": "2021-11-25",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666419,
+            "from_actor": 59,
+            "to_actor": 19911,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666632,
+            "from_actor": 59,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693783,
+            "from_actor": 59,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31743670,
+            "from_actor": 59,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2015-12-31",
+            "role": "medlem",
+            "from_actor_name": "Rasmus Helveg Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

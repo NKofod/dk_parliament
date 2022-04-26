@@ -1574,17 +1574,6 @@
             "type": "Kommission"
         },
         {
-            "id": 22773418,
-            "from_actor": 121,
-            "to_actor": 19378,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Sydslesvigudvalget",
-            "type": "Kommission"
-        },
-        {
             "id": 22773419,
             "from_actor": 121,
             "to_actor": 13672,
@@ -3026,17 +3015,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 23762674,
-            "from_actor": 121,
-            "to_actor": 19357,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Socialistisk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
             "id": 23916363,
             "from_actor": 121,
             "to_actor": 429,
@@ -3059,95 +3037,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 24328682,
-            "from_actor": 121,
-            "to_actor": 19419,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
-            "type": "Tværpolitisk netværk"
-        },
-        {
-            "id": 25255526,
-            "from_actor": 121,
-            "to_actor": 19372,
-            "start": "2020-12-15",
-            "end": "2021-01-31",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 26161646,
-            "from_actor": 121,
-            "to_actor": 19447,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Udvalget for Småøer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 26315861,
-            "from_actor": 121,
-            "to_actor": 18759,
-            "start": "2019-07-04",
-            "end": "2023-07-03",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
-            "type": "Kommission"
-        },
-        {
-            "id": 26674333,
-            "from_actor": 121,
-            "to_actor": 19371,
-            "start": "2021-01-29",
-            "end": "2021-01-29",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 26674334,
-            "from_actor": 121,
-            "to_actor": 19371,
-            "start": "2021-01-27",
-            "end": "2021-01-27",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27109704,
-            "from_actor": 121,
-            "to_actor": 19439,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "formand",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27264587,
-            "from_actor": 121,
-            "to_actor": 19620,
-            "start": "2021-03-02",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27369286,
+            "id": 28152990,
             "from_actor": 121,
             "to_actor": 19404,
             "start": "2021-03-17",
@@ -3158,7 +3048,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27369289,
+            "id": 28152993,
             "from_actor": 121,
             "to_actor": 19404,
             "start": "2021-03-10",
@@ -3169,7 +3059,62 @@
             "type": "Udvalg"
         },
         {
-            "id": 27396284,
+            "id": 28153911,
+            "from_actor": 121,
+            "to_actor": 19438,
+            "start": "2021-04-14",
+            "end": "2021-04-14",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154928,
+            "from_actor": 121,
+            "to_actor": 19439,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "formand",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154937,
+            "from_actor": 121,
+            "to_actor": 19447,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154957,
+            "from_actor": 121,
+            "to_actor": 19372,
+            "start": "2020-12-15",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28155036,
+            "from_actor": 121,
+            "to_actor": 19378,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Sydslesvigudvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 28155044,
             "from_actor": 121,
             "to_actor": 19379,
             "start": "2020-10-07",
@@ -3180,18 +3125,40 @@
             "type": "Kommission"
         },
         {
-            "id": 27500410,
+            "id": 28155525,
             "from_actor": 121,
-            "to_actor": 19352,
+            "to_actor": 19357,
             "start": "2020-10-06",
             "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
         },
         {
-            "id": 27549922,
+            "id": 28183851,
+            "from_actor": 121,
+            "to_actor": 19371,
+            "start": "2021-01-29",
+            "end": "2021-01-29",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28183852,
+            "from_actor": 121,
+            "to_actor": 19371,
+            "start": "2021-01-27",
+            "end": "2021-01-27",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184080,
             "from_actor": 121,
             "to_actor": 19411,
             "start": "2020-10-07",
@@ -3202,14 +3169,234 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619234,
+            "id": 28184480,
             "from_actor": 121,
-            "to_actor": 19438,
-            "start": "2021-04-14",
-            "end": "2021-04-14",
+            "to_actor": 19419,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Karina Lorentzen Dehnhardt",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 28211371,
+            "from_actor": 121,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28639786,
+            "from_actor": 121,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30171961,
+            "from_actor": 121,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 30795346,
+            "from_actor": 121,
+            "to_actor": 19831,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Sydslesvigudvalget",
+            "type": "Kommission"
+        },
+        {
+            "id": 30822376,
+            "from_actor": 121,
+            "to_actor": 19858,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30823437,
+            "from_actor": 121,
+            "to_actor": 18759,
+            "start": "2019-07-04",
+            "end": "2023-07-03",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        },
+        {
+            "id": 30989334,
+            "from_actor": 121,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31286612,
+            "from_actor": 121,
+            "to_actor": 19833,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Kontaktudvalget for Det Tyske Mindretal",
+            "type": "Kommission"
+        },
+        {
+            "id": 31340825,
+            "from_actor": 121,
+            "to_actor": 19880,
+            "start": "2021-11-23",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31476302,
+            "from_actor": 121,
+            "to_actor": 19907,
+            "start": "2022-03-22",
+            "end": "2022-03-22",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31476306,
+            "from_actor": 121,
+            "to_actor": 19907,
+            "start": "2021-11-15",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31476307,
+            "from_actor": 121,
+            "to_actor": 19907,
+            "start": "2021-12-07",
+            "end": "2021-12-07",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31557887,
+            "from_actor": 121,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31612009,
+            "from_actor": 121,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31612016,
+            "from_actor": 121,
+            "to_actor": 19967,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666241,
+            "from_actor": 121,
+            "to_actor": 19878,
+            "start": "2021-11-02",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666250,
+            "from_actor": 121,
+            "to_actor": 19878,
+            "start": "2021-10-12",
+            "end": "2021-10-31",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31666645,
+            "from_actor": 121,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693954,
+            "from_actor": 121,
+            "to_actor": 19337,
+            "start": "2021-09-16",
+            "end": "2021-09-16",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693956,
+            "from_actor": 121,
+            "to_actor": 19337,
+            "start": "2021-09-23",
+            "end": "2021-09-23",
+            "role": "medlem",
+            "from_actor_name": "Karina Lorentzen Dehnhardt",
+            "to_actor_name": "Europaudvalget",
             "type": "Udvalg"
         }
     ]

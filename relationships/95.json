@@ -3334,39 +3334,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 198876,
-            "from_actor": 95,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Steen Gade",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 199182,
-            "from_actor": 95,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Steen Gade",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 199271,
-            "from_actor": 95,
-            "to_actor": 425,
-            "start": "2005-12-17",
-            "end": "2005-12-07",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Steen Gade",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 311776,
             "from_actor": 95,
             "to_actor": 31,
@@ -3992,6 +3959,39 @@
             "from_actor_name": "Steen Gade",
             "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 29499522,
+            "from_actor": 95,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Steen Gade",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499745,
+            "from_actor": 95,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Steen Gade",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499832,
+            "from_actor": 95,
+            "to_actor": 425,
+            "start": "2005-12-17",
+            "end": "2005-12-07",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Steen Gade",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

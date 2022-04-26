@@ -1970,17 +1970,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22739821,
-            "from_actor": 71,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Tom Behnke",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22739822,
             "from_actor": 71,
             "to_actor": 780,
@@ -1990,17 +1979,6 @@
             "from_actor_name": "Tom Behnke",
             "to_actor_name": "Det Konservative Folkeparti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22739823,
-            "from_actor": 71,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Tom Behnke",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22739824,
@@ -3933,6 +3911,28 @@
             "to_actor": 232,
             "start": "2008-10-07",
             "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Tom Behnke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499520,
+            "from_actor": 71,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Tom Behnke",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499743,
+            "from_actor": 71,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Tom Behnke",
             "to_actor_name": "Folketinget",

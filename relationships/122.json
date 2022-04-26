@@ -2069,28 +2069,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 22882959,
-            "from_actor": 122,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2018-12-21",
-            "role": "medlem",
-            "from_actor_name": "Stine Brix",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 22882960,
-            "from_actor": 122,
-            "to_actor": 18303,
-            "start": "2019-05-08",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Stine Brix",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22882962,
             "from_actor": 122,
             "to_actor": 17605,
@@ -2146,17 +2124,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22882968,
-            "from_actor": 122,
-            "to_actor": 18303,
-            "start": "2018-12-22",
-            "end": "2019-05-07",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Stine Brix",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22882969,
             "from_actor": 122,
             "to_actor": 16876,
@@ -2201,7 +2168,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617423,
+            "id": 31639154,
+            "from_actor": 122,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2018-12-21",
+            "role": "medlem",
+            "from_actor_name": "Stine Brix",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31639182,
+            "from_actor": 122,
+            "to_actor": 18303,
+            "start": "2019-05-08",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Stine Brix",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31639187,
+            "from_actor": 122,
+            "to_actor": 18303,
+            "start": "2018-12-22",
+            "end": "2019-05-07",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Stine Brix",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743542,
             "from_actor": 122,
             "to_actor": 16060,
             "start": "2015-10-06",
@@ -2212,7 +2212,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617575,
+            "id": 31743694,
             "from_actor": 122,
             "to_actor": 16060,
             "start": "2016-03-29",

@@ -221,7 +221,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609437,
+            "id": 31737467,
             "from_actor": 141,
             "to_actor": 1100,
             "start": "2004-10-05",
@@ -232,7 +232,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609438,
+            "id": 31737468,
             "from_actor": 141,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -243,7 +243,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27609439,
+            "id": 31737469,
             "from_actor": 141,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -254,7 +254,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27609440,
+            "id": 31737470,
             "from_actor": 141,
             "to_actor": 989,
             "start": "2005-02-08",
@@ -265,18 +265,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609441,
-            "from_actor": 141,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609442,
+            "id": 31737471,
             "from_actor": 141,
             "to_actor": 990,
             "start": "2005-10-04",
@@ -287,18 +276,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609443,
-            "from_actor": 141,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609444,
+            "id": 31737472,
             "from_actor": 141,
             "to_actor": 991,
             "start": "2006-10-03",
@@ -309,7 +287,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609445,
+            "id": 31737473,
             "from_actor": 141,
             "to_actor": 992,
             "start": "2007-10-02",
@@ -320,7 +298,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609446,
+            "id": 31737474,
             "from_actor": 141,
             "to_actor": 16880,
             "start": "2017-07-02",
@@ -331,7 +309,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609447,
+            "id": 31737475,
             "from_actor": 141,
             "to_actor": 18327,
             "start": "2019-01-12",
@@ -342,7 +320,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609448,
+            "id": 31737476,
             "from_actor": 141,
             "to_actor": 16886,
             "start": "2017-07-02",
@@ -353,7 +331,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27609449,
+            "id": 31737477,
             "from_actor": 141,
             "to_actor": 18678,
             "start": "2019-06-05",
@@ -364,7 +342,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609450,
+            "id": 31737478,
             "from_actor": 141,
             "to_actor": 18303,
             "start": "2019-01-12",
@@ -375,7 +353,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27609451,
+            "id": 31737479,
             "from_actor": 141,
             "to_actor": 17612,
             "start": "2017-10-03",
@@ -386,7 +364,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609452,
+            "id": 31737480,
             "from_actor": 141,
             "to_actor": 18888,
             "start": "2019-10-01",
@@ -397,7 +375,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609453,
+            "id": 31737481,
             "from_actor": 141,
             "to_actor": 15753,
             "start": "2015-06-18",
@@ -408,7 +386,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609454,
+            "id": 31737482,
             "from_actor": 141,
             "to_actor": 16053,
             "start": "2015-10-06",
@@ -419,7 +397,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609455,
+            "id": 31737483,
             "from_actor": 141,
             "to_actor": 18327,
             "start": "2018-10-02",
@@ -430,7 +408,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609456,
+            "id": 31737484,
             "from_actor": 141,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -441,7 +419,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27609457,
+            "id": 31737485,
             "from_actor": 141,
             "to_actor": 18929,
             "start": "2019-10-25",
@@ -452,7 +430,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609458,
+            "id": 31737486,
             "from_actor": 141,
             "to_actor": 16911,
             "start": "2016-10-05",
@@ -463,7 +441,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609459,
+            "id": 31737487,
             "from_actor": 141,
             "to_actor": 18305,
             "start": "2019-01-13",
@@ -474,7 +452,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609460,
+            "id": 31737488,
             "from_actor": 141,
             "to_actor": 16868,
             "start": "2016-10-05",
@@ -485,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609461,
+            "id": 31737489,
             "from_actor": 141,
             "to_actor": 14921,
             "start": "2001-11-20",
@@ -496,7 +474,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609462,
+            "id": 31737490,
             "from_actor": 141,
             "to_actor": 14934,
             "start": "2002-10-01",
@@ -507,7 +485,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609463,
+            "id": 31737491,
             "from_actor": 141,
             "to_actor": 14946,
             "start": "2003-10-07",
@@ -518,7 +496,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609464,
+            "id": 31737492,
             "from_actor": 141,
             "to_actor": 19356,
             "start": "2020-10-06",
@@ -529,7 +507,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609465,
+            "id": 31737493,
+            "from_actor": 141,
+            "to_actor": 19859,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31737494,
             "from_actor": 141,
             "to_actor": 18778,
             "start": "2019-09-24",
@@ -540,7 +529,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609466,
+            "id": 31737495,
             "from_actor": 141,
             "to_actor": 16916,
             "start": "2016-10-05",
@@ -551,7 +540,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609467,
+            "id": 31737496,
             "from_actor": 141,
             "to_actor": 17637,
             "start": "2018-09-07",
@@ -562,7 +551,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609468,
+            "id": 31737497,
+            "from_actor": 141,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31737498,
             "from_actor": 141,
             "to_actor": 433,
             "start": "2005-02-23",
@@ -573,7 +573,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27609469,
+            "id": 31737499,
             "from_actor": 141,
             "to_actor": 16013,
             "start": "2015-10-07",
@@ -584,7 +584,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609470,
+            "id": 31737500,
             "from_actor": 141,
             "to_actor": 17623,
             "start": "2018-10-01",
@@ -595,7 +595,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609471,
+            "id": 31737501,
             "from_actor": 141,
             "to_actor": 16880,
             "start": "2016-10-04",
@@ -606,7 +606,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27609472,
+            "id": 31737502,
             "from_actor": 141,
             "to_actor": 19419,
             "start": "2020-10-01",
@@ -617,7 +617,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27609473,
+            "id": 31737503,
             "from_actor": 141,
             "to_actor": 15883,
             "start": "2015-07-03",
@@ -628,7 +628,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609474,
+            "id": 31737504,
             "from_actor": 141,
             "to_actor": 16866,
             "start": "2016-10-05",
@@ -639,7 +639,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609475,
+            "id": 31737505,
             "from_actor": 141,
             "to_actor": 18293,
             "start": "2019-04-10",
@@ -650,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609476,
+            "id": 31737506,
             "from_actor": 141,
             "to_actor": 19430,
             "start": "2020-10-07",
@@ -661,7 +661,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609477,
+            "id": 31737507,
+            "from_actor": 141,
+            "to_actor": 19894,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737508,
             "from_actor": 141,
             "to_actor": 16071,
             "start": "2015-10-07",
@@ -672,7 +683,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609478,
+            "id": 31737509,
             "from_actor": 141,
             "to_actor": 16889,
             "start": "2016-10-05",
@@ -683,7 +694,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609479,
+            "id": 31737510,
             "from_actor": 141,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -694,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609480,
+            "id": 31737511,
             "from_actor": 141,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -705,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609481,
+            "id": 31737512,
             "from_actor": 141,
             "to_actor": 15891,
             "start": "2015-07-03",
@@ -716,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609482,
+            "id": 31737513,
             "from_actor": 141,
             "to_actor": 16912,
             "start": "2016-10-05",
@@ -727,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609483,
+            "id": 31737514,
             "from_actor": 141,
             "to_actor": 16034,
             "start": "2015-10-07",
@@ -738,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609484,
+            "id": 31737515,
             "from_actor": 141,
             "to_actor": 16913,
             "start": "2016-10-05",
@@ -749,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609485,
+            "id": 31737516,
             "from_actor": 141,
             "to_actor": 15908,
             "start": "2015-07-09",
@@ -760,7 +771,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609486,
+            "id": 31737517,
             "from_actor": 141,
             "to_actor": 16037,
             "start": "2015-10-07",
@@ -771,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609487,
+            "id": 31737518,
             "from_actor": 141,
             "to_actor": 1150,
             "start": "2005-02-23",
@@ -782,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609488,
+            "id": 31737519,
             "from_actor": 141,
             "to_actor": 1151,
             "start": "2005-10-05",
@@ -793,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609489,
+            "id": 31737520,
             "from_actor": 141,
             "to_actor": 628,
             "start": "2006-10-04",
@@ -804,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609490,
+            "id": 31737521,
             "from_actor": 141,
             "to_actor": 629,
             "start": "2007-10-03",
@@ -815,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609491,
+            "id": 31737522,
             "from_actor": 141,
             "to_actor": 15913,
             "start": "2015-07-09",
@@ -826,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609492,
+            "id": 31737523,
             "from_actor": 141,
             "to_actor": 16093,
             "start": "2015-10-07",
@@ -837,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609493,
+            "id": 31737524,
             "from_actor": 141,
             "to_actor": 15898,
             "start": "2015-07-09",
@@ -848,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609494,
+            "id": 31737525,
             "from_actor": 141,
             "to_actor": 18340,
             "start": "2019-01-13",
@@ -859,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609495,
+            "id": 31737526,
             "from_actor": 141,
             "to_actor": 18293,
             "start": "2019-04-03",
@@ -870,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609496,
+            "id": 31737527,
             "from_actor": 141,
             "to_actor": 610,
             "start": "2006-03-02",
@@ -881,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609497,
+            "id": 31737528,
             "from_actor": 141,
             "to_actor": 829,
             "start": "2005-10-05",
@@ -892,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609498,
+            "id": 31737529,
             "from_actor": 141,
             "to_actor": 740,
             "start": "2007-02-22",
@@ -903,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609499,
+            "id": 31737530,
             "from_actor": 141,
             "to_actor": 17625,
             "start": "2017-10-04",
@@ -914,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609500,
+            "id": 31737531,
             "from_actor": 141,
             "to_actor": 15912,
             "start": "2015-07-09",
@@ -925,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609501,
+            "id": 31737532,
             "from_actor": 141,
             "to_actor": 16094,
             "start": "2015-10-07",
@@ -936,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609502,
+            "id": 31737533,
             "from_actor": 141,
             "to_actor": 828,
             "start": "2005-08-23",
@@ -947,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609503,
+            "id": 31737534,
             "from_actor": 141,
             "to_actor": 18865,
             "start": "2019-10-02",
@@ -958,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609504,
+            "id": 31737535,
             "from_actor": 141,
             "to_actor": 832,
             "start": "2005-06-24",
@@ -969,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609505,
+            "id": 31737536,
             "from_actor": 141,
             "to_actor": 592,
             "start": "2005-02-23",
@@ -980,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609506,
+            "id": 31737537,
             "from_actor": 141,
             "to_actor": 1079,
             "start": "2005-10-05",
@@ -991,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609507,
+            "id": 31737538,
             "from_actor": 141,
             "to_actor": 519,
             "start": "2006-09-26",
@@ -1002,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609508,
+            "id": 31737539,
             "from_actor": 141,
             "to_actor": 1152,
             "start": "2005-10-29",
@@ -1013,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609509,
+            "id": 31737540,
             "from_actor": 141,
             "to_actor": 625,
             "start": "2006-10-04",
@@ -1024,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609510,
+            "id": 31737541,
             "from_actor": 141,
             "to_actor": 753,
             "start": "2006-10-04",
@@ -1035,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609511,
+            "id": 31737542,
             "from_actor": 141,
             "to_actor": 1153,
             "start": "2007-10-03",
@@ -1046,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609512,
+            "id": 31737543,
             "from_actor": 141,
             "to_actor": 1080,
             "start": "2007-10-03",
@@ -1057,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609513,
+            "id": 31737544,
             "from_actor": 141,
             "to_actor": 943,
             "start": "2005-10-12",
@@ -1068,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609514,
+            "id": 31737545,
             "from_actor": 141,
             "to_actor": 19390,
             "start": "2020-10-07",
@@ -1079,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609515,
+            "id": 31737546,
             "from_actor": 141,
             "to_actor": 18336,
             "start": "2018-10-03",
@@ -1090,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609516,
+            "id": 31737547,
             "from_actor": 141,
             "to_actor": 18864,
             "start": "2019-10-02",
@@ -1101,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609517,
+            "id": 31737548,
             "from_actor": 141,
             "to_actor": 19389,
             "start": "2020-10-07",
@@ -1112,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609518,
+            "id": 31737549,
             "from_actor": 141,
             "to_actor": 18872,
             "start": "2019-10-25",
@@ -1123,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609519,
+            "id": 31737550,
             "from_actor": 141,
             "to_actor": 18932,
             "start": "2020-06-25",
@@ -1134,7 +1145,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609520,
+            "id": 31737551,
+            "from_actor": 141,
+            "to_actor": 19903,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737552,
             "from_actor": 141,
             "to_actor": 18872,
             "start": "2019-10-02",
@@ -1145,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609521,
+            "id": 31737553,
             "from_actor": 141,
             "to_actor": 17623,
             "start": "2018-05-29",
@@ -1156,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609522,
+            "id": 31737554,
             "from_actor": 141,
             "to_actor": 18932,
             "start": "2020-05-26",
@@ -1167,7 +1189,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609523,
+            "id": 31737555,
+            "from_actor": 141,
+            "to_actor": 19898,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737556,
             "from_actor": 141,
             "to_actor": 17623,
             "start": "2018-05-23",
@@ -1178,7 +1211,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609524,
+            "id": 31737557,
+            "from_actor": 141,
+            "to_actor": 19908,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737558,
             "from_actor": 141,
             "to_actor": 615,
             "start": "2005-03-04",
@@ -1189,7 +1233,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609525,
+            "id": 31737559,
+            "from_actor": 141,
+            "to_actor": 19905,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737560,
             "from_actor": 141,
             "to_actor": 17623,
             "start": "2018-05-16",
@@ -1200,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609526,
+            "id": 31737561,
             "from_actor": 141,
             "to_actor": 494,
             "start": "2005-10-05",
@@ -1211,18 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609527,
-            "from_actor": 141,
-            "to_actor": 19388,
-            "start": "2020-12-10",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609528,
+            "id": 31737562,
             "from_actor": 141,
             "to_actor": 19397,
             "start": "2020-10-07",
@@ -1233,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609529,
+            "id": 31737563,
             "from_actor": 141,
             "to_actor": 15879,
             "start": "2015-07-02",
@@ -1244,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609530,
+            "id": 31737564,
             "from_actor": 141,
             "to_actor": 18763,
             "start": "2019-07-04",
@@ -1255,18 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609531,
-            "from_actor": 141,
-            "to_actor": 19388,
-            "start": "2020-10-07",
-            "end": "2020-12-08",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609532,
+            "id": 31737565,
             "from_actor": 141,
             "to_actor": 745,
             "start": "2006-04-27",
@@ -1277,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609533,
+            "id": 31737566,
             "from_actor": 141,
             "to_actor": 471,
             "start": "2004-10-06",
@@ -1288,7 +1321,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27609534,
+            "id": 31737567,
             "from_actor": 141,
             "to_actor": 1154,
             "start": "2004-10-06",
@@ -1299,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609535,
+            "id": 31737568,
             "from_actor": 141,
             "to_actor": 18293,
             "start": "2018-11-21",
@@ -1310,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609536,
+            "id": 31737569,
             "from_actor": 141,
             "to_actor": 18787,
             "start": "2019-07-04",
@@ -1321,7 +1354,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609537,
+            "id": 31737570,
+            "from_actor": 141,
+            "to_actor": 19388,
+            "start": "2020-12-10",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737571,
             "from_actor": 141,
             "to_actor": 18782,
             "start": "2019-07-04",
@@ -1332,7 +1376,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609539,
+            "id": 31737572,
+            "from_actor": 141,
+            "to_actor": 19388,
+            "start": "2020-10-07",
+            "end": "2020-12-08",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737573,
+            "from_actor": 141,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31737574,
             "from_actor": 141,
             "to_actor": 18929,
             "start": "2019-10-02",
@@ -1343,1283 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27609540,
-            "from_actor": 141,
-            "to_actor": 17623,
-            "start": "2018-01-17",
-            "end": "2018-01-17",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609541,
-            "from_actor": 141,
-            "to_actor": 19121,
-            "start": "2020-03-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "2030-netværket ",
-            "type": "Tværpolitisk netværk"
-        },
-        {
-            "id": 27609542,
-            "from_actor": 141,
-            "to_actor": 19418,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "2030-netværket",
-            "type": "Tværpolitisk netværk"
-        },
-        {
-            "id": 27609543,
-            "from_actor": 141,
-            "to_actor": 810,
-            "start": "2006-10-04",
-            "end": "2007-06-25",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Socialudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609544,
-            "from_actor": 141,
-            "to_actor": 493,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609545,
-            "from_actor": 141,
-            "to_actor": 18764,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609546,
-            "from_actor": 141,
-            "to_actor": 898,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609547,
-            "from_actor": 141,
-            "to_actor": 18307,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Grønlandsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609548,
-            "from_actor": 141,
-            "to_actor": 18738,
-            "start": "2019-06-21",
-            "end": "2019-07-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609549,
-            "from_actor": 141,
-            "to_actor": 18760,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609550,
-            "from_actor": 141,
-            "to_actor": 18293,
-            "start": "2018-10-12",
-            "end": "2018-10-12",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609551,
-            "from_actor": 141,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2018-11-25",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609554,
-            "from_actor": 141,
-            "to_actor": 597,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609555,
-            "from_actor": 141,
-            "to_actor": 18306,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609556,
-            "from_actor": 141,
-            "to_actor": 17621,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Grønlandsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609557,
-            "from_actor": 141,
-            "to_actor": 833,
-            "start": "2006-03-10",
-            "end": "2006-03-10",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609558,
-            "from_actor": 141,
-            "to_actor": 17671,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609560,
-            "from_actor": 141,
-            "to_actor": 17643,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609561,
-            "from_actor": 141,
-            "to_actor": 16891,
-            "start": "2017-02-28",
-            "end": "2017-02-28",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609562,
-            "from_actor": 141,
-            "to_actor": 18879,
-            "start": "2019-10-02",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609563,
-            "from_actor": 141,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609565,
-            "from_actor": 141,
-            "to_actor": 16912,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609566,
-            "from_actor": 141,
-            "to_actor": 16866,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609567,
-            "from_actor": 141,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609568,
-            "from_actor": 141,
-            "to_actor": 18317,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609569,
-            "from_actor": 141,
-            "to_actor": 18340,
-            "start": "2018-10-03",
-            "end": "2018-11-25",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609570,
-            "from_actor": 141,
-            "to_actor": 16913,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Grønlandsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609571,
-            "from_actor": 141,
-            "to_actor": 17642,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609572,
-            "from_actor": 141,
-            "to_actor": 16891,
-            "start": "2017-03-14",
-            "end": "2017-03-14",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609573,
-            "from_actor": 141,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609574,
-            "from_actor": 141,
-            "to_actor": 16861,
-            "start": "2017-03-19",
-            "end": "2017-04-21",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609575,
-            "from_actor": 141,
-            "to_actor": 16868,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609576,
-            "from_actor": 141,
-            "to_actor": 18305,
-            "start": "2018-10-03",
-            "end": "2018-11-25",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609577,
-            "from_actor": 141,
-            "to_actor": 16061,
-            "start": "2016-02-12",
-            "end": "2016-02-12",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609578,
-            "from_actor": 141,
-            "to_actor": 17655,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609579,
-            "from_actor": 141,
-            "to_actor": 16911,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609580,
-            "from_actor": 141,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-04-17",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609581,
-            "from_actor": 141,
-            "to_actor": 17637,
-            "start": "2018-05-18",
-            "end": "2018-05-18",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609582,
-            "from_actor": 141,
-            "to_actor": 14259,
-            "start": "2003-10-07",
-            "end": "2004-10-05",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609583,
-            "from_actor": 141,
-            "to_actor": 14931,
-            "start": "2002-10-01",
-            "end": "2003-10-07",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609584,
-            "from_actor": 141,
-            "to_actor": 14917,
-            "start": "2001-11-20",
-            "end": "2002-10-08",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609585,
-            "from_actor": 141,
-            "to_actor": 427,
-            "start": "2007-10-02",
-            "end": "2007-11-13",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609586,
-            "from_actor": 141,
-            "to_actor": 15746,
-            "start": "2015-06-18",
-            "end": "2015-10-06",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609588,
-            "from_actor": 141,
-            "to_actor": 18853,
-            "start": "2019-10-02",
-            "end": "2020-10-06",
-            "role": "formand",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609589,
-            "from_actor": 141,
-            "to_actor": 19349,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "formand",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609590,
-            "from_actor": 141,
-            "to_actor": 18737,
-            "start": "2019-07-02",
-            "end": "2019-10-01",
-            "role": "formand",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609591,
-            "from_actor": 141,
-            "to_actor": 29,
-            "start": "2014-02-03",
-            "end": "2015-06-28",
-            "role": "Minister",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "udenrigsministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27609592,
-            "from_actor": 141,
-            "to_actor": 140,
-            "start": "2011-10-03",
-            "end": "2014-02-03",
-            "role": "Minister",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "klima-, energi- og bygningsministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27609593,
-            "from_actor": 141,
-            "to_actor": 17753,
-            "start": "2021-06-24",
-            "end": "2022-02-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609594,
-            "from_actor": 141,
-            "to_actor": 15916,
-            "start": "2015-07-09",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "OSCEs Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609595,
-            "from_actor": 141,
-            "to_actor": 16064,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "OSCEs Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609596,
-            "from_actor": 141,
-            "to_actor": 16931,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "OSCEs Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609597,
-            "from_actor": 141,
-            "to_actor": 17645,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "OSCEs Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609598,
-            "from_actor": 141,
-            "to_actor": 18358,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "OSCEs Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609599,
-            "from_actor": 141,
-            "to_actor": 15922,
-            "start": "2015-07-09",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609600,
-            "from_actor": 141,
-            "to_actor": 16069,
-            "start": "2015-07-09",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609601,
-            "from_actor": 141,
-            "to_actor": 16936,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609602,
-            "from_actor": 141,
-            "to_actor": 18364,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609603,
-            "from_actor": 141,
-            "to_actor": 17651,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609604,
-            "from_actor": 141,
-            "to_actor": 19428,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "NATO's Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609605,
-            "from_actor": 141,
-            "to_actor": 18775,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "NATO's Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609606,
-            "from_actor": 141,
-            "to_actor": 18927,
-            "start": "2019-10-02",
-            "end": "2020-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "NATO's Parlamentariske Forsamling",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609607,
-            "from_actor": 141,
-            "to_actor": 16860,
-            "start": "2016-10-05",
-            "end": "2017-04-20",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609608,
-            "from_actor": 141,
-            "to_actor": 517,
-            "start": "2005-06-10",
-            "end": "2005-07-31",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609609,
-            "from_actor": 141,
-            "to_actor": 517,
-            "start": "2005-09-22",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609610,
-            "from_actor": 141,
-            "to_actor": 517,
-            "start": "2005-02-23",
-            "end": "2005-06-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609611,
-            "from_actor": 141,
-            "to_actor": 16008,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609612,
-            "from_actor": 141,
-            "to_actor": 520,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609613,
-            "from_actor": 141,
-            "to_actor": 531,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609614,
-            "from_actor": 141,
-            "to_actor": 532,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609615,
-            "from_actor": 141,
-            "to_actor": 1155,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609616,
-            "from_actor": 141,
-            "to_actor": 1152,
-            "start": "2005-10-05",
-            "end": "2005-10-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609617,
-            "from_actor": 141,
-            "to_actor": 757,
-            "start": "2007-06-18",
-            "end": "2007-06-20",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609618,
-            "from_actor": 141,
-            "to_actor": 757,
-            "start": "2007-06-26",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609619,
-            "from_actor": 141,
-            "to_actor": 758,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609620,
-            "from_actor": 141,
-            "to_actor": 15878,
-            "start": "2015-07-03",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609621,
-            "from_actor": 141,
-            "to_actor": 611,
-            "start": "2005-10-05",
-            "end": "2007-06-25",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609622,
-            "from_actor": 141,
-            "to_actor": 984,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609623,
-            "from_actor": 141,
-            "to_actor": 804,
-            "start": "2005-05-02",
-            "end": "2005-05-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609624,
-            "from_actor": 141,
-            "to_actor": 804,
-            "start": "2005-05-27",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609625,
-            "from_actor": 141,
-            "to_actor": 805,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609626,
-            "from_actor": 141,
-            "to_actor": 523,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609627,
-            "from_actor": 141,
-            "to_actor": 470,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609628,
-            "from_actor": 141,
-            "to_actor": 18926,
-            "start": "2019-10-02",
-            "end": "2020-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609629,
-            "from_actor": 141,
-            "to_actor": 480,
-            "start": "2005-10-05",
-            "end": "2006-04-26",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609630,
-            "from_actor": 141,
-            "to_actor": 18774,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609631,
-            "from_actor": 141,
-            "to_actor": 921,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Miljø- og Planlægningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609632,
-            "from_actor": 141,
-            "to_actor": 18737,
-            "start": "2019-06-21",
-            "end": "2019-07-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609633,
-            "from_actor": 141,
-            "to_actor": 16934,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609634,
-            "from_actor": 141,
-            "to_actor": 522,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609635,
-            "from_actor": 141,
-            "to_actor": 479,
-            "start": "2005-02-08",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609636,
-            "from_actor": 141,
-            "to_actor": 17649,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609637,
-            "from_actor": 141,
-            "to_actor": 18362,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609638,
-            "from_actor": 141,
-            "to_actor": 19427,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609639,
-            "from_actor": 141,
-            "to_actor": 16067,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609640,
-            "from_actor": 141,
-            "to_actor": 478,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609641,
-            "from_actor": 141,
-            "to_actor": 590,
-            "start": "2005-02-23",
-            "end": "2005-08-21",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609642,
-            "from_actor": 141,
-            "to_actor": 483,
-            "start": "2005-10-05",
-            "end": "2006-04-26",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609643,
-            "from_actor": 141,
-            "to_actor": 485,
-            "start": "2005-10-05",
-            "end": "2006-04-26",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609644,
-            "from_actor": 141,
-            "to_actor": 482,
-            "start": "2006-10-04",
-            "end": "2007-06-25",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609645,
-            "from_actor": 141,
-            "to_actor": 481,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609646,
-            "from_actor": 141,
-            "to_actor": 15920,
-            "start": "2015-09-16",
-            "end": "2015-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609647,
-            "from_actor": 141,
-            "to_actor": 17602,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609648,
-            "from_actor": 141,
-            "to_actor": 18302,
-            "start": "2018-10-03",
-            "end": "2018-11-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609649,
-            "from_actor": 141,
-            "to_actor": 16860,
-            "start": "2017-07-19",
-            "end": "2017-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27609650,
-            "from_actor": 141,
-            "to_actor": 899,
-            "start": "2007-02-09",
-            "end": "2007-02-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27609651,
-            "from_actor": 141,
-            "to_actor": 16880,
-            "start": "2017-04-18",
-            "end": "2017-07-01",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27609652,
-            "from_actor": 141,
-            "to_actor": 18327,
-            "start": "2018-11-26",
-            "end": "2019-01-11",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27609653,
-            "from_actor": 141,
-            "to_actor": 16886,
-            "start": "2017-04-18",
-            "end": "2017-07-01",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609654,
-            "from_actor": 141,
-            "to_actor": 18303,
-            "start": "2018-11-26",
-            "end": "2019-01-11",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609655,
-            "from_actor": 141,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "minister, ej MF",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609656,
-            "from_actor": 141,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "minister, ej MF",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27609657,
-            "from_actor": 141,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "minister, ej MF",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617519,
-            "from_actor": 141,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619069,
-            "from_actor": 141,
-            "to_actor": 19392,
-            "start": "2021-01-26",
-            "end": "2021-01-26",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27619071,
-            "from_actor": 141,
-            "to_actor": 19392,
-            "start": "2021-01-12",
-            "end": "2021-01-12",
-            "role": "medlem",
-            "from_actor_name": "Martin Lidegaard",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27619216,
+            "id": 31737575,
             "from_actor": 141,
             "to_actor": 19438,
             "start": "2021-05-06",
@@ -2630,7 +1420,205 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619226,
+            "id": 31737576,
+            "from_actor": 141,
+            "to_actor": 17623,
+            "start": "2018-01-17",
+            "end": "2018-01-17",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737577,
+            "from_actor": 141,
+            "to_actor": 19121,
+            "start": "2020-03-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31737578,
+            "from_actor": 141,
+            "to_actor": 19418,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31737579,
+            "from_actor": 141,
+            "to_actor": 810,
+            "start": "2006-10-04",
+            "end": "2007-06-25",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737580,
+            "from_actor": 141,
+            "to_actor": 493,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737581,
+            "from_actor": 141,
+            "to_actor": 18764,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737582,
+            "from_actor": 141,
+            "to_actor": 898,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737583,
+            "from_actor": 141,
+            "to_actor": 19913,
+            "start": "2022-01-26",
+            "end": "2022-01-26",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737584,
+            "from_actor": 141,
+            "to_actor": 18307,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737585,
+            "from_actor": 141,
+            "to_actor": 18738,
+            "start": "2019-06-21",
+            "end": "2019-07-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737586,
+            "from_actor": 141,
+            "to_actor": 18760,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737587,
+            "from_actor": 141,
+            "to_actor": 18293,
+            "start": "2018-10-12",
+            "end": "2018-10-12",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737588,
+            "from_actor": 141,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2018-11-25",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737589,
+            "from_actor": 141,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737590,
+            "from_actor": 141,
+            "to_actor": 597,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737591,
+            "from_actor": 141,
+            "to_actor": 18306,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737592,
+            "from_actor": 141,
+            "to_actor": 17621,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737593,
+            "from_actor": 141,
+            "to_actor": 833,
+            "start": "2006-03-10",
+            "end": "2006-03-10",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737594,
             "from_actor": 141,
             "to_actor": 19438,
             "start": "2020-11-04",
@@ -2641,7 +1629,84 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619231,
+            "id": 31737595,
+            "from_actor": 141,
+            "to_actor": 17671,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737596,
+            "from_actor": 141,
+            "to_actor": 19392,
+            "start": "2021-01-26",
+            "end": "2021-01-26",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737597,
+            "from_actor": 141,
+            "to_actor": 17643,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737598,
+            "from_actor": 141,
+            "to_actor": 16891,
+            "start": "2017-02-28",
+            "end": "2017-02-28",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737599,
+            "from_actor": 141,
+            "to_actor": 18879,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737600,
+            "from_actor": 141,
+            "to_actor": 19392,
+            "start": "2021-01-12",
+            "end": "2021-01-12",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737601,
+            "from_actor": 141,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737602,
             "from_actor": 141,
             "to_actor": 19438,
             "start": "2021-04-12",
@@ -2650,6 +1715,1095 @@
             "from_actor_name": "Martin Lidegaard",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31737603,
+            "from_actor": 141,
+            "to_actor": 16912,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737604,
+            "from_actor": 141,
+            "to_actor": 16866,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737605,
+            "from_actor": 141,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737606,
+            "from_actor": 141,
+            "to_actor": 18317,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737607,
+            "from_actor": 141,
+            "to_actor": 18340,
+            "start": "2018-10-03",
+            "end": "2018-11-25",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737608,
+            "from_actor": 141,
+            "to_actor": 16913,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737609,
+            "from_actor": 141,
+            "to_actor": 17642,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737610,
+            "from_actor": 141,
+            "to_actor": 16891,
+            "start": "2017-03-14",
+            "end": "2017-03-14",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737611,
+            "from_actor": 141,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737612,
+            "from_actor": 141,
+            "to_actor": 16861,
+            "start": "2017-03-19",
+            "end": "2017-04-21",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737613,
+            "from_actor": 141,
+            "to_actor": 16868,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737614,
+            "from_actor": 141,
+            "to_actor": 18305,
+            "start": "2018-10-03",
+            "end": "2018-11-25",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737615,
+            "from_actor": 141,
+            "to_actor": 16061,
+            "start": "2016-02-12",
+            "end": "2016-02-12",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737616,
+            "from_actor": 141,
+            "to_actor": 17655,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737617,
+            "from_actor": 141,
+            "to_actor": 16911,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737618,
+            "from_actor": 141,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-04-17",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737619,
+            "from_actor": 141,
+            "to_actor": 17637,
+            "start": "2018-05-18",
+            "end": "2018-05-18",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737620,
+            "from_actor": 141,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737621,
+            "from_actor": 141,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737622,
+            "from_actor": 141,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737623,
+            "from_actor": 141,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737624,
+            "from_actor": 141,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737625,
+            "from_actor": 141,
+            "to_actor": 427,
+            "start": "2007-10-02",
+            "end": "2007-11-13",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737626,
+            "from_actor": 141,
+            "to_actor": 15746,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737628,
+            "from_actor": 141,
+            "to_actor": 18853,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "formand",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737629,
+            "from_actor": 141,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737630,
+            "from_actor": 141,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "formand",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737631,
+            "from_actor": 141,
+            "to_actor": 18737,
+            "start": "2019-07-02",
+            "end": "2019-10-01",
+            "role": "formand",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737632,
+            "from_actor": 141,
+            "to_actor": 29,
+            "start": "2014-02-03",
+            "end": "2015-06-28",
+            "role": "Minister",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "udenrigsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31737633,
+            "from_actor": 141,
+            "to_actor": 140,
+            "start": "2011-10-03",
+            "end": "2014-02-03",
+            "role": "Minister",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "klima-, energi- og bygningsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31737634,
+            "from_actor": 141,
+            "to_actor": 15916,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737635,
+            "from_actor": 141,
+            "to_actor": 16064,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737636,
+            "from_actor": 141,
+            "to_actor": 16931,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737637,
+            "from_actor": 141,
+            "to_actor": 17645,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737638,
+            "from_actor": 141,
+            "to_actor": 18358,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737639,
+            "from_actor": 141,
+            "to_actor": 15922,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737640,
+            "from_actor": 141,
+            "to_actor": 16069,
+            "start": "2015-07-09",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737641,
+            "from_actor": 141,
+            "to_actor": 16936,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737642,
+            "from_actor": 141,
+            "to_actor": 18364,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737643,
+            "from_actor": 141,
+            "to_actor": 17651,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737644,
+            "from_actor": 141,
+            "to_actor": 19892,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737645,
+            "from_actor": 141,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737646,
+            "from_actor": 141,
+            "to_actor": 19428,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737647,
+            "from_actor": 141,
+            "to_actor": 18775,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737648,
+            "from_actor": 141,
+            "to_actor": 18927,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737649,
+            "from_actor": 141,
+            "to_actor": 16860,
+            "start": "2016-10-05",
+            "end": "2017-04-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737650,
+            "from_actor": 141,
+            "to_actor": 517,
+            "start": "2005-06-10",
+            "end": "2005-07-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737651,
+            "from_actor": 141,
+            "to_actor": 517,
+            "start": "2005-09-22",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737652,
+            "from_actor": 141,
+            "to_actor": 517,
+            "start": "2005-02-23",
+            "end": "2005-06-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737653,
+            "from_actor": 141,
+            "to_actor": 16008,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737654,
+            "from_actor": 141,
+            "to_actor": 520,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737655,
+            "from_actor": 141,
+            "to_actor": 531,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737656,
+            "from_actor": 141,
+            "to_actor": 532,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737657,
+            "from_actor": 141,
+            "to_actor": 1155,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737658,
+            "from_actor": 141,
+            "to_actor": 1152,
+            "start": "2005-10-05",
+            "end": "2005-10-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737659,
+            "from_actor": 141,
+            "to_actor": 757,
+            "start": "2007-06-18",
+            "end": "2007-06-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737660,
+            "from_actor": 141,
+            "to_actor": 757,
+            "start": "2007-06-26",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737661,
+            "from_actor": 141,
+            "to_actor": 758,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737662,
+            "from_actor": 141,
+            "to_actor": 15878,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737663,
+            "from_actor": 141,
+            "to_actor": 611,
+            "start": "2005-10-05",
+            "end": "2007-06-25",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737664,
+            "from_actor": 141,
+            "to_actor": 984,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737665,
+            "from_actor": 141,
+            "to_actor": 804,
+            "start": "2005-05-02",
+            "end": "2005-05-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737666,
+            "from_actor": 141,
+            "to_actor": 804,
+            "start": "2005-05-27",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737667,
+            "from_actor": 141,
+            "to_actor": 805,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737668,
+            "from_actor": 141,
+            "to_actor": 523,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737669,
+            "from_actor": 141,
+            "to_actor": 470,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737670,
+            "from_actor": 141,
+            "to_actor": 17753,
+            "start": "2021-06-24",
+            "end": "2022-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737671,
+            "from_actor": 141,
+            "to_actor": 18926,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737672,
+            "from_actor": 141,
+            "to_actor": 480,
+            "start": "2005-10-05",
+            "end": "2006-04-26",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737673,
+            "from_actor": 141,
+            "to_actor": 18774,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737674,
+            "from_actor": 141,
+            "to_actor": 921,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737675,
+            "from_actor": 141,
+            "to_actor": 18737,
+            "start": "2019-06-21",
+            "end": "2019-07-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737676,
+            "from_actor": 141,
+            "to_actor": 16934,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737677,
+            "from_actor": 141,
+            "to_actor": 522,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737678,
+            "from_actor": 141,
+            "to_actor": 479,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737679,
+            "from_actor": 141,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737680,
+            "from_actor": 141,
+            "to_actor": 18362,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737681,
+            "from_actor": 141,
+            "to_actor": 19427,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737682,
+            "from_actor": 141,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737683,
+            "from_actor": 141,
+            "to_actor": 16067,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737684,
+            "from_actor": 141,
+            "to_actor": 478,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737685,
+            "from_actor": 141,
+            "to_actor": 590,
+            "start": "2005-02-23",
+            "end": "2005-08-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737686,
+            "from_actor": 141,
+            "to_actor": 483,
+            "start": "2005-10-05",
+            "end": "2006-04-26",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737687,
+            "from_actor": 141,
+            "to_actor": 485,
+            "start": "2005-10-05",
+            "end": "2006-04-26",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737688,
+            "from_actor": 141,
+            "to_actor": 482,
+            "start": "2006-10-04",
+            "end": "2007-06-25",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737689,
+            "from_actor": 141,
+            "to_actor": 481,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737690,
+            "from_actor": 141,
+            "to_actor": 15920,
+            "start": "2015-09-16",
+            "end": "2015-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737691,
+            "from_actor": 141,
+            "to_actor": 17602,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737692,
+            "from_actor": 141,
+            "to_actor": 18302,
+            "start": "2018-10-03",
+            "end": "2018-11-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737693,
+            "from_actor": 141,
+            "to_actor": 16860,
+            "start": "2017-07-19",
+            "end": "2017-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31737694,
+            "from_actor": 141,
+            "to_actor": 899,
+            "start": "2007-02-09",
+            "end": "2007-02-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31737695,
+            "from_actor": 141,
+            "to_actor": 16880,
+            "start": "2017-04-18",
+            "end": "2017-07-01",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31737696,
+            "from_actor": 141,
+            "to_actor": 18327,
+            "start": "2018-11-26",
+            "end": "2019-01-11",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31737697,
+            "from_actor": 141,
+            "to_actor": 16886,
+            "start": "2017-04-18",
+            "end": "2017-07-01",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737698,
+            "from_actor": 141,
+            "to_actor": 18303,
+            "start": "2018-11-26",
+            "end": "2019-01-11",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737699,
+            "from_actor": 141,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "minister, ej MF",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737700,
+            "from_actor": 141,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "minister, ej MF",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31737701,
+            "from_actor": 141,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "minister, ej MF",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743638,
+            "from_actor": 141,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Martin Lidegaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

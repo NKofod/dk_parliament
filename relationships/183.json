@@ -1321,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598137,
+            "id": 31722417,
             "from_actor": 183,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -1332,7 +1332,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598138,
+            "id": 31722418,
             "from_actor": 183,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -1343,51 +1343,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598139,
-            "from_actor": 183,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598140,
-            "from_actor": 183,
-            "to_actor": 504,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Dansk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27598141,
-            "from_actor": 183,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598142,
-            "from_actor": 183,
-            "to_actor": 505,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Dansk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27598143,
+            "id": 31722419,
             "from_actor": 183,
             "to_actor": 510,
             "start": "2010-10-05",
@@ -1398,7 +1354,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598144,
+            "id": 31722420,
             "from_actor": 183,
             "to_actor": 511,
             "start": "2011-09-15",
@@ -1409,7 +1365,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598145,
+            "id": 31722421,
             "from_actor": 183,
             "to_actor": 430,
             "start": "2011-10-04",
@@ -1420,7 +1376,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598146,
+            "id": 31722422,
+            "from_actor": 183,
+            "to_actor": 20079,
+            "start": "2022-02-22",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Uden for folketingsgrupperne - Bent Bøgsted",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31722423,
             "from_actor": 183,
             "to_actor": 1386,
             "start": "2007-11-28",
@@ -1431,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598147,
+            "id": 31722424,
             "from_actor": 183,
             "to_actor": 1387,
             "start": "2008-10-07",
@@ -1442,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598148,
+            "id": 31722425,
             "from_actor": 183,
             "to_actor": 1388,
             "start": "2009-10-06",
@@ -1453,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598149,
+            "id": 31722426,
             "from_actor": 183,
             "to_actor": 1389,
             "start": "2010-10-05",
@@ -1464,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598150,
+            "id": 31722427,
             "from_actor": 183,
             "to_actor": 16048,
             "start": "2015-10-06",
@@ -1475,7 +1442,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598151,
+            "id": 31722428,
             "from_actor": 183,
             "to_actor": 18677,
             "start": "2019-06-05",
@@ -1486,7 +1453,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598152,
+            "id": 31722429,
             "from_actor": 183,
             "to_actor": 15893,
             "start": "2015-07-03",
@@ -1497,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598153,
+            "id": 31722430,
             "from_actor": 183,
             "to_actor": 16096,
             "start": "2015-10-07",
@@ -1508,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598154,
+            "id": 31722431,
             "from_actor": 183,
             "to_actor": 1246,
             "start": "2008-01-18",
@@ -1519,7 +1486,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598155,
+            "id": 31722432,
             "from_actor": 183,
             "to_actor": 1197,
             "start": "2008-10-07",
@@ -1530,7 +1497,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598156,
+            "id": 31722433,
             "from_actor": 183,
             "to_actor": 769,
             "start": "2010-03-04",
@@ -1541,7 +1508,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598157,
+            "id": 31722434,
             "from_actor": 183,
             "to_actor": 770,
             "start": "2010-10-05",
@@ -1552,7 +1519,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598158,
+            "id": 31722435,
             "from_actor": 183,
             "to_actor": 771,
             "start": "2010-10-05",
@@ -1563,7 +1530,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598159,
+            "id": 31722436,
             "from_actor": 183,
             "to_actor": 16888,
             "start": "2016-10-04",
@@ -1574,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598160,
+            "id": 31722437,
             "from_actor": 183,
             "to_actor": 17620,
             "start": "2017-10-03",
@@ -1585,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598161,
+            "id": 31722438,
             "from_actor": 183,
             "to_actor": 17753,
             "start": "2018-03-01",
@@ -1596,7 +1563,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598162,
+            "id": 31722439,
             "from_actor": 183,
             "to_actor": 18371,
             "start": "2018-10-03",
@@ -1607,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598163,
+            "id": 31722440,
             "from_actor": 183,
             "to_actor": 1785,
             "start": "2011-09-30",
@@ -1618,7 +1585,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598164,
+            "id": 31722441,
             "from_actor": 183,
             "to_actor": 1786,
             "start": "2012-10-02",
@@ -1629,7 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598165,
+            "id": 31722442,
             "from_actor": 183,
             "to_actor": 1787,
             "start": "2013-10-01",
@@ -1640,7 +1607,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598166,
+            "id": 31722443,
             "from_actor": 183,
             "to_actor": 13712,
             "start": "2014-10-07",
@@ -1651,7 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598167,
+            "id": 31722444,
             "from_actor": 183,
             "to_actor": 15871,
             "start": "2014-03-01",
@@ -1662,7 +1629,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598168,
+            "id": 31722445,
             "from_actor": 183,
             "to_actor": 1788,
             "start": "2011-10-04",
@@ -1673,7 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598169,
+            "id": 31722446,
             "from_actor": 183,
             "to_actor": 18731,
             "start": "2019-06-21",
@@ -1684,7 +1651,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598170,
+            "id": 31722447,
+            "from_actor": 183,
+            "to_actor": 19882,
+            "start": "2021-10-05",
+            "end": "2022-03-15",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Tingsekretærer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722448,
             "from_actor": 183,
             "to_actor": 800,
             "start": "2004-10-06",
@@ -1695,7 +1673,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598171,
+            "id": 31722449,
             "from_actor": 183,
             "to_actor": 761,
             "start": "2007-11-28",
@@ -1706,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598172,
+            "id": 31722450,
             "from_actor": 183,
             "to_actor": 763,
             "start": "2008-10-08",
@@ -1717,7 +1695,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598173,
+            "id": 31722451,
             "from_actor": 183,
             "to_actor": 766,
             "start": "2009-10-07",
@@ -1728,7 +1706,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598174,
+            "id": 31722452,
             "from_actor": 183,
             "to_actor": 768,
             "start": "2010-10-06",
@@ -1739,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598175,
+            "id": 31722453,
             "from_actor": 183,
             "to_actor": 768,
             "start": "2011-05-31",
@@ -1750,7 +1728,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598176,
+            "id": 31722454,
             "from_actor": 183,
             "to_actor": 15748,
             "start": "2015-06-18",
@@ -1761,7 +1739,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598177,
+            "id": 31722455,
             "from_actor": 183,
             "to_actor": 15879,
             "start": "2015-07-02",
@@ -1772,7 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598178,
+            "id": 31722456,
             "from_actor": 183,
             "to_actor": 16096,
             "start": "2016-03-30",
@@ -1783,18 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598179,
-            "from_actor": 183,
-            "to_actor": 18411,
-            "start": "2018-10-01",
-            "end": "2022-09-30",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Tilsynsrådet vedrørende beskæftigelsen af de indsatte",
-            "type": "Kommission"
-        },
-        {
-            "id": 27598180,
+            "id": 31722457,
             "from_actor": 183,
             "to_actor": 18904,
             "start": "2019-10-02",
@@ -1805,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598181,
+            "id": 31722458,
             "from_actor": 183,
             "to_actor": 19375,
             "start": "2020-10-06",
@@ -1816,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598182,
+            "id": 31722459,
             "from_actor": 183,
             "to_actor": 1034,
             "start": "2005-02-23",
@@ -1827,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598183,
+            "id": 31722460,
             "from_actor": 183,
             "to_actor": 943,
             "start": "2005-10-05",
@@ -1838,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598184,
+            "id": 31722461,
             "from_actor": 183,
             "to_actor": 906,
             "start": "2006-10-04",
@@ -1849,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598185,
+            "id": 31722462,
             "from_actor": 183,
             "to_actor": 906,
             "start": "2006-10-26",
@@ -1860,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598186,
+            "id": 31722463,
             "from_actor": 183,
             "to_actor": 256,
             "start": "2010-03-01",
@@ -1871,7 +1838,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598187,
+            "id": 31722464,
             "from_actor": 183,
             "to_actor": 13675,
             "start": "2014-03-01",
@@ -1882,7 +1849,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598188,
+            "id": 31722465,
             "from_actor": 183,
             "to_actor": 431,
             "start": "2012-10-02",
@@ -1893,7 +1860,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598189,
+            "id": 31722466,
             "from_actor": 183,
             "to_actor": 455,
             "start": "2013-10-01",
@@ -1904,7 +1871,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598190,
+            "id": 31722467,
             "from_actor": 183,
             "to_actor": 14919,
             "start": "2001-11-20",
@@ -1915,7 +1882,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598191,
+            "id": 31722468,
             "from_actor": 183,
             "to_actor": 14932,
             "start": "2002-10-01",
@@ -1926,7 +1893,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598192,
+            "id": 31722469,
             "from_actor": 183,
             "to_actor": 14944,
             "start": "2003-10-07",
@@ -1937,7 +1904,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598193,
+            "id": 31722470,
             "from_actor": 183,
             "to_actor": 16874,
             "start": "2016-10-04",
@@ -1948,7 +1915,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598194,
+            "id": 31722471,
             "from_actor": 183,
             "to_actor": 18323,
             "start": "2018-10-02",
@@ -1959,7 +1926,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598195,
+            "id": 31722472,
             "from_actor": 183,
             "to_actor": 804,
             "start": "2005-02-23",
@@ -1970,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598196,
+            "id": 31722473,
             "from_actor": 183,
             "to_actor": 887,
             "start": "2006-11-30",
@@ -1981,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598197,
+            "id": 31722474,
             "from_actor": 183,
             "to_actor": 826,
             "start": "2007-11-28",
@@ -1992,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598198,
+            "id": 31722475,
             "from_actor": 183,
             "to_actor": 827,
             "start": "2008-10-08",
@@ -2003,7 +1970,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598199,
+            "id": 31722476,
             "from_actor": 183,
             "to_actor": 827,
             "start": "2009-06-25",
@@ -2014,7 +1981,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598200,
+            "id": 31722477,
             "from_actor": 183,
             "to_actor": 589,
             "start": "2009-10-07",
@@ -2025,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598201,
+            "id": 31722478,
             "from_actor": 183,
             "to_actor": 1064,
             "start": "2010-10-06",
@@ -2036,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598202,
+            "id": 31722479,
             "from_actor": 183,
             "to_actor": 15951,
             "start": "2014-03-01",
@@ -2047,7 +2014,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598203,
+            "id": 31722480,
             "from_actor": 183,
             "to_actor": 506,
             "start": "2007-10-02",
@@ -2058,7 +2025,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598204,
+            "id": 31722481,
             "from_actor": 183,
             "to_actor": 17623,
             "start": "2018-03-14",
@@ -2069,7 +2036,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598205,
+            "id": 31722482,
+            "from_actor": 183,
+            "to_actor": 18411,
+            "start": "2018-10-01",
+            "end": "2022-02-22",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Tilsynsrådet vedrørende beskæftigelsen af de indsatte",
+            "type": "Kommission"
+        },
+        {
+            "id": 31722483,
             "from_actor": 183,
             "to_actor": 18764,
             "start": "2019-08-24",
@@ -2080,7 +2058,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598206,
+            "id": 31722484,
+            "from_actor": 183,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31722485,
             "from_actor": 183,
             "to_actor": 13637,
             "start": "2014-10-08",
@@ -2091,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598207,
+            "id": 31722486,
             "from_actor": 183,
             "to_actor": 503,
             "start": "2005-02-08",
@@ -2102,7 +2091,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598208,
+            "id": 31722487,
+            "from_actor": 183,
+            "to_actor": 505,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31722488,
             "from_actor": 183,
             "to_actor": 17607,
             "start": "2017-10-03",
@@ -2113,7 +2113,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598209,
+            "id": 31722489,
             "from_actor": 183,
             "to_actor": 1035,
             "start": "2007-10-26",
@@ -2124,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598210,
+            "id": 31722490,
             "from_actor": 183,
             "to_actor": 772,
             "start": "2010-03-01",
@@ -2135,7 +2135,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27598211,
+            "id": 31722491,
+            "from_actor": 183,
+            "to_actor": 504,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31722492,
             "from_actor": 183,
             "to_actor": 13640,
             "start": "2014-10-07",
@@ -2146,7 +2157,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598212,
+            "id": 31722493,
             "from_actor": 183,
             "to_actor": 16071,
             "start": "2015-10-07",
@@ -2157,7 +2168,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598213,
+            "id": 31722494,
             "from_actor": 183,
             "to_actor": 16889,
             "start": "2016-10-05",
@@ -2168,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598214,
+            "id": 31722495,
             "from_actor": 183,
             "to_actor": 174,
             "start": "2013-10-02",
@@ -2179,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598215,
+            "id": 31722496,
             "from_actor": 183,
             "to_actor": 891,
             "start": "2010-04-15",
@@ -2190,7 +2201,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598216,
+            "id": 31722497,
             "from_actor": 183,
             "to_actor": 773,
             "start": "2010-10-05",
@@ -2201,7 +2212,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27598217,
+            "id": 31722498,
             "from_actor": 183,
             "to_actor": 18890,
             "start": "2019-10-01",
@@ -2212,7 +2223,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598218,
+            "id": 31722499,
             "from_actor": 183,
             "to_actor": 19355,
             "start": "2020-10-06",
@@ -2223,7 +2234,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598219,
+            "id": 31722500,
+            "from_actor": 183,
+            "to_actor": 19857,
+            "start": "2021-10-05",
+            "end": "2022-02-21",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31722501,
             "from_actor": 183,
             "to_actor": 15891,
             "start": "2015-07-03",
@@ -2234,7 +2256,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598220,
+            "id": 31722502,
             "from_actor": 183,
             "to_actor": 748,
             "start": "2011-10-07",
@@ -2245,7 +2267,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598221,
+            "id": 31722503,
             "from_actor": 183,
             "to_actor": 339,
             "start": "2012-10-03",
@@ -2256,7 +2278,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598222,
+            "id": 31722504,
             "from_actor": 183,
             "to_actor": 502,
             "start": "2004-10-05",
@@ -2267,7 +2289,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598223,
+            "id": 31722505,
             "from_actor": 183,
             "to_actor": 509,
             "start": "2009-10-06",
@@ -2278,7 +2300,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598224,
+            "id": 31722506,
             "from_actor": 183,
             "to_actor": 17625,
             "start": "2017-10-04",
@@ -2289,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598225,
+            "id": 31722507,
             "from_actor": 183,
             "to_actor": 18336,
             "start": "2018-10-03",
@@ -2300,7 +2322,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598226,
+            "id": 31722508,
             "from_actor": 183,
             "to_actor": 18735,
             "start": "2019-06-20",
@@ -2311,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598227,
+            "id": 31722509,
             "from_actor": 183,
             "to_actor": 5168,
             "start": "2014-10-08",
@@ -2322,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598228,
+            "id": 31722510,
             "from_actor": 183,
             "to_actor": 18901,
             "start": "2019-10-02",
@@ -2333,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598229,
+            "id": 31722511,
             "from_actor": 183,
             "to_actor": 19373,
             "start": "2020-10-07",
@@ -2344,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598230,
+            "id": 31722512,
             "from_actor": 183,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -2355,7 +2377,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598231,
+            "id": 31722513,
             "from_actor": 183,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -2366,7 +2388,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598232,
+            "id": 31722514,
             "from_actor": 183,
             "to_actor": 508,
             "start": "2008-10-07",
@@ -2377,7 +2399,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598233,
+            "id": 31722515,
             "from_actor": 183,
             "to_actor": 749,
             "start": "2011-09-29",
@@ -2388,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598234,
+            "id": 31722516,
             "from_actor": 183,
             "to_actor": 507,
             "start": "2007-11-13",
@@ -2399,7 +2421,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27598235,
+            "id": 31722517,
             "from_actor": 183,
             "to_actor": 18733,
             "start": "2019-06-21",
@@ -2410,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598236,
+            "id": 31722518,
             "from_actor": 183,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -2421,7 +2443,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598237,
+            "id": 31722519,
             "from_actor": 183,
             "to_actor": 222,
             "start": "2013-10-02",
@@ -2432,7 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598238,
+            "id": 31722520,
             "from_actor": 183,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -2443,7 +2465,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598239,
+            "id": 31722521,
             "from_actor": 183,
             "to_actor": 5160,
             "start": "2014-10-08",
@@ -2454,7 +2476,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598240,
+            "id": 31722522,
             "from_actor": 183,
             "to_actor": 408,
             "start": "2011-10-07",
@@ -2465,7 +2487,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598241,
+            "id": 31722523,
             "from_actor": 183,
             "to_actor": 17623,
             "start": "2018-02-07",
@@ -2476,7 +2498,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598242,
+            "id": 31722524,
             "from_actor": 183,
             "to_actor": 14259,
             "start": "2003-10-07",
@@ -2487,7 +2509,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598243,
+            "id": 31722525,
+            "from_actor": 183,
+            "to_actor": 19877,
+            "start": "2021-10-06",
+            "end": "2022-03-15",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722526,
             "from_actor": 183,
             "to_actor": 15896,
             "start": "2015-07-09",
@@ -2498,7 +2531,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598244,
+            "id": 31722527,
             "from_actor": 183,
             "to_actor": 15910,
             "start": "2015-07-09",
@@ -2509,7 +2542,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598245,
+            "id": 31722528,
             "from_actor": 183,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -2520,7 +2553,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598246,
+            "id": 31722529,
             "from_actor": 183,
             "to_actor": 15,
             "start": "2013-10-02",
@@ -2531,7 +2564,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598247,
+            "id": 31722530,
             "from_actor": 183,
             "to_actor": 16036,
             "start": "2015-10-07",
@@ -2542,7 +2575,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598248,
+            "id": 31722531,
             "from_actor": 183,
             "to_actor": 19390,
             "start": "2020-10-07",
@@ -2553,7 +2586,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598249,
+            "id": 31722532,
             "from_actor": 183,
             "to_actor": 18865,
             "start": "2019-10-02",
@@ -2564,7 +2597,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598250,
+            "id": 31722533,
             "from_actor": 183,
             "to_actor": 18764,
             "start": "2019-07-04",
@@ -2575,7 +2608,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598251,
+            "id": 31722534,
+            "from_actor": 183,
+            "to_actor": 19898,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722535,
             "from_actor": 183,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -2586,7 +2630,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598252,
+            "id": 31722536,
             "from_actor": 183,
             "to_actor": 18769,
             "start": "2019-07-04",
@@ -2597,7 +2641,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598253,
+            "id": 31722537,
             "from_actor": 183,
             "to_actor": 18763,
             "start": "2019-07-04",
@@ -2608,7 +2652,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598254,
+            "id": 31722538,
+            "from_actor": 183,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722539,
             "from_actor": 183,
             "to_actor": 18780,
             "start": "2019-07-04",
@@ -2619,7 +2674,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598255,
+            "id": 31722540,
             "from_actor": 183,
             "to_actor": 19439,
             "start": "2020-10-07",
@@ -2630,7 +2685,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598256,
+            "id": 31722541,
             "from_actor": 183,
             "to_actor": 333,
             "start": "2012-10-03",
@@ -2641,7 +2696,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598257,
+            "id": 31722542,
             "from_actor": 183,
             "to_actor": 19439,
             "start": "2020-10-23",
@@ -2652,7 +2707,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598258,
+            "id": 31722543,
             "from_actor": 183,
             "to_actor": 18757,
             "start": "2019-07-04",
@@ -2663,7 +2718,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598259,
+            "id": 31722544,
             "from_actor": 183,
             "to_actor": 16036,
             "start": "2015-11-13",
@@ -2674,7 +2729,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598260,
+            "id": 31722545,
             "from_actor": 183,
             "to_actor": 18872,
             "start": "2019-10-02",
@@ -2685,7 +2740,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598261,
+            "id": 31722546,
+            "from_actor": 183,
+            "to_actor": 19908,
+            "start": "2021-12-23",
+            "end": "2022-02-19",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722547,
+            "from_actor": 183,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722548,
+            "from_actor": 183,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722549,
             "from_actor": 183,
             "to_actor": 19415,
             "start": "2020-10-07",
@@ -2696,7 +2784,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598262,
+            "id": 31722550,
+            "from_actor": 183,
+            "to_actor": 19908,
+            "start": "2021-10-06",
+            "end": "2021-12-21",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722551,
             "from_actor": 183,
             "to_actor": 418,
             "start": "2011-10-07",
@@ -2707,7 +2806,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598263,
+            "id": 31722552,
             "from_actor": 183,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -2718,7 +2817,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598264,
+            "id": 31722553,
             "from_actor": 183,
             "to_actor": 332,
             "start": "2013-02-21",
@@ -2729,7 +2828,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598265,
+            "id": 31722554,
             "from_actor": 183,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -2740,7 +2839,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598266,
+            "id": 31722555,
             "from_actor": 183,
             "to_actor": 16014,
             "start": "2016-01-28",
@@ -2751,7 +2850,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598267,
+            "id": 31722556,
             "from_actor": 183,
             "to_actor": 18860,
             "start": "2019-10-02",
@@ -2762,18 +2861,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598268,
-            "from_actor": 183,
-            "to_actor": 19388,
-            "start": "2021-08-24",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598269,
+            "id": 31722557,
             "from_actor": 183,
             "to_actor": 16036,
             "start": "2015-11-20",
@@ -2784,18 +2872,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598270,
+            "id": 31722558,
             "from_actor": 183,
             "to_actor": 19388,
-            "start": "2020-10-07",
-            "end": "2021-08-22",
+            "start": "2021-08-24",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Bent Bøgsted",
             "to_actor_name": "Forsvarsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27598271,
+            "id": 31722559,
             "from_actor": 183,
             "to_actor": 18881,
             "start": "2019-10-02",
@@ -2806,7 +2894,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598272,
+            "id": 31722560,
             "from_actor": 183,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -2817,7 +2905,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598273,
+            "id": 31722561,
+            "from_actor": 183,
+            "to_actor": 19388,
+            "start": "2020-10-07",
+            "end": "2021-08-22",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722562,
             "from_actor": 183,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -2828,7 +2927,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598274,
+            "id": 31722563,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-08-29",
@@ -2839,7 +2938,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598275,
+            "id": 31722564,
             "from_actor": 183,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -2850,7 +2949,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598276,
+            "id": 31722565,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-06-26",
@@ -2861,7 +2960,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598277,
+            "id": 31722566,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-06-18",
@@ -2872,7 +2971,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598278,
+            "id": 31722567,
             "from_actor": 183,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2883,7 +2982,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598279,
+            "id": 31722568,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-05-28",
@@ -2894,7 +2993,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598280,
+            "id": 31722569,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-05-07",
@@ -2905,7 +3004,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598281,
+            "id": 31722570,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2020-01-29",
@@ -2916,7 +3015,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598282,
+            "id": 31722571,
+            "from_actor": 183,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722572,
             "from_actor": 183,
             "to_actor": 18932,
             "start": "2019-10-02",
@@ -2927,7 +3037,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27598284,
+            "id": 31722574,
+            "from_actor": 183,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722575,
             "from_actor": 183,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -2938,7 +3059,51 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598285,
+            "id": 31722576,
+            "from_actor": 183,
+            "to_actor": 19913,
+            "start": "2022-02-04",
+            "end": "2022-02-19",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722577,
+            "from_actor": 183,
+            "to_actor": 19913,
+            "start": "2021-12-16",
+            "end": "2022-02-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722578,
+            "from_actor": 183,
+            "to_actor": 19913,
+            "start": "2021-10-15",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722579,
+            "from_actor": 183,
+            "to_actor": 19913,
+            "start": "2021-10-07",
+            "end": "2021-10-13",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722580,
             "from_actor": 183,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -2949,7 +3114,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598286,
+            "id": 31722581,
             "from_actor": 183,
             "to_actor": 429,
             "start": "2009-10-06",
@@ -2960,7 +3125,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598289,
+            "id": 31722582,
             "from_actor": 183,
             "to_actor": 232,
             "start": "2008-10-07",
@@ -2971,392 +3136,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27598297,
-            "from_actor": 183,
-            "to_actor": 428,
-            "start": "2007-11-13",
-            "end": "2008-10-07",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598298,
-            "from_actor": 183,
-            "to_actor": 14931,
-            "start": "2002-10-01",
-            "end": "2003-10-07",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598299,
-            "from_actor": 183,
-            "to_actor": 14917,
-            "start": "2001-11-20",
-            "end": "2002-10-08",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598300,
-            "from_actor": 183,
-            "to_actor": 368,
-            "start": "2010-10-05",
-            "end": "2011-09-15",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598301,
-            "from_actor": 183,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598302,
-            "from_actor": 183,
-            "to_actor": 16014,
-            "start": "2015-10-07",
-            "end": "2016-01-27",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598303,
-            "from_actor": 183,
-            "to_actor": 16910,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598304,
-            "from_actor": 183,
-            "to_actor": 15884,
-            "start": "2015-07-03",
-            "end": "2015-10-06",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598305,
-            "from_actor": 183,
-            "to_actor": 18304,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598306,
-            "from_actor": 183,
-            "to_actor": 17604,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598307,
-            "from_actor": 183,
-            "to_actor": 16014,
-            "start": "2016-03-30",
-            "end": "2016-10-04",
-            "role": "formand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598308,
-            "from_actor": 183,
-            "to_actor": 413,
-            "start": "2011-10-07",
-            "end": "2012-10-02",
-            "role": "næstformand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598309,
-            "from_actor": 183,
-            "to_actor": 5136,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "næstformand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598310,
-            "from_actor": 183,
-            "to_actor": 60,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "næstformand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598311,
-            "from_actor": 183,
-            "to_actor": 308,
-            "start": "2012-10-03",
-            "end": "2013-04-24",
-            "role": "næstformand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598312,
-            "from_actor": 183,
-            "to_actor": 308,
-            "start": "2013-04-26",
-            "end": "2013-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598313,
-            "from_actor": 183,
-            "to_actor": 591,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598314,
-            "from_actor": 183,
-            "to_actor": 619,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598315,
-            "from_actor": 183,
-            "to_actor": 620,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598316,
-            "from_actor": 183,
-            "to_actor": 1166,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598317,
-            "from_actor": 183,
-            "to_actor": 890,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598318,
-            "from_actor": 183,
-            "to_actor": 1193,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598319,
-            "from_actor": 183,
-            "to_actor": 894,
-            "start": "2010-10-06",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598320,
-            "from_actor": 183,
-            "to_actor": 805,
-            "start": "2005-10-05",
-            "end": "2006-05-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598321,
-            "from_actor": 183,
-            "to_actor": 805,
-            "start": "2006-05-24",
-            "end": "2006-05-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598322,
-            "from_actor": 183,
-            "to_actor": 805,
-            "start": "2006-06-03",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598323,
-            "from_actor": 183,
-            "to_actor": 611,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598324,
-            "from_actor": 183,
-            "to_actor": 806,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598325,
-            "from_actor": 183,
-            "to_actor": 513,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598326,
-            "from_actor": 183,
-            "to_actor": 590,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598327,
-            "from_actor": 183,
-            "to_actor": 898,
-            "start": "2004-10-06",
-            "end": "2005-02-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598328,
-            "from_actor": 183,
-            "to_actor": 593,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27598329,
-            "from_actor": 183,
-            "to_actor": 426,
-            "start": "2006-11-04",
-            "end": "2006-10-23",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27598330,
-            "from_actor": 183,
-            "to_actor": 505,
-            "start": "2006-11-04",
-            "end": "2006-10-23",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Dansk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27617391,
-            "from_actor": 183,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Bent Bøgsted",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619306,
+            "id": 31722583,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2021-08-21",
@@ -3367,7 +3147,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619308,
+            "id": 31722584,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2021-05-20",
@@ -3378,7 +3158,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619310,
+            "id": 31722585,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2021-04-24",
@@ -3389,7 +3169,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619312,
+            "id": 31722586,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2021-04-22",
@@ -3400,7 +3180,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619313,
+            "id": 31722587,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2020-12-03",
@@ -3411,7 +3191,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619315,
+            "id": 31722588,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2020-11-28",
@@ -3422,7 +3202,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619316,
+            "id": 31722589,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2020-11-12",
@@ -3433,7 +3213,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619317,
+            "id": 31722590,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2020-11-05",
@@ -3444,7 +3224,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619319,
+            "id": 31722591,
             "from_actor": 183,
             "to_actor": 19438,
             "start": "2020-10-08",
@@ -3453,6 +3233,391 @@
             "from_actor_name": "Bent Bøgsted",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31722592,
+            "from_actor": 183,
+            "to_actor": 428,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722593,
+            "from_actor": 183,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722594,
+            "from_actor": 183,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722595,
+            "from_actor": 183,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722596,
+            "from_actor": 183,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31722597,
+            "from_actor": 183,
+            "to_actor": 16014,
+            "start": "2015-10-07",
+            "end": "2016-01-27",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722598,
+            "from_actor": 183,
+            "to_actor": 16910,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722599,
+            "from_actor": 183,
+            "to_actor": 15884,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722600,
+            "from_actor": 183,
+            "to_actor": 18304,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722601,
+            "from_actor": 183,
+            "to_actor": 17604,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722602,
+            "from_actor": 183,
+            "to_actor": 16014,
+            "start": "2016-03-30",
+            "end": "2016-10-04",
+            "role": "formand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722603,
+            "from_actor": 183,
+            "to_actor": 413,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "næstformand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722604,
+            "from_actor": 183,
+            "to_actor": 5136,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "næstformand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722605,
+            "from_actor": 183,
+            "to_actor": 60,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "næstformand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722606,
+            "from_actor": 183,
+            "to_actor": 308,
+            "start": "2012-10-03",
+            "end": "2013-04-24",
+            "role": "næstformand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722607,
+            "from_actor": 183,
+            "to_actor": 308,
+            "start": "2013-04-26",
+            "end": "2013-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722608,
+            "from_actor": 183,
+            "to_actor": 591,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722609,
+            "from_actor": 183,
+            "to_actor": 619,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722610,
+            "from_actor": 183,
+            "to_actor": 620,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722611,
+            "from_actor": 183,
+            "to_actor": 1166,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722612,
+            "from_actor": 183,
+            "to_actor": 890,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722613,
+            "from_actor": 183,
+            "to_actor": 1193,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722614,
+            "from_actor": 183,
+            "to_actor": 894,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722615,
+            "from_actor": 183,
+            "to_actor": 805,
+            "start": "2005-10-05",
+            "end": "2006-05-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722616,
+            "from_actor": 183,
+            "to_actor": 805,
+            "start": "2006-05-24",
+            "end": "2006-05-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722617,
+            "from_actor": 183,
+            "to_actor": 805,
+            "start": "2006-06-03",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722618,
+            "from_actor": 183,
+            "to_actor": 611,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722619,
+            "from_actor": 183,
+            "to_actor": 806,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722620,
+            "from_actor": 183,
+            "to_actor": 513,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722621,
+            "from_actor": 183,
+            "to_actor": 590,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722622,
+            "from_actor": 183,
+            "to_actor": 898,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722623,
+            "from_actor": 183,
+            "to_actor": 593,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31722624,
+            "from_actor": 183,
+            "to_actor": 505,
+            "start": "2006-11-04",
+            "end": "2006-10-23",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31722625,
+            "from_actor": 183,
+            "to_actor": 426,
+            "start": "2006-11-04",
+            "end": "2006-10-23",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743510,
+            "from_actor": 183,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Bent Bøgsted",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

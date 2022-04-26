@@ -155,17 +155,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22649484,
-            "from_actor": 153,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Per Stig Møller",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22649485,
             "from_actor": 153,
             "to_actor": 780,
@@ -175,17 +164,6 @@
             "from_actor_name": "Per Stig Møller",
             "to_actor_name": "Det Konservative Folkeparti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22649486,
-            "from_actor": 153,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Per Stig Møller",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22649487,
@@ -1464,7 +1442,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27186463,
+            "id": 29499434,
+            "from_actor": 153,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Per Stig Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499656,
+            "from_actor": 153,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Per Stig Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31286638,
             "from_actor": 153,
             "to_actor": 52,
             "start": "2010-02-23",

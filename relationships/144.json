@@ -34,17 +34,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22769009,
-            "from_actor": 144,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Helle Thorning-Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22769010,
             "from_actor": 144,
             "to_actor": 573,
@@ -54,17 +43,6 @@
             "from_actor_name": "Helle Thorning-Schmidt",
             "to_actor_name": "Socialdemokratiet",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22769011,
-            "from_actor": 144,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Helle Thorning-Schmidt",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22769012,
@@ -925,7 +903,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617455,
+            "id": 29499554,
+            "from_actor": 144,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Helle Thorning-Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499777,
+            "from_actor": 144,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Helle Thorning-Schmidt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743574,
             "from_actor": 144,
             "to_actor": 16060,
             "start": "2015-10-06",

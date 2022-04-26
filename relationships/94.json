@@ -188,17 +188,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 26802093,
-            "from_actor": 94,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Peter Christensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 26802094,
             "from_actor": 94,
             "to_actor": 550,
@@ -208,17 +197,6 @@
             "from_actor_name": "Peter Christensen",
             "to_actor_name": "Venstre, Danmarks Liberale Parti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 26802095,
-            "from_actor": 94,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Peter Christensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 26802096,
@@ -1453,17 +1431,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 26802208,
-            "from_actor": 94,
-            "to_actor": 203,
-            "start": "2011-03-08",
-            "end": "2011-10-03",
-            "role": "Minister",
-            "from_actor_name": "Peter Christensen",
-            "to_actor_name": "skatteministeren",
-            "type": "Ministertitel"
-        },
-        {
             "id": 26802209,
             "from_actor": 94,
             "to_actor": 292,
@@ -1472,17 +1439,6 @@
             "role": "Minister",
             "from_actor_name": "Peter Christensen",
             "to_actor_name": "ministeren for nordisk samarbejde",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 26802210,
-            "from_actor": 94,
-            "to_actor": 8,
-            "start": "2015-09-30",
-            "end": "2016-11-28",
-            "role": "Minister",
-            "from_actor_name": "Peter Christensen",
-            "to_actor_name": "forsvarsministeren",
             "type": "Ministertitel"
         },
         {
@@ -1550,6 +1506,50 @@
             "from_actor_name": "Peter Christensen",
             "to_actor_name": "Nordisk Råd",
             "type": "Kommission"
+        },
+        {
+            "id": 29499468,
+            "from_actor": 94,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Peter Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499690,
+            "from_actor": 94,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Peter Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30496925,
+            "from_actor": 94,
+            "to_actor": 8,
+            "start": "2015-09-30",
+            "end": "2016-11-28",
+            "role": "Minister",
+            "from_actor_name": "Peter Christensen",
+            "to_actor_name": "forsvarsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 30496955,
+            "from_actor": 94,
+            "to_actor": 203,
+            "start": "2011-03-08",
+            "end": "2011-10-03",
+            "role": "Minister",
+            "from_actor_name": "Peter Christensen",
+            "to_actor_name": "skatteministeren",
+            "type": "Ministertitel"
         }
     ]
 }

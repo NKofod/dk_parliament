@@ -672,7 +672,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618074,
+            "id": 31745828,
             "from_actor": 139,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -683,7 +683,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618075,
+            "id": 31745829,
             "from_actor": 139,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -694,7 +694,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618076,
+            "id": 31745830,
             "from_actor": 139,
             "to_actor": 18889,
             "start": "2020-07-01",
@@ -705,7 +705,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618077,
+            "id": 31745831,
             "from_actor": 139,
             "to_actor": 15988,
             "start": "2015-08-21",
@@ -716,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618078,
+            "id": 31745832,
             "from_actor": 139,
             "to_actor": 16122,
             "start": "2015-10-07",
@@ -727,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618079,
+            "id": 31745833,
             "from_actor": 139,
             "to_actor": 16869,
             "start": "2016-10-05",
@@ -738,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618080,
+            "id": 31745834,
             "from_actor": 139,
             "to_actor": 18347,
             "start": "2018-10-03",
@@ -749,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618081,
+            "id": 31745835,
             "from_actor": 139,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -760,7 +760,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618082,
+            "id": 31745836,
+            "from_actor": 139,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31745837,
             "from_actor": 139,
             "to_actor": 17660,
             "start": "2018-03-16",
@@ -771,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618083,
+            "id": 31745838,
             "from_actor": 139,
             "to_actor": 15920,
             "start": "2015-07-09",
@@ -782,7 +793,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27618084,
+            "id": 31745839,
             "from_actor": 139,
             "to_actor": 18767,
             "start": "2019-08-12",
@@ -793,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618085,
+            "id": 31745840,
             "from_actor": 139,
             "to_actor": 5169,
             "start": "2014-10-08",
@@ -804,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618086,
+            "id": 31745841,
             "from_actor": 139,
             "to_actor": 373,
             "start": "2013-10-02",
@@ -815,7 +826,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618087,
+            "id": 31745842,
+            "from_actor": 139,
+            "to_actor": 19438,
+            "start": "2021-10-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745843,
             "from_actor": 139,
             "to_actor": 17671,
             "start": "2018-03-16",
@@ -826,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618088,
+            "id": 31745844,
             "from_actor": 139,
             "to_actor": 51,
             "start": "2013-10-02",
@@ -837,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618089,
+            "id": 31745845,
             "from_actor": 139,
             "to_actor": 17659,
             "start": "2018-03-16",
@@ -848,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618090,
+            "id": 31745846,
             "from_actor": 139,
             "to_actor": 16862,
             "start": "2016-10-05",
@@ -859,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618091,
+            "id": 31745847,
             "from_actor": 139,
             "to_actor": 18306,
             "start": "2018-10-03",
@@ -870,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618092,
+            "id": 31745848,
             "from_actor": 139,
             "to_actor": 16929,
             "start": "2016-10-05",
@@ -881,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618093,
+            "id": 31745849,
             "from_actor": 139,
             "to_actor": 17654,
             "start": "2018-03-16",
@@ -892,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618094,
+            "id": 31745850,
             "from_actor": 139,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -903,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618095,
+            "id": 31745851,
             "from_actor": 139,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -914,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618096,
+            "id": 31745852,
             "from_actor": 139,
             "to_actor": 18856,
             "start": "2020-07-01",
@@ -925,7 +947,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27618097,
+            "id": 31745853,
             "from_actor": 139,
             "to_actor": 17663,
             "start": "2018-03-16",
@@ -936,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618098,
+            "id": 31745854,
             "from_actor": 139,
             "to_actor": 334,
             "start": "2012-12-11",
@@ -947,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618099,
+            "id": 31745855,
             "from_actor": 139,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -958,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618100,
+            "id": 31745856,
             "from_actor": 139,
             "to_actor": 16950,
             "start": "2016-10-05",
@@ -969,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618101,
+            "id": 31745857,
             "from_actor": 139,
             "to_actor": 17669,
             "start": "2018-03-16",
@@ -980,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618102,
+            "id": 31745858,
             "from_actor": 139,
             "to_actor": 5168,
             "start": "2014-10-08",
@@ -991,7 +1013,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618103,
+            "id": 31745859,
+            "from_actor": 139,
+            "to_actor": 19879,
+            "start": "2022-02-01",
+            "end": "2022-02-02",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745860,
             "from_actor": 139,
             "to_actor": 16914,
             "start": "2016-10-05",
@@ -1002,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618104,
+            "id": 31745861,
             "from_actor": 139,
             "to_actor": 337,
             "start": "2012-10-03",
@@ -1013,7 +1046,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27618105,
+            "id": 31745862,
             "from_actor": 139,
             "to_actor": 5139,
             "start": "2014-10-08",
@@ -1024,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618106,
+            "id": 31745863,
             "from_actor": 139,
             "to_actor": 16912,
             "start": "2016-10-05",
@@ -1035,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618107,
+            "id": 31745864,
             "from_actor": 139,
             "to_actor": 18308,
             "start": "2018-10-03",
@@ -1046,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618108,
+            "id": 31745865,
             "from_actor": 139,
             "to_actor": 17658,
             "start": "2018-03-16",
@@ -1057,7 +1090,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618109,
+            "id": 31745866,
+            "from_actor": 139,
+            "to_actor": 19879,
+            "start": "2022-01-24",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745867,
             "from_actor": 139,
             "to_actor": 16032,
             "start": "2015-10-07",
@@ -1068,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618110,
+            "id": 31745868,
             "from_actor": 139,
             "to_actor": 17603,
             "start": "2018-05-25",
@@ -1079,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618111,
+            "id": 31745869,
             "from_actor": 139,
             "to_actor": 16061,
             "start": "2015-10-07",
@@ -1090,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618112,
+            "id": 31745870,
             "from_actor": 139,
             "to_actor": 409,
             "start": "2011-10-07",
@@ -1101,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618113,
+            "id": 31745871,
             "from_actor": 139,
             "to_actor": 222,
             "start": "2013-10-02",
@@ -1112,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618114,
+            "id": 31745872,
             "from_actor": 139,
             "to_actor": 18344,
             "start": "2018-10-03",
@@ -1123,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618115,
+            "id": 31745873,
             "from_actor": 139,
             "to_actor": 15910,
             "start": "2015-07-09",
@@ -1134,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618116,
+            "id": 31745874,
             "from_actor": 139,
             "to_actor": 15913,
             "start": "2015-07-09",
@@ -1145,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618117,
+            "id": 31745875,
             "from_actor": 139,
             "to_actor": 16093,
             "start": "2015-10-07",
@@ -1156,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618118,
+            "id": 31745876,
             "from_actor": 139,
             "to_actor": 16017,
             "start": "2015-10-07",
@@ -1167,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618119,
+            "id": 31745877,
             "from_actor": 139,
             "to_actor": 16031,
             "start": "2015-10-07",
@@ -1178,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618120,
+            "id": 31745878,
             "from_actor": 139,
             "to_actor": 290,
             "start": "2013-10-02",
@@ -1189,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618121,
+            "id": 31745879,
             "from_actor": 139,
             "to_actor": 15904,
             "start": "2015-07-09",
@@ -1200,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618122,
+            "id": 31745880,
             "from_actor": 139,
             "to_actor": 562,
             "start": "2011-10-07",
@@ -1211,7 +1255,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27618123,
+            "id": 31745881,
             "from_actor": 139,
             "to_actor": 546,
             "start": "2011-10-07",
@@ -1222,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618124,
+            "id": 31745882,
             "from_actor": 139,
             "to_actor": 18346,
             "start": "2018-10-03",
@@ -1233,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618125,
+            "id": 31745883,
             "from_actor": 139,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -1244,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618126,
+            "id": 31745884,
             "from_actor": 139,
             "to_actor": 325,
             "start": "2012-12-06",
@@ -1255,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618127,
+            "id": 31745885,
             "from_actor": 139,
             "to_actor": 18356,
             "start": "2018-10-03",
@@ -1266,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618128,
+            "id": 31745886,
             "from_actor": 139,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -1277,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618129,
+            "id": 31745887,
             "from_actor": 139,
             "to_actor": 15909,
             "start": "2015-07-09",
@@ -1288,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618130,
+            "id": 31745888,
             "from_actor": 139,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -1299,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618131,
+            "id": 31745889,
             "from_actor": 139,
             "to_actor": 16021,
             "start": "2015-10-07",
@@ -1310,7 +1354,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618132,
+            "id": 31745890,
             "from_actor": 139,
             "to_actor": 329,
             "start": "2012-11-23",
@@ -1321,7 +1365,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618133,
+            "id": 31745891,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2013-10-02",
@@ -1332,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618134,
+            "id": 31745892,
             "from_actor": 139,
             "to_actor": 18780,
             "start": "2019-07-04",
@@ -1343,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618135,
+            "id": 31745893,
             "from_actor": 139,
             "to_actor": 16861,
             "start": "2016-10-05",
@@ -1354,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618136,
+            "id": 31745894,
             "from_actor": 139,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -1365,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618137,
+            "id": 31745895,
             "from_actor": 139,
             "to_actor": 18766,
             "start": "2019-07-04",
@@ -1376,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618138,
+            "id": 31745896,
             "from_actor": 139,
             "to_actor": 329,
             "start": "2012-10-03",
@@ -1387,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618139,
+            "id": 31745897,
             "from_actor": 139,
             "to_actor": 18761,
             "start": "2019-08-27",
@@ -1398,7 +1442,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618140,
+            "id": 31745898,
             "from_actor": 139,
             "to_actor": 19439,
             "start": "2021-04-22",
@@ -1409,7 +1453,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618141,
+            "id": 31745899,
             "from_actor": 139,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -1420,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618142,
+            "id": 31745900,
             "from_actor": 139,
             "to_actor": 18319,
             "start": "2018-11-13",
@@ -1431,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618143,
+            "id": 31745901,
             "from_actor": 139,
             "to_actor": 15877,
             "start": "2015-07-03",
@@ -1442,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618144,
+            "id": 31745902,
             "from_actor": 139,
             "to_actor": 5134,
             "start": "2014-10-08",
@@ -1453,7 +1497,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618145,
+            "id": 31745903,
             "from_actor": 139,
             "to_actor": 18760,
             "start": "2019-09-12",
@@ -1464,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618146,
+            "id": 31745904,
             "from_actor": 139,
             "to_actor": 18864,
             "start": "2019-10-02",
@@ -1475,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618147,
+            "id": 31745905,
             "from_actor": 139,
             "to_actor": 19439,
             "start": "2020-10-07",
@@ -1486,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618148,
+            "id": 31745906,
             "from_actor": 139,
             "to_actor": 315,
             "start": "2012-10-03",
@@ -1497,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618149,
+            "id": 31745907,
             "from_actor": 139,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -1508,7 +1552,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618150,
+            "id": 31745908,
             "from_actor": 139,
             "to_actor": 15899,
             "start": "2015-09-21",
@@ -1519,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618151,
+            "id": 31745909,
             "from_actor": 139,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -1530,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618152,
+            "id": 31745910,
             "from_actor": 139,
             "to_actor": 13708,
             "start": "2014-10-08",
@@ -1541,7 +1585,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618153,
+            "id": 31745911,
             "from_actor": 139,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -1552,7 +1596,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618154,
+            "id": 31745912,
+            "from_actor": 139,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745913,
             "from_actor": 139,
             "to_actor": 333,
             "start": "2012-12-11",
@@ -1563,7 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618155,
+            "id": 31745914,
             "from_actor": 139,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -1574,7 +1629,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618156,
+            "id": 31745915,
             "from_actor": 139,
             "to_actor": 18348,
             "start": "2018-10-03",
@@ -1585,7 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618157,
+            "id": 31745916,
             "from_actor": 139,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -1596,7 +1651,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618158,
+            "id": 31745917,
             "from_actor": 139,
             "to_actor": 17603,
             "start": "2018-03-16",
@@ -1607,7 +1662,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618159,
+            "id": 31745918,
             "from_actor": 139,
             "to_actor": 18769,
             "start": "2019-07-04",
@@ -1618,7 +1673,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618160,
+            "id": 31745919,
+            "from_actor": 139,
+            "to_actor": 19910,
+            "start": "2021-10-06",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745920,
             "from_actor": 139,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -1629,7 +1695,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618161,
+            "id": 31745921,
+            "from_actor": 139,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31745922,
             "from_actor": 139,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -1640,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618162,
+            "id": 31745923,
             "from_actor": 139,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -1651,7 +1728,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618163,
+            "id": 31745924,
             "from_actor": 139,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -1662,7 +1739,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618164,
+            "id": 31745925,
             "from_actor": 139,
             "to_actor": 418,
             "start": "2012-04-19",
@@ -1673,7 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618165,
+            "id": 31745926,
             "from_actor": 139,
             "to_actor": 18866,
             "start": "2020-06-26",
@@ -1684,7 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618166,
+            "id": 31745927,
             "from_actor": 139,
             "to_actor": 19391,
             "start": "2020-10-07",
@@ -1695,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618167,
+            "id": 31745928,
             "from_actor": 139,
             "to_actor": 18863,
             "start": "2020-07-01",
@@ -1706,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618168,
+            "id": 31745929,
             "from_actor": 139,
             "to_actor": 418,
             "start": "2011-10-07",
@@ -1717,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618169,
+            "id": 31745930,
             "from_actor": 139,
             "to_actor": 18784,
             "start": "2019-07-04",
@@ -1728,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618170,
+            "id": 31745931,
             "from_actor": 139,
             "to_actor": 18866,
             "start": "2019-10-02",
@@ -1739,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618171,
+            "id": 31745932,
             "from_actor": 139,
             "to_actor": 18881,
             "start": "2020-06-26",
@@ -1750,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618172,
+            "id": 31745933,
             "from_actor": 139,
             "to_actor": 18739,
             "start": "2019-06-21",
@@ -1761,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618173,
+            "id": 31745934,
             "from_actor": 139,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -1772,7 +1849,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618174,
+            "id": 31745935,
             "from_actor": 139,
             "to_actor": 18874,
             "start": "2019-10-02",
@@ -1783,7 +1860,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618175,
+            "id": 31745936,
             "from_actor": 139,
             "to_actor": 18881,
             "start": "2019-10-02",
@@ -1794,7 +1871,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618176,
+            "id": 31745937,
+            "from_actor": 139,
+            "to_actor": 19907,
+            "start": "2022-01-21",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745938,
             "from_actor": 139,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -1805,7 +1893,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618177,
+            "id": 31745939,
             "from_actor": 139,
             "to_actor": 17608,
             "start": "2018-03-16",
@@ -1816,7 +1904,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618178,
+            "id": 31745940,
             "from_actor": 139,
             "to_actor": 26,
             "start": "2013-12-20",
@@ -1827,7 +1915,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618179,
+            "id": 31745941,
+            "from_actor": 139,
+            "to_actor": 19907,
+            "start": "2021-10-06",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745942,
             "from_actor": 139,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -1838,7 +1937,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618180,
+            "id": 31745943,
             "from_actor": 139,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1849,7 +1948,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27618181,
+            "id": 31745944,
+            "from_actor": 139,
+            "to_actor": 19878,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745945,
             "from_actor": 139,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -1860,7 +1970,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27618182,
+            "id": 31745946,
             "from_actor": 139,
             "to_actor": 26,
             "start": "2014-02-04",
@@ -1871,7 +1981,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618183,
+            "id": 31745947,
+            "from_actor": 139,
+            "to_actor": 19878,
+            "start": "2022-01-24",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745948,
             "from_actor": 139,
             "to_actor": 18932,
             "start": "2020-06-26",
@@ -1882,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618184,
+            "id": 31745949,
             "from_actor": 139,
             "to_actor": 51,
             "start": "2013-12-06",
@@ -1893,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618185,
+            "id": 31745950,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2013-10-24",
@@ -1904,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618186,
+            "id": 31745951,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2013-11-07",
@@ -1915,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618187,
+            "id": 31745952,
             "from_actor": 139,
             "to_actor": 18932,
             "start": "2019-12-05",
@@ -1926,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618188,
+            "id": 31745953,
             "from_actor": 139,
             "to_actor": 18932,
             "start": "2019-11-21",
@@ -1937,7 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618189,
+            "id": 31745954,
             "from_actor": 139,
             "to_actor": 21,
             "start": "2013-12-21",
@@ -1948,7 +2069,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618190,
+            "id": 31745955,
             "from_actor": 139,
             "to_actor": 18932,
             "start": "2019-10-02",
@@ -1959,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618191,
+            "id": 31745956,
             "from_actor": 139,
             "to_actor": 19387,
             "start": "2021-04-23",
@@ -1970,7 +2091,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618192,
+            "id": 31745957,
             "from_actor": 139,
             "to_actor": 19387,
             "start": "2021-04-09",
@@ -1981,7 +2102,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618193,
+            "id": 31745958,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2013-12-20",
@@ -1992,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618194,
+            "id": 31745959,
             "from_actor": 139,
             "to_actor": 19387,
             "start": "2020-11-13",
@@ -2003,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618195,
+            "id": 31745960,
             "from_actor": 139,
             "to_actor": 21,
             "start": "2014-01-24",
@@ -2014,7 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618196,
+            "id": 31745961,
             "from_actor": 139,
             "to_actor": 19387,
             "start": "2020-10-07",
@@ -2025,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618197,
+            "id": 31745962,
             "from_actor": 139,
             "to_actor": 18871,
             "start": "2020-07-02",
@@ -2036,7 +2157,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618198,
+            "id": 31745963,
+            "from_actor": 139,
+            "to_actor": 19913,
+            "start": "2022-01-26",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745964,
             "from_actor": 139,
             "to_actor": 18871,
             "start": "2020-06-26",
@@ -2047,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618199,
+            "id": 31745965,
             "from_actor": 139,
             "to_actor": 63,
             "start": "2014-04-29",
@@ -2058,7 +2190,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618200,
+            "id": 31745966,
+            "from_actor": 139,
+            "to_actor": 19913,
+            "start": "2021-10-08",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745967,
             "from_actor": 139,
             "to_actor": 21,
             "start": "2014-02-08",
@@ -2069,7 +2212,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618201,
+            "id": 31745968,
+            "from_actor": 139,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31745969,
+            "from_actor": 139,
+            "to_actor": 19913,
+            "start": "2021-10-06",
+            "end": "2021-10-06",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745970,
             "from_actor": 139,
             "to_actor": 21,
             "start": "2014-02-28",
@@ -2080,18 +2245,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618202,
+            "id": 31745971,
+            "from_actor": 139,
+            "to_actor": 19913,
+            "start": "2021-12-16",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745972,
             "from_actor": 139,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27618203,
+            "id": 31745973,
             "from_actor": 139,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -2102,7 +2278,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27618204,
+            "id": 31745974,
             "from_actor": 139,
             "to_actor": 329,
             "start": "2013-08-30",
@@ -2113,7 +2289,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618205,
+            "id": 31745975,
             "from_actor": 139,
             "to_actor": 51,
             "start": "2014-06-04",
@@ -2124,18 +2300,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618206,
-            "from_actor": 139,
-            "to_actor": 19620,
-            "start": "2021-04-23",
-            "end": "2021-04-23",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618207,
+            "id": 31745976,
             "from_actor": 139,
             "to_actor": 63,
             "start": "2014-08-02",
@@ -2146,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618208,
+            "id": 31745977,
             "from_actor": 139,
             "to_actor": 16020,
             "start": "2016-09-28",
@@ -2157,7 +2322,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618209,
+            "id": 31745978,
+            "from_actor": 139,
+            "to_actor": 19620,
+            "start": "2021-04-23",
+            "end": "2021-04-23",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745979,
             "from_actor": 139,
             "to_actor": 13708,
             "start": "2015-02-19",
@@ -2168,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618210,
+            "id": 31745980,
             "from_actor": 139,
             "to_actor": 16031,
             "start": "2016-04-07",
@@ -2179,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618211,
+            "id": 31745981,
             "from_actor": 139,
             "to_actor": 325,
             "start": "2013-08-28",
@@ -2190,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618212,
+            "id": 31745982,
             "from_actor": 139,
             "to_actor": 19,
             "start": "2014-03-19",
@@ -2201,7 +2377,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618213,
+            "id": 31745983,
             "from_actor": 139,
             "to_actor": 13708,
             "start": "2015-03-27",
@@ -2212,7 +2388,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618214,
+            "id": 31745984,
             "from_actor": 139,
             "to_actor": 19,
             "start": "2014-05-15",
@@ -2223,7 +2399,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618215,
+            "id": 31745985,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2014-03-22",
@@ -2234,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618216,
+            "id": 31745986,
             "from_actor": 139,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -2245,7 +2421,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27618217,
+            "id": 31745987,
             "from_actor": 139,
             "to_actor": 13708,
             "start": "2015-04-08",
@@ -2256,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618218,
+            "id": 31745988,
             "from_actor": 139,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -2267,7 +2443,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27618219,
+            "id": 31745989,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2014-04-24",
@@ -2278,7 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618221,
+            "id": 31745990,
             "from_actor": 139,
             "to_actor": 41,
             "start": "2014-05-08",
@@ -2289,7 +2465,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618224,
+            "id": 31745991,
+            "from_actor": 139,
+            "to_actor": 19438,
+            "start": "2021-08-17",
+            "end": "2021-09-29",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745992,
             "from_actor": 139,
             "to_actor": 13708,
             "start": "2015-05-07",
@@ -2300,425 +2487,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27618225,
-            "from_actor": 139,
-            "to_actor": 41,
-            "start": "2014-05-21",
-            "end": "2014-06-19",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618226,
-            "from_actor": 139,
-            "to_actor": 41,
-            "start": "2014-06-21",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618227,
-            "from_actor": 139,
-            "to_actor": 18674,
-            "start": "2019-06-05",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618228,
-            "from_actor": 139,
-            "to_actor": 16870,
-            "start": "2017-05-18",
-            "end": "2017-05-18",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618229,
-            "from_actor": 139,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618230,
-            "from_actor": 139,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2019-12-31",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618231,
-            "from_actor": 139,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618232,
-            "from_actor": 139,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618233,
-            "from_actor": 139,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618234,
-            "from_actor": 139,
-            "to_actor": 420,
-            "start": "2011-09-15",
-            "end": "2011-10-04",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618235,
-            "from_actor": 139,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618236,
-            "from_actor": 139,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618237,
-            "from_actor": 139,
-            "to_actor": 17605,
-            "start": "2018-03-16",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618238,
-            "from_actor": 139,
-            "to_actor": 18760,
-            "start": "2019-07-04",
-            "end": "2019-09-11",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618239,
-            "from_actor": 139,
-            "to_actor": 16864,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618240,
-            "from_actor": 139,
-            "to_actor": 18343,
-            "start": "2018-11-02",
-            "end": "2019-06-05",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618241,
-            "from_actor": 139,
-            "to_actor": 16035,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618242,
-            "from_actor": 139,
-            "to_actor": 15892,
-            "start": "2015-07-09",
-            "end": "2015-10-06",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618243,
-            "from_actor": 139,
-            "to_actor": 17622,
-            "start": "2018-03-16",
-            "end": "2018-10-02",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618244,
-            "from_actor": 139,
-            "to_actor": 18343,
-            "start": "2018-10-03",
-            "end": "2018-10-31",
-            "role": "formand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618245,
-            "from_actor": 139,
-            "to_actor": 18761,
-            "start": "2019-07-04",
-            "end": "2019-08-26",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618246,
-            "from_actor": 139,
-            "to_actor": 170,
-            "start": "2013-10-02",
-            "end": "2014-02-19",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618247,
-            "from_actor": 139,
-            "to_actor": 544,
-            "start": "2011-10-07",
-            "end": "2012-10-02",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618248,
-            "from_actor": 139,
-            "to_actor": 319,
-            "start": "2012-10-03",
-            "end": "2013-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618249,
-            "from_actor": 139,
-            "to_actor": 19405,
-            "start": "2021-03-17",
-            "end": "2021-10-05",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618250,
-            "from_actor": 139,
-            "to_actor": 5170,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618251,
-            "from_actor": 139,
-            "to_actor": 19405,
-            "start": "2020-10-07",
-            "end": "2021-03-15",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618252,
-            "from_actor": 139,
-            "to_actor": 18863,
-            "start": "2020-08-28",
-            "end": "2020-10-06",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618253,
-            "from_actor": 139,
-            "to_actor": 18863,
-            "start": "2020-07-14",
-            "end": "2020-08-26",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618254,
-            "from_actor": 139,
-            "to_actor": 19408,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618255,
-            "from_actor": 139,
-            "to_actor": 18874,
-            "start": "2020-07-01",
-            "end": "2020-10-06",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618256,
-            "from_actor": 139,
-            "to_actor": 170,
-            "start": "2014-02-21",
-            "end": "2014-10-07",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618257,
-            "from_actor": 139,
-            "to_actor": 18863,
-            "start": "2020-07-02",
-            "end": "2020-07-12",
-            "role": "næstformand",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27618258,
-            "from_actor": 139,
-            "to_actor": 18889,
-            "start": "2020-01-01",
-            "end": "2020-06-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27618259,
-            "from_actor": 139,
-            "to_actor": 18856,
-            "start": "2020-01-01",
-            "end": "2020-06-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27618260,
-            "from_actor": 139,
-            "to_actor": 17608,
-            "start": "2017-10-03",
-            "end": "2018-03-15",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Venstre, Danmarks Liberale Parti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27618261,
-            "from_actor": 139,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-03-15",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619277,
-            "from_actor": 139,
-            "to_actor": 19438,
-            "start": "2021-08-17",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Thomas Danielsen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27619279,
+            "id": 31745993,
             "from_actor": 139,
             "to_actor": 19438,
             "start": "2021-05-06",
@@ -2729,7 +2498,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619280,
+            "id": 31745994,
             "from_actor": 139,
             "to_actor": 19438,
             "start": "2020-10-08",
@@ -2738,6 +2507,479 @@
             "from_actor_name": "Thomas Danielsen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31745995,
+            "from_actor": 139,
+            "to_actor": 41,
+            "start": "2014-05-21",
+            "end": "2014-06-19",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745996,
+            "from_actor": 139,
+            "to_actor": 41,
+            "start": "2014-06-21",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745997,
+            "from_actor": 139,
+            "to_actor": 18674,
+            "start": "2019-06-05",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31745998,
+            "from_actor": 139,
+            "to_actor": 16870,
+            "start": "2017-05-18",
+            "end": "2017-05-18",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745999,
+            "from_actor": 139,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746000,
+            "from_actor": 139,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2019-12-31",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746001,
+            "from_actor": 139,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746002,
+            "from_actor": 139,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746003,
+            "from_actor": 139,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746004,
+            "from_actor": 139,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746005,
+            "from_actor": 139,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746006,
+            "from_actor": 139,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746007,
+            "from_actor": 139,
+            "to_actor": 17605,
+            "start": "2018-03-16",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746008,
+            "from_actor": 139,
+            "to_actor": 18760,
+            "start": "2019-07-04",
+            "end": "2019-09-11",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746009,
+            "from_actor": 139,
+            "to_actor": 16864,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746010,
+            "from_actor": 139,
+            "to_actor": 18343,
+            "start": "2018-11-02",
+            "end": "2019-06-05",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746011,
+            "from_actor": 139,
+            "to_actor": 16035,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746012,
+            "from_actor": 139,
+            "to_actor": 15892,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746013,
+            "from_actor": 139,
+            "to_actor": 17622,
+            "start": "2018-03-16",
+            "end": "2018-10-02",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746014,
+            "from_actor": 139,
+            "to_actor": 18343,
+            "start": "2018-10-03",
+            "end": "2018-10-31",
+            "role": "formand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746015,
+            "from_actor": 139,
+            "to_actor": 18761,
+            "start": "2019-07-04",
+            "end": "2019-08-26",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746016,
+            "from_actor": 139,
+            "to_actor": 170,
+            "start": "2013-10-02",
+            "end": "2014-02-19",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746017,
+            "from_actor": 139,
+            "to_actor": 544,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746018,
+            "from_actor": 139,
+            "to_actor": 319,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746019,
+            "from_actor": 139,
+            "to_actor": 19897,
+            "start": "2021-12-22",
+            "end": "2022-01-31",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746020,
+            "from_actor": 139,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2021-12-20",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746021,
+            "from_actor": 139,
+            "to_actor": 5170,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746022,
+            "from_actor": 139,
+            "to_actor": 19911,
+            "start": "2021-10-06",
+            "end": "2022-01-31",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746023,
+            "from_actor": 139,
+            "to_actor": 19405,
+            "start": "2021-03-17",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746024,
+            "from_actor": 139,
+            "to_actor": 19405,
+            "start": "2020-10-07",
+            "end": "2021-03-15",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746025,
+            "from_actor": 139,
+            "to_actor": 18863,
+            "start": "2020-08-28",
+            "end": "2020-10-06",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746026,
+            "from_actor": 139,
+            "to_actor": 18863,
+            "start": "2020-07-14",
+            "end": "2020-08-26",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746027,
+            "from_actor": 139,
+            "to_actor": 19408,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746028,
+            "from_actor": 139,
+            "to_actor": 18874,
+            "start": "2020-07-01",
+            "end": "2020-10-06",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746029,
+            "from_actor": 139,
+            "to_actor": 170,
+            "start": "2014-02-21",
+            "end": "2014-10-07",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746030,
+            "from_actor": 139,
+            "to_actor": 18863,
+            "start": "2020-07-02",
+            "end": "2020-07-12",
+            "role": "næstformand",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31746031,
+            "from_actor": 139,
+            "to_actor": 17753,
+            "start": "2022-02-09",
+            "end": "2022-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31746032,
+            "from_actor": 139,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31746033,
+            "from_actor": 139,
+            "to_actor": 19845,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31746034,
+            "from_actor": 139,
+            "to_actor": 18889,
+            "start": "2020-01-01",
+            "end": "2020-06-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31746035,
+            "from_actor": 139,
+            "to_actor": 18856,
+            "start": "2020-01-01",
+            "end": "2020-06-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31746036,
+            "from_actor": 139,
+            "to_actor": 17608,
+            "start": "2017-10-03",
+            "end": "2018-03-15",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31746037,
+            "from_actor": 139,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-03-15",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Thomas Danielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

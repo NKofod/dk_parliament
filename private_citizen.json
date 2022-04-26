@@ -79,6 +79,14 @@
         "end": null,
         "periodid": null
     },
+    "1297": {
+        "id": 1297,
+        "name": "Henning Poulsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
     "1327": {
         "id": 1327,
         "name": "Helge Bülow",
@@ -3338,6 +3346,14 @@
     "3455": {
         "id": 3455,
         "name": "Klaus L. Bentsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "3461": {
+        "id": 3461,
+        "name": "Jørgen Andersen",
         "short_name": null,
         "start": null,
         "end": null,
@@ -6794,6 +6810,14 @@
     "4692": {
         "id": 4692,
         "name": "Katja Nielsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "4693": {
+        "id": 4693,
+        "name": "Jens H. Johnsen",
         "short_name": null,
         "start": null,
         "end": null,
@@ -20367,6 +20391,14 @@
         "end": null,
         "periodid": null
     },
+    "10568": {
+        "id": 10568,
+        "name": "Peter Kovacs",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
     "10569": {
         "id": 10569,
         "name": "Bettina Frederiksen, Hvidovre",
@@ -33279,6 +33311,14 @@
         "end": null,
         "periodid": null
     },
+    "17967": {
+        "id": 17967,
+        "name": "Mike Nielsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
     "17973": {
         "id": 17973,
         "name": "Laurits Vemmelund",
@@ -36610,6 +36650,638 @@
     "19836": {
         "id": 19836,
         "name": "Bodil Dichow",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19843": {
+        "id": 19843,
+        "name": "Ole Nørskov",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19850": {
+        "id": 19850,
+        "name": "Lene Dybro Bechgren",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19851": {
+        "id": 19851,
+        "name": "Lis Søndergaard, Hadsten",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19925": {
+        "id": 19925,
+        "name": "Martin Collignon",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19926": {
+        "id": 19926,
+        "name": "Morten Hæk",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19931": {
+        "id": 19931,
+        "name": "Hanne Vad Sørensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19932": {
+        "id": 19932,
+        "name": "Kurt Rasmussen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19935": {
+        "id": 19935,
+        "name": "Erik Sminge Bundgaard",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19942": {
+        "id": 19942,
+        "name": "Eric Berna de Laborde (f. Thomsen)",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19954": {
+        "id": 19954,
+        "name": "Kim Paulsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19956": {
+        "id": 19956,
+        "name": "Allan Wagner, Greve",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19959": {
+        "id": 19959,
+        "name": "Astrid Kristiansen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19960": {
+        "id": 19960,
+        "name": "Åge Jepsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19963": {
+        "id": 19963,
+        "name": "Jannie Bak",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19966": {
+        "id": 19966,
+        "name": "Morten Gjeddebæk",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19970": {
+        "id": 19970,
+        "name": "Ib Ingerslev",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19971": {
+        "id": 19971,
+        "name": "Søren Jensen, Odder",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19974": {
+        "id": 19974,
+        "name": "Torben Jerlach, Næstved",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19975": {
+        "id": 19975,
+        "name": "Filip Soos, Stenbroens Jurister",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19980": {
+        "id": 19980,
+        "name": "Mette og Ulf Vang Ørom",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "19995": {
+        "id": 19995,
+        "name": "Søren Mulvad, Ribe",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20002": {
+        "id": 20002,
+        "name": "Poul Jørgensen, Hjørring",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20003": {
+        "id": 20003,
+        "name": "Niels Pedersen, Bækmarksbro",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20004": {
+        "id": 20004,
+        "name": "Lars Milling, Drejø",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20007": {
+        "id": 20007,
+        "name": "Mogens Hasle Møller",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20008": {
+        "id": 20008,
+        "name": "Bo Vendelboe",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20010": {
+        "id": 20010,
+        "name": "Jørn Bladsgaard Larsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20011": {
+        "id": 20011,
+        "name": "Jørgen Weihrauch",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20013": {
+        "id": 20013,
+        "name": "Max Schmeling",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20015": {
+        "id": 20015,
+        "name": "P. David J. Cooke",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20017": {
+        "id": 20017,
+        "name": "Dorthe Brauner Jensen, Silkeborg",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20019": {
+        "id": 20019,
+        "name": "Mona Lisa Dahms, Aalborg",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20020": {
+        "id": 20020,
+        "name": "Claus Hedegaard Sørensen, Roskilde",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20021": {
+        "id": 20021,
+        "name": "Daniel Davidsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20022": {
+        "id": 20022,
+        "name": "Karen Maarup Grønning",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20024": {
+        "id": 20024,
+        "name": "John Andersen, Væggerløse",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20026": {
+        "id": 20026,
+        "name": "Jes Hedegaard Bælum",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20028": {
+        "id": 20028,
+        "name": "Steen Stokholm",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20029": {
+        "id": 20029,
+        "name": "Sanne Bang",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20030": {
+        "id": 20030,
+        "name": "Henrik Grønning",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20031": {
+        "id": 20031,
+        "name": "Karen K Christensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20032": {
+        "id": 20032,
+        "name": "Torben Knudsen, Nørresundby",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20033": {
+        "id": 20033,
+        "name": "Jesper Lykke Christensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20034": {
+        "id": 20034,
+        "name": "Ulrike Pielmeier",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20035": {
+        "id": 20035,
+        "name": "Sarah Crumlin Spanggaard",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20036": {
+        "id": 20036,
+        "name": "Jesper Højland",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20037": {
+        "id": 20037,
+        "name": "Dan Knudsen, Hjortshøj",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20038": {
+        "id": 20038,
+        "name": "Bo Tønnesen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20039": {
+        "id": 20039,
+        "name": "Morten Lange, København K",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20043": {
+        "id": 20043,
+        "name": "Anne Lomholt Nissum, Lemvig",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20045": {
+        "id": 20045,
+        "name": "Jan Elnegaard, Kværndrup",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20046": {
+        "id": 20046,
+        "name": "Frank Gundersen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20047": {
+        "id": 20047,
+        "name": "Jens-Ole Bøgild",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20049": {
+        "id": 20049,
+        "name": "Pia Slot, Hanstholm",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20050": {
+        "id": 20050,
+        "name": "Agnete Stovgaard, Snedsted",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20054": {
+        "id": 20054,
+        "name": "Otto Anker Nielsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20055": {
+        "id": 20055,
+        "name": "Helge Green",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20061": {
+        "id": 20061,
+        "name": "John Philip Lerche",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20063": {
+        "id": 20063,
+        "name": "Ove Georg Andersen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20065": {
+        "id": 20065,
+        "name": "Hassan .",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20069": {
+        "id": 20069,
+        "name": "Steen Hartvig Jacobsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20072": {
+        "id": 20072,
+        "name": "Michael Arbirk",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20073": {
+        "id": 20073,
+        "name": "Torben Westh Jensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20074": {
+        "id": 20074,
+        "name": "Vibeke Bak Hansen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20080": {
+        "id": 20080,
+        "name": "Hans Berg",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20086": {
+        "id": 20086,
+        "name": "Michael Hansen1",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20087": {
+        "id": 20087,
+        "name": "Lasse O. Pedersen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20091": {
+        "id": 20091,
+        "name": "Jens Øster Mortensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20092": {
+        "id": 20092,
+        "name": "Lars Ebskov",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20093": {
+        "id": 20093,
+        "name": "Emmasophie Poulsen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20094": {
+        "id": 20094,
+        "name": "Jan Kaag Mølgaard",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20096": {
+        "id": 20096,
+        "name": "Anna von Lowzow",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20097": {
+        "id": 20097,
+        "name": "Carl Erik Jensen",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20104": {
+        "id": 20104,
+        "name": "Maja Aa. Jensen, København Ø",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20105": {
+        "id": 20105,
+        "name": "Lars Ulrich Kofoed",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20106": {
+        "id": 20106,
+        "name": "Martin Knudsen, Jyllinge",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20109": {
+        "id": 20109,
+        "name": "Gordon Vahle",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20113": {
+        "id": 20113,
+        "name": "Susanne Skogstad",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20118": {
+        "id": 20118,
+        "name": "Jacob Hald",
         "short_name": null,
         "start": null,
         "end": null,

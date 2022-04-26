@@ -771,17 +771,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22769768,
-            "from_actor": 47,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Karen Hækkerup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22769769,
             "from_actor": 47,
             "to_actor": 573,
@@ -791,17 +780,6 @@
             "from_actor_name": "Karen Hækkerup",
             "to_actor_name": "Socialdemokratiet",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22769770,
-            "from_actor": 47,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Karen Hækkerup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22769771,
@@ -1783,17 +1761,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22769863,
-            "from_actor": 47,
-            "to_actor": 426,
-            "start": "2007-06-02",
-            "end": "2007-04-09",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Karen Hækkerup",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22769864,
             "from_actor": 47,
             "to_actor": 574,
@@ -1836,6 +1803,39 @@
             "from_actor_name": "Karen Hækkerup",
             "to_actor_name": "Rigsretten",
             "type": "Kommission"
+        },
+        {
+            "id": 29499559,
+            "from_actor": 47,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karen Hækkerup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499608,
+            "from_actor": 47,
+            "to_actor": 426,
+            "start": "2007-06-02",
+            "end": "2007-04-09",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Karen Hækkerup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499782,
+            "from_actor": 47,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karen Hækkerup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

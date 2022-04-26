@@ -5183,6 +5183,10 @@
         "name": "Peter Overgaard",
         "type": 12
     },
+    "1297": {
+        "name": "Henning Poulsen",
+        "type": 12
+    },
     "1298": {
         "name": "Folketingets Ombudsmand",
         "type": 2
@@ -13231,6 +13235,10 @@
         "name": "Blaakilde Ungdomsskole",
         "type": 10
     },
+    "3461": {
+        "name": "Jørgen Andersen",
+        "type": 12
+    },
     "3462": {
         "name": "Øresund International Skole",
         "type": 10
@@ -17685,6 +17693,10 @@
     },
     "4692": {
         "name": "Katja Nielsen",
+        "type": 12
+    },
+    "4693": {
+        "name": "Jens H. Johnsen",
         "type": 12
     },
     "4694": {
@@ -36372,7 +36384,7 @@
         "type": 5
     },
     "9978": {
-        "name": "Carl Anton Kruuse",
+        "name": "Carl Anton Kruse",
         "type": 5
     },
     "9979": {
@@ -37988,7 +38000,7 @@
         "type": 5
     },
     "10398": {
-        "name": "Ejnar Nielsen",
+        "name": "Ejnar Nielsen (dublet)",
         "type": 5
     },
     "10399": {
@@ -38581,6 +38593,10 @@
     },
     "10567": {
         "name": "Lars Larsen",
+        "type": 12
+    },
+    "10568": {
+        "name": "Peter Kovacs",
         "type": 12
     },
     "10569": {
@@ -57272,8 +57288,8 @@
         "type": 4
     },
     "15609": {
-        "name": "Folketinget",
-        "type": 11
+        "name": "Fejloprettet",
+        "type": 7
     },
     "15610": {
         "name": "Poul Overgaard Nielsen",
@@ -64095,6 +64111,10 @@
         "name": "Øjvind Vilsholm",
         "type": 5
     },
+    "17967": {
+        "name": "Mike Nielsen",
+        "type": 12
+    },
     "17973": {
         "name": "Laurits Vemmelund",
         "type": 12
@@ -66972,7 +66992,7 @@
         "type": 12
     },
     "19121": {
-        "name": "2030-netværket ",
+        "name": "2030-netværket",
         "type": 13
     },
     "19122": {
@@ -68479,12 +68499,744 @@
         "name": "Dennis Barndorph Sichlau",
         "type": 5
     },
+    "19829": {
+        "name": "Europaudvalget",
+        "type": 3
+    },
+    "19831": {
+        "name": "Sydslesvigudvalget",
+        "type": 9
+    },
+    "19833": {
+        "name": "Kontaktudvalget for Det Tyske Mindretal",
+        "type": 9
+    },
     "19834": {
         "name": "Kirsten Hermansen",
         "type": 5
     },
     "19836": {
         "name": "Bodil Dichow",
+        "type": 12
+    },
+    "19839": {
+        "name": "Tilsynet med Folketingets Bibliotek",
+        "type": 3
+    },
+    "19840": {
+        "name": "Anne Madsen",
+        "type": 5
+    },
+    "19841": {
+        "name": "Simon Enevold Hansen",
+        "type": 5
+    },
+    "19842": {
+        "name": "Emma Leerskov Bak",
+        "type": 5
+    },
+    "19843": {
+        "name": "Ole Nørskov",
+        "type": 12
+    },
+    "19845": {
+        "name": "Det Udenrigspolitiske Nævn",
+        "type": 9
+    },
+    "19850": {
+        "name": "Lene Dybro Bechgren",
+        "type": 12
+    },
+    "19851": {
+        "name": "Lis Søndergaard, Hadsten",
+        "type": 12
+    },
+    "19854": {
+        "name": "Folketinget",
+        "type": 11
+    },
+    "19855": {
+        "name": "Socialdemokratiet",
+        "type": 4
+    },
+    "19856": {
+        "name": "Venstre, Danmarks Liberale Parti",
+        "type": 4
+    },
+    "19857": {
+        "name": "Dansk Folkeparti",
+        "type": 4
+    },
+    "19858": {
+        "name": "Socialistisk Folkeparti",
+        "type": 4
+    },
+    "19859": {
+        "name": "Radikale Venstre",
+        "type": 4
+    },
+    "19860": {
+        "name": "Enhedslisten",
+        "type": 4
+    },
+    "19861": {
+        "name": "Det Konservative Folkeparti",
+        "type": 4
+    },
+    "19862": {
+        "name": "Nye Borgerlige",
+        "type": 4
+    },
+    "19863": {
+        "name": "Liberal Alliance",
+        "type": 4
+    },
+    "19864": {
+        "name": "Alternativet",
+        "type": 4
+    },
+    "19865": {
+        "name": "Kristendemokraterne",
+        "type": 4
+    },
+    "19866": {
+        "name": "Inuit Ataqatigiit",
+        "type": 4
+    },
+    "19867": {
+        "name": "Siumut",
+        "type": 4
+    },
+    "19868": {
+        "name": "Sambandsflokkurin",
+        "type": 4
+    },
+    "19869": {
+        "name": "Javnaðarflokkurin",
+        "type": 4
+    },
+    "19870": {
+        "name": "Uden for folketingsgrupperne - Simon Emil Ammitzbøll-Bille",
+        "type": 4
+    },
+    "19871": {
+        "name": "Uden for folketingsgrupperne - Uffe Elbæk",
+        "type": 4
+    },
+    "19872": {
+        "name": "Uden for folketingsgrupperne - Naser Khader",
+        "type": 4
+    },
+    "19873": {
+        "name": "Uden for folketingsgrupperne - Sikandar Siddique",
+        "type": 4
+    },
+    "19874": {
+        "name": "Uden for folketingsgrupperne - Inger Støjberg",
+        "type": 4
+    },
+    "19875": {
+        "name": "Uden for folketingsgrupperne - Susanne Zimmer",
+        "type": 4
+    },
+    "19876": {
+        "name": "Uden for folketingsgrupperne - Orla Østerby",
+        "type": 4
+    },
+    "19877": {
+        "name": "Udvalget til Valgs Prøvelse",
+        "type": 3
+    },
+    "19878": {
+        "name": "Udvalget for Forretningsordenen",
+        "type": 3
+    },
+    "19879": {
+        "name": "Underudvalget under Udvalget for Forretningsordenen",
+        "type": 3
+    },
+    "19880": {
+        "name": "Granskningsudvalget",
+        "type": 3
+    },
+    "19881": {
+        "name": "Folketingets Præsidium",
+        "type": 3
+    },
+    "19882": {
+        "name": "Tingsekretærer",
+        "type": 3
+    },
+    "19887": {
+        "name": "Europaudvalgets Underudvalg",
+        "type": 3
+    },
+    "19888": {
+        "name": "OSCEs Parlamentariske Forsamling",
+        "type": 9
+    },
+    "19889": {
+        "name": "Beskæftigelsesudvalget",
+        "type": 3
+    },
+    "19890": {
+        "name": "Europarådet",
+        "type": 9
+    },
+    "19891": {
+        "name": "Nordisk Råd",
+        "type": 3
+    },
+    "19892": {
+        "name": "NATO's Parlamentariske Forsamling",
+        "type": 9
+    },
+    "19893": {
+        "name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+        "type": 9
+    },
+    "19894": {
+        "name": "Den Arktiske Delegation",
+        "type": 3
+    },
+    "19895": {
+        "name": "Børne- og Undervisningsudvalget",
+        "type": 3
+    },
+    "19896": {
+        "name": "Epidemiudvalget",
+        "type": 3
+    },
+    "19897": {
+        "name": "Finansudvalget",
+        "type": 3
+    },
+    "19898": {
+        "name": "Grønlandsudvalget",
+        "type": 3
+    },
+    "19899": {
+        "name": "Indfødsretsudvalget",
+        "type": 3
+    },
+    "19900": {
+        "name": "Ligestillingsudvalget",
+        "type": 3
+    },
+    "19901": {
+        "name": "Tilsynet i henhold til grundlovens § 71",
+        "type": 3
+    },
+    "19902": {
+        "name": "Social- og Ældreudvalget",
+        "type": 3
+    },
+    "19903": {
+        "name": "Udenrigsudvalget",
+        "type": 3
+    },
+    "19904": {
+        "name": "Udlændinge- og Integrationsudvalget",
+        "type": 3
+    },
+    "19905": {
+        "name": "Færøudvalget",
+        "type": 3
+    },
+    "19906": {
+        "name": "Retsudvalget",
+        "type": 3
+    },
+    "19907": {
+        "name": "Erhvervsudvalget",
+        "type": 3
+    },
+    "19908": {
+        "name": "Forsvarsudvalget",
+        "type": 3
+    },
+    "19909": {
+        "name": "Indenrigs- og Boligudvalget",
+        "type": 3
+    },
+    "19910": {
+        "name": "Kirkeudvalget",
+        "type": 3
+    },
+    "19911": {
+        "name": "Klima-, Energi- og Forsyningsudvalget",
+        "type": 3
+    },
+    "19912": {
+        "name": "Kulturudvalget ",
+        "type": 3
+    },
+    "19913": {
+        "name": "Miljø- og Fødevareudvalget",
+        "type": 3
+    },
+    "19914": {
+        "name": "Skatteudvalget",
+        "type": 3
+    },
+    "19915": {
+        "name": "Transportudvalget",
+        "type": 3
+    },
+    "19916": {
+        "name": "Uddannelses- og Forskningsudvalget",
+        "type": 3
+    },
+    "19917": {
+        "name": "Udvalget for Landdistrikter og Øer",
+        "type": 3
+    },
+    "19919": {
+        "name": "Brian Bressendorff",
+        "type": 5
+    },
+    "19920": {
+        "name": "Karsten Filsø",
+        "type": 5
+    },
+    "19921": {
+        "name": "Sundhedsudvalget",
+        "type": 3
+    },
+    "19925": {
+        "name": "Martin Collignon",
+        "type": 12
+    },
+    "19926": {
+        "name": "Morten Hæk",
+        "type": 12
+    },
+    "19927": {
+        "name": "Udvalget vedrørende Det Etiske Råd",
+        "type": 9
+    },
+    "19928": {
+        "name": "Kim Aas",
+        "type": 5
+    },
+    "19931": {
+        "name": "Hanne Vad Sørensen",
+        "type": 12
+    },
+    "19932": {
+        "name": "Kurt Rasmussen",
+        "type": 12
+    },
+    "19933": {
+        "name": "Uden for folketingsgrupperne - Lars Løkke Rasmussen",
+        "type": 4
+    },
+    "19935": {
+        "name": "Erik Sminge Bundgaard",
+        "type": 12
+    },
+    "19936": {
+        "name": "2030-netværket",
+        "type": 13
+    },
+    "19937": {
+        "name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+        "type": 13
+    },
+    "19942": {
+        "name": "Eric Berna de Laborde (f. Thomsen)",
+        "type": 12
+    },
+    "19948": {
+        "name": "Mark Grossmann",
+        "type": 5
+    },
+    "19950": {
+        "name": "Gunhild Wielandt Houe",
+        "type": 5
+    },
+    "19951": {
+        "name": "Inge Ruth Jensen",
+        "type": 5
+    },
+    "19952": {
+        "name": "Bente Kofod Nørgård-Sørensen",
+        "type": 5
+    },
+    "19954": {
+        "name": "Kim Paulsen",
+        "type": 12
+    },
+    "19956": {
+        "name": "Allan Wagner, Greve",
+        "type": 12
+    },
+    "19959": {
+        "name": "Astrid Kristiansen",
+        "type": 12
+    },
+    "19960": {
+        "name": "Åge Jepsen",
+        "type": 12
+    },
+    "19961": {
+        "name": "Karina Sand Thomsen",
+        "type": 5
+    },
+    "19962": {
+        "name": "Rasmus Steenberger (udpeget af SF)",
+        "type": 5
+    },
+    "19963": {
+        "name": "Jannie Bak",
+        "type": 12
+    },
+    "19966": {
+        "name": "Morten Gjeddebæk",
+        "type": 12
+    },
+    "19967": {
+        "name": "Udvalget for Småøer",
+        "type": 3
+    },
+    "19970": {
+        "name": "Ib Ingerslev",
+        "type": 12
+    },
+    "19971": {
+        "name": "Søren Jensen, Odder",
+        "type": 12
+    },
+    "19972": {
+        "name": "Frie Grønne, Danmarks Nye Venstrefløjsparti",
+        "type": 4
+    },
+    "19974": {
+        "name": "Torben Jerlach, Næstved",
+        "type": 12
+    },
+    "19975": {
+        "name": "Filip Soos, Stenbroens Jurister",
+        "type": 12
+    },
+    "19980": {
+        "name": "Mette og Ulf Vang Ørom",
+        "type": 12
+    },
+    "19982": {
+        "name": "Jan Bjergskov Larsen",
+        "type": 5
+    },
+    "19983": {
+        "name": "Lønningsrådet",
+        "type": 9
+    },
+    "19995": {
+        "name": "Søren Mulvad, Ribe",
+        "type": 12
+    },
+    "19996": {
+        "name": "Helgi Abrahamsen",
+        "type": 5
+    },
+    "19997": {
+        "name": "Niklas Borker Bjerre",
+        "type": 5
+    },
+    "19999": {
+        "name": "Mikkel Bjerregaard",
+        "type": 5
+    },
+    "20000": {
+        "name": "Anna Steen Tvergaard",
+        "type": 5
+    },
+    "20002": {
+        "name": "Poul Jørgensen, Hjørring",
+        "type": 12
+    },
+    "20003": {
+        "name": "Niels Pedersen, Bækmarksbro",
+        "type": 12
+    },
+    "20004": {
+        "name": "Lars Milling, Drejø",
+        "type": 12
+    },
+    "20007": {
+        "name": "Mogens Hasle Møller",
+        "type": 12
+    },
+    "20008": {
+        "name": "Bo Vendelboe",
+        "type": 12
+    },
+    "20010": {
+        "name": "Jørn Bladsgaard Larsen",
+        "type": 12
+    },
+    "20011": {
+        "name": "Jørgen Weihrauch",
+        "type": 12
+    },
+    "20013": {
+        "name": "Max Schmeling",
+        "type": 12
+    },
+    "20015": {
+        "name": "P. David J. Cooke",
+        "type": 12
+    },
+    "20017": {
+        "name": "Dorthe Brauner Jensen, Silkeborg",
+        "type": 12
+    },
+    "20018": {
+        "name": "Morten Bech Damkjær",
+        "type": 5
+    },
+    "20019": {
+        "name": "Mona Lisa Dahms, Aalborg",
+        "type": 12
+    },
+    "20020": {
+        "name": "Claus Hedegaard Sørensen, Roskilde",
+        "type": 12
+    },
+    "20021": {
+        "name": "Daniel Davidsen",
+        "type": 12
+    },
+    "20022": {
+        "name": "Karen Maarup Grønning",
+        "type": 12
+    },
+    "20024": {
+        "name": "John Andersen, Væggerløse",
+        "type": 12
+    },
+    "20026": {
+        "name": "Jes Hedegaard Bælum",
+        "type": 12
+    },
+    "20028": {
+        "name": "Steen Stokholm",
+        "type": 12
+    },
+    "20029": {
+        "name": "Sanne Bang",
+        "type": 12
+    },
+    "20030": {
+        "name": "Henrik Grønning",
+        "type": 12
+    },
+    "20031": {
+        "name": "Karen K Christensen",
+        "type": 12
+    },
+    "20032": {
+        "name": "Torben Knudsen, Nørresundby",
+        "type": 12
+    },
+    "20033": {
+        "name": "Jesper Lykke Christensen",
+        "type": 12
+    },
+    "20034": {
+        "name": "Ulrike Pielmeier",
+        "type": 12
+    },
+    "20035": {
+        "name": "Sarah Crumlin Spanggaard",
+        "type": 12
+    },
+    "20036": {
+        "name": "Jesper Højland",
+        "type": 12
+    },
+    "20037": {
+        "name": "Dan Knudsen, Hjortshøj",
+        "type": 12
+    },
+    "20038": {
+        "name": "Bo Tønnesen",
+        "type": 12
+    },
+    "20039": {
+        "name": "Morten Lange, København K",
+        "type": 12
+    },
+    "20043": {
+        "name": "Anne Lomholt Nissum, Lemvig",
+        "type": 12
+    },
+    "20044": {
+        "name": "Nikolaj Nordby Thøgersen",
+        "type": 5
+    },
+    "20045": {
+        "name": "Jan Elnegaard, Kværndrup",
+        "type": 12
+    },
+    "20046": {
+        "name": "Frank Gundersen",
+        "type": 12
+    },
+    "20047": {
+        "name": "Jens-Ole Bøgild",
+        "type": 12
+    },
+    "20049": {
+        "name": "Pia Slot, Hanstholm",
+        "type": 12
+    },
+    "20050": {
+        "name": "Agnete Stovgaard, Snedsted",
+        "type": 12
+    },
+    "20051": {
+        "name": "Theis Kylling Hommeltoft",
+        "type": 5
+    },
+    "20054": {
+        "name": "Otto Anker Nielsen",
+        "type": 12
+    },
+    "20055": {
+        "name": "Helge Green",
+        "type": 12
+    },
+    "20056": {
+        "name": "Susanne Krieger von Lowzow",
+        "type": 5
+    },
+    "20061": {
+        "name": "John Philip Lerche",
+        "type": 12
+    },
+    "20063": {
+        "name": "Ove Georg Andersen",
+        "type": 12
+    },
+    "20065": {
+        "name": "Hassan .",
+        "type": 12
+    },
+    "20067": {
+        "name": "Mathias Mæhle",
+        "type": 5
+    },
+    "20069": {
+        "name": "Steen Hartvig Jacobsen",
+        "type": 12
+    },
+    "20072": {
+        "name": "Michael Arbirk",
+        "type": 12
+    },
+    "20073": {
+        "name": "Torben Westh Jensen",
+        "type": 12
+    },
+    "20074": {
+        "name": "Vibeke Bak Hansen",
+        "type": 12
+    },
+    "20076": {
+        "name": "Uden for folketingsgrupperne - Karina Adsbøl",
+        "type": 4
+    },
+    "20077": {
+        "name": "Uden for folketingsgrupperne - Lise Bech",
+        "type": 4
+    },
+    "20078": {
+        "name": "Uden for folketingsgrupperne - Liselott Blixt",
+        "type": 4
+    },
+    "20079": {
+        "name": "Uden for folketingsgrupperne - Bent Bøgsted",
+        "type": 4
+    },
+    "20080": {
+        "name": "Hans Berg",
+        "type": 12
+    },
+    "20081": {
+        "name": "Uden for folketingsgrupperne - Hans Kristian Skibby",
+        "type": 4
+    },
+    "20084": {
+        "name": "Uden for folketingsgrupperne - Marie Krarup",
+        "type": 4
+    },
+    "20086": {
+        "name": "Michael Hansen1",
+        "type": 12
+    },
+    "20087": {
+        "name": "Lasse O. Pedersen",
+        "type": 12
+    },
+    "20091": {
+        "name": "Jens Øster Mortensen",
+        "type": 12
+    },
+    "20092": {
+        "name": "Lars Ebskov",
+        "type": 12
+    },
+    "20093": {
+        "name": "Emmasophie Poulsen",
+        "type": 12
+    },
+    "20094": {
+        "name": "Jan Kaag Mølgaard",
+        "type": 12
+    },
+    "20096": {
+        "name": "Anna von Lowzow",
+        "type": 12
+    },
+    "20097": {
+        "name": "Carl Erik Jensen",
+        "type": 12
+    },
+    "20098": {
+        "name": "Anna Margrethe Windfeld Skou",
+        "type": 5
+    },
+    "20102": {
+        "name": "Morten Schiøttz",
+        "type": 5
+    },
+    "20103": {
+        "name": "Kirsten Hermansen",
+        "type": 5
+    },
+    "20104": {
+        "name": "Maja Aa. Jensen, København Ø",
+        "type": 12
+    },
+    "20105": {
+        "name": "Lars Ulrich Kofoed",
+        "type": 12
+    },
+    "20106": {
+        "name": "Martin Knudsen, Jyllinge",
+        "type": 12
+    },
+    "20109": {
+        "name": "Gordon Vahle",
+        "type": 12
+    },
+    "20113": {
+        "name": "Susanne Skogstad",
+        "type": 12
+    },
+    "20118": {
+        "name": "Jacob Hald",
         "type": 12
     }
 }

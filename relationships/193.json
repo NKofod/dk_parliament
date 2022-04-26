@@ -1838,17 +1838,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22647844,
-            "from_actor": 193,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Karsten Nonbo",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22647845,
             "from_actor": 193,
             "to_actor": 550,
@@ -1858,17 +1847,6 @@
             "from_actor_name": "Karsten Nonbo",
             "to_actor_name": "Venstre, Danmarks Liberale Parti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22647846,
-            "from_actor": 193,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Karsten Nonbo",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22647847,
@@ -3681,6 +3659,28 @@
             "start": "2004-11-13",
             "end": "2004-10-18",
             "role": "orlov med vederlag",
+            "from_actor_name": "Karsten Nonbo",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499422,
+            "from_actor": 193,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karsten Nonbo",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499644,
+            "from_actor": 193,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
             "from_actor_name": "Karsten Nonbo",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"

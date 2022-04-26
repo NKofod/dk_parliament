@@ -1695,7 +1695,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601532,
+            "id": 31728601,
             "from_actor": 173,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -1706,7 +1706,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601533,
+            "id": 31728602,
             "from_actor": 173,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -1717,18 +1717,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601534,
-            "from_actor": 173,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601535,
+            "id": 31728603,
             "from_actor": 173,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -1739,18 +1728,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601536,
-            "from_actor": 173,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601537,
+            "id": 31728604,
             "from_actor": 173,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -1761,7 +1739,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601538,
+            "id": 31728605,
             "from_actor": 173,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -1772,7 +1750,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601539,
+            "id": 31728606,
             "from_actor": 173,
             "to_actor": 553,
             "start": "2007-11-13",
@@ -1783,7 +1761,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601540,
+            "id": 31728607,
             "from_actor": 173,
             "to_actor": 554,
             "start": "2008-10-07",
@@ -1794,7 +1772,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601541,
+            "id": 31728608,
             "from_actor": 173,
             "to_actor": 555,
             "start": "2009-10-06",
@@ -1805,7 +1783,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601542,
+            "id": 31728609,
             "from_actor": 173,
             "to_actor": 556,
             "start": "2010-10-05",
@@ -1816,7 +1794,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601543,
+            "id": 31728610,
             "from_actor": 173,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -1827,7 +1805,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601544,
+            "id": 31728611,
             "from_actor": 173,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -1838,7 +1816,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601545,
+            "id": 31728612,
             "from_actor": 173,
             "to_actor": 769,
             "start": "2010-03-04",
@@ -1849,7 +1827,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601546,
+            "id": 31728613,
             "from_actor": 173,
             "to_actor": 770,
             "start": "2010-10-05",
@@ -1860,7 +1838,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601547,
+            "id": 31728614,
             "from_actor": 173,
             "to_actor": 771,
             "start": "2010-10-05",
@@ -1871,7 +1849,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601548,
+            "id": 31728615,
             "from_actor": 173,
             "to_actor": 614,
             "start": "2005-02-23",
@@ -1882,7 +1860,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601549,
+            "id": 31728616,
             "from_actor": 173,
             "to_actor": 714,
             "start": "2005-02-23",
@@ -1893,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601550,
+            "id": 31728617,
             "from_actor": 173,
             "to_actor": 616,
             "start": "2005-10-05",
@@ -1904,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601551,
+            "id": 31728618,
             "from_actor": 173,
             "to_actor": 1139,
             "start": "2006-10-04",
@@ -1915,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601552,
+            "id": 31728619,
             "from_actor": 173,
             "to_actor": 1140,
             "start": "2007-10-03",
@@ -1926,7 +1904,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601553,
+            "id": 31728620,
             "from_actor": 173,
             "to_actor": 1092,
             "start": "2007-11-28",
@@ -1937,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601554,
+            "id": 31728621,
             "from_actor": 173,
             "to_actor": 622,
             "start": "2008-06-13",
@@ -1948,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601555,
+            "id": 31728622,
             "from_actor": 173,
             "to_actor": 803,
             "start": "2008-10-08",
@@ -1959,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601556,
+            "id": 31728623,
             "from_actor": 173,
             "to_actor": 1135,
             "start": "2009-10-07",
@@ -1970,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601557,
+            "id": 31728624,
             "from_actor": 173,
             "to_actor": 1105,
             "start": "2011-04-01",
@@ -1981,7 +1959,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601558,
+            "id": 31728625,
             "from_actor": 173,
             "to_actor": 1106,
             "start": "2011-04-01",
@@ -1992,7 +1970,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601559,
+            "id": 31728626,
             "from_actor": 173,
             "to_actor": 772,
             "start": "2010-10-05",
@@ -2003,7 +1981,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601560,
+            "id": 31728627,
             "from_actor": 173,
             "to_actor": 474,
             "start": "2008-02-28",
@@ -2014,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601561,
+            "id": 31728628,
             "from_actor": 173,
             "to_actor": 592,
             "start": "2005-02-23",
@@ -2025,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601562,
+            "id": 31728629,
             "from_actor": 173,
             "to_actor": 592,
             "start": "2005-09-30",
@@ -2036,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601563,
+            "id": 31728630,
             "from_actor": 173,
             "to_actor": 1079,
             "start": "2005-10-05",
@@ -2047,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601564,
+            "id": 31728631,
             "from_actor": 173,
             "to_actor": 753,
             "start": "2006-10-04",
@@ -2058,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601565,
+            "id": 31728632,
             "from_actor": 173,
             "to_actor": 753,
             "start": "2007-01-12",
@@ -2069,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601566,
+            "id": 31728633,
             "from_actor": 173,
             "to_actor": 1080,
             "start": "2007-10-03",
@@ -2080,7 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601567,
+            "id": 31728634,
             "from_actor": 173,
             "to_actor": 848,
             "start": "2010-10-06",
@@ -2091,7 +2069,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601568,
+            "id": 31728635,
             "from_actor": 173,
             "to_actor": 848,
             "start": "2011-03-02",
@@ -2102,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601569,
+            "id": 31728636,
             "from_actor": 173,
             "to_actor": 847,
             "start": "2010-03-02",
@@ -2113,7 +2091,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601570,
+            "id": 31728637,
             "from_actor": 173,
             "to_actor": 773,
             "start": "2010-10-05",
@@ -2124,7 +2102,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601571,
+            "id": 31728638,
             "from_actor": 173,
             "to_actor": 1166,
             "start": "2007-11-28",
@@ -2135,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601572,
+            "id": 31728639,
             "from_actor": 173,
             "to_actor": 890,
             "start": "2008-10-08",
@@ -2146,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601573,
+            "id": 31728640,
             "from_actor": 173,
             "to_actor": 1193,
             "start": "2009-10-07",
@@ -2157,7 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601574,
+            "id": 31728641,
             "from_actor": 173,
             "to_actor": 894,
             "start": "2010-10-06",
@@ -2168,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601575,
+            "id": 31728642,
             "from_actor": 173,
             "to_actor": 1078,
             "start": "2011-03-17",
@@ -2179,7 +2157,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601576,
+            "id": 31728643,
             "from_actor": 173,
             "to_actor": 1078,
             "start": "2011-03-31",
@@ -2190,7 +2168,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601577,
+            "id": 31728644,
             "from_actor": 173,
             "to_actor": 889,
             "start": "2007-11-28",
@@ -2201,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601578,
+            "id": 31728645,
             "from_actor": 173,
             "to_actor": 1107,
             "start": "2008-10-08",
@@ -2212,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601579,
+            "id": 31728646,
             "from_actor": 173,
             "to_actor": 760,
             "start": "2009-10-07",
@@ -2223,7 +2201,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601580,
+            "id": 31728647,
             "from_actor": 173,
             "to_actor": 1016,
             "start": "2010-10-06",
@@ -2234,7 +2212,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601581,
+            "id": 31728648,
             "from_actor": 173,
             "to_actor": 1016,
             "start": "2010-10-30",
@@ -2245,7 +2223,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601582,
+            "id": 31728649,
             "from_actor": 173,
             "to_actor": 1016,
             "start": "2010-11-05",
@@ -2256,7 +2234,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601583,
+            "id": 31728650,
             "from_actor": 173,
             "to_actor": 15870,
             "start": "2015-07-08",
@@ -2267,7 +2245,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601584,
+            "id": 31728651,
             "from_actor": 173,
             "to_actor": 16639,
             "start": "2016-04-01",
@@ -2278,7 +2256,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601585,
+            "id": 31728652,
             "from_actor": 173,
             "to_actor": 18349,
             "start": "2019-04-05",
@@ -2289,7 +2267,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601586,
+            "id": 31728653,
             "from_actor": 173,
             "to_actor": 17753,
             "start": "2018-03-01",
@@ -2300,7 +2278,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601587,
+            "id": 31728654,
             "from_actor": 173,
             "to_actor": 18738,
             "start": "2019-08-21",
@@ -2311,7 +2289,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601588,
+            "id": 31728655,
             "from_actor": 173,
             "to_actor": 5138,
             "start": "2014-10-08",
@@ -2322,7 +2300,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601589,
+            "id": 31728656,
             "from_actor": 173,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -2333,7 +2311,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601590,
+            "id": 31728657,
             "from_actor": 173,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -2344,7 +2322,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601591,
+            "id": 31728658,
             "from_actor": 173,
             "to_actor": 1075,
             "start": "2011-04-01",
@@ -2355,7 +2333,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601592,
+            "id": 31728659,
             "from_actor": 173,
             "to_actor": 51,
             "start": "2013-10-02",
@@ -2366,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601593,
+            "id": 31728660,
             "from_actor": 173,
             "to_actor": 16911,
             "start": "2016-10-05",
@@ -2377,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601594,
+            "id": 31728661,
             "from_actor": 173,
             "to_actor": 1,
             "start": "2013-10-02",
@@ -2388,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601595,
+            "id": 31728662,
             "from_actor": 173,
             "to_actor": 595,
             "start": "2010-05-31",
@@ -2399,7 +2377,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601596,
+            "id": 31728663,
+            "from_actor": 173,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31728664,
             "from_actor": 173,
             "to_actor": 1076,
             "start": "2011-04-01",
@@ -2410,7 +2399,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601597,
+            "id": 31728665,
             "from_actor": 173,
             "to_actor": 16864,
             "start": "2016-10-05",
@@ -2421,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601598,
+            "id": 31728666,
             "from_actor": 173,
             "to_actor": 5163,
             "start": "2014-10-08",
@@ -2432,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601599,
+            "id": 31728667,
             "from_actor": 173,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -2443,7 +2432,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601600,
+            "id": 31728668,
             "from_actor": 173,
             "to_actor": 18346,
             "start": "2018-11-13",
@@ -2454,7 +2443,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601601,
+            "id": 31728669,
             "from_actor": 173,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -2465,7 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601602,
+            "id": 31728670,
             "from_actor": 173,
             "to_actor": 16013,
             "start": "2015-10-07",
@@ -2476,7 +2465,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601603,
+            "id": 31728671,
             "from_actor": 173,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -2487,7 +2476,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601604,
+            "id": 31728672,
             "from_actor": 173,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -2498,7 +2487,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601605,
+            "id": 31728673,
             "from_actor": 173,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -2509,7 +2498,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601606,
+            "id": 31728674,
             "from_actor": 173,
             "to_actor": 15883,
             "start": "2015-07-03",
@@ -2520,7 +2509,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601607,
+            "id": 31728675,
             "from_actor": 173,
             "to_actor": 16865,
             "start": "2016-10-05",
@@ -2531,7 +2520,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601608,
+            "id": 31728676,
             "from_actor": 173,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -2542,7 +2531,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601609,
+            "id": 31728677,
             "from_actor": 173,
             "to_actor": 104,
             "start": "2013-10-02",
@@ -2553,7 +2542,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601610,
+            "id": 31728678,
             "from_actor": 173,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -2564,7 +2553,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601611,
+            "id": 31728679,
             "from_actor": 173,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -2575,7 +2564,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601612,
+            "id": 31728680,
             "from_actor": 173,
             "to_actor": 17638,
             "start": "2017-12-08",
@@ -2586,7 +2575,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601613,
+            "id": 31728681,
             "from_actor": 173,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -2597,7 +2586,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601614,
+            "id": 31728682,
             "from_actor": 173,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -2608,7 +2597,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601615,
+            "id": 31728683,
             "from_actor": 173,
             "to_actor": 16035,
             "start": "2015-10-07",
@@ -2619,7 +2608,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601616,
+            "id": 31728684,
             "from_actor": 173,
             "to_actor": 544,
             "start": "2011-10-07",
@@ -2630,7 +2619,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601617,
+            "id": 31728685,
             "from_actor": 173,
             "to_actor": 16913,
             "start": "2016-10-05",
@@ -2641,7 +2630,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601618,
+            "id": 31728686,
             "from_actor": 173,
             "to_actor": 413,
             "start": "2011-10-07",
@@ -2652,7 +2641,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601619,
+            "id": 31728687,
             "from_actor": 173,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -2663,7 +2652,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601620,
+            "id": 31728688,
             "from_actor": 173,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -2674,7 +2663,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601621,
+            "id": 31728689,
             "from_actor": 173,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -2685,7 +2674,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601622,
+            "id": 31728690,
             "from_actor": 173,
             "to_actor": 16014,
             "start": "2015-10-07",
@@ -2696,7 +2685,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601623,
+            "id": 31728691,
             "from_actor": 173,
             "to_actor": 396,
             "start": "2011-10-07",
@@ -2707,7 +2696,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601624,
+            "id": 31728692,
             "from_actor": 173,
             "to_actor": 313,
             "start": "2012-10-03",
@@ -2718,7 +2707,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601625,
+            "id": 31728693,
             "from_actor": 173,
             "to_actor": 16912,
             "start": "2016-10-05",
@@ -2729,7 +2718,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601626,
+            "id": 31728694,
             "from_actor": 173,
             "to_actor": 17621,
             "start": "2017-10-04",
@@ -2740,7 +2729,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601627,
+            "id": 31728695,
             "from_actor": 173,
             "to_actor": 18307,
             "start": "2018-10-03",
@@ -2751,7 +2740,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601628,
+            "id": 31728696,
             "from_actor": 173,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -2762,7 +2751,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601629,
+            "id": 31728697,
             "from_actor": 173,
             "to_actor": 18738,
             "start": "2019-06-21",
@@ -2773,7 +2762,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601630,
+            "id": 31728698,
             "from_actor": 173,
             "to_actor": 15871,
             "start": "2015-10-08",
@@ -2784,7 +2773,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601631,
+            "id": 31728699,
             "from_actor": 173,
             "to_actor": 15897,
             "start": "2015-07-09",
@@ -2795,7 +2784,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601632,
+            "id": 31728700,
             "from_actor": 173,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -2806,7 +2795,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601633,
+            "id": 31728701,
             "from_actor": 173,
             "to_actor": 16033,
             "start": "2015-10-07",
@@ -2817,7 +2806,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601634,
+            "id": 31728702,
             "from_actor": 173,
             "to_actor": 17671,
             "start": "2017-10-04",
@@ -2828,7 +2817,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601635,
+            "id": 31728703,
             "from_actor": 173,
             "to_actor": 18306,
             "start": "2018-10-03",
@@ -2839,7 +2828,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601636,
+            "id": 31728704,
             "from_actor": 173,
             "to_actor": 319,
             "start": "2012-10-03",
@@ -2850,7 +2839,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601637,
+            "id": 31728705,
             "from_actor": 173,
             "to_actor": 17653,
             "start": "2018-08-23",
@@ -2861,7 +2850,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601638,
+            "id": 31728706,
             "from_actor": 173,
             "to_actor": 15884,
             "start": "2015-07-03",
@@ -2872,7 +2861,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601639,
+            "id": 31728707,
             "from_actor": 173,
             "to_actor": 15912,
             "start": "2015-07-09",
@@ -2883,7 +2872,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601640,
+            "id": 31728708,
             "from_actor": 173,
             "to_actor": 16031,
             "start": "2015-10-07",
@@ -2894,7 +2883,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601641,
+            "id": 31728709,
             "from_actor": 173,
             "to_actor": 16094,
             "start": "2015-10-07",
@@ -2905,7 +2894,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601642,
+            "id": 31728710,
             "from_actor": 173,
             "to_actor": 546,
             "start": "2012-09-04",
@@ -2916,7 +2905,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601643,
+            "id": 31728711,
             "from_actor": 173,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -2927,7 +2916,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601644,
+            "id": 31728712,
             "from_actor": 173,
             "to_actor": 15904,
             "start": "2015-07-09",
@@ -2938,7 +2927,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601645,
+            "id": 31728713,
             "from_actor": 173,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -2949,7 +2938,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601646,
+            "id": 31728714,
             "from_actor": 173,
             "to_actor": 15913,
             "start": "2015-07-09",
@@ -2960,7 +2949,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601647,
+            "id": 31728715,
             "from_actor": 173,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -2971,7 +2960,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601648,
+            "id": 31728716,
             "from_actor": 173,
             "to_actor": 16093,
             "start": "2015-10-07",
@@ -2982,7 +2971,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601649,
+            "id": 31728717,
             "from_actor": 173,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -2993,7 +2982,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601650,
+            "id": 31728718,
             "from_actor": 173,
             "to_actor": 5170,
             "start": "2014-10-08",
@@ -3004,7 +2993,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601651,
+            "id": 31728719,
             "from_actor": 173,
             "to_actor": 17643,
             "start": "2017-10-04",
@@ -3015,7 +3004,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601652,
+            "id": 31728720,
             "from_actor": 173,
             "to_actor": 308,
             "start": "2012-10-03",
@@ -3026,7 +3015,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601653,
+            "id": 31728721,
             "from_actor": 173,
             "to_actor": 17638,
             "start": "2017-10-04",
@@ -3037,7 +3026,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601654,
+            "id": 31728722,
             "from_actor": 173,
             "to_actor": 18761,
             "start": "2019-07-04",
@@ -3048,7 +3037,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601655,
+            "id": 31728723,
             "from_actor": 173,
             "to_actor": 18760,
             "start": "2019-07-04",
@@ -3059,7 +3048,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601656,
+            "id": 31728724,
             "from_actor": 173,
             "to_actor": 15870,
             "start": "2011-04-01",
@@ -3070,7 +3059,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601657,
+            "id": 31728725,
             "from_actor": 173,
             "to_actor": 16916,
             "start": "2016-10-05",
@@ -3081,7 +3070,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601658,
+            "id": 31728726,
             "from_actor": 173,
             "to_actor": 17669,
             "start": "2017-10-04",
@@ -3092,7 +3081,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601659,
+            "id": 31728727,
             "from_actor": 173,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -3103,7 +3092,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601660,
+            "id": 31728728,
             "from_actor": 173,
             "to_actor": 320,
             "start": "2012-10-03",
@@ -3114,7 +3103,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601661,
+            "id": 31728729,
             "from_actor": 173,
             "to_actor": 5134,
             "start": "2014-10-08",
@@ -3125,7 +3114,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601662,
+            "id": 31728730,
             "from_actor": 173,
             "to_actor": 170,
             "start": "2013-10-02",
@@ -3136,7 +3125,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601663,
+            "id": 31728731,
             "from_actor": 173,
             "to_actor": 18763,
             "start": "2019-07-04",
@@ -3147,7 +3136,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601664,
+            "id": 31728732,
             "from_actor": 173,
             "to_actor": 419,
             "start": "2012-10-01",
@@ -3158,7 +3147,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601665,
+            "id": 31728733,
             "from_actor": 173,
             "to_actor": 751,
             "start": "2011-10-07",
@@ -3169,7 +3158,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601666,
+            "id": 31728734,
             "from_actor": 173,
             "to_actor": 18762,
             "start": "2019-07-04",
@@ -3180,7 +3169,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601667,
+            "id": 31728735,
             "from_actor": 173,
             "to_actor": 18779,
             "start": "2019-07-04",
@@ -3191,7 +3180,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601668,
+            "id": 31728736,
             "from_actor": 173,
             "to_actor": 546,
             "start": "2012-02-07",
@@ -3202,7 +3191,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601669,
+            "id": 31728737,
             "from_actor": 173,
             "to_actor": 18769,
             "start": "2019-07-04",
@@ -3213,7 +3202,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601670,
+            "id": 31728738,
             "from_actor": 173,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -3224,7 +3213,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601671,
+            "id": 31728739,
             "from_actor": 173,
             "to_actor": 17622,
             "start": "2017-10-04",
@@ -3235,7 +3224,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601672,
+            "id": 31728740,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2020-06-19",
@@ -3246,7 +3235,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601673,
+            "id": 31728741,
             "from_actor": 173,
             "to_actor": 16861,
             "start": "2017-01-01",
@@ -3257,7 +3246,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601674,
+            "id": 31728742,
             "from_actor": 173,
             "to_actor": 18315,
             "start": "2018-10-03",
@@ -3268,7 +3257,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601675,
+            "id": 31728743,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2020-05-20",
@@ -3279,7 +3268,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601676,
+            "id": 31728744,
             "from_actor": 173,
             "to_actor": 418,
             "start": "2011-10-07",
@@ -3290,7 +3279,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601677,
+            "id": 31728745,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2020-04-13",
@@ -3301,7 +3290,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601678,
+            "id": 31728746,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2020-03-18",
@@ -3312,7 +3301,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601679,
+            "id": 31728747,
             "from_actor": 173,
             "to_actor": 5170,
             "start": "2015-03-17",
@@ -3323,7 +3312,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601680,
+            "id": 31728748,
             "from_actor": 173,
             "to_actor": 267,
             "start": "2014-04-08",
@@ -3334,7 +3323,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601681,
+            "id": 31728749,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2019-12-20",
@@ -3345,7 +3334,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601682,
+            "id": 31728750,
             "from_actor": 173,
             "to_actor": 17658,
             "start": "2018-01-31",
@@ -3356,7 +3345,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601683,
+            "id": 31728751,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2019-11-29",
@@ -3367,7 +3356,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601684,
+            "id": 31728752,
             "from_actor": 173,
             "to_actor": 170,
             "start": "2013-12-11",
@@ -3378,7 +3367,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601685,
+            "id": 31728753,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2019-11-27",
@@ -3389,7 +3378,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601686,
+            "id": 31728754,
             "from_actor": 173,
             "to_actor": 18305,
             "start": "2018-10-03",
@@ -3400,7 +3389,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601687,
+            "id": 31728755,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2019-10-10",
@@ -3411,7 +3400,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601688,
+            "id": 31728756,
             "from_actor": 173,
             "to_actor": 327,
             "start": "2013-01-29",
@@ -3422,7 +3411,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601689,
+            "id": 31728757,
             "from_actor": 173,
             "to_actor": 18863,
             "start": "2019-10-02",
@@ -3433,7 +3422,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601690,
+            "id": 31728758,
             "from_actor": 173,
             "to_actor": 319,
             "start": "2013-05-29",
@@ -3444,7 +3433,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601691,
+            "id": 31728759,
             "from_actor": 173,
             "to_actor": 5170,
             "start": "2015-05-16",
@@ -3455,7 +3444,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601692,
+            "id": 31728760,
             "from_actor": 173,
             "to_actor": 325,
             "start": "2013-01-10",
@@ -3466,7 +3455,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601693,
+            "id": 31728761,
             "from_actor": 173,
             "to_actor": 17652,
             "start": "2017-10-04",
@@ -3477,7 +3466,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601694,
+            "id": 31728762,
             "from_actor": 173,
             "to_actor": 18343,
             "start": "2018-10-03",
@@ -3488,7 +3477,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601695,
+            "id": 31728763,
             "from_actor": 173,
             "to_actor": 5170,
             "start": "2015-05-21",
@@ -3499,7 +3488,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601696,
+            "id": 31728764,
+            "from_actor": 173,
+            "to_actor": 19915,
+            "start": "2022-03-31",
+            "end": "2022-04-01",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728765,
             "from_actor": 173,
             "to_actor": 325,
             "start": "2013-01-24",
@@ -3510,7 +3510,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601697,
+            "id": 31728766,
             "from_actor": 173,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -3521,7 +3521,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601698,
+            "id": 31728767,
             "from_actor": 173,
             "to_actor": 19437,
             "start": "2020-11-09",
@@ -3532,18 +3532,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601699,
-            "from_actor": 173,
-            "to_actor": 19437,
-            "start": "2020-12-03",
-            "end": "2020-12-03",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601700,
+            "id": 31728768,
             "from_actor": 173,
             "to_actor": 325,
             "start": "2013-06-12",
@@ -3554,7 +3543,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601701,
+            "id": 31728769,
+            "from_actor": 173,
+            "to_actor": 19437,
+            "start": "2020-12-03",
+            "end": "2020-12-03",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728770,
             "from_actor": 173,
             "to_actor": 22,
             "start": "2013-12-10",
@@ -3565,7 +3565,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601702,
+            "id": 31728771,
             "from_actor": 173,
             "to_actor": 18932,
             "start": "2019-10-02",
@@ -3576,7 +3576,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601703,
+            "id": 31728772,
             "from_actor": 173,
             "to_actor": 19437,
             "start": "2021-04-16",
@@ -3587,7 +3587,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601704,
+            "id": 31728773,
             "from_actor": 173,
             "to_actor": 19437,
             "start": "2021-06-03",
@@ -3598,7 +3598,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601705,
+            "id": 31728774,
             "from_actor": 173,
             "to_actor": 428,
             "start": "2007-11-13",
@@ -3609,7 +3609,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601706,
+            "id": 31728775,
             "from_actor": 173,
             "to_actor": 19437,
             "start": "2021-02-11",
@@ -3620,7 +3620,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601707,
+            "id": 31728776,
             "from_actor": 173,
             "to_actor": 51,
             "start": "2014-07-03",
@@ -3631,7 +3631,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601708,
+            "id": 31728777,
             "from_actor": 173,
             "to_actor": 325,
             "start": "2013-08-28",
@@ -3642,7 +3642,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601709,
+            "id": 31728778,
             "from_actor": 173,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -3653,7 +3653,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601710,
+            "id": 31728779,
             "from_actor": 173,
             "to_actor": 41,
             "start": "2014-02-20",
@@ -3664,7 +3664,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601711,
+            "id": 31728780,
+            "from_actor": 173,
+            "to_actor": 19913,
+            "start": "2022-02-24",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728781,
             "from_actor": 173,
             "to_actor": 16015,
             "start": "2016-05-27",
@@ -3675,7 +3686,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601712,
+            "id": 31728782,
+            "from_actor": 173,
+            "to_actor": 19913,
+            "start": "2021-12-09",
+            "end": "2022-02-22",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728783,
             "from_actor": 173,
             "to_actor": 19437,
             "start": "2020-11-10",
@@ -3686,7 +3708,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601713,
+            "id": 31728784,
+            "from_actor": 173,
+            "to_actor": 19913,
+            "start": "2021-10-07",
+            "end": "2021-12-07",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728785,
             "from_actor": 173,
             "to_actor": 308,
             "start": "2013-06-27",
@@ -3697,7 +3730,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601714,
+            "id": 31728786,
             "from_actor": 173,
             "to_actor": 16031,
             "start": "2017-01-01",
@@ -3708,7 +3741,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601715,
+            "id": 31728787,
             "from_actor": 173,
             "to_actor": 13708,
             "start": "2015-03-26",
@@ -3719,7 +3752,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601716,
+            "id": 31728788,
             "from_actor": 173,
             "to_actor": 22,
             "start": "2014-01-17",
@@ -3730,7 +3763,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601717,
+            "id": 31728789,
             "from_actor": 173,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -3741,7 +3774,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601721,
+            "id": 31728790,
             "from_actor": 173,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -3752,557 +3785,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601727,
+            "id": 31728791,
             "from_actor": 173,
-            "to_actor": 368,
-            "start": "2010-10-05",
-            "end": "2011-09-15",
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Jacob Jensen",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601728,
-            "from_actor": 173,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601729,
-            "from_actor": 173,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601730,
-            "from_actor": 173,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601732,
-            "from_actor": 173,
-            "to_actor": 429,
-            "start": "2009-10-06",
-            "end": "2010-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601733,
-            "from_actor": 173,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601734,
-            "from_actor": 173,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601735,
-            "from_actor": 173,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601736,
-            "from_actor": 173,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601737,
-            "from_actor": 173,
-            "to_actor": 232,
-            "start": "2008-10-07",
-            "end": "2009-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601738,
-            "from_actor": 173,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601739,
-            "from_actor": 173,
-            "to_actor": 18738,
-            "start": "2019-07-05",
-            "end": "2019-08-20",
-            "role": "næstformand",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601740,
-            "from_actor": 173,
-            "to_actor": 946,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601741,
-            "from_actor": 173,
-            "to_actor": 802,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601742,
-            "from_actor": 173,
-            "to_actor": 945,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601743,
-            "from_actor": 173,
-            "to_actor": 944,
-            "start": "2005-03-02",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601744,
-            "from_actor": 173,
-            "to_actor": 755,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601745,
-            "from_actor": 173,
-            "to_actor": 756,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601746,
-            "from_actor": 173,
-            "to_actor": 757,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601747,
-            "from_actor": 173,
-            "to_actor": 758,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601748,
-            "from_actor": 173,
-            "to_actor": 613,
-            "start": "2010-10-06",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601749,
-            "from_actor": 173,
-            "to_actor": 1111,
-            "start": "2010-03-02",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601750,
-            "from_actor": 173,
-            "to_actor": 709,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601751,
-            "from_actor": 173,
-            "to_actor": 831,
-            "start": "2007-11-28",
-            "end": "2008-02-27",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601752,
-            "from_actor": 173,
-            "to_actor": 831,
-            "start": "2008-02-29",
-            "end": "2008-04-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601753,
-            "from_actor": 173,
-            "to_actor": 831,
-            "start": "2008-04-11",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601754,
-            "from_actor": 173,
-            "to_actor": 306,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601755,
-            "from_actor": 173,
-            "to_actor": 1077,
-            "start": "2009-10-07",
-            "end": "2010-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Trafikudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601756,
-            "from_actor": 173,
-            "to_actor": 711,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Grønlandsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601757,
-            "from_actor": 173,
-            "to_actor": 712,
-            "start": "2010-10-06",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Grønlandsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601758,
-            "from_actor": 173,
-            "to_actor": 714,
-            "start": "2005-02-24",
-            "end": "2005-03-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget for Videnskab og Teknologi",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601759,
-            "from_actor": 173,
-            "to_actor": 478,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601760,
-            "from_actor": 173,
-            "to_actor": 481,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601761,
-            "from_actor": 173,
-            "to_actor": 482,
-            "start": "2007-02-01",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601762,
-            "from_actor": 173,
-            "to_actor": 463,
-            "start": "2006-10-04",
-            "end": "2007-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601763,
-            "from_actor": 173,
-            "to_actor": 482,
-            "start": "2006-10-04",
-            "end": "2007-01-18",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601764,
-            "from_actor": 173,
-            "to_actor": 710,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601765,
-            "from_actor": 173,
-            "to_actor": 464,
-            "start": "2007-10-03",
-            "end": "2007-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601766,
-            "from_actor": 173,
-            "to_actor": 461,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601767,
-            "from_actor": 173,
-            "to_actor": 615,
-            "start": "2005-02-23",
-            "end": "2005-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601768,
-            "from_actor": 173,
-            "to_actor": 13701,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601769,
-            "from_actor": 173,
-            "to_actor": 462,
-            "start": "2005-10-05",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601770,
-            "from_actor": 173,
-            "to_actor": 289,
-            "start": "2014-10-01",
-            "end": "2014-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Nordisk Råd",
-            "type": "Kommission"
-        },
-        {
-            "id": 27601771,
-            "from_actor": 173,
-            "to_actor": 899,
-            "start": "2006-10-14",
-            "end": "2006-11-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601772,
-            "from_actor": 173,
-            "to_actor": 899,
-            "start": "2006-10-04",
-            "end": "2006-10-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601773,
-            "from_actor": 173,
-            "to_actor": 833,
-            "start": "2006-09-23",
-            "end": "2006-10-03",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601774,
-            "from_actor": 173,
-            "to_actor": 833,
-            "start": "2006-02-18",
-            "end": "2006-09-21",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601775,
-            "from_actor": 173,
-            "to_actor": 833,
-            "start": "2005-10-05",
-            "end": "2006-02-16",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601776,
-            "from_actor": 173,
-            "to_actor": 594,
-            "start": "2008-11-12",
-            "end": "2008-11-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27617477,
-            "from_actor": 173,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jacob Jensen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619292,
+            "id": 31728792,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2021-04-30",
@@ -4313,7 +3807,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619294,
+            "id": 31728793,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2021-03-23",
@@ -4324,7 +3818,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619296,
+            "id": 31728794,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2021-02-12",
@@ -4335,7 +3829,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619298,
+            "id": 31728795,
+            "from_actor": 173,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728796,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2021-01-19",
@@ -4346,7 +3851,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619300,
+            "id": 31728797,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2020-12-12",
@@ -4357,7 +3862,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619301,
+            "id": 31728798,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2020-12-02",
@@ -4368,7 +3873,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619304,
+            "id": 31728799,
+            "from_actor": 173,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728800,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2020-11-28",
@@ -4379,7 +3895,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619305,
+            "id": 31728801,
             "from_actor": 173,
             "to_actor": 19438,
             "start": "2020-10-07",
@@ -4388,6 +3904,556 @@
             "from_actor_name": "Jacob Jensen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31728802,
+            "from_actor": 173,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728803,
+            "from_actor": 173,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728805,
+            "from_actor": 173,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728806,
+            "from_actor": 173,
+            "to_actor": 429,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728807,
+            "from_actor": 173,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728808,
+            "from_actor": 173,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728809,
+            "from_actor": 173,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728810,
+            "from_actor": 173,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728811,
+            "from_actor": 173,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728812,
+            "from_actor": 173,
+            "to_actor": 232,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728813,
+            "from_actor": 173,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728814,
+            "from_actor": 173,
+            "to_actor": 18738,
+            "start": "2019-07-05",
+            "end": "2019-08-20",
+            "role": "næstformand",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728815,
+            "from_actor": 173,
+            "to_actor": 946,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728816,
+            "from_actor": 173,
+            "to_actor": 802,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728817,
+            "from_actor": 173,
+            "to_actor": 945,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728818,
+            "from_actor": 173,
+            "to_actor": 944,
+            "start": "2005-03-02",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728819,
+            "from_actor": 173,
+            "to_actor": 755,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728820,
+            "from_actor": 173,
+            "to_actor": 756,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728821,
+            "from_actor": 173,
+            "to_actor": 757,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728822,
+            "from_actor": 173,
+            "to_actor": 758,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728823,
+            "from_actor": 173,
+            "to_actor": 613,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728824,
+            "from_actor": 173,
+            "to_actor": 1111,
+            "start": "2010-03-02",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728825,
+            "from_actor": 173,
+            "to_actor": 709,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728826,
+            "from_actor": 173,
+            "to_actor": 831,
+            "start": "2007-11-28",
+            "end": "2008-02-27",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728827,
+            "from_actor": 173,
+            "to_actor": 831,
+            "start": "2008-02-29",
+            "end": "2008-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728828,
+            "from_actor": 173,
+            "to_actor": 831,
+            "start": "2008-04-11",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728829,
+            "from_actor": 173,
+            "to_actor": 306,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728830,
+            "from_actor": 173,
+            "to_actor": 1077,
+            "start": "2009-10-07",
+            "end": "2010-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728831,
+            "from_actor": 173,
+            "to_actor": 711,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728832,
+            "from_actor": 173,
+            "to_actor": 712,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728833,
+            "from_actor": 173,
+            "to_actor": 714,
+            "start": "2005-02-24",
+            "end": "2005-03-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728834,
+            "from_actor": 173,
+            "to_actor": 478,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728835,
+            "from_actor": 173,
+            "to_actor": 481,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728836,
+            "from_actor": 173,
+            "to_actor": 482,
+            "start": "2007-02-01",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728837,
+            "from_actor": 173,
+            "to_actor": 463,
+            "start": "2006-10-04",
+            "end": "2007-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728838,
+            "from_actor": 173,
+            "to_actor": 482,
+            "start": "2006-10-04",
+            "end": "2007-01-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728839,
+            "from_actor": 173,
+            "to_actor": 710,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Udvalget vedrørende Grønlandske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728840,
+            "from_actor": 173,
+            "to_actor": 464,
+            "start": "2007-10-03",
+            "end": "2007-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728841,
+            "from_actor": 173,
+            "to_actor": 461,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728842,
+            "from_actor": 173,
+            "to_actor": 615,
+            "start": "2005-02-23",
+            "end": "2005-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728843,
+            "from_actor": 173,
+            "to_actor": 13701,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728844,
+            "from_actor": 173,
+            "to_actor": 462,
+            "start": "2005-10-05",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728845,
+            "from_actor": 173,
+            "to_actor": 289,
+            "start": "2014-10-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31728846,
+            "from_actor": 173,
+            "to_actor": 899,
+            "start": "2006-10-14",
+            "end": "2006-11-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728847,
+            "from_actor": 173,
+            "to_actor": 899,
+            "start": "2006-10-04",
+            "end": "2006-10-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728848,
+            "from_actor": 173,
+            "to_actor": 833,
+            "start": "2006-09-23",
+            "end": "2006-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728849,
+            "from_actor": 173,
+            "to_actor": 833,
+            "start": "2006-02-18",
+            "end": "2006-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728850,
+            "from_actor": 173,
+            "to_actor": 833,
+            "start": "2005-10-05",
+            "end": "2006-02-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728851,
+            "from_actor": 173,
+            "to_actor": 594,
+            "start": "2008-11-12",
+            "end": "2008-11-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31743596,
+            "from_actor": 173,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jacob Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

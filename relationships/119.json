@@ -848,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600002,
+            "id": 31724541,
             "from_actor": 119,
             "to_actor": 511,
             "start": "2011-09-15",
@@ -859,7 +859,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600003,
+            "id": 31724542,
             "from_actor": 119,
             "to_actor": 430,
             "start": "2011-10-04",
@@ -870,29 +870,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600004,
-            "from_actor": 119,
-            "to_actor": 425,
-            "start": "2006-05-23",
-            "end": "2006-06-02",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27600005,
-            "from_actor": 119,
-            "to_actor": 504,
-            "start": "2006-05-23",
-            "end": "2006-06-02",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Dansk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27600006,
+            "id": 31724543,
             "from_actor": 119,
             "to_actor": 18890,
             "start": "2020-06-27",
@@ -903,7 +881,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600007,
+            "id": 31724544,
             "from_actor": 119,
             "to_actor": 19355,
             "start": "2020-10-06",
@@ -914,7 +892,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600008,
+            "id": 31724545,
+            "from_actor": 119,
+            "to_actor": 19857,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31724546,
             "from_actor": 119,
             "to_actor": 18856,
             "start": "2020-06-27",
@@ -925,7 +914,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600009,
+            "id": 31724547,
             "from_actor": 119,
             "to_actor": 508,
             "start": "2008-11-20",
@@ -936,7 +925,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600010,
+            "id": 31724548,
             "from_actor": 119,
             "to_actor": 813,
             "start": "2008-11-20",
@@ -947,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600011,
+            "id": 31724549,
             "from_actor": 119,
             "to_actor": 18677,
             "start": "2019-06-05",
@@ -958,7 +947,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600012,
+            "id": 31724550,
             "from_actor": 119,
             "to_actor": 814,
             "start": "2009-10-07",
@@ -969,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600013,
+            "id": 31724551,
             "from_actor": 119,
             "to_actor": 18782,
             "start": "2019-09-07",
@@ -980,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600014,
+            "id": 31724552,
             "from_actor": 119,
             "to_actor": 18869,
             "start": "2020-09-25",
@@ -991,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600015,
+            "id": 31724553,
             "from_actor": 119,
             "to_actor": 18879,
             "start": "2020-06-27",
@@ -1002,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600016,
+            "id": 31724554,
             "from_actor": 119,
             "to_actor": 18782,
             "start": "2019-08-13",
@@ -1013,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600017,
+            "id": 31724555,
             "from_actor": 119,
             "to_actor": 18860,
             "start": "2020-06-27",
@@ -1024,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600018,
+            "id": 31724556,
             "from_actor": 119,
             "to_actor": 16048,
             "start": "2015-10-06",
@@ -1035,7 +1024,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600019,
+            "id": 31724557,
             "from_actor": 119,
             "to_actor": 18314,
             "start": "2019-05-03",
@@ -1046,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600020,
+            "id": 31724558,
             "from_actor": 119,
             "to_actor": 5172,
             "start": "2014-10-08",
@@ -1057,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600021,
+            "id": 31724559,
             "from_actor": 119,
             "to_actor": 5134,
             "start": "2014-10-08",
@@ -1068,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600022,
+            "id": 31724560,
             "from_actor": 119,
             "to_actor": 16911,
             "start": "2016-10-05",
@@ -1079,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600023,
+            "id": 31724561,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-09-15",
@@ -1090,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600024,
+            "id": 31724562,
             "from_actor": 119,
             "to_actor": 17634,
             "start": "2018-08-22",
@@ -1101,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600025,
+            "id": 31724563,
             "from_actor": 119,
             "to_actor": 18314,
             "start": "2019-04-26",
@@ -1112,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600026,
+            "id": 31724564,
             "from_actor": 119,
             "to_actor": 15748,
             "start": "2015-06-18",
@@ -1123,7 +1112,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600027,
+            "id": 31724565,
             "from_actor": 119,
             "to_actor": 16916,
             "start": "2016-10-05",
@@ -1134,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600028,
+            "id": 31724566,
             "from_actor": 119,
             "to_actor": 18305,
             "start": "2019-04-04",
@@ -1145,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600029,
+            "id": 31724567,
             "from_actor": 119,
             "to_actor": 16874,
             "start": "2016-10-04",
@@ -1156,7 +1145,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600030,
+            "id": 31724568,
             "from_actor": 119,
             "to_actor": 18323,
             "start": "2018-10-02",
@@ -1167,7 +1156,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600031,
+            "id": 31724569,
             "from_actor": 119,
             "to_actor": 16013,
             "start": "2015-10-07",
@@ -1178,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600032,
+            "id": 31724570,
             "from_actor": 119,
             "to_actor": 15883,
             "start": "2015-07-03",
@@ -1189,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600033,
+            "id": 31724571,
             "from_actor": 119,
             "to_actor": 431,
             "start": "2012-10-02",
@@ -1200,7 +1189,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600034,
+            "id": 31724572,
             "from_actor": 119,
             "to_actor": 455,
             "start": "2013-10-01",
@@ -1211,7 +1200,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600035,
+            "id": 31724573,
             "from_actor": 119,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -1222,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600036,
+            "id": 31724574,
             "from_actor": 119,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -1233,18 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600037,
-            "from_actor": 119,
-            "to_actor": 18759,
-            "start": "2019-10-01",
-            "end": "2020-09-30",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
-            "type": "Kommission"
-        },
-        {
-            "id": 27600038,
+            "id": 31724575,
             "from_actor": 119,
             "to_actor": 51,
             "start": "2013-10-02",
@@ -1255,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600039,
+            "id": 31724576,
             "from_actor": 119,
             "to_actor": 17607,
             "start": "2017-10-03",
@@ -1266,7 +1244,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600040,
+            "id": 31724577,
             "from_actor": 119,
             "to_actor": 18339,
             "start": "2018-10-19",
@@ -1277,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600041,
+            "id": 31724578,
             "from_actor": 119,
             "to_actor": 26,
             "start": "2013-10-02",
@@ -1288,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600042,
+            "id": 31724579,
             "from_actor": 119,
             "to_actor": 18890,
             "start": "2019-10-01",
@@ -1299,7 +1277,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600043,
+            "id": 31724580,
             "from_actor": 119,
             "to_actor": 891,
             "start": "2009-10-07",
@@ -1310,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600044,
+            "id": 31724581,
             "from_actor": 119,
             "to_actor": 17622,
             "start": "2018-06-28",
@@ -1321,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600045,
+            "id": 31724582,
             "from_actor": 119,
             "to_actor": 13640,
             "start": "2014-10-07",
@@ -1332,7 +1310,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600046,
+            "id": 31724583,
+            "from_actor": 119,
+            "to_actor": 18759,
+            "start": "2022-02-20",
+            "end": "2023-07-03",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31724584,
             "from_actor": 119,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -1343,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600047,
+            "id": 31724585,
             "from_actor": 119,
             "to_actor": 17622,
             "start": "2018-05-24",
@@ -1354,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600048,
+            "id": 31724586,
             "from_actor": 119,
             "to_actor": 18879,
             "start": "2019-10-02",
@@ -1365,7 +1354,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600049,
+            "id": 31724587,
+            "from_actor": 119,
+            "to_actor": 18759,
+            "start": "2019-10-01",
+            "end": "2020-09-30",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31724588,
             "from_actor": 119,
             "to_actor": 18314,
             "start": "2019-04-18",
@@ -1376,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600050,
+            "id": 31724589,
             "from_actor": 119,
             "to_actor": 1066,
             "start": "2011-10-07",
@@ -1387,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600051,
+            "id": 31724590,
             "from_actor": 119,
             "to_actor": 414,
             "start": "2011-10-07",
@@ -1398,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600052,
+            "id": 31724591,
             "from_actor": 119,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -1409,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600053,
+            "id": 31724592,
             "from_actor": 119,
             "to_actor": 396,
             "start": "2012-02-23",
@@ -1420,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600054,
+            "id": 31724593,
             "from_actor": 119,
             "to_actor": 548,
             "start": "2012-05-24",
@@ -1431,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600055,
+            "id": 31724594,
             "from_actor": 119,
             "to_actor": 90,
             "start": "2013-10-02",
@@ -1442,7 +1442,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600056,
+            "id": 31724595,
             "from_actor": 119,
             "to_actor": 509,
             "start": "2009-10-06",
@@ -1453,7 +1453,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27600057,
+            "id": 31724596,
             "from_actor": 119,
             "to_actor": 543,
             "start": "2011-10-07",
@@ -1464,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600058,
+            "id": 31724597,
             "from_actor": 119,
             "to_actor": 18315,
             "start": "2018-10-03",
@@ -1475,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600059,
+            "id": 31724598,
             "from_actor": 119,
             "to_actor": 15905,
             "start": "2015-07-09",
@@ -1486,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600060,
+            "id": 31724599,
             "from_actor": 119,
             "to_actor": 22,
             "start": "2013-10-02",
@@ -1497,7 +1497,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600061,
+            "id": 31724600,
+            "from_actor": 119,
+            "to_actor": 504,
+            "start": "2006-05-23",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31724601,
+            "from_actor": 119,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31724602,
             "from_actor": 119,
             "to_actor": 15897,
             "start": "2015-07-09",
@@ -1508,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600062,
+            "id": 31724603,
             "from_actor": 119,
             "to_actor": 16033,
             "start": "2015-10-07",
@@ -1519,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600063,
+            "id": 31724604,
             "from_actor": 119,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1530,7 +1552,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600064,
+            "id": 31724605,
             "from_actor": 119,
             "to_actor": 21,
             "start": "2013-10-02",
@@ -1541,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600065,
+            "id": 31724606,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2014-10-08",
@@ -1552,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600066,
+            "id": 31724607,
             "from_actor": 119,
             "to_actor": 232,
             "start": "2008-11-20",
@@ -1563,7 +1585,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600067,
+            "id": 31724608,
             "from_actor": 119,
             "to_actor": 15904,
             "start": "2015-07-09",
@@ -1574,7 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600068,
+            "id": 31724609,
             "from_actor": 119,
             "to_actor": 311,
             "start": "2012-10-03",
@@ -1585,7 +1607,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600069,
+            "id": 31724610,
             "from_actor": 119,
             "to_actor": 17652,
             "start": "2017-10-04",
@@ -1596,7 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600070,
+            "id": 31724611,
             "from_actor": 119,
             "to_actor": 15896,
             "start": "2015-07-09",
@@ -1607,7 +1629,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600071,
+            "id": 31724612,
             "from_actor": 119,
             "to_actor": 325,
             "start": "2012-10-03",
@@ -1618,7 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600072,
+            "id": 31724613,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2012-11-02",
@@ -1629,7 +1651,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600073,
+            "id": 31724614,
             "from_actor": 119,
             "to_actor": 309,
             "start": "2012-10-03",
@@ -1640,7 +1662,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600074,
+            "id": 31724615,
             "from_actor": 119,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -1651,7 +1673,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600075,
+            "id": 31724616,
             "from_actor": 119,
             "to_actor": 18884,
             "start": "2020-06-27",
@@ -1662,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600076,
+            "id": 31724617,
             "from_actor": 119,
             "to_actor": 5163,
             "start": "2014-10-08",
@@ -1673,7 +1695,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600077,
+            "id": 31724618,
             "from_actor": 119,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1684,7 +1706,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600078,
+            "id": 31724619,
             "from_actor": 119,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1695,7 +1717,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600079,
+            "id": 31724620,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2012-10-26",
@@ -1706,7 +1728,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600080,
+            "id": 31724621,
             "from_actor": 119,
             "to_actor": 18884,
             "start": "2019-10-02",
@@ -1717,7 +1739,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600081,
+            "id": 31724622,
             "from_actor": 119,
             "to_actor": 310,
             "start": "2012-10-03",
@@ -1728,7 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600082,
+            "id": 31724623,
             "from_actor": 119,
             "to_actor": 18314,
             "start": "2018-10-03",
@@ -1739,7 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600083,
+            "id": 31724624,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2012-10-03",
@@ -1750,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600084,
+            "id": 31724625,
             "from_actor": 119,
             "to_actor": 320,
             "start": "2012-10-03",
@@ -1761,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600085,
+            "id": 31724626,
             "from_actor": 119,
             "to_actor": 17634,
             "start": "2017-12-20",
@@ -1772,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600086,
+            "id": 31724627,
             "from_actor": 119,
             "to_actor": 18779,
             "start": "2019-07-04",
@@ -1783,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600087,
+            "id": 31724628,
             "from_actor": 119,
             "to_actor": 17643,
             "start": "2017-10-04",
@@ -1794,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600088,
+            "id": 31724629,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2016-10-05",
@@ -1805,7 +1827,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600089,
+            "id": 31724630,
+            "from_actor": 119,
+            "to_actor": 19912,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724631,
             "from_actor": 119,
             "to_actor": 18762,
             "start": "2019-07-04",
@@ -1816,7 +1849,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600090,
+            "id": 31724632,
+            "from_actor": 119,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2022-03-20",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724633,
             "from_actor": 119,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -1827,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600091,
+            "id": 31724634,
             "from_actor": 119,
             "to_actor": 751,
             "start": "2012-05-15",
@@ -1838,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600092,
+            "id": 31724635,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2014-11-14",
@@ -1849,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600093,
+            "id": 31724636,
             "from_actor": 119,
             "to_actor": 18757,
             "start": "2019-07-04",
@@ -1860,7 +1904,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600094,
+            "id": 31724637,
             "from_actor": 119,
             "to_actor": 18770,
             "start": "2019-07-04",
@@ -1871,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600095,
+            "id": 31724638,
             "from_actor": 119,
             "to_actor": 18869,
             "start": "2020-07-01",
@@ -1882,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600096,
+            "id": 31724639,
             "from_actor": 119,
             "to_actor": 18869,
             "start": "2019-11-27",
@@ -1893,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600097,
+            "id": 31724640,
             "from_actor": 119,
             "to_actor": 333,
             "start": "2013-01-15",
@@ -1904,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600098,
+            "id": 31724641,
             "from_actor": 119,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1915,7 +1959,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600099,
+            "id": 31724642,
             "from_actor": 119,
             "to_actor": 18869,
             "start": "2019-11-13",
@@ -1926,7 +1970,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600100,
+            "id": 31724643,
             "from_actor": 119,
             "to_actor": 16035,
             "start": "2016-02-11",
@@ -1937,7 +1981,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600101,
+            "id": 31724644,
             "from_actor": 119,
             "to_actor": 16911,
             "start": "2016-12-22",
@@ -1948,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600102,
+            "id": 31724645,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2016-11-16",
@@ -1959,7 +2003,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600103,
+            "id": 31724646,
+            "from_actor": 119,
+            "to_actor": 19909,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724647,
             "from_actor": 119,
             "to_actor": 18869,
             "start": "2019-10-02",
@@ -1970,18 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600104,
-            "from_actor": 119,
-            "to_actor": 19415,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600105,
+            "id": 31724648,
             "from_actor": 119,
             "to_actor": 104,
             "start": "2014-02-28",
@@ -1992,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600106,
+            "id": 31724649,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2016-12-16",
@@ -2003,7 +2047,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600107,
+            "id": 31724650,
+            "from_actor": 119,
+            "to_actor": 19415,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724651,
             "from_actor": 119,
             "to_actor": 418,
             "start": "2011-10-07",
@@ -2014,18 +2069,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600108,
-            "from_actor": 119,
-            "to_actor": 19412,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600109,
+            "id": 31724652,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2015-01-28",
@@ -2036,7 +2080,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600110,
+            "id": 31724653,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2015-02-06",
@@ -2047,7 +2091,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600111,
+            "id": 31724654,
+            "from_actor": 119,
+            "to_actor": 19412,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724655,
             "from_actor": 119,
             "to_actor": 18860,
             "start": "2019-10-02",
@@ -2058,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600112,
+            "id": 31724656,
             "from_actor": 119,
             "to_actor": 416,
             "start": "2011-10-07",
@@ -2069,7 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600113,
+            "id": 31724657,
             "from_actor": 119,
             "to_actor": 17634,
             "start": "2017-10-04",
@@ -2080,7 +2135,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600114,
+            "id": 31724658,
             "from_actor": 119,
             "to_actor": 16035,
             "start": "2016-09-27",
@@ -2091,7 +2146,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600115,
+            "id": 31724659,
             "from_actor": 119,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -2102,7 +2157,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600116,
+            "id": 31724660,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2013-03-15",
@@ -2113,7 +2168,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600117,
+            "id": 31724661,
             "from_actor": 119,
             "to_actor": 22,
             "start": "2013-12-10",
@@ -2124,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600118,
+            "id": 31724662,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2015-02-17",
@@ -2135,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600119,
+            "id": 31724663,
             "from_actor": 119,
             "to_actor": 325,
             "start": "2013-06-28",
@@ -2146,29 +2201,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600120,
+            "id": 31724664,
             "from_actor": 119,
-            "to_actor": 19411,
-            "start": "2020-10-07",
-            "end": "2020-10-07",
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Retsudvalget",
+            "to_actor_name": "Skatteudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600121,
-            "from_actor": 119,
-            "to_actor": 19441,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600122,
+            "id": 31724665,
             "from_actor": 119,
             "to_actor": 429,
             "start": "2009-10-06",
@@ -2179,7 +2223,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600123,
+            "id": 31724666,
             "from_actor": 119,
             "to_actor": 18305,
             "start": "2018-10-03",
@@ -2190,7 +2234,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600124,
+            "id": 31724667,
+            "from_actor": 119,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-02-19",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724668,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2013-04-05",
@@ -2201,7 +2256,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600125,
+            "id": 31724669,
             "from_actor": 119,
             "to_actor": 325,
             "start": "2013-06-27",
@@ -2212,7 +2267,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600126,
+            "id": 31724670,
             "from_actor": 119,
             "to_actor": 323,
             "start": "2013-04-25",
@@ -2223,7 +2278,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600127,
+            "id": 31724671,
             "from_actor": 119,
             "to_actor": 41,
             "start": "2014-01-16",
@@ -2234,7 +2289,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600128,
+            "id": 31724672,
+            "from_actor": 119,
+            "to_actor": 19441,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724673,
             "from_actor": 119,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -2245,7 +2311,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600129,
+            "id": 31724674,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-01-27",
@@ -2256,7 +2322,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600130,
+            "id": 31724675,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2013-04-26",
@@ -2267,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600131,
+            "id": 31724676,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-02-03",
@@ -2278,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600132,
+            "id": 31724677,
             "from_actor": 119,
             "to_actor": 16016,
             "start": "2016-03-18",
@@ -2289,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600133,
+            "id": 31724678,
             "from_actor": 119,
             "to_actor": 417,
             "start": "2012-06-28",
@@ -2300,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600134,
+            "id": 31724679,
             "from_actor": 119,
             "to_actor": 19387,
             "start": "2020-10-22",
@@ -2311,7 +2377,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600135,
+            "id": 31724680,
+            "from_actor": 119,
+            "to_actor": 19411,
+            "start": "2020-10-07",
+            "end": "2020-10-07",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724681,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-03-31",
@@ -2322,7 +2399,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600136,
+            "id": 31724682,
             "from_actor": 119,
             "to_actor": 18876,
             "start": "2020-06-27",
@@ -2333,18 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600137,
-            "from_actor": 119,
-            "to_actor": 19386,
-            "start": "2021-09-16",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27600138,
+            "id": 31724683,
             "from_actor": 119,
             "to_actor": 417,
             "start": "2012-06-08",
@@ -2355,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600139,
+            "id": 31724684,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2015-02-27",
@@ -2366,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600140,
+            "id": 31724685,
             "from_actor": 119,
             "to_actor": 18878,
             "start": "2020-06-27",
@@ -2377,18 +2443,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600141,
+            "id": 31724686,
             "from_actor": 119,
             "to_actor": 19386,
-            "start": "2021-08-13",
-            "end": "2021-09-14",
+            "start": "2021-09-16",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Dennis Flydtkjær",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600142,
+            "id": 31724687,
             "from_actor": 119,
             "to_actor": 16911,
             "start": "2017-04-01",
@@ -2399,7 +2465,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600143,
+            "id": 31724688,
             "from_actor": 119,
             "to_actor": 18878,
             "start": "2019-10-02",
@@ -2410,7 +2476,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600144,
+            "id": 31724689,
             "from_actor": 119,
             "to_actor": 18876,
             "start": "2019-10-02",
@@ -2421,18 +2487,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600145,
+            "id": 31724690,
             "from_actor": 119,
             "to_actor": 19386,
-            "start": "2020-10-07",
-            "end": "2021-08-11",
+            "start": "2021-08-13",
+            "end": "2021-09-14",
             "role": "medlem",
             "from_actor_name": "Dennis Flydtkjær",
             "to_actor_name": "Indenrigs- og Boligudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27600146,
+            "id": 31724691,
             "from_actor": 119,
             "to_actor": 417,
             "start": "2011-10-07",
@@ -2443,7 +2509,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600147,
+            "id": 31724692,
+            "from_actor": 119,
+            "to_actor": 19386,
+            "start": "2020-10-07",
+            "end": "2021-08-11",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724693,
             "from_actor": 119,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2454,7 +2531,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600148,
+            "id": 31724694,
             "from_actor": 119,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -2465,7 +2542,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600149,
+            "id": 31724695,
             "from_actor": 119,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -2476,7 +2553,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600150,
+            "id": 31724696,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2013-05-29",
@@ -2487,7 +2564,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600151,
+            "id": 31724697,
             "from_actor": 119,
             "to_actor": 5141,
             "start": "2015-05-21",
@@ -2498,7 +2575,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600152,
+            "id": 31724698,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-04-28",
@@ -2509,7 +2586,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600154,
+            "id": 31724700,
             "from_actor": 119,
             "to_actor": 16915,
             "start": "2017-05-09",
@@ -2520,7 +2597,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600155,
+            "id": 31724701,
             "from_actor": 119,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -2531,7 +2608,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600156,
+            "id": 31724702,
             "from_actor": 119,
             "to_actor": 324,
             "start": "2013-06-13",
@@ -2542,7 +2619,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600157,
+            "id": 31724703,
             "from_actor": 119,
             "to_actor": 22,
             "start": "2014-02-22",
@@ -2553,7 +2630,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600158,
+            "id": 31724704,
             "from_actor": 119,
             "to_actor": 22,
             "start": "2014-04-11",
@@ -2564,7 +2641,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600159,
+            "id": 31724705,
             "from_actor": 119,
             "to_actor": 22,
             "start": "2014-04-25",
@@ -2575,7 +2652,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600160,
+            "id": 31724706,
             "from_actor": 119,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -2586,7 +2663,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600162,
+            "id": 31724707,
+            "from_actor": 119,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31724708,
             "from_actor": 119,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -2597,7 +2685,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600163,
+            "id": 31724709,
+            "from_actor": 119,
+            "to_actor": 425,
+            "start": "2006-05-23",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Dennis Flydtkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31724710,
             "from_actor": 119,
             "to_actor": 17753,
             "start": "2019-08-20",
@@ -2608,7 +2707,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27600164,
+            "id": 31724711,
             "from_actor": 119,
             "to_actor": 621,
             "start": "2009-01-22",
@@ -2619,7 +2718,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600165,
+            "id": 31724712,
             "from_actor": 119,
             "to_actor": 621,
             "start": "2008-11-20",
@@ -2630,7 +2729,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600166,
+            "id": 31724713,
             "from_actor": 119,
             "to_actor": 813,
             "start": "2009-05-14",
@@ -2641,7 +2740,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600167,
+            "id": 31724714,
             "from_actor": 119,
             "to_actor": 821,
             "start": "2008-12-03",
@@ -2652,7 +2751,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600168,
+            "id": 31724715,
             "from_actor": 119,
             "to_actor": 1135,
             "start": "2010-01-20",
@@ -2663,7 +2762,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600169,
+            "id": 31724716,
             "from_actor": 119,
             "to_actor": 827,
             "start": "2008-11-20",
@@ -2674,7 +2773,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600170,
+            "id": 31724717,
             "from_actor": 119,
             "to_actor": 589,
             "start": "2009-10-07",
@@ -2685,7 +2784,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600171,
+            "id": 31724718,
             "from_actor": 119,
             "to_actor": 711,
             "start": "2009-10-07",
@@ -2696,7 +2795,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600172,
+            "id": 31724719,
             "from_actor": 119,
             "to_actor": 805,
             "start": "2006-05-29",
@@ -2707,7 +2806,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27600173,
+            "id": 31724720,
             "from_actor": 119,
             "to_actor": 18856,
             "start": "2020-06-09",
@@ -2718,7 +2817,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27600174,
+            "id": 31724721,
             "from_actor": 119,
             "to_actor": 18890,
             "start": "2020-06-09",
@@ -2729,7 +2828,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27617403,
+            "id": 31743522,
             "from_actor": 119,
             "to_actor": 16060,
             "start": "2015-10-06",
@@ -2738,17 +2837,6 @@
             "from_actor_name": "Dennis Flydtkjær",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619148,
-            "from_actor": 119,
-            "to_actor": 19392,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Dennis Flydtkjær",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
         }
     ]
 }

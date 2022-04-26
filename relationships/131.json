@@ -529,17 +529,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22651241,
-            "from_actor": 131,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Lene Espersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22651242,
             "from_actor": 131,
             "to_actor": 780,
@@ -549,17 +538,6 @@
             "from_actor_name": "Lene Espersen",
             "to_actor_name": "Det Konservative Folkeparti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22651243,
-            "from_actor": 131,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Lene Espersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22651244,
@@ -1480,6 +1458,28 @@
             "to_actor": 423,
             "start": "2004-10-05",
             "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Lene Espersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499447,
+            "from_actor": 131,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Lene Espersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499669,
+            "from_actor": 131,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Lene Espersen",
             "to_actor_name": "Folketinget",

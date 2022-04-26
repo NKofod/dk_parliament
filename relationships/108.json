@@ -1794,17 +1794,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 19072737,
-            "from_actor": 108,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Charlotte Dyremose",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 19072738,
             "from_actor": 108,
             "to_actor": 780,
@@ -1814,17 +1803,6 @@
             "from_actor_name": "Charlotte Dyremose",
             "to_actor_name": "Det Konservative Folkeparti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 19072739,
-            "from_actor": 108,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Charlotte Dyremose",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 19072740,
@@ -3400,17 +3378,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 19072885,
-            "from_actor": 108,
-            "to_actor": 426,
-            "start": "2007-06-02",
-            "end": "2007-05-07",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Charlotte Dyremose",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 19072886,
             "from_actor": 108,
             "to_actor": 781,
@@ -3537,6 +3504,39 @@
             "to_actor": 423,
             "start": "2004-10-05",
             "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Dyremose",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499400,
+            "from_actor": 108,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Charlotte Dyremose",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499594,
+            "from_actor": 108,
+            "to_actor": 426,
+            "start": "2007-06-02",
+            "end": "2007-05-07",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Charlotte Dyremose",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499622,
+            "from_actor": 108,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Charlotte Dyremose",
             "to_actor_name": "Folketinget",

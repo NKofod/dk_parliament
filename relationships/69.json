@@ -562,7 +562,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613387,
+            "id": 31739331,
             "from_actor": 69,
             "to_actor": 1363,
             "start": "2011-09-15",
@@ -573,7 +573,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613388,
+            "id": 31739332,
             "from_actor": 69,
             "to_actor": 1364,
             "start": "2011-10-04",
@@ -584,7 +584,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613389,
+            "id": 31739333,
             "from_actor": 69,
             "to_actor": 13637,
             "start": "2014-10-08",
@@ -595,7 +595,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613390,
+            "id": 31739334,
             "from_actor": 69,
             "to_actor": 16876,
             "start": "2016-10-04",
@@ -606,7 +606,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613391,
+            "id": 31739335,
             "from_actor": 69,
             "to_actor": 15889,
             "start": "2018-02-12",
@@ -617,7 +617,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27613392,
+            "id": 31739336,
             "from_actor": 69,
             "to_actor": 174,
             "start": "2013-10-02",
@@ -628,7 +628,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613393,
+            "id": 31739337,
+            "from_actor": 69,
+            "to_actor": 19899,
+            "start": "2022-03-28",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739338,
             "from_actor": 69,
             "to_actor": 15750,
             "start": "2015-06-18",
@@ -639,7 +650,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613394,
+            "id": 31739339,
             "from_actor": 69,
             "to_actor": 18680,
             "start": "2019-06-05",
@@ -650,7 +661,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613395,
+            "id": 31739340,
             "from_actor": 69,
             "to_actor": 18892,
             "start": "2019-10-01",
@@ -661,7 +672,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613396,
+            "id": 31739341,
             "from_actor": 69,
             "to_actor": 5141,
             "start": "2014-10-08",
@@ -672,7 +683,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613397,
+            "id": 31739342,
             "from_actor": 69,
             "to_actor": 17636,
             "start": "2018-09-12",
@@ -683,7 +694,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613398,
+            "id": 31739343,
             "from_actor": 69,
             "to_actor": 18311,
             "start": "2018-10-03",
@@ -694,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613399,
+            "id": 31739344,
             "from_actor": 69,
             "to_actor": 339,
             "start": "2012-10-03",
@@ -705,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613400,
+            "id": 31739345,
             "from_actor": 69,
             "to_actor": 17625,
             "start": "2018-02-12",
@@ -716,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613401,
+            "id": 31739346,
             "from_actor": 69,
             "to_actor": 748,
             "start": "2011-10-07",
@@ -727,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613402,
+            "id": 31739347,
             "from_actor": 69,
             "to_actor": 1365,
             "start": "2012-10-02",
@@ -738,7 +749,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613403,
+            "id": 31739348,
             "from_actor": 69,
             "to_actor": 1366,
             "start": "2013-10-01",
@@ -749,7 +760,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613404,
+            "id": 31739349,
             "from_actor": 69,
             "to_actor": 15889,
             "start": "2015-07-09",
@@ -760,7 +771,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27613405,
+            "id": 31739350,
             "from_actor": 69,
             "to_actor": 5166,
             "start": "2014-10-08",
@@ -771,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613406,
+            "id": 31739351,
             "from_actor": 69,
             "to_actor": 19358,
             "start": "2020-10-06",
@@ -782,7 +793,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613407,
+            "id": 31739352,
+            "from_actor": 69,
+            "to_actor": 19860,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31739353,
+            "from_actor": 69,
+            "to_actor": 19901,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739354,
             "from_actor": 69,
             "to_actor": 5146,
             "start": "2014-10-08",
@@ -793,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613408,
+            "id": 31739355,
             "from_actor": 69,
             "to_actor": 18336,
             "start": "2018-10-03",
@@ -804,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613409,
+            "id": 31739356,
             "from_actor": 69,
             "to_actor": 5165,
             "start": "2014-10-08",
@@ -815,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613410,
+            "id": 31739357,
             "from_actor": 69,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -826,7 +859,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613411,
+            "id": 31739358,
             "from_actor": 69,
             "to_actor": 18770,
             "start": "2019-09-19",
@@ -837,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613412,
+            "id": 31739359,
             "from_actor": 69,
             "to_actor": 22,
             "start": "2013-10-02",
@@ -848,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613413,
+            "id": 31739360,
             "from_actor": 69,
             "to_actor": 16894,
             "start": "2016-10-05",
@@ -859,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613414,
+            "id": 31739361,
             "from_actor": 69,
             "to_actor": 17603,
             "start": "2018-06-20",
@@ -870,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613415,
+            "id": 31739362,
             "from_actor": 69,
             "to_actor": 13684,
             "start": "2014-10-08",
@@ -881,7 +914,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27613416,
+            "id": 31739363,
             "from_actor": 69,
             "to_actor": 18314,
             "start": "2019-03-28",
@@ -892,18 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613417,
-            "from_actor": 69,
-            "to_actor": 19410,
-            "start": "2021-02-10",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613418,
+            "id": 31739364,
             "from_actor": 69,
             "to_actor": 500,
             "start": "2011-10-07",
@@ -914,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613419,
+            "id": 31739365,
             "from_actor": 69,
             "to_actor": 559,
             "start": "2011-10-07",
@@ -925,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613420,
+            "id": 31739366,
             "from_actor": 69,
             "to_actor": 16019,
             "start": "2015-10-07",
@@ -936,7 +958,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613421,
+            "id": 31739367,
+            "from_actor": 69,
+            "to_actor": 19410,
+            "start": "2021-02-10",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739368,
             "from_actor": 69,
             "to_actor": 13643,
             "start": "2014-10-07",
@@ -947,7 +980,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613422,
+            "id": 31739369,
             "from_actor": 69,
             "to_actor": 17609,
             "start": "2017-10-03",
@@ -958,7 +991,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613423,
+            "id": 31739370,
             "from_actor": 69,
             "to_actor": 18324,
             "start": "2018-10-02",
@@ -969,7 +1002,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613424,
+            "id": 31739371,
             "from_actor": 69,
             "to_actor": 114,
             "start": "2013-10-02",
@@ -980,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613425,
+            "id": 31739372,
             "from_actor": 69,
             "to_actor": 76,
             "start": "2013-10-02",
@@ -991,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613426,
+            "id": 31739373,
             "from_actor": 69,
             "to_actor": 15905,
             "start": "2015-07-09",
@@ -1002,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613427,
+            "id": 31739374,
             "from_actor": 69,
             "to_actor": 16026,
             "start": "2015-10-07",
@@ -1013,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613428,
+            "id": 31739375,
             "from_actor": 69,
             "to_actor": 17603,
             "start": "2018-05-31",
@@ -1024,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613429,
+            "id": 31739376,
             "from_actor": 69,
             "to_actor": 16050,
             "start": "2015-10-06",
@@ -1035,7 +1068,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613430,
+            "id": 31739377,
             "from_actor": 69,
             "to_actor": 146,
             "start": "2013-10-02",
@@ -1046,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613431,
+            "id": 31739378,
             "from_actor": 69,
             "to_actor": 15902,
             "start": "2015-07-09",
@@ -1057,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613432,
+            "id": 31739379,
             "from_actor": 69,
             "to_actor": 17636,
             "start": "2018-02-12",
@@ -1068,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613433,
+            "id": 31739380,
             "from_actor": 69,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -1079,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613434,
+            "id": 31739381,
             "from_actor": 69,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -1090,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613435,
+            "id": 31739382,
             "from_actor": 69,
             "to_actor": 15903,
             "start": "2015-07-09",
@@ -1101,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613436,
+            "id": 31739383,
             "from_actor": 69,
             "to_actor": 16028,
             "start": "2015-10-07",
@@ -1112,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613437,
+            "id": 31739384,
             "from_actor": 69,
             "to_actor": 16071,
             "start": "2015-10-07",
@@ -1123,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613438,
+            "id": 31739385,
             "from_actor": 69,
             "to_actor": 18316,
             "start": "2019-02-01",
@@ -1134,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613439,
+            "id": 31739386,
             "from_actor": 69,
             "to_actor": 324,
             "start": "2012-10-03",
@@ -1145,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613440,
+            "id": 31739387,
             "from_actor": 69,
             "to_actor": 335,
             "start": "2012-10-03",
@@ -1156,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613441,
+            "id": 31739388,
             "from_actor": 69,
             "to_actor": 17636,
             "start": "2017-11-08",
@@ -1167,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613442,
+            "id": 31739389,
             "from_actor": 69,
             "to_actor": 15891,
             "start": "2015-07-03",
@@ -1178,7 +1211,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613443,
+            "id": 31739390,
+            "from_actor": 69,
+            "to_actor": 19900,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739391,
             "from_actor": 69,
             "to_actor": 326,
             "start": "2012-10-03",
@@ -1189,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613444,
+            "id": 31739392,
             "from_actor": 69,
             "to_actor": 15879,
             "start": "2015-07-02",
@@ -1200,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613445,
+            "id": 31739393,
             "from_actor": 69,
             "to_actor": 331,
             "start": "2012-10-03",
@@ -1211,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613446,
+            "id": 31739394,
             "from_actor": 69,
             "to_actor": 16889,
             "start": "2016-10-05",
@@ -1222,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613447,
+            "id": 31739395,
             "from_actor": 69,
             "to_actor": 18875,
             "start": "2020-08-11",
@@ -1233,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613448,
+            "id": 31739396,
             "from_actor": 69,
             "to_actor": 17609,
             "start": "2017-11-08",
@@ -1244,7 +1288,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613449,
+            "id": 31739397,
             "from_actor": 69,
             "to_actor": 5144,
             "start": "2014-10-08",
@@ -1255,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613450,
+            "id": 31739398,
             "from_actor": 69,
             "to_actor": 17625,
             "start": "2017-11-08",
@@ -1266,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613451,
+            "id": 31739399,
             "from_actor": 69,
             "to_actor": 18777,
             "start": "2019-07-04",
@@ -1277,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613452,
+            "id": 31739400,
             "from_actor": 69,
             "to_actor": 17609,
             "start": "2018-02-12",
@@ -1288,7 +1332,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613453,
+            "id": 31739401,
             "from_actor": 69,
             "to_actor": 16071,
             "start": "2015-12-17",
@@ -1299,18 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613454,
-            "from_actor": 69,
-            "to_actor": 19409,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613455,
+            "id": 31739402,
             "from_actor": 69,
             "to_actor": 17625,
             "start": "2017-10-04",
@@ -1321,7 +1354,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613456,
+            "id": 31739403,
+            "from_actor": 69,
+            "to_actor": 19409,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739404,
+            "from_actor": 69,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739405,
+            "from_actor": 69,
+            "to_actor": 19921,
+            "start": "2022-02-10",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739406,
+            "from_actor": 69,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2022-02-08",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739407,
             "from_actor": 69,
             "to_actor": 417,
             "start": "2011-10-07",
@@ -1332,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613457,
+            "id": 31739408,
             "from_actor": 69,
             "to_actor": 18877,
             "start": "2020-05-29",
@@ -1343,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613458,
+            "id": 31739409,
             "from_actor": 69,
             "to_actor": 18877,
             "start": "2020-05-15",
@@ -1354,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613459,
+            "id": 31739410,
             "from_actor": 69,
             "to_actor": 19413,
             "start": "2021-03-08",
@@ -1365,18 +1442,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613460,
-            "from_actor": 69,
-            "to_actor": 19437,
-            "start": "2021-02-10",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Sundhedsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613461,
+            "id": 31739411,
             "from_actor": 69,
             "to_actor": 53,
             "start": "2013-10-02",
@@ -1387,7 +1453,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613462,
+            "id": 31739412,
+            "from_actor": 69,
+            "to_actor": 19437,
+            "start": "2021-02-10",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739413,
             "from_actor": 69,
             "to_actor": 18877,
             "start": "2019-12-13",
@@ -1398,18 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613463,
-            "from_actor": 69,
-            "to_actor": 19404,
-            "start": "2021-02-10",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Børne- og Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613464,
+            "id": 31739414,
             "from_actor": 69,
             "to_actor": 17603,
             "start": "2018-02-12",
@@ -1420,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613465,
+            "id": 31739415,
             "from_actor": 69,
             "to_actor": 20,
             "start": "2013-10-23",
@@ -1431,7 +1497,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613466,
+            "id": 31739416,
+            "from_actor": 69,
+            "to_actor": 19404,
+            "start": "2021-02-10",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739417,
+            "from_actor": 69,
+            "to_actor": 19895,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739418,
             "from_actor": 69,
             "to_actor": 16950,
             "start": "2016-10-05",
@@ -1442,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613467,
+            "id": 31739419,
             "from_actor": 69,
             "to_actor": 17654,
             "start": "2017-10-04",
@@ -1453,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613468,
+            "id": 31739420,
             "from_actor": 69,
             "to_actor": 5164,
             "start": "2015-01-29",
@@ -1464,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613469,
+            "id": 31739421,
             "from_actor": 69,
             "to_actor": 18877,
             "start": "2019-10-02",
@@ -1475,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613470,
+            "id": 31739422,
             "from_actor": 69,
             "to_actor": 18316,
             "start": "2018-10-03",
@@ -1486,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613471,
+            "id": 31739423,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -1497,7 +1585,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613472,
+            "id": 31739424,
             "from_actor": 69,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -1508,7 +1596,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613473,
+            "id": 31739425,
             "from_actor": 69,
             "to_actor": 5164,
             "start": "2014-02-25",
@@ -1519,7 +1607,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613474,
+            "id": 31739426,
             "from_actor": 69,
             "to_actor": 750,
             "start": "2011-10-07",
@@ -1530,18 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613475,
-            "from_actor": 69,
-            "to_actor": 19337,
-            "start": "2021-03-03",
-            "end": "2021-03-03",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613476,
+            "id": 31739427,
             "from_actor": 69,
             "to_actor": 5114,
             "start": "2015-05-06",
@@ -1552,7 +1629,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613477,
+            "id": 31739428,
             "from_actor": 69,
             "to_actor": 17654,
             "start": "2017-11-08",
@@ -1563,7 +1640,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613478,
+            "id": 31739429,
+            "from_actor": 69,
+            "to_actor": 19337,
+            "start": "2021-03-03",
+            "end": "2021-03-03",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739430,
             "from_actor": 69,
             "to_actor": 30,
             "start": "2013-03-21",
@@ -1574,7 +1662,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613479,
+            "id": 31739431,
+            "from_actor": 69,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31739432,
             "from_actor": 69,
             "to_actor": 16027,
             "start": "2015-11-21",
@@ -1585,7 +1684,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613480,
+            "id": 31739433,
             "from_actor": 69,
             "to_actor": 19419,
             "start": "2020-10-06",
@@ -1596,7 +1695,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27613481,
+            "id": 31739434,
             "from_actor": 69,
             "to_actor": 16061,
             "start": "2015-10-23",
@@ -1607,7 +1706,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613482,
+            "id": 31739435,
             "from_actor": 69,
             "to_actor": 16027,
             "start": "2015-12-18",
@@ -1618,7 +1717,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613483,
+            "id": 31739436,
             "from_actor": 69,
             "to_actor": 314,
             "start": "2013-06-03",
@@ -1629,7 +1728,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613484,
+            "id": 31739437,
             "from_actor": 69,
             "to_actor": 16027,
             "start": "2015-12-17",
@@ -1640,7 +1739,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613485,
+            "id": 31739438,
             "from_actor": 69,
             "to_actor": 19414,
             "start": "2021-03-04",
@@ -1651,29 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613486,
-            "from_actor": 69,
-            "to_actor": 19414,
-            "start": "2021-02-05",
-            "end": "2021-02-11",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613487,
-            "from_actor": 69,
-            "to_actor": 19414,
-            "start": "2020-12-19",
-            "end": "2021-02-03",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613488,
+            "id": 31739439,
             "from_actor": 69,
             "to_actor": 16061,
             "start": "2015-11-11",
@@ -1684,18 +1761,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613489,
+            "id": 31739440,
             "from_actor": 69,
             "to_actor": 19414,
-            "start": "2020-10-07",
-            "end": "2020-12-17",
+            "start": "2021-02-05",
+            "end": "2021-02-11",
             "role": "medlem",
             "from_actor_name": "Pernille Skipper",
             "to_actor_name": "Social- og Ældreudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27613490,
+            "id": 31739441,
+            "from_actor": 69,
+            "to_actor": 19414,
+            "start": "2020-12-19",
+            "end": "2021-02-03",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739442,
             "from_actor": 69,
             "to_actor": 17636,
             "start": "2017-10-04",
@@ -1706,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613491,
+            "id": 31739443,
             "from_actor": 69,
             "to_actor": 16021,
             "start": "2016-08-30",
@@ -1717,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613492,
+            "id": 31739444,
             "from_actor": 69,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1728,7 +1816,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613493,
+            "id": 31739445,
             "from_actor": 69,
             "to_actor": 314,
             "start": "2013-06-21",
@@ -1739,7 +1827,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613494,
+            "id": 31739446,
+            "from_actor": 69,
+            "to_actor": 19414,
+            "start": "2020-10-07",
+            "end": "2020-12-17",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739447,
             "from_actor": 69,
             "to_actor": 16894,
             "start": "2017-05-19",
@@ -1750,7 +1849,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613495,
+            "id": 31739448,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2016-12-13",
@@ -1761,18 +1860,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613496,
-            "from_actor": 69,
-            "to_actor": 19414,
-            "start": "2021-02-13",
-            "end": "2021-03-02",
-            "role": "medlem",
-            "from_actor_name": "Pernille Skipper",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27613497,
+            "id": 31739449,
             "from_actor": 69,
             "to_actor": 13691,
             "start": "2015-04-22",
@@ -1783,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613498,
+            "id": 31739450,
             "from_actor": 69,
             "to_actor": 18343,
             "start": "2018-11-08",
@@ -1794,7 +1882,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613499,
+            "id": 31739451,
+            "from_actor": 69,
+            "to_actor": 19414,
+            "start": "2021-02-13",
+            "end": "2021-03-02",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31739452,
             "from_actor": 69,
             "to_actor": 16061,
             "start": "2015-11-16",
@@ -1805,7 +1904,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613500,
+            "id": 31739453,
             "from_actor": 69,
             "to_actor": 5144,
             "start": "2015-05-04",
@@ -1816,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613501,
+            "id": 31739454,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-02-08",
@@ -1827,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613502,
+            "id": 31739455,
             "from_actor": 69,
             "to_actor": 5165,
             "start": "2015-05-27",
@@ -1838,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613503,
+            "id": 31739456,
             "from_actor": 69,
             "to_actor": 321,
             "start": "2013-09-13",
@@ -1849,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613504,
+            "id": 31739457,
             "from_actor": 69,
             "to_actor": 16026,
             "start": "2016-06-08",
@@ -1860,7 +1959,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613505,
+            "id": 31739458,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-02-22",
@@ -1871,7 +1970,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613506,
+            "id": 31739459,
             "from_actor": 69,
             "to_actor": 16019,
             "start": "2016-04-02",
@@ -1882,7 +1981,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613507,
+            "id": 31739460,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-03-16",
@@ -1893,7 +1992,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613508,
+            "id": 31739461,
             "from_actor": 69,
             "to_actor": 17603,
             "start": "2017-11-08",
@@ -1904,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613509,
+            "id": 31739462,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-03-24",
@@ -1915,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613510,
+            "id": 31739463,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-05-05",
@@ -1926,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613511,
+            "id": 31739464,
             "from_actor": 69,
             "to_actor": 17603,
             "start": "2017-10-04",
@@ -1937,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613512,
+            "id": 31739465,
             "from_actor": 69,
             "to_actor": 16027,
             "start": "2016-09-07",
@@ -1948,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613513,
+            "id": 31739466,
             "from_actor": 69,
             "to_actor": 16917,
             "start": "2017-07-01",
@@ -1959,7 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27613515,
+            "id": 31739468,
             "from_actor": 69,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1970,7 +2069,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613516,
+            "id": 31739469,
             "from_actor": 69,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1981,7 +2080,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613517,
+            "id": 31739470,
             "from_actor": 69,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1992,7 +2091,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613518,
+            "id": 31739471,
             "from_actor": 69,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -2003,7 +2102,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613519,
+            "id": 31739472,
+            "from_actor": 69,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Pernille Skipper",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31739473,
             "from_actor": 69,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2014,7 +2124,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613520,
+            "id": 31739474,
             "from_actor": 69,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -2025,7 +2135,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613521,
+            "id": 31739475,
             "from_actor": 69,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -2036,7 +2146,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613522,
+            "id": 31739476,
             "from_actor": 69,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -2047,7 +2157,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613523,
+            "id": 31739477,
             "from_actor": 69,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -2058,7 +2168,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613524,
+            "id": 31739478,
             "from_actor": 69,
             "to_actor": 17605,
             "start": "2017-11-08",
@@ -2069,7 +2179,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613525,
+            "id": 31739479,
             "from_actor": 69,
             "to_actor": 17605,
             "start": "2018-02-12",
@@ -2080,7 +2190,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613526,
+            "id": 31739480,
             "from_actor": 69,
             "to_actor": 17609,
             "start": "2017-11-30",
@@ -2091,7 +2201,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613527,
+            "id": 31739481,
             "from_actor": 69,
             "to_actor": 17609,
             "start": "2017-10-10",
@@ -2102,7 +2212,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27613528,
+            "id": 31739482,
             "from_actor": 69,
             "to_actor": 17605,
             "start": "2017-11-30",
@@ -2113,7 +2223,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27613529,
+            "id": 31739483,
             "from_actor": 69,
             "to_actor": 17605,
             "start": "2017-10-10",
@@ -2124,7 +2234,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617425,
+            "id": 31743544,
             "from_actor": 69,
             "to_actor": 16060,
             "start": "2015-10-06",

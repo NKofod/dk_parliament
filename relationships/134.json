@@ -364,17 +364,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22772114,
-            "from_actor": 134,
-            "to_actor": 425,
-            "start": "2005-10-27",
-            "end": "2005-11-04",
-            "role": "medlem",
-            "from_actor_name": "Christian Friis Bach",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22772115,
             "from_actor": 134,
             "to_actor": 990,
@@ -747,6 +736,17 @@
             "from_actor_name": "Christian Friis Bach",
             "to_actor_name": "NATO's Parlamentariske Forsamling",
             "type": "Kommission"
+        },
+        {
+            "id": 29499805,
+            "from_actor": 134,
+            "to_actor": 425,
+            "start": "2005-10-27",
+            "end": "2005-11-04",
+            "role": "medlem",
+            "from_actor_name": "Christian Friis Bach",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

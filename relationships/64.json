@@ -1893,17 +1893,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22734533,
-            "from_actor": 64,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Flemming Damgaard Larsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22734534,
             "from_actor": 64,
             "to_actor": 550,
@@ -1913,17 +1902,6 @@
             "from_actor_name": "Flemming Damgaard Larsen",
             "to_actor_name": "Venstre, Danmarks Liberale Parti",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22734535,
-            "from_actor": 64,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Flemming Damgaard Larsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22734536,
@@ -3719,17 +3697,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 24122103,
-            "from_actor": 64,
-            "to_actor": 19527,
-            "start": "2021-02-01",
-            "end": "2025-01-31",
-            "role": "stedfortræder",
-            "from_actor_name": "Flemming Damgaard Larsen",
-            "to_actor_name": "Planklagenævnet",
-            "type": "Kommission"
-        },
-        {
             "id": 26367288,
             "from_actor": 64,
             "to_actor": 423,
@@ -3761,6 +3728,39 @@
             "from_actor_name": "Flemming Damgaard Larsen",
             "to_actor_name": "Erhvervs-, Vækst- og Eksportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 28585948,
+            "from_actor": 64,
+            "to_actor": 19527,
+            "start": "2021-02-01",
+            "end": "2025-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Flemming Damgaard Larsen",
+            "to_actor_name": "Planklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 29499491,
+            "from_actor": 64,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Flemming Damgaard Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499714,
+            "from_actor": 64,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Flemming Damgaard Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

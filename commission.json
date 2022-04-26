@@ -3950,5 +3950,77 @@
         "start": "2021-04-01",
         "end": "2026-03-31",
         "periodid": null
+    },
+    "19831": {
+        "id": 19831,
+        "name": "Sydslesvigudvalget",
+        "short_name": "Sydslesvigudvalget",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19833": {
+        "id": 19833,
+        "name": "Kontaktudvalget for Det Tyske Mindretal",
+        "short_name": "Kontaktudvalget for Det Tyske Mindretal",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19845": {
+        "id": 19845,
+        "name": "Det Udenrigspolitiske Nævn",
+        "short_name": "UPN",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19888": {
+        "id": 19888,
+        "name": "OSCEs Parlamentariske Forsamling",
+        "short_name": "OSCE",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19890": {
+        "id": 19890,
+        "name": "Europarådet",
+        "short_name": "ERD",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19892": {
+        "id": 19892,
+        "name": "NATO's Parlamentariske Forsamling",
+        "short_name": "NPA",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19893": {
+        "id": 19893,
+        "name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+        "short_name": "IPU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19927": {
+        "id": 19927,
+        "name": "Udvalget vedrørende Det Etiske Råd",
+        "short_name": "UER",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19983": {
+        "id": 19983,
+        "name": "Lønningsrådet",
+        "short_name": "Lønningsrådet",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
     }
 }

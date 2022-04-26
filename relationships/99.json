@@ -430,7 +430,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612323,
+            "id": 31738770,
             "from_actor": 99,
             "to_actor": 733,
             "start": "2011-09-15",
@@ -441,7 +441,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612324,
+            "id": 31738771,
             "from_actor": 99,
             "to_actor": 734,
             "start": "2011-10-04",
@@ -452,7 +452,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612325,
+            "id": 31738772,
             "from_actor": 99,
             "to_actor": 16879,
             "start": "2016-10-04",
@@ -463,7 +463,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612326,
+            "id": 31738773,
             "from_actor": 99,
             "to_actor": 17610,
             "start": "2017-10-03",
@@ -474,7 +474,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612327,
+            "id": 31738774,
             "from_actor": 99,
             "to_actor": 18685,
             "start": "2019-06-05",
@@ -485,7 +485,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612328,
+            "id": 31738775,
             "from_actor": 99,
             "to_actor": 18896,
             "start": "2019-10-01",
@@ -496,7 +496,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612329,
+            "id": 31738776,
             "from_actor": 99,
             "to_actor": 19361,
             "start": "2020-10-06",
@@ -507,7 +507,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612330,
+            "id": 31738777,
+            "from_actor": 99,
+            "to_actor": 19863,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31738778,
             "from_actor": 99,
             "to_actor": 15751,
             "start": "2015-06-18",
@@ -518,7 +529,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612331,
+            "id": 31738779,
             "from_actor": 99,
             "to_actor": 18325,
             "start": "2018-10-02",
@@ -529,7 +540,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612332,
+            "id": 31738780,
             "from_actor": 99,
             "to_actor": 747,
             "start": "2013-10-01",
@@ -540,7 +551,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612333,
+            "id": 31738781,
             "from_actor": 99,
             "to_actor": 746,
             "start": "2012-10-02",
@@ -551,7 +562,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612334,
+            "id": 31738782,
             "from_actor": 99,
             "to_actor": 13644,
             "start": "2014-10-07",
@@ -562,7 +573,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612335,
+            "id": 31738783,
             "from_actor": 99,
             "to_actor": 16639,
             "start": "2016-04-01",
@@ -573,7 +584,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27612336,
+            "id": 31738784,
             "from_actor": 99,
             "to_actor": 16051,
             "start": "2015-10-06",
@@ -584,7 +595,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27612337,
+            "id": 31738785,
             "from_actor": 99,
             "to_actor": 1,
             "start": "2013-10-02",
@@ -595,7 +606,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612338,
+            "id": 31738786,
             "from_actor": 99,
             "to_actor": 5138,
             "start": "2014-10-08",
@@ -606,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612339,
+            "id": 31738787,
             "from_actor": 99,
             "to_actor": 16916,
             "start": "2016-10-05",
@@ -617,7 +628,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612340,
+            "id": 31738788,
+            "from_actor": 99,
+            "to_actor": 19880,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738789,
             "from_actor": 99,
             "to_actor": 18735,
             "start": "2019-06-20",
@@ -628,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612341,
+            "id": 31738790,
             "from_actor": 99,
             "to_actor": 19689,
             "start": "2021-04-14",
@@ -639,7 +661,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612342,
+            "id": 31738791,
+            "from_actor": 99,
+            "to_actor": 19879,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738792,
             "from_actor": 99,
             "to_actor": 5137,
             "start": "2014-10-08",
@@ -650,7 +683,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612343,
+            "id": 31738793,
             "from_actor": 99,
             "to_actor": 5163,
             "start": "2014-10-08",
@@ -661,7 +694,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612344,
+            "id": 31738794,
             "from_actor": 99,
             "to_actor": 313,
             "start": "2012-10-03",
@@ -672,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612345,
+            "id": 31738795,
             "from_actor": 99,
             "to_actor": 16016,
             "start": "2015-10-07",
@@ -683,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612346,
+            "id": 31738796,
             "from_actor": 99,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -694,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612347,
+            "id": 31738797,
             "from_actor": 99,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -705,7 +738,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612348,
+            "id": 31738798,
             "from_actor": 99,
             "to_actor": 413,
             "start": "2011-12-20",
@@ -716,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612349,
+            "id": 31738799,
             "from_actor": 99,
             "to_actor": 543,
             "start": "2011-10-07",
@@ -727,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612350,
+            "id": 31738800,
             "from_actor": 99,
             "to_actor": 414,
             "start": "2011-10-07",
@@ -738,7 +771,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612351,
+            "id": 31738801,
             "from_actor": 99,
             "to_actor": 18738,
             "start": "2019-06-21",
@@ -749,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612352,
+            "id": 31738802,
             "from_actor": 99,
             "to_actor": 90,
             "start": "2013-10-02",
@@ -760,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612353,
+            "id": 31738803,
             "from_actor": 99,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -771,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612354,
+            "id": 31738804,
             "from_actor": 99,
             "to_actor": 396,
             "start": "2012-08-07",
@@ -782,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612355,
+            "id": 31738805,
             "from_actor": 99,
             "to_actor": 104,
             "start": "2013-10-02",
@@ -793,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612356,
+            "id": 31738806,
             "from_actor": 99,
             "to_actor": 15887,
             "start": "2015-07-03",
@@ -804,7 +837,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612357,
+            "id": 31738807,
+            "from_actor": 99,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738808,
             "from_actor": 99,
             "to_actor": 311,
             "start": "2012-11-29",
@@ -815,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612358,
+            "id": 31738809,
             "from_actor": 99,
             "to_actor": 19372,
             "start": "2020-11-18",
@@ -826,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612359,
+            "id": 31738810,
             "from_actor": 99,
             "to_actor": 1,
             "start": "2014-01-24",
@@ -837,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612360,
+            "id": 31738811,
             "from_actor": 99,
             "to_actor": 311,
             "start": "2012-10-03",
@@ -848,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612361,
+            "id": 31738812,
             "from_actor": 99,
             "to_actor": 309,
             "start": "2013-03-14",
@@ -859,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612362,
+            "id": 31738813,
             "from_actor": 99,
             "to_actor": 18777,
             "start": "2019-07-04",
@@ -870,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612363,
+            "id": 31738814,
             "from_actor": 99,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -881,7 +925,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612364,
+            "id": 31738815,
             "from_actor": 99,
             "to_actor": 16020,
             "start": "2016-06-06",
@@ -892,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612365,
+            "id": 31738816,
             "from_actor": 99,
             "to_actor": 16016,
             "start": "2015-12-22",
@@ -903,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612366,
+            "id": 31738817,
             "from_actor": 99,
             "to_actor": 18761,
             "start": "2019-07-04",
@@ -914,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612367,
+            "id": 31738818,
             "from_actor": 99,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -925,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612368,
+            "id": 31738819,
             "from_actor": 99,
             "to_actor": 18884,
             "start": "2019-10-02",
@@ -936,7 +980,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612369,
+            "id": 31738820,
+            "from_actor": 99,
+            "to_actor": 19911,
+            "start": "2022-02-03",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738821,
+            "from_actor": 99,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738822,
             "from_actor": 99,
             "to_actor": 16020,
             "start": "2016-07-26",
@@ -947,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612370,
+            "id": 31738823,
             "from_actor": 99,
             "to_actor": 320,
             "start": "2013-06-20",
@@ -958,18 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612371,
-            "from_actor": 99,
-            "to_actor": 19405,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612372,
+            "id": 31738824,
             "from_actor": 99,
             "to_actor": 320,
             "start": "2013-08-05",
@@ -980,18 +1035,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612373,
+            "id": 31738825,
             "from_actor": 99,
-            "to_actor": 19412,
+            "to_actor": 19909,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738826,
+            "from_actor": 99,
+            "to_actor": 19405,
             "start": "2020-10-07",
             "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Skatteudvalget",
+            "to_actor_name": "Finansudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27612374,
+            "id": 31738827,
             "from_actor": 99,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1002,7 +1068,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612375,
+            "id": 31738828,
+            "from_actor": 99,
+            "to_actor": 19412,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738829,
             "from_actor": 99,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1013,18 +1090,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612376,
+            "id": 31738830,
+            "from_actor": 99,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31738831,
             "from_actor": 99,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27612377,
+            "id": 31738832,
             "from_actor": 99,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -1035,7 +1123,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27612378,
+            "id": 31738833,
             "from_actor": 99,
             "to_actor": 18874,
             "start": "2019-10-02",
@@ -1046,7 +1134,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612379,
+            "id": 31738834,
+            "from_actor": 99,
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738835,
             "from_actor": 99,
             "to_actor": 750,
             "start": "2011-12-09",
@@ -1057,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612380,
+            "id": 31738836,
             "from_actor": 99,
             "to_actor": 18863,
             "start": "2019-10-02",
@@ -1068,7 +1167,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612381,
+            "id": 31738837,
+            "from_actor": 99,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738838,
             "from_actor": 99,
             "to_actor": 18876,
             "start": "2019-10-02",
@@ -1079,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612382,
+            "id": 31738839,
             "from_actor": 99,
             "to_actor": 18878,
             "start": "2019-10-02",
@@ -1090,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612383,
+            "id": 31738840,
             "from_actor": 99,
             "to_actor": 19387,
             "start": "2020-11-03",
@@ -1101,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612384,
+            "id": 31738841,
             "from_actor": 99,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -1112,7 +1222,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612385,
+            "id": 31738842,
+            "from_actor": 99,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31738843,
             "from_actor": 99,
             "to_actor": 19387,
             "start": "2021-01-12",
@@ -1123,18 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612386,
-            "from_actor": 99,
-            "to_actor": 19386,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612387,
+            "id": 31738844,
             "from_actor": 99,
             "to_actor": 18877,
             "start": "2019-11-28",
@@ -1145,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612388,
+            "id": 31738845,
             "from_actor": 99,
             "to_actor": 18877,
             "start": "2019-10-02",
@@ -1156,7 +1266,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612389,
+            "id": 31738846,
+            "from_actor": 99,
+            "to_actor": 19386,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738847,
             "from_actor": 99,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1167,7 +1288,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612390,
+            "id": 31738848,
             "from_actor": 99,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1178,7 +1299,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612391,
+            "id": 31738849,
             "from_actor": 99,
             "to_actor": 19414,
             "start": "2020-10-07",
@@ -1189,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27612393,
+            "id": 31738851,
             "from_actor": 99,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1200,7 +1321,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612394,
+            "id": 31738852,
             "from_actor": 99,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1211,7 +1332,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612395,
+            "id": 31738853,
             "from_actor": 99,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -1222,7 +1343,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612397,
+            "id": 31738854,
             "from_actor": 99,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1233,128 +1354,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27612398,
-            "from_actor": 99,
-            "to_actor": 420,
-            "start": "2011-09-15",
-            "end": "2011-10-04",
-            "role": "medlem",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27612399,
-            "from_actor": 99,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27612403,
-            "from_actor": 99,
-            "to_actor": 16911,
-            "start": "2016-10-05",
-            "end": "2016-11-27",
-            "role": "formand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612404,
-            "from_actor": 99,
-            "to_actor": 16013,
-            "start": "2015-10-07",
-            "end": "2016-10-04",
-            "role": "formand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612405,
-            "from_actor": 99,
-            "to_actor": 15883,
-            "start": "2015-07-03",
-            "end": "2015-10-06",
-            "role": "formand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612406,
-            "from_actor": 99,
-            "to_actor": 5142,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "næstformand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612407,
-            "from_actor": 99,
-            "to_actor": 21,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "næstformand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612408,
-            "from_actor": 99,
-            "to_actor": 325,
-            "start": "2012-10-03",
-            "end": "2013-10-01",
-            "role": "næstformand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612409,
-            "from_actor": 99,
-            "to_actor": 416,
-            "start": "2011-10-07",
-            "end": "2012-10-02",
-            "role": "næstformand",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27612410,
-            "from_actor": 99,
-            "to_actor": 17086,
-            "start": "2016-11-28",
-            "end": "2019-06-27",
-            "role": "Minister",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "transport-, bygnings- og boligministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27617428,
-            "from_actor": 99,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Ole Birk Olesen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619159,
+            "id": 31738855,
             "from_actor": 99,
             "to_actor": 19392,
             "start": "2020-10-07",
@@ -1365,7 +1365,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619341,
+            "id": 31738856,
+            "from_actor": 99,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31738857,
+            "from_actor": 99,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31738858,
             "from_actor": 99,
             "to_actor": 19438,
             "start": "2020-12-14",
@@ -1376,7 +1398,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619343,
+            "id": 31738859,
             "from_actor": 99,
             "to_actor": 19438,
             "start": "2020-12-08",
@@ -1387,7 +1409,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619355,
+            "id": 31738860,
             "from_actor": 99,
             "to_actor": 19438,
             "start": "2020-12-02",
@@ -1396,6 +1418,105 @@
             "from_actor_name": "Ole Birk Olesen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31738861,
+            "from_actor": 99,
+            "to_actor": 16911,
+            "start": "2016-10-05",
+            "end": "2016-11-27",
+            "role": "formand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738862,
+            "from_actor": 99,
+            "to_actor": 16013,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "formand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738863,
+            "from_actor": 99,
+            "to_actor": 15883,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "formand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738864,
+            "from_actor": 99,
+            "to_actor": 5142,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "næstformand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738865,
+            "from_actor": 99,
+            "to_actor": 21,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "næstformand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738866,
+            "from_actor": 99,
+            "to_actor": 325,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "næstformand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738867,
+            "from_actor": 99,
+            "to_actor": 416,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "næstformand",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31738868,
+            "from_actor": 99,
+            "to_actor": 17086,
+            "start": "2016-11-28",
+            "end": "2019-06-27",
+            "role": "Minister",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "transport-, bygnings- og boligministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31743547,
+            "from_actor": 99,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Birk Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

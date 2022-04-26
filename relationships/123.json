@@ -617,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597220,
+            "id": 31721331,
             "from_actor": 123,
             "to_actor": 405,
             "start": "2011-09-15",
@@ -628,7 +628,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597221,
+            "id": 31721332,
             "from_actor": 123,
             "to_actor": 406,
             "start": "2011-10-04",
@@ -639,7 +639,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597222,
+            "id": 31721333,
             "from_actor": 123,
             "to_actor": 269,
             "start": "2014-07-01",
@@ -650,7 +650,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597223,
+            "id": 31721334,
             "from_actor": 123,
             "to_actor": 16053,
             "start": "2016-06-11",
@@ -661,7 +661,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597224,
+            "id": 31721335,
             "from_actor": 123,
             "to_actor": 373,
             "start": "2013-10-02",
@@ -672,7 +672,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597225,
+            "id": 31721336,
             "from_actor": 123,
             "to_actor": 16880,
             "start": "2017-05-01",
@@ -683,7 +683,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597226,
+            "id": 31721337,
             "from_actor": 123,
             "to_actor": 6,
             "start": "2014-07-01",
@@ -694,7 +694,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27597228,
+            "id": 31721339,
             "from_actor": 123,
             "to_actor": 1367,
             "start": "2011-10-13",
@@ -705,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597229,
+            "id": 31721340,
             "from_actor": 123,
             "to_actor": 334,
             "start": "2012-10-03",
@@ -716,7 +716,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597230,
+            "id": 31721341,
             "from_actor": 123,
             "to_actor": 18678,
             "start": "2019-06-05",
@@ -727,7 +727,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597231,
+            "id": 31721342,
             "from_actor": 123,
             "to_actor": 17612,
             "start": "2017-10-03",
@@ -738,7 +738,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597232,
+            "id": 31721343,
             "from_actor": 123,
             "to_actor": 18888,
             "start": "2019-10-01",
@@ -749,7 +749,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597233,
+            "id": 31721344,
             "from_actor": 123,
             "to_actor": 18873,
             "start": "2020-08-25",
@@ -760,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597234,
+            "id": 31721345,
             "from_actor": 123,
             "to_actor": 16880,
             "start": "2016-10-04",
@@ -771,7 +771,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597235,
+            "id": 31721346,
             "from_actor": 123,
             "to_actor": 18327,
             "start": "2018-10-02",
@@ -782,18 +782,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597236,
-            "from_actor": 123,
-            "to_actor": 19410,
-            "start": "2021-09-01",
-            "end": "2021-09-08",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597237,
+            "id": 31721347,
             "from_actor": 123,
             "to_actor": 19356,
             "start": "2020-10-06",
@@ -804,7 +793,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597238,
+            "id": 31721348,
+            "from_actor": 123,
+            "to_actor": 19859,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31721349,
             "from_actor": 123,
             "to_actor": 414,
             "start": "2011-10-07",
@@ -815,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597239,
+            "id": 31721350,
             "from_actor": 123,
             "to_actor": 18778,
             "start": "2019-09-25",
@@ -826,18 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597240,
-            "from_actor": 123,
-            "to_actor": 19414,
-            "start": "2021-09-01",
-            "end": "2021-09-08",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597241,
+            "id": 31721351,
             "from_actor": 123,
             "to_actor": 26,
             "start": "2013-10-02",
@@ -848,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597242,
+            "id": 31721352,
             "from_actor": 123,
             "to_actor": 413,
             "start": "2011-10-07",
@@ -859,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597243,
+            "id": 31721353,
             "from_actor": 123,
             "to_actor": 408,
             "start": "2011-10-07",
@@ -870,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597244,
+            "id": 31721354,
             "from_actor": 123,
             "to_actor": 15753,
             "start": "2015-06-18",
@@ -881,7 +870,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597245,
+            "id": 31721355,
+            "from_actor": 123,
+            "to_actor": 19879,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721356,
             "from_actor": 123,
             "to_actor": 41,
             "start": "2013-10-02",
@@ -892,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597246,
+            "id": 31721357,
             "from_actor": 123,
             "to_actor": 222,
             "start": "2013-10-02",
@@ -903,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597247,
+            "id": 31721358,
             "from_actor": 123,
             "to_actor": 60,
             "start": "2013-10-02",
@@ -914,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597248,
+            "id": 31721359,
             "from_actor": 123,
             "to_actor": 5136,
             "start": "2014-10-08",
@@ -925,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597249,
+            "id": 31721360,
             "from_actor": 123,
             "to_actor": 840,
             "start": "2011-10-07",
@@ -936,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597250,
+            "id": 31721361,
             "from_actor": 123,
             "to_actor": 559,
             "start": "2011-10-07",
@@ -947,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597251,
+            "id": 31721362,
             "from_actor": 123,
             "to_actor": 16031,
             "start": "2015-10-07",
@@ -958,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597252,
+            "id": 31721363,
             "from_actor": 123,
             "to_actor": 17635,
             "start": "2018-09-03",
@@ -969,7 +969,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597253,
+            "id": 31721364,
+            "from_actor": 123,
+            "to_actor": 19410,
+            "start": "2021-09-01",
+            "end": "2021-09-08",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721365,
             "from_actor": 123,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -980,7 +991,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27597254,
+            "id": 31721366,
             "from_actor": 123,
             "to_actor": 16053,
             "start": "2015-10-06",
@@ -991,7 +1002,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597255,
+            "id": 31721367,
             "from_actor": 123,
             "to_actor": 16886,
             "start": "2017-05-01",
@@ -1002,7 +1013,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27597256,
+            "id": 31721368,
+            "from_actor": 123,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31721369,
             "from_actor": 123,
             "to_actor": 16869,
             "start": "2016-10-05",
@@ -1013,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597257,
+            "id": 31721370,
             "from_actor": 123,
             "to_actor": 15904,
             "start": "2015-07-09",
@@ -1024,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597258,
+            "id": 31721371,
             "from_actor": 123,
             "to_actor": 16035,
             "start": "2015-10-07",
@@ -1035,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597259,
+            "id": 31721372,
             "from_actor": 123,
             "to_actor": 16032,
             "start": "2015-10-07",
@@ -1046,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597260,
+            "id": 31721373,
             "from_actor": 123,
             "to_actor": 16036,
             "start": "2015-10-07",
@@ -1057,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597261,
+            "id": 31721374,
             "from_actor": 123,
             "to_actor": 19419,
             "start": "2020-10-06",
@@ -1068,7 +1090,18 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27597262,
+            "id": 31721375,
+            "from_actor": 123,
+            "to_actor": 19880,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721376,
             "from_actor": 123,
             "to_actor": 114,
             "start": "2013-10-02",
@@ -1079,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597263,
+            "id": 31721377,
             "from_actor": 123,
             "to_actor": 15988,
             "start": "2015-08-21",
@@ -1090,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597264,
+            "id": 31721378,
             "from_actor": 123,
             "to_actor": 16122,
             "start": "2015-10-07",
@@ -1101,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597265,
+            "id": 31721379,
             "from_actor": 123,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -1112,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597266,
+            "id": 31721380,
             "from_actor": 123,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -1123,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597267,
+            "id": 31721381,
             "from_actor": 123,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -1134,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597268,
+            "id": 31721382,
             "from_actor": 123,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1145,7 +1178,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27597269,
+            "id": 31721383,
             "from_actor": 123,
             "to_actor": 19372,
             "start": "2020-10-20",
@@ -1156,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597270,
+            "id": 31721384,
             "from_actor": 123,
             "to_actor": 546,
             "start": "2011-10-07",
@@ -1167,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597271,
+            "id": 31721385,
             "from_actor": 123,
             "to_actor": 311,
             "start": "2012-10-03",
@@ -1178,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597272,
+            "id": 31721386,
             "from_actor": 123,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -1189,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597273,
+            "id": 31721387,
             "from_actor": 123,
             "to_actor": 15910,
             "start": "2015-07-09",
@@ -1200,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597274,
+            "id": 31721388,
             "from_actor": 123,
             "to_actor": 18902,
             "start": "2020-05-27",
@@ -1211,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597275,
+            "id": 31721389,
             "from_actor": 123,
             "to_actor": 269,
             "start": "2013-10-01",
@@ -1222,7 +1255,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597276,
+            "id": 31721390,
             "from_actor": 123,
             "to_actor": 19372,
             "start": "2021-02-01",
@@ -1233,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597277,
+            "id": 31721391,
             "from_actor": 123,
             "to_actor": 19406,
             "start": "2020-10-07",
@@ -1244,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597278,
+            "id": 31721392,
             "from_actor": 123,
             "to_actor": 329,
             "start": "2012-10-03",
@@ -1255,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597279,
+            "id": 31721393,
             "from_actor": 123,
             "to_actor": 18293,
             "start": "2019-02-27",
@@ -1266,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597280,
+            "id": 31721394,
             "from_actor": 123,
             "to_actor": 13641,
             "start": "2014-10-07",
@@ -1277,18 +1310,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597281,
-            "from_actor": 123,
-            "to_actor": 19689,
-            "start": "2021-04-14",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Granskningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597282,
+            "id": 31721395,
             "from_actor": 123,
             "to_actor": 308,
             "start": "2012-10-03",
@@ -1299,7 +1321,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597283,
+            "id": 31721396,
             "from_actor": 123,
             "to_actor": 323,
             "start": "2012-10-03",
@@ -1310,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597284,
+            "id": 31721397,
             "from_actor": 123,
             "to_actor": 333,
             "start": "2012-10-03",
@@ -1321,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597285,
+            "id": 31721398,
             "from_actor": 123,
             "to_actor": 18880,
             "start": "2020-02-07",
@@ -1332,18 +1354,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597286,
+            "id": 31721399,
             "from_actor": 123,
-            "to_actor": 19405,
-            "start": "2020-10-19",
+            "to_actor": 19689,
+            "start": "2021-04-14",
             "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Finansudvalget",
+            "to_actor_name": "Granskningsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27597287,
+            "id": 31721400,
             "from_actor": 123,
             "to_actor": 18873,
             "start": "2019-10-02",
@@ -1354,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597288,
+            "id": 31721401,
             "from_actor": 123,
             "to_actor": 326,
             "start": "2012-10-03",
@@ -1365,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597289,
+            "id": 31721402,
             "from_actor": 123,
             "to_actor": 415,
             "start": "2012-10-02",
@@ -1376,7 +1398,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27597290,
+            "id": 31721403,
+            "from_actor": 123,
+            "to_actor": 19877,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721404,
+            "from_actor": 123,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721405,
             "from_actor": 123,
             "to_actor": 18880,
             "start": "2019-10-02",
@@ -1387,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597291,
+            "id": 31721406,
             "from_actor": 123,
             "to_actor": 18347,
             "start": "2018-10-03",
@@ -1398,7 +1442,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597292,
+            "id": 31721407,
+            "from_actor": 123,
+            "to_actor": 19405,
+            "start": "2020-10-19",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721408,
             "from_actor": 123,
             "to_actor": 331,
             "start": "2012-10-03",
@@ -1409,7 +1464,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597293,
+            "id": 31721409,
+            "from_actor": 123,
+            "to_actor": 19414,
+            "start": "2021-09-01",
+            "end": "2021-09-08",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721410,
             "from_actor": 123,
             "to_actor": 17660,
             "start": "2017-10-04",
@@ -1420,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597294,
+            "id": 31721411,
             "from_actor": 123,
             "to_actor": 373,
             "start": "2014-08-14",
@@ -1431,7 +1497,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597295,
+            "id": 31721412,
             "from_actor": 123,
             "to_actor": 322,
             "start": "2012-10-03",
@@ -1442,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597296,
+            "id": 31721413,
             "from_actor": 123,
             "to_actor": 18319,
             "start": "2018-10-03",
@@ -1453,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597297,
+            "id": 31721414,
             "from_actor": 123,
             "to_actor": 18766,
             "start": "2019-07-04",
@@ -1464,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597298,
+            "id": 31721415,
             "from_actor": 123,
             "to_actor": 13708,
             "start": "2014-10-08",
@@ -1475,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597299,
+            "id": 31721416,
             "from_actor": 123,
             "to_actor": 750,
             "start": "2011-10-07",
@@ -1486,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597300,
+            "id": 31721417,
             "from_actor": 123,
             "to_actor": 16869,
             "start": "2017-04-27",
@@ -1497,18 +1563,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597301,
+            "id": 31721418,
             "from_actor": 123,
-            "to_actor": 19398,
-            "start": "2020-10-07",
-            "end": "2020-10-20",
+            "to_actor": 19911,
+            "start": "2021-10-06",
+            "end": "2022-01-25",
             "role": "medlem",
             "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27597302,
+            "id": 31721419,
+            "from_actor": 123,
+            "to_actor": 19910,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721420,
             "from_actor": 123,
             "to_actor": 18878,
             "start": "2019-10-02",
@@ -1519,7 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597303,
+            "id": 31721421,
             "from_actor": 123,
             "to_actor": 19408,
             "start": "2021-02-01",
@@ -1530,29 +1607,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597304,
+            "id": 31721422,
             "from_actor": 123,
             "to_actor": 19398,
-            "start": "2021-02-01",
-            "end": "2021-02-05",
+            "start": "2020-10-07",
+            "end": "2020-10-20",
             "role": "medlem",
             "from_actor_name": "Andreas Steenberg",
             "to_actor_name": "Udlændinge- og Integrationsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27597305,
+            "id": 31721423,
             "from_actor": 123,
-            "to_actor": 19414,
-            "start": "2021-04-23",
-            "end": "2021-06-23",
+            "to_actor": 19912,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Social- og Ældreudvalget",
+            "to_actor_name": "Kulturudvalget ",
             "type": "Udvalg"
         },
         {
-            "id": 27597306,
+            "id": 31721424,
             "from_actor": 123,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -1563,7 +1640,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597307,
+            "id": 31721425,
             "from_actor": 123,
             "to_actor": 5134,
             "start": "2014-10-08",
@@ -1574,7 +1651,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597308,
+            "id": 31721426,
+            "from_actor": 123,
+            "to_actor": 19398,
+            "start": "2021-02-01",
+            "end": "2021-02-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721427,
             "from_actor": 123,
             "to_actor": 19386,
             "start": "2021-02-02",
@@ -1585,7 +1673,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597309,
+            "id": 31721428,
             "from_actor": 123,
             "to_actor": 19398,
             "start": "2021-03-02",
@@ -1596,40 +1684,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597310,
+            "id": 31721429,
             "from_actor": 123,
             "to_actor": 19414,
-            "start": "2021-04-15",
-            "end": "2021-04-21",
+            "start": "2021-04-23",
+            "end": "2021-06-23",
             "role": "medlem",
             "from_actor_name": "Andreas Steenberg",
             "to_actor_name": "Social- og Ældreudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27597311,
-            "from_actor": 123,
-            "to_actor": 19386,
-            "start": "2020-12-03",
-            "end": "2021-01-31",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597312,
-            "from_actor": 123,
-            "to_actor": 19398,
-            "start": "2021-05-18",
-            "end": "2021-05-18",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597313,
+            "id": 31721430,
             "from_actor": 123,
             "to_actor": 19371,
             "start": "2020-10-20",
@@ -1640,7 +1706,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597314,
+            "id": 31721431,
+            "from_actor": 123,
+            "to_actor": 19386,
+            "start": "2020-12-03",
+            "end": "2021-01-31",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721432,
+            "from_actor": 123,
+            "to_actor": 19398,
+            "start": "2021-05-18",
+            "end": "2021-05-18",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721433,
+            "from_actor": 123,
+            "to_actor": 19414,
+            "start": "2021-04-15",
+            "end": "2021-04-21",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721434,
             "from_actor": 123,
             "to_actor": 19386,
             "start": "2020-10-07",
@@ -1651,18 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597315,
-            "from_actor": 123,
-            "to_actor": 19398,
-            "start": "2021-05-31",
-            "end": "2021-05-31",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597316,
+            "id": 31721435,
             "from_actor": 123,
             "to_actor": 18785,
             "start": "2019-07-04",
@@ -1673,7 +1761,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597317,
+            "id": 31721436,
+            "from_actor": 123,
+            "to_actor": 19398,
+            "start": "2021-05-31",
+            "end": "2021-05-31",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721437,
+            "from_actor": 123,
+            "to_actor": 16861,
+            "start": "2016-10-05",
+            "end": "2017-01-29",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721438,
             "from_actor": 123,
             "to_actor": 19398,
             "start": "2021-06-24",
@@ -1684,18 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597318,
-            "from_actor": 123,
-            "to_actor": 16861,
-            "start": "2016-10-05",
-            "end": "2017-01-29",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597319,
+            "id": 31721439,
             "from_actor": 123,
             "to_actor": 16864,
             "start": "2016-10-05",
@@ -1706,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597320,
+            "id": 31721440,
             "from_actor": 123,
             "to_actor": 5170,
             "start": "2014-10-08",
@@ -1717,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597321,
+            "id": 31721441,
             "from_actor": 123,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -1728,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597322,
+            "id": 31721442,
             "from_actor": 123,
             "to_actor": 5142,
             "start": "2014-10-08",
@@ -1739,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597323,
+            "id": 31721443,
             "from_actor": 123,
             "to_actor": 5168,
             "start": "2014-10-08",
@@ -1750,7 +1849,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597324,
+            "id": 31721444,
+            "from_actor": 123,
+            "to_actor": 19915,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721445,
             "from_actor": 123,
             "to_actor": 16862,
             "start": "2016-10-05",
@@ -1761,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597325,
+            "id": 31721446,
             "from_actor": 123,
             "to_actor": 16870,
             "start": "2016-10-05",
@@ -1772,590 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27597328,
-            "from_actor": 123,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597329,
-            "from_actor": 123,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597331,
-            "from_actor": 123,
-            "to_actor": 170,
-            "start": "2013-11-27",
-            "end": "2014-04-28",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597334,
-            "from_actor": 123,
-            "to_actor": 16862,
-            "start": "2017-04-27",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597335,
-            "from_actor": 123,
-            "to_actor": 17659,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597336,
-            "from_actor": 123,
-            "to_actor": 18315,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597337,
-            "from_actor": 123,
-            "to_actor": 18346,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597338,
-            "from_actor": 123,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597339,
-            "from_actor": 123,
-            "to_actor": 51,
-            "start": "2014-02-06",
-            "end": "2014-04-28",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597340,
-            "from_actor": 123,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597341,
-            "from_actor": 123,
-            "to_actor": 16861,
-            "start": "2017-04-27",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597342,
-            "from_actor": 123,
-            "to_actor": 16864,
-            "start": "2017-01-27",
-            "end": "2017-01-29",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597343,
-            "from_actor": 123,
-            "to_actor": 16916,
-            "start": "2017-05-01",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597344,
-            "from_actor": 123,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597345,
-            "from_actor": 123,
-            "to_actor": 16864,
-            "start": "2017-04-28",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597346,
-            "from_actor": 123,
-            "to_actor": 16035,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597347,
-            "from_actor": 123,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597348,
-            "from_actor": 123,
-            "to_actor": 222,
-            "start": "2014-08-14",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597349,
-            "from_actor": 123,
-            "to_actor": 16891,
-            "start": "2017-05-03",
-            "end": "2017-05-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597350,
-            "from_actor": 123,
-            "to_actor": 170,
-            "start": "2014-07-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597351,
-            "from_actor": 123,
-            "to_actor": 18329,
-            "start": "2018-11-09",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597352,
-            "from_actor": 123,
-            "to_actor": 51,
-            "start": "2014-07-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597353,
-            "from_actor": 123,
-            "to_actor": 18329,
-            "start": "2018-10-19",
-            "end": "2018-11-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597354,
-            "from_actor": 123,
-            "to_actor": 17658,
-            "start": "2017-10-04",
-            "end": "2018-09-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597355,
-            "from_actor": 123,
-            "to_actor": 16891,
-            "start": "2017-05-17",
-            "end": "2017-05-17",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597356,
-            "from_actor": 123,
-            "to_actor": 17652,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597358,
-            "from_actor": 123,
-            "to_actor": 16032,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597359,
-            "from_actor": 123,
-            "to_actor": 16891,
-            "start": "2017-05-31",
-            "end": "2017-05-31",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597360,
-            "from_actor": 123,
-            "to_actor": 18305,
-            "start": "2018-11-26",
-            "end": "2019-01-12",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597361,
-            "from_actor": 123,
-            "to_actor": 17622,
-            "start": "2017-10-04",
-            "end": "2018-09-05",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597362,
-            "from_actor": 123,
-            "to_actor": 16027,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Social- og Indenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597363,
-            "from_actor": 123,
-            "to_actor": 17653,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597364,
-            "from_actor": 123,
-            "to_actor": 21,
-            "start": "2014-08-14",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597365,
-            "from_actor": 123,
-            "to_actor": 16031,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597366,
-            "from_actor": 123,
-            "to_actor": 16891,
-            "start": "2017-06-30",
-            "end": "2017-06-30",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597367,
-            "from_actor": 123,
-            "to_actor": 16911,
-            "start": "2017-05-01",
-            "end": "2017-07-18",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597368,
-            "from_actor": 123,
-            "to_actor": 16870,
-            "start": "2017-01-13",
-            "end": "2017-01-29",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597369,
-            "from_actor": 123,
-            "to_actor": 41,
-            "start": "2014-07-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597370,
-            "from_actor": 123,
-            "to_actor": 18329,
-            "start": "2018-10-03",
-            "end": "2018-10-17",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597371,
-            "from_actor": 123,
-            "to_actor": 16870,
-            "start": "2017-05-01",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597372,
-            "from_actor": 123,
-            "to_actor": 16036,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Transport- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27597373,
-            "from_actor": 123,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-04-28",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597374,
-            "from_actor": 123,
-            "to_actor": 420,
-            "start": "2011-09-15",
-            "end": "2011-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597375,
-            "from_actor": 123,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597376,
-            "from_actor": 123,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-01-30",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597377,
-            "from_actor": 123,
-            "to_actor": 16053,
-            "start": "2016-05-10",
-            "end": "2016-06-10",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27597378,
-            "from_actor": 123,
-            "to_actor": 269,
-            "start": "2014-04-29",
-            "end": "2014-06-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27597379,
-            "from_actor": 123,
-            "to_actor": 6,
-            "start": "2014-04-29",
-            "end": "2014-06-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27597381,
-            "from_actor": 123,
-            "to_actor": 16880,
-            "start": "2017-01-31",
-            "end": "2017-04-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Radikale Venstre",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27597382,
-            "from_actor": 123,
-            "to_actor": 16886,
-            "start": "2017-01-31",
-            "end": "2017-04-30",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617343,
-            "from_actor": 123,
-            "to_actor": 16060,
-            "start": "2016-06-11",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617380,
-            "from_actor": 123,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-05-09",
-            "role": "medlem",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617573,
-            "from_actor": 123,
-            "to_actor": 16060,
-            "start": "2016-05-10",
-            "end": "2016-06-10",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Andreas Steenberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619066,
+            "id": 31721447,
             "from_actor": 123,
             "to_actor": 19392,
             "start": "2021-05-27",
@@ -2366,7 +1893,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619068,
+            "id": 31721448,
+            "from_actor": 123,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721449,
+            "from_actor": 123,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721450,
+            "from_actor": 123,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721451,
             "from_actor": 123,
             "to_actor": 19392,
             "start": "2021-05-06",
@@ -2377,7 +1937,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619070,
+            "id": 31721452,
+            "from_actor": 123,
+            "to_actor": 170,
+            "start": "2013-11-27",
+            "end": "2014-04-28",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721453,
             "from_actor": 123,
             "to_actor": 19392,
             "start": "2021-01-27",
@@ -2388,7 +1959,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619072,
+            "id": 31721454,
+            "from_actor": 123,
+            "to_actor": 16862,
+            "start": "2017-04-27",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721455,
             "from_actor": 123,
             "to_actor": 19392,
             "start": "2021-01-13",
@@ -2399,7 +1981,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619073,
+            "id": 31721456,
+            "from_actor": 123,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721457,
             "from_actor": 123,
             "to_actor": 19392,
             "start": "2020-10-07",
@@ -2408,6 +2001,545 @@
             "from_actor_name": "Andreas Steenberg",
             "to_actor_name": "Transportudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31721458,
+            "from_actor": 123,
+            "to_actor": 17659,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721459,
+            "from_actor": 123,
+            "to_actor": 18315,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721460,
+            "from_actor": 123,
+            "to_actor": 18346,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721461,
+            "from_actor": 123,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721462,
+            "from_actor": 123,
+            "to_actor": 51,
+            "start": "2014-02-06",
+            "end": "2014-04-28",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721463,
+            "from_actor": 123,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721464,
+            "from_actor": 123,
+            "to_actor": 16861,
+            "start": "2017-04-27",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721465,
+            "from_actor": 123,
+            "to_actor": 16864,
+            "start": "2017-01-27",
+            "end": "2017-01-29",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721466,
+            "from_actor": 123,
+            "to_actor": 16916,
+            "start": "2017-05-01",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721467,
+            "from_actor": 123,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721468,
+            "from_actor": 123,
+            "to_actor": 16864,
+            "start": "2017-04-28",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721469,
+            "from_actor": 123,
+            "to_actor": 16035,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Energi-, Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721470,
+            "from_actor": 123,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721471,
+            "from_actor": 123,
+            "to_actor": 222,
+            "start": "2014-08-14",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721472,
+            "from_actor": 123,
+            "to_actor": 16891,
+            "start": "2017-05-03",
+            "end": "2017-05-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721473,
+            "from_actor": 123,
+            "to_actor": 170,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721474,
+            "from_actor": 123,
+            "to_actor": 18329,
+            "start": "2018-11-09",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721475,
+            "from_actor": 123,
+            "to_actor": 51,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721476,
+            "from_actor": 123,
+            "to_actor": 18329,
+            "start": "2018-10-19",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721477,
+            "from_actor": 123,
+            "to_actor": 17658,
+            "start": "2017-10-04",
+            "end": "2018-09-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721478,
+            "from_actor": 123,
+            "to_actor": 16891,
+            "start": "2017-05-17",
+            "end": "2017-05-17",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721479,
+            "from_actor": 123,
+            "to_actor": 17652,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721481,
+            "from_actor": 123,
+            "to_actor": 16032,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721482,
+            "from_actor": 123,
+            "to_actor": 16891,
+            "start": "2017-05-31",
+            "end": "2017-05-31",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721483,
+            "from_actor": 123,
+            "to_actor": 18305,
+            "start": "2018-11-26",
+            "end": "2019-01-12",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721484,
+            "from_actor": 123,
+            "to_actor": 17622,
+            "start": "2017-10-04",
+            "end": "2018-09-05",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721485,
+            "from_actor": 123,
+            "to_actor": 16027,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721486,
+            "from_actor": 123,
+            "to_actor": 17653,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721487,
+            "from_actor": 123,
+            "to_actor": 21,
+            "start": "2014-08-14",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721488,
+            "from_actor": 123,
+            "to_actor": 16031,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721489,
+            "from_actor": 123,
+            "to_actor": 16891,
+            "start": "2017-06-30",
+            "end": "2017-06-30",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721490,
+            "from_actor": 123,
+            "to_actor": 16911,
+            "start": "2017-05-01",
+            "end": "2017-07-18",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721491,
+            "from_actor": 123,
+            "to_actor": 16870,
+            "start": "2017-01-13",
+            "end": "2017-01-29",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721492,
+            "from_actor": 123,
+            "to_actor": 41,
+            "start": "2014-07-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721493,
+            "from_actor": 123,
+            "to_actor": 18329,
+            "start": "2018-10-03",
+            "end": "2018-10-17",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721494,
+            "from_actor": 123,
+            "to_actor": 16870,
+            "start": "2017-05-01",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721495,
+            "from_actor": 123,
+            "to_actor": 16036,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Transport- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31721496,
+            "from_actor": 123,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-04-28",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721497,
+            "from_actor": 123,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721498,
+            "from_actor": 123,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721499,
+            "from_actor": 123,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-01-30",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721500,
+            "from_actor": 123,
+            "to_actor": 16053,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31721501,
+            "from_actor": 123,
+            "to_actor": 269,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31721502,
+            "from_actor": 123,
+            "to_actor": 6,
+            "start": "2014-04-29",
+            "end": "2014-06-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31721504,
+            "from_actor": 123,
+            "to_actor": 16880,
+            "start": "2017-01-31",
+            "end": "2017-04-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31721505,
+            "from_actor": 123,
+            "to_actor": 16886,
+            "start": "2017-01-31",
+            "end": "2017-04-30",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743462,
+            "from_actor": 123,
+            "to_actor": 16060,
+            "start": "2016-06-11",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743499,
+            "from_actor": 123,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-05-09",
+            "role": "medlem",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743692,
+            "from_actor": 123,
+            "to_actor": 16060,
+            "start": "2016-05-10",
+            "end": "2016-06-10",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Andreas Steenberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

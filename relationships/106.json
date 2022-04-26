@@ -298,17 +298,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22651704,
-            "from_actor": 106,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Margrethe Vestager",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22651705,
             "from_actor": 106,
             "to_actor": 990,
@@ -318,17 +307,6 @@
             "from_actor_name": "Margrethe Vestager",
             "to_actor_name": "Det Radikale Venstre",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22651706,
-            "from_actor": 106,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Margrethe Vestager",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22651707,
@@ -1612,6 +1590,28 @@
             "to_actor": 423,
             "start": "2004-10-05",
             "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Margrethe Vestager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499452,
+            "from_actor": 106,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Margrethe Vestager",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499674,
+            "from_actor": 106,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Margrethe Vestager",
             "to_actor_name": "Folketinget",

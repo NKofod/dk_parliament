@@ -8458,9 +8458,249 @@
     "19808": {
         "id": 19808,
         "name": "Uden for folketingsgrupperne - Naser Khader",
-        "short_name": null,
+        "short_name": "UFG",
         "start": "2020-10-06",
         "end": "2021-10-05",
         "periodid": 153
+    },
+    "19855": {
+        "id": 19855,
+        "name": "Socialdemokratiet",
+        "short_name": "S",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19856": {
+        "id": 19856,
+        "name": "Venstre, Danmarks Liberale Parti",
+        "short_name": "V",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19857": {
+        "id": 19857,
+        "name": "Dansk Folkeparti",
+        "short_name": "DF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19858": {
+        "id": 19858,
+        "name": "Socialistisk Folkeparti",
+        "short_name": "SF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19859": {
+        "id": 19859,
+        "name": "Radikale Venstre",
+        "short_name": "RV",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19860": {
+        "id": 19860,
+        "name": "Enhedslisten",
+        "short_name": "EL",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19861": {
+        "id": 19861,
+        "name": "Det Konservative Folkeparti",
+        "short_name": "KF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19862": {
+        "id": 19862,
+        "name": "Nye Borgerlige",
+        "short_name": "NB",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19863": {
+        "id": 19863,
+        "name": "Liberal Alliance",
+        "short_name": "LA",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19864": {
+        "id": 19864,
+        "name": "Alternativet",
+        "short_name": "ALT",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19865": {
+        "id": 19865,
+        "name": "Kristendemokraterne",
+        "short_name": "KD",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19866": {
+        "id": 19866,
+        "name": "Inuit Ataqatigiit",
+        "short_name": "IA",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19867": {
+        "id": 19867,
+        "name": "Siumut",
+        "short_name": "SIU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19868": {
+        "id": 19868,
+        "name": "Sambandsflokkurin",
+        "short_name": "SP",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19869": {
+        "id": 19869,
+        "name": "Javnaðarflokkurin",
+        "short_name": "JF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19870": {
+        "id": 19870,
+        "name": "Uden for folketingsgrupperne - Simon Emil Ammitzbøll-Bille",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19871": {
+        "id": 19871,
+        "name": "Uden for folketingsgrupperne - Uffe Elbæk",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19872": {
+        "id": 19872,
+        "name": "Uden for folketingsgrupperne - Naser Khader",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19873": {
+        "id": 19873,
+        "name": "Uden for folketingsgrupperne - Sikandar Siddique",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19874": {
+        "id": 19874,
+        "name": "Uden for folketingsgrupperne - Inger Støjberg",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19875": {
+        "id": 19875,
+        "name": "Uden for folketingsgrupperne - Susanne Zimmer",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19876": {
+        "id": 19876,
+        "name": "Uden for folketingsgrupperne - Orla Østerby",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19933": {
+        "id": 19933,
+        "name": "Uden for folketingsgrupperne - Lars Løkke Rasmussen",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19972": {
+        "id": 19972,
+        "name": "Frie Grønne, Danmarks Nye Venstrefløjsparti",
+        "short_name": "FG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20076": {
+        "id": 20076,
+        "name": "Uden for folketingsgrupperne - Karina Adsbøl",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20077": {
+        "id": 20077,
+        "name": "Uden for folketingsgrupperne - Lise Bech",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20078": {
+        "id": 20078,
+        "name": "Uden for folketingsgrupperne - Liselott Blixt",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20079": {
+        "id": 20079,
+        "name": "Uden for folketingsgrupperne - Bent Bøgsted",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20081": {
+        "id": 20081,
+        "name": "Uden for folketingsgrupperne - Hans Kristian Skibby",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "20084": {
+        "id": 20084,
+        "name": "Uden for folketingsgrupperne - Marie Krarup",
+        "short_name": "UFG",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
     }
 }

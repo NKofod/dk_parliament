@@ -1508,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604354,
+            "id": 31730907,
             "from_actor": 97,
             "to_actor": 1259,
             "start": "2007-11-13",
@@ -1519,7 +1519,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604355,
+            "id": 31730908,
             "from_actor": 97,
             "to_actor": 1088,
             "start": "2010-10-05",
@@ -1530,7 +1530,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604356,
+            "id": 31730909,
             "from_actor": 97,
             "to_actor": 1088,
             "start": "2011-01-22",
@@ -1541,7 +1541,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604357,
+            "id": 31730910,
             "from_actor": 97,
             "to_actor": 1315,
             "start": "2011-09-15",
@@ -1552,7 +1552,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604358,
+            "id": 31730911,
             "from_actor": 97,
             "to_actor": 1165,
             "start": "2011-10-04",
@@ -1563,7 +1563,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604359,
+            "id": 31730912,
             "from_actor": 97,
             "to_actor": 16046,
             "start": "2016-03-19",
@@ -1574,7 +1574,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604360,
+            "id": 31730913,
             "from_actor": 97,
             "to_actor": 16885,
             "start": "2016-10-04",
@@ -1585,7 +1585,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604361,
+            "id": 31730914,
             "from_actor": 97,
             "to_actor": 18675,
             "start": "2019-06-05",
@@ -1596,7 +1596,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604362,
+            "id": 31730915,
             "from_actor": 97,
             "to_actor": 18887,
             "start": "2019-10-01",
@@ -1607,7 +1607,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604363,
+            "id": 31730916,
             "from_actor": 97,
             "to_actor": 1195,
             "start": "2011-10-07",
@@ -1618,7 +1618,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604364,
+            "id": 31730917,
             "from_actor": 97,
             "to_actor": 1163,
             "start": "2009-10-06",
@@ -1629,18 +1629,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604365,
-            "from_actor": 97,
-            "to_actor": 18370,
-            "start": "2020-11-20",
-            "end": "2021-08-16",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Statsrevisorerne",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604366,
+            "id": 31730918,
             "from_actor": 97,
             "to_actor": 18915,
             "start": "2019-10-02",
@@ -1651,7 +1640,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604367,
+            "id": 31730919,
             "from_actor": 97,
             "to_actor": 19379,
             "start": "2020-10-07",
@@ -1662,18 +1651,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604368,
-            "from_actor": 97,
-            "to_actor": 19583,
-            "start": "2021-04-01",
-            "end": "2021-08-17",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Danmarks Nationalbanks repræsentantskab",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604369,
+            "id": 31730920,
             "from_actor": 97,
             "to_actor": 1396,
             "start": "2011-10-07",
@@ -1684,7 +1662,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604370,
+            "id": 31730921,
             "from_actor": 97,
             "to_actor": 932,
             "start": "2007-11-28",
@@ -1695,7 +1673,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604371,
+            "id": 31730922,
             "from_actor": 97,
             "to_actor": 933,
             "start": "2007-11-28",
@@ -1706,7 +1684,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604372,
+            "id": 31730923,
             "from_actor": 97,
             "to_actor": 934,
             "start": "2007-11-28",
@@ -1717,7 +1695,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604373,
+            "id": 31730924,
             "from_actor": 97,
             "to_actor": 935,
             "start": "2010-10-05",
@@ -1728,7 +1706,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604374,
+            "id": 31730925,
             "from_actor": 97,
             "to_actor": 936,
             "start": "2010-10-05",
@@ -1739,7 +1717,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604375,
+            "id": 31730926,
             "from_actor": 97,
             "to_actor": 18322,
             "start": "2018-10-02",
@@ -1750,7 +1728,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604376,
+            "id": 31730927,
+            "from_actor": 97,
+            "to_actor": 18370,
+            "start": "2020-11-20",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31730928,
             "from_actor": 97,
             "to_actor": 18754,
             "start": "2019-07-04",
@@ -1761,7 +1750,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27604377,
+            "id": 31730929,
+            "from_actor": 97,
+            "to_actor": 19583,
+            "start": "2021-04-01",
+            "end": "2021-08-17",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Danmarks Nationalbanks repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 31730930,
             "from_actor": 97,
             "to_actor": 1196,
             "start": "2011-10-07",
@@ -1772,7 +1772,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604378,
+            "id": 31730931,
             "from_actor": 97,
             "to_actor": 19353,
             "start": "2020-10-06",
@@ -1783,7 +1783,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604379,
+            "id": 31730932,
             "from_actor": 97,
             "to_actor": 18863,
             "start": "2019-10-02",
@@ -1794,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604380,
+            "id": 31730933,
             "from_actor": 97,
             "to_actor": 16943,
             "start": "2016-10-05",
@@ -1805,7 +1805,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604381,
+            "id": 31730934,
             "from_actor": 97,
             "to_actor": 16013,
             "start": "2015-10-07",
@@ -1816,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604382,
+            "id": 31730935,
             "from_actor": 97,
             "to_actor": 17643,
             "start": "2018-06-29",
@@ -1827,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604383,
+            "id": 31730936,
             "from_actor": 97,
             "to_actor": 15885,
             "start": "2015-07-03",
@@ -1838,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604384,
+            "id": 31730937,
             "from_actor": 97,
             "to_actor": 16015,
             "start": "2015-10-07",
@@ -1849,7 +1849,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604385,
+            "id": 31730938,
             "from_actor": 97,
             "to_actor": 17606,
             "start": "2017-10-03",
@@ -1860,7 +1860,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604386,
+            "id": 31730939,
             "from_actor": 97,
             "to_actor": 19349,
             "start": "2020-10-07",
@@ -1871,7 +1871,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604387,
+            "id": 31730940,
             "from_actor": 97,
             "to_actor": 19620,
             "start": "2021-03-02",
@@ -1882,7 +1882,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604388,
+            "id": 31730941,
             "from_actor": 97,
             "to_actor": 18853,
             "start": "2019-10-02",
@@ -1893,7 +1893,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604389,
+            "id": 31730942,
             "from_actor": 97,
             "to_actor": 15890,
             "start": "2015-07-09",
@@ -1904,7 +1904,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604390,
+            "id": 31730943,
             "from_actor": 97,
             "to_actor": 18301,
             "start": "2018-10-03",
@@ -1915,7 +1915,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604391,
+            "id": 31730944,
             "from_actor": 97,
             "to_actor": 15883,
             "start": "2015-07-03",
@@ -1926,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604392,
+            "id": 31730945,
             "from_actor": 97,
             "to_actor": 15898,
             "start": "2015-07-09",
@@ -1937,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604393,
+            "id": 31730946,
             "from_actor": 97,
             "to_actor": 16034,
             "start": "2015-10-07",
@@ -1948,7 +1948,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604394,
+            "id": 31730947,
             "from_actor": 97,
             "to_actor": 17632,
             "start": "2017-10-04",
@@ -1959,7 +1959,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604395,
+            "id": 31730948,
             "from_actor": 97,
             "to_actor": 15892,
             "start": "2015-07-09",
@@ -1970,7 +1970,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604396,
+            "id": 31730949,
             "from_actor": 97,
             "to_actor": 16639,
             "start": "2019-07-03",
@@ -1981,7 +1981,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604397,
+            "id": 31730950,
             "from_actor": 97,
             "to_actor": 336,
             "start": "2012-10-25",
@@ -1992,7 +1992,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604398,
+            "id": 31730951,
             "from_actor": 97,
             "to_actor": 19405,
             "start": "2020-10-07",
@@ -2003,7 +2003,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604399,
+            "id": 31730952,
             "from_actor": 97,
             "to_actor": 544,
             "start": "2011-10-12",
@@ -2014,7 +2014,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604400,
+            "id": 31730953,
             "from_actor": 97,
             "to_actor": 544,
             "start": "2012-08-25",
@@ -2025,7 +2025,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604401,
+            "id": 31730954,
             "from_actor": 97,
             "to_actor": 18348,
             "start": "2019-03-08",
@@ -2036,7 +2036,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604402,
+            "id": 31730955,
+            "from_actor": 97,
+            "to_actor": 19855,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31730956,
             "from_actor": 97,
             "to_actor": 5138,
             "start": "2014-10-08",
@@ -2047,18 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604403,
-            "from_actor": 97,
-            "to_actor": 19404,
-            "start": "2021-04-16",
-            "end": "2021-08-16",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Børne- og Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604404,
+            "id": 31730957,
             "from_actor": 97,
             "to_actor": 18867,
             "start": "2019-11-07",
@@ -2069,29 +2069,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604405,
+            "id": 31730958,
             "from_actor": 97,
-            "to_actor": 19412,
-            "start": "2020-10-07",
-            "end": "2021-08-16",
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604406,
+            "id": 31730959,
             "from_actor": 97,
             "to_actor": 19404,
-            "start": "2021-02-05",
-            "end": "2021-04-14",
+            "start": "2021-04-16",
+            "end": "2021-08-16",
             "role": "medlem",
             "from_actor_name": "Jesper Petersen",
             "to_actor_name": "Børne- og Undervisningsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604407,
+            "id": 31730960,
             "from_actor": 97,
             "to_actor": 18872,
             "start": "2019-10-02",
@@ -2102,7 +2102,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604408,
+            "id": 31730961,
             "from_actor": 97,
             "to_actor": 777,
             "start": "2009-03-31",
@@ -2113,7 +2113,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604409,
+            "id": 31730962,
             "from_actor": 97,
             "to_actor": 803,
             "start": "2009-05-14",
@@ -2124,18 +2124,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604411,
+            "id": 31730964,
             "from_actor": 97,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604412,
+            "id": 31730965,
             "from_actor": 97,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -2146,7 +2146,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604413,
+            "id": 31730966,
             "from_actor": 97,
             "to_actor": 18878,
             "start": "2020-02-26",
@@ -2157,7 +2157,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604414,
+            "id": 31730967,
+            "from_actor": 97,
+            "to_actor": 19404,
+            "start": "2021-02-05",
+            "end": "2021-04-14",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31730968,
             "from_actor": 97,
             "to_actor": 18305,
             "start": "2019-03-16",
@@ -2168,7 +2179,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604415,
+            "id": 31730969,
             "from_actor": 97,
             "to_actor": 831,
             "start": "2007-11-28",
@@ -2179,7 +2190,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604416,
+            "id": 31730970,
             "from_actor": 97,
             "to_actor": 1166,
             "start": "2007-11-28",
@@ -2190,7 +2201,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604417,
+            "id": 31730971,
             "from_actor": 97,
             "to_actor": 889,
             "start": "2007-11-28",
@@ -2201,7 +2212,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604418,
+            "id": 31730972,
             "from_actor": 97,
             "to_actor": 1107,
             "start": "2008-10-08",
@@ -2212,7 +2223,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604419,
+            "id": 31730973,
             "from_actor": 97,
             "to_actor": 1107,
             "start": "2009-06-24",
@@ -2223,7 +2234,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604420,
+            "id": 31730974,
             "from_actor": 97,
             "to_actor": 1107,
             "start": "2009-08-21",
@@ -2234,7 +2245,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604421,
+            "id": 31730975,
             "from_actor": 97,
             "to_actor": 306,
             "start": "2008-10-08",
@@ -2245,7 +2256,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604422,
+            "id": 31730976,
             "from_actor": 97,
             "to_actor": 890,
             "start": "2008-10-08",
@@ -2256,7 +2267,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604423,
+            "id": 31730977,
             "from_actor": 97,
             "to_actor": 760,
             "start": "2009-10-07",
@@ -2267,7 +2278,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604424,
+            "id": 31730978,
             "from_actor": 97,
             "to_actor": 760,
             "start": "2009-10-30",
@@ -2278,7 +2289,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604425,
+            "id": 31730979,
             "from_actor": 97,
             "to_actor": 760,
             "start": "2009-12-12",
@@ -2289,7 +2300,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604426,
+            "id": 31730980,
             "from_actor": 97,
             "to_actor": 760,
             "start": "2010-01-22",
@@ -2300,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604427,
+            "id": 31730981,
             "from_actor": 97,
             "to_actor": 760,
             "start": "2010-04-23",
@@ -2311,7 +2322,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604428,
+            "id": 31730982,
             "from_actor": 97,
             "to_actor": 1077,
             "start": "2009-10-07",
@@ -2322,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604429,
+            "id": 31730983,
             "from_actor": 97,
             "to_actor": 1193,
             "start": "2009-10-07",
@@ -2333,7 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604430,
+            "id": 31730984,
             "from_actor": 97,
             "to_actor": 894,
             "start": "2010-10-06",
@@ -2344,7 +2355,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604431,
+            "id": 31730985,
             "from_actor": 97,
             "to_actor": 894,
             "start": "2011-01-22",
@@ -2355,7 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604432,
+            "id": 31730986,
             "from_actor": 97,
             "to_actor": 894,
             "start": "2011-06-23",
@@ -2366,7 +2377,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604433,
+            "id": 31730987,
             "from_actor": 97,
             "to_actor": 894,
             "start": "2011-07-02",
@@ -2377,7 +2388,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604434,
+            "id": 31730988,
             "from_actor": 97,
             "to_actor": 1078,
             "start": "2010-10-06",
@@ -2388,7 +2399,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604435,
+            "id": 31730989,
             "from_actor": 97,
             "to_actor": 1078,
             "start": "2011-01-24",
@@ -2399,7 +2410,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604436,
+            "id": 31730990,
             "from_actor": 97,
             "to_actor": 1016,
             "start": "2010-10-06",
@@ -2410,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604437,
+            "id": 31730991,
             "from_actor": 97,
             "to_actor": 1016,
             "start": "2011-01-24",
@@ -2421,7 +2432,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604438,
+            "id": 31730992,
             "from_actor": 97,
             "to_actor": 1016,
             "start": "2011-02-11",
@@ -2432,7 +2443,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604439,
+            "id": 31730993,
             "from_actor": 97,
             "to_actor": 18861,
             "start": "2020-05-15",
@@ -2443,7 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604440,
+            "id": 31730994,
             "from_actor": 97,
             "to_actor": 18878,
             "start": "2020-01-22",
@@ -2454,18 +2465,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604442,
-            "from_actor": 97,
-            "to_actor": 19404,
-            "start": "2020-10-07",
-            "end": "2021-02-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Børne- og Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604443,
+            "id": 31730995,
             "from_actor": 97,
             "to_actor": 15890,
             "start": "2016-03-19",
@@ -2476,7 +2476,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604444,
+            "id": 31730996,
             "from_actor": 97,
             "to_actor": 18867,
             "start": "2019-10-02",
@@ -2487,7 +2487,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604445,
+            "id": 31730997,
             "from_actor": 97,
             "to_actor": 18876,
             "start": "2019-12-14",
@@ -2498,7 +2498,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604446,
+            "id": 31730998,
+            "from_actor": 97,
+            "to_actor": 19412,
+            "start": "2020-10-07",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31730999,
             "from_actor": 97,
             "to_actor": 19441,
             "start": "2021-06-17",
@@ -2509,7 +2520,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604447,
+            "id": 31731000,
             "from_actor": 97,
             "to_actor": 18874,
             "start": "2019-10-02",
@@ -2520,7 +2531,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604448,
+            "id": 31731001,
             "from_actor": 97,
             "to_actor": 546,
             "start": "2011-10-07",
@@ -2531,7 +2542,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604449,
+            "id": 31731002,
             "from_actor": 97,
             "to_actor": 325,
             "start": "2012-10-03",
@@ -2542,7 +2553,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604450,
+            "id": 31731003,
             "from_actor": 97,
             "to_actor": 17643,
             "start": "2018-05-04",
@@ -2553,7 +2564,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604451,
+            "id": 31731004,
             "from_actor": 97,
             "to_actor": 1164,
             "start": "2008-10-07",
@@ -2564,7 +2575,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604452,
+            "id": 31731005,
             "from_actor": 97,
             "to_actor": 368,
             "start": "2011-01-22",
@@ -2575,7 +2586,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604453,
+            "id": 31731006,
             "from_actor": 97,
             "to_actor": 18861,
             "start": "2019-10-02",
@@ -2586,1712 +2597,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604454,
-            "from_actor": 97,
-            "to_actor": 319,
-            "start": "2012-10-03",
-            "end": "2013-03-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604455,
-            "from_actor": 97,
-            "to_actor": 5134,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604456,
-            "from_actor": 97,
-            "to_actor": 18878,
-            "start": "2019-10-02",
-            "end": "2020-01-20",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604458,
-            "from_actor": 97,
-            "to_actor": 18765,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604459,
-            "from_actor": 97,
-            "to_actor": 18876,
-            "start": "2019-10-02",
-            "end": "2019-12-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604460,
-            "from_actor": 97,
-            "to_actor": 19441,
-            "start": "2020-10-07",
-            "end": "2021-06-15",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604461,
-            "from_actor": 97,
-            "to_actor": 329,
-            "start": "2012-10-03",
-            "end": "2013-03-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604462,
-            "from_actor": 97,
-            "to_actor": 308,
-            "start": "2012-10-26",
-            "end": "2013-03-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Beskæftigelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604463,
-            "from_actor": 97,
-            "to_actor": 21,
-            "start": "2013-10-02",
-            "end": "2013-11-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604464,
-            "from_actor": 97,
-            "to_actor": 41,
-            "start": "2013-10-11",
-            "end": "2013-12-31",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604467,
-            "from_actor": 97,
-            "to_actor": 19388,
-            "start": "2020-10-07",
-            "end": "2021-08-16",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604468,
-            "from_actor": 97,
-            "to_actor": 19408,
-            "start": "2020-10-07",
-            "end": "2021-08-16",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604469,
-            "from_actor": 97,
-            "to_actor": 18732,
-            "start": "2019-07-03",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604470,
-            "from_actor": 97,
-            "to_actor": 18902,
-            "start": "2019-10-02",
-            "end": "2020-06-22",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604471,
-            "from_actor": 97,
-            "to_actor": 416,
-            "start": "2011-10-07",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604472,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2016-10-05",
-            "end": "2016-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604473,
-            "from_actor": 97,
-            "to_actor": 5170,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604474,
-            "from_actor": 97,
-            "to_actor": 41,
-            "start": "2013-10-02",
-            "end": "2013-10-09",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604475,
-            "from_actor": 97,
-            "to_actor": 1,
-            "start": "2013-10-02",
-            "end": "2013-11-08",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604477,
-            "from_actor": 97,
-            "to_actor": 19371,
-            "start": "2020-12-02",
-            "end": "2020-12-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604478,
-            "from_actor": 97,
-            "to_actor": 5166,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Uddannelses- og Forskningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604479,
-            "from_actor": 97,
-            "to_actor": 18778,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transport- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604481,
-            "from_actor": 97,
-            "to_actor": 18779,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604482,
-            "from_actor": 97,
-            "to_actor": 18783,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Børne- og Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604483,
-            "from_actor": 97,
-            "to_actor": 18305,
-            "start": "2019-01-16",
-            "end": "2019-03-14",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604484,
-            "from_actor": 97,
-            "to_actor": 18305,
-            "start": "2018-12-07",
-            "end": "2019-01-15",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604485,
-            "from_actor": 97,
-            "to_actor": 18293,
-            "start": "2018-11-21",
-            "end": "2018-11-21",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604486,
-            "from_actor": 97,
-            "to_actor": 5142,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604487,
-            "from_actor": 97,
-            "to_actor": 16861,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604488,
-            "from_actor": 97,
-            "to_actor": 16916,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604489,
-            "from_actor": 97,
-            "to_actor": 1318,
-            "start": "2012-10-02",
-            "end": "2013-03-21",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialistisk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604490,
-            "from_actor": 97,
-            "to_actor": 5139,
-            "start": "2014-10-08",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604491,
-            "from_actor": 97,
-            "to_actor": 18764,
-            "start": "2019-07-04",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604492,
-            "from_actor": 97,
-            "to_actor": 18737,
-            "start": "2019-07-02",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604493,
-            "from_actor": 97,
-            "to_actor": 1,
-            "start": "2013-11-25",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604494,
-            "from_actor": 97,
-            "to_actor": 18293,
-            "start": "2018-11-07",
-            "end": "2018-11-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604495,
-            "from_actor": 97,
-            "to_actor": 51,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604496,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2016-10-08",
-            "end": "2016-10-10",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604497,
-            "from_actor": 97,
-            "to_actor": 545,
-            "start": "2012-03-12",
-            "end": "2012-03-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604498,
-            "from_actor": 97,
-            "to_actor": 18738,
-            "start": "2019-06-21",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604499,
-            "from_actor": 97,
-            "to_actor": 170,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604500,
-            "from_actor": 97,
-            "to_actor": 114,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Uddannelses- og Forskningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604501,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2016-10-12",
-            "end": "2017-02-15",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604502,
-            "from_actor": 97,
-            "to_actor": 290,
-            "start": "2013-10-02",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604503,
-            "from_actor": 97,
-            "to_actor": 16866,
-            "start": "2016-10-05",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604504,
-            "from_actor": 97,
-            "to_actor": 15747,
-            "start": "2015-06-18",
-            "end": "2015-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604505,
-            "from_actor": 97,
-            "to_actor": 16013,
-            "start": "2015-12-16",
-            "end": "2016-01-26",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604506,
-            "from_actor": 97,
-            "to_actor": 16031,
-            "start": "2015-10-07",
-            "end": "2016-02-09",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604507,
-            "from_actor": 97,
-            "to_actor": 18315,
-            "start": "2019-04-25",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604508,
-            "from_actor": 97,
-            "to_actor": 18305,
-            "start": "2018-10-03",
-            "end": "2018-11-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604509,
-            "from_actor": 97,
-            "to_actor": 18315,
-            "start": "2018-10-03",
-            "end": "2019-04-23",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604510,
-            "from_actor": 97,
-            "to_actor": 17646,
-            "start": "2018-09-12",
-            "end": "2018-09-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Undervisningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604511,
-            "from_actor": 97,
-            "to_actor": 15904,
-            "start": "2015-08-24",
-            "end": "2015-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604512,
-            "from_actor": 97,
-            "to_actor": 15746,
-            "start": "2015-06-18",
-            "end": "2015-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604513,
-            "from_actor": 97,
-            "to_actor": 13639,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604514,
-            "from_actor": 97,
-            "to_actor": 17642,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604515,
-            "from_actor": 97,
-            "to_actor": 18340,
-            "start": "2018-10-03",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604516,
-            "from_actor": 97,
-            "to_actor": 313,
-            "start": "2013-08-13",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604517,
-            "from_actor": 97,
-            "to_actor": 315,
-            "start": "2013-04-04",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Færøudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604518,
-            "from_actor": 97,
-            "to_actor": 319,
-            "start": "2013-04-04",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604519,
-            "from_actor": 97,
-            "to_actor": 21,
-            "start": "2013-11-23",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604520,
-            "from_actor": 97,
-            "to_actor": 309,
-            "start": "2013-04-04",
-            "end": "2013-08-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "By- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604521,
-            "from_actor": 97,
-            "to_actor": 17652,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604522,
-            "from_actor": 97,
-            "to_actor": 16013,
-            "start": "2016-01-28",
-            "end": "2016-02-09",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604523,
-            "from_actor": 97,
-            "to_actor": 18348,
-            "start": "2018-10-03",
-            "end": "2019-03-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604524,
-            "from_actor": 97,
-            "to_actor": 17658,
-            "start": "2017-10-04",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604525,
-            "from_actor": 97,
-            "to_actor": 16034,
-            "start": "2016-03-19",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604526,
-            "from_actor": 97,
-            "to_actor": 16046,
-            "start": "2015-10-06",
-            "end": "2016-02-08",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604527,
-            "from_actor": 97,
-            "to_actor": 331,
-            "start": "2013-04-04",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604528,
-            "from_actor": 97,
-            "to_actor": 325,
-            "start": "2013-04-04",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604529,
-            "from_actor": 97,
-            "to_actor": 17643,
-            "start": "2017-10-04",
-            "end": "2018-05-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604530,
-            "from_actor": 97,
-            "to_actor": 332,
-            "start": "2013-04-04",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604531,
-            "from_actor": 97,
-            "to_actor": 16019,
-            "start": "2016-01-13",
-            "end": "2016-01-13",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604532,
-            "from_actor": 97,
-            "to_actor": 18314,
-            "start": "2018-12-13",
-            "end": "2018-12-13",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604533,
-            "from_actor": 97,
-            "to_actor": 17622,
-            "start": "2018-06-28",
-            "end": "2018-06-28",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604534,
-            "from_actor": 97,
-            "to_actor": 18314,
-            "start": "2018-11-14",
-            "end": "2018-11-14",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604535,
-            "from_actor": 97,
-            "to_actor": 16013,
-            "start": "2016-03-19",
-            "end": "2016-05-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604536,
-            "from_actor": 97,
-            "to_actor": 18305,
-            "start": "2018-11-09",
-            "end": "2018-12-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604537,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2017-02-17",
-            "end": "2017-05-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604538,
-            "from_actor": 97,
-            "to_actor": 329,
-            "start": "2013-03-19",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Transportudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604539,
-            "from_actor": 97,
-            "to_actor": 598,
-            "start": "2013-03-21",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604540,
-            "from_actor": 97,
-            "to_actor": 599,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604541,
-            "from_actor": 97,
-            "to_actor": 595,
-            "start": "2010-04-16",
-            "end": "2010-04-16",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604542,
-            "from_actor": 97,
-            "to_actor": 324,
-            "start": "2013-04-04",
-            "end": "2013-08-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604543,
-            "from_actor": 97,
-            "to_actor": 16031,
-            "start": "2016-03-19",
-            "end": "2016-04-19",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604544,
-            "from_actor": 97,
-            "to_actor": 18293,
-            "start": "2018-10-12",
-            "end": "2018-10-12",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604545,
-            "from_actor": 97,
-            "to_actor": 16015,
-            "start": "2016-03-19",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Skatteudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604546,
-            "from_actor": 97,
-            "to_actor": 16013,
-            "start": "2016-05-14",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604547,
-            "from_actor": 97,
-            "to_actor": 16891,
-            "start": "2017-06-30",
-            "end": "2017-06-30",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604548,
-            "from_actor": 97,
-            "to_actor": 16031,
-            "start": "2016-04-21",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Fødevareudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604549,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2017-05-05",
-            "end": "2017-05-23",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604550,
-            "from_actor": 97,
-            "to_actor": 6,
-            "start": "2013-10-01",
-            "end": "2014-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604551,
-            "from_actor": 97,
-            "to_actor": 13635,
-            "start": "2014-10-07",
-            "end": "2015-06-18",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604552,
-            "from_actor": 97,
-            "to_actor": 368,
-            "start": "2010-10-05",
-            "end": "2010-10-13",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604553,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2017-05-25",
-            "end": "2017-08-23",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604555,
-            "from_actor": 97,
-            "to_actor": 16019,
-            "start": "2016-05-19",
-            "end": "2016-05-19",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604556,
-            "from_actor": 97,
-            "to_actor": 420,
-            "start": "2011-09-15",
-            "end": "2011-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604557,
-            "from_actor": 97,
-            "to_actor": 18674,
-            "start": "2019-06-05",
-            "end": "2019-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604558,
-            "from_actor": 97,
-            "to_actor": 428,
-            "start": "2007-11-13",
-            "end": "2008-10-07",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604559,
-            "from_actor": 97,
-            "to_actor": 16911,
-            "start": "2017-08-25",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604560,
-            "from_actor": 97,
-            "to_actor": 345,
-            "start": "2011-10-04",
-            "end": "2012-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604561,
-            "from_actor": 97,
-            "to_actor": 342,
-            "start": "2012-10-02",
-            "end": "2013-10-01",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604562,
-            "from_actor": 97,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604563,
-            "from_actor": 97,
-            "to_actor": 18856,
-            "start": "2019-10-01",
-            "end": "2020-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604564,
-            "from_actor": 97,
-            "to_actor": 18303,
-            "start": "2018-10-02",
-            "end": "2019-06-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604565,
-            "from_actor": 97,
-            "to_actor": 232,
-            "start": "2008-10-07",
-            "end": "2009-10-06",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604566,
-            "from_actor": 97,
-            "to_actor": 429,
-            "start": "2009-10-06",
-            "end": "2010-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604567,
-            "from_actor": 97,
-            "to_actor": 16886,
-            "start": "2016-10-04",
-            "end": "2017-10-03",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604568,
-            "from_actor": 97,
-            "to_actor": 17605,
-            "start": "2017-10-03",
-            "end": "2018-10-02",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27604569,
-            "from_actor": 97,
-            "to_actor": 253,
-            "start": "2021-08-16",
-            "end": "2018-05-02",
-            "role": "Minister",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "uddannelses- og forskningsministeren",
-            "type": "Ministertitel"
-        },
-        {
-            "id": 27604570,
-            "from_actor": 97,
-            "to_actor": 769,
-            "start": "2010-03-04",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604571,
-            "from_actor": 97,
-            "to_actor": 770,
-            "start": "2010-10-05",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604572,
-            "from_actor": 97,
-            "to_actor": 771,
-            "start": "2010-10-05",
-            "end": "2011-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604573,
-            "from_actor": 97,
-            "to_actor": 772,
-            "start": "2010-03-01",
-            "end": "2013-10-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604574,
-            "from_actor": 97,
-            "to_actor": 256,
-            "start": "2010-03-01",
-            "end": "2014-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604575,
-            "from_actor": 97,
-            "to_actor": 773,
-            "start": "2010-10-05",
-            "end": "2012-10-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Lønningsrådet",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604576,
-            "from_actor": 97,
-            "to_actor": 826,
-            "start": "2007-11-28",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604577,
-            "from_actor": 97,
-            "to_actor": 827,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604578,
-            "from_actor": 97,
-            "to_actor": 589,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604579,
-            "from_actor": 97,
-            "to_actor": 1064,
-            "start": "2010-10-06",
-            "end": "2010-10-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604580,
-            "from_actor": 97,
-            "to_actor": 1064,
-            "start": "2011-01-24",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604581,
-            "from_actor": 97,
-            "to_actor": 1167,
-            "start": "2007-11-28",
-            "end": "2008-04-16",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604582,
-            "from_actor": 97,
-            "to_actor": 1167,
-            "start": "2008-04-18",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604583,
-            "from_actor": 97,
-            "to_actor": 1084,
-            "start": "2008-10-08",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604584,
-            "from_actor": 97,
-            "to_actor": 534,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604585,
-            "from_actor": 97,
-            "to_actor": 533,
-            "start": "2010-10-06",
-            "end": "2010-10-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604586,
-            "from_actor": 97,
-            "to_actor": 803,
-            "start": "2008-10-09",
-            "end": "2008-10-09",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604587,
-            "from_actor": 97,
-            "to_actor": 533,
-            "start": "2011-01-24",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Energipolitiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604588,
-            "from_actor": 97,
-            "to_actor": 844,
-            "start": "2009-04-28",
-            "end": "2009-04-28",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604589,
-            "from_actor": 97,
-            "to_actor": 948,
-            "start": "2009-12-02",
-            "end": "2009-12-02",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Miljø- og Planlægningsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604590,
-            "from_actor": 97,
-            "to_actor": 842,
-            "start": "2007-11-28",
-            "end": "2008-08-24",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604591,
-            "from_actor": 97,
-            "to_actor": 844,
-            "start": "2008-10-08",
-            "end": "2008-10-08",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604592,
-            "from_actor": 97,
-            "to_actor": 777,
-            "start": "2009-05-12",
-            "end": "2009-05-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Uddannelsesudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604593,
-            "from_actor": 97,
-            "to_actor": 233,
-            "start": "2008-10-08",
-            "end": "2009-04-01",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604594,
-            "from_actor": 97,
-            "to_actor": 233,
-            "start": "2009-04-03",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604595,
-            "from_actor": 97,
-            "to_actor": 618,
-            "start": "2010-10-06",
-            "end": "2010-10-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604596,
-            "from_actor": 97,
-            "to_actor": 618,
-            "start": "2011-01-24",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604597,
-            "from_actor": 97,
-            "to_actor": 622,
-            "start": "2007-11-28",
-            "end": "2008-07-17",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604598,
-            "from_actor": 97,
-            "to_actor": 622,
-            "start": "2008-07-19",
-            "end": "2008-10-07",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604599,
-            "from_actor": 97,
-            "to_actor": 803,
-            "start": "2008-11-10",
-            "end": "2009-05-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604600,
-            "from_actor": 97,
-            "to_actor": 803,
-            "start": "2009-05-30",
-            "end": "2009-10-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604601,
-            "from_actor": 97,
-            "to_actor": 1135,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604602,
-            "from_actor": 97,
-            "to_actor": 892,
-            "start": "2010-10-06",
-            "end": "2010-10-13",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604603,
-            "from_actor": 97,
-            "to_actor": 892,
-            "start": "2011-01-24",
-            "end": "2011-09-15",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Erhvervsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604604,
-            "from_actor": 97,
-            "to_actor": 19349,
-            "start": "2020-11-24",
-            "end": "2021-08-16",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 27604605,
-            "from_actor": 97,
-            "to_actor": 630,
-            "start": "2009-10-07",
-            "end": "2010-10-05",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604606,
-            "from_actor": 97,
-            "to_actor": 595,
-            "start": "2009-11-06",
-            "end": "2009-11-06",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604607,
-            "from_actor": 97,
-            "to_actor": 595,
-            "start": "2010-06-29",
-            "end": "2010-06-29",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604608,
-            "from_actor": 97,
-            "to_actor": 594,
-            "start": "2008-11-12",
-            "end": "2008-11-12",
-            "role": "stedfortræder",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Europaudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604609,
-            "from_actor": 97,
-            "to_actor": 1088,
-            "start": "2010-10-14",
-            "end": "2011-01-21",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialistisk Folkeparti",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604610,
-            "from_actor": 97,
-            "to_actor": 16046,
-            "start": "2016-02-09",
-            "end": "2016-03-18",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Socialdemokratiet",
-            "type": "Folketingsgruppe"
-        },
-        {
-            "id": 27604612,
-            "from_actor": 97,
-            "to_actor": 368,
-            "start": "2010-10-14",
-            "end": "2011-01-21",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617350,
-            "from_actor": 97,
-            "to_actor": 16060,
-            "start": "2016-03-19",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617407,
-            "from_actor": 97,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-02-08",
-            "role": "medlem",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27617577,
-            "from_actor": 97,
-            "to_actor": 16060,
-            "start": "2016-02-09",
-            "end": "2016-03-18",
-            "role": "orlov med vederlag",
-            "from_actor_name": "Jesper Petersen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27619047,
+            "id": 31731007,
             "from_actor": 97,
             "to_actor": 19392,
             "start": "2021-06-02",
@@ -4302,7 +2608,106 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619049,
+            "id": 31731008,
+            "from_actor": 97,
+            "to_actor": 19404,
+            "start": "2020-10-07",
+            "end": "2021-02-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731009,
+            "from_actor": 97,
+            "to_actor": 319,
+            "start": "2012-10-03",
+            "end": "2013-03-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731010,
+            "from_actor": 97,
+            "to_actor": 5134,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731011,
+            "from_actor": 97,
+            "to_actor": 18878,
+            "start": "2019-10-02",
+            "end": "2020-01-20",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731012,
+            "from_actor": 97,
+            "to_actor": 18765,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731013,
+            "from_actor": 97,
+            "to_actor": 18876,
+            "start": "2019-10-02",
+            "end": "2019-12-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731014,
+            "from_actor": 97,
+            "to_actor": 19441,
+            "start": "2020-10-07",
+            "end": "2021-06-15",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731015,
+            "from_actor": 97,
+            "to_actor": 329,
+            "start": "2012-10-03",
+            "end": "2013-03-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731016,
+            "from_actor": 97,
+            "to_actor": 308,
+            "start": "2012-10-26",
+            "end": "2013-03-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731017,
             "from_actor": 97,
             "to_actor": 19392,
             "start": "2021-05-28",
@@ -4313,7 +2718,95 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619051,
+            "id": 31731018,
+            "from_actor": 97,
+            "to_actor": 21,
+            "start": "2013-10-02",
+            "end": "2013-11-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731019,
+            "from_actor": 97,
+            "to_actor": 41,
+            "start": "2013-10-11",
+            "end": "2013-12-31",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731020,
+            "from_actor": 97,
+            "to_actor": 19408,
+            "start": "2020-10-07",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731021,
+            "from_actor": 97,
+            "to_actor": 18732,
+            "start": "2019-07-03",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731022,
+            "from_actor": 97,
+            "to_actor": 18902,
+            "start": "2019-10-02",
+            "end": "2020-06-22",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731023,
+            "from_actor": 97,
+            "to_actor": 416,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731024,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2016-10-05",
+            "end": "2016-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731025,
+            "from_actor": 97,
+            "to_actor": 5170,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731026,
             "from_actor": 97,
             "to_actor": 19392,
             "start": "2021-05-26",
@@ -4324,7 +2817,73 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619053,
+            "id": 31731027,
+            "from_actor": 97,
+            "to_actor": 19438,
+            "start": "2020-11-11",
+            "end": "2020-11-11",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731028,
+            "from_actor": 97,
+            "to_actor": 41,
+            "start": "2013-10-02",
+            "end": "2013-10-09",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731029,
+            "from_actor": 97,
+            "to_actor": 1,
+            "start": "2013-10-02",
+            "end": "2013-11-08",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731030,
+            "from_actor": 97,
+            "to_actor": 19371,
+            "start": "2020-12-02",
+            "end": "2020-12-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731031,
+            "from_actor": 97,
+            "to_actor": 5166,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731032,
+            "from_actor": 97,
+            "to_actor": 18778,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transport- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731033,
             "from_actor": 97,
             "to_actor": 19392,
             "start": "2021-05-22",
@@ -4335,7 +2894,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619054,
+            "id": 31731034,
+            "from_actor": 97,
+            "to_actor": 18779,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731035,
+            "from_actor": 97,
+            "to_actor": 19388,
+            "start": "2020-10-07",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731036,
+            "from_actor": 97,
+            "to_actor": 18783,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731037,
             "from_actor": 97,
             "to_actor": 19392,
             "start": "2020-10-07",
@@ -4346,15 +2938,1456 @@
             "type": "Udvalg"
         },
         {
-            "id": 27619209,
+            "id": 31731038,
             "from_actor": 97,
-            "to_actor": 19438,
-            "start": "2020-11-11",
-            "end": "2020-11-11",
+            "to_actor": 18305,
+            "start": "2019-01-16",
+            "end": "2019-03-14",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731039,
+            "from_actor": 97,
+            "to_actor": 18305,
+            "start": "2018-12-07",
+            "end": "2019-01-15",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731040,
+            "from_actor": 97,
+            "to_actor": 18293,
+            "start": "2018-11-21",
+            "end": "2018-11-21",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731041,
+            "from_actor": 97,
+            "to_actor": 5142,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731042,
+            "from_actor": 97,
+            "to_actor": 16861,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
             "role": "medlem",
             "from_actor_name": "Jesper Petersen",
             "to_actor_name": "Miljø- og Fødevareudvalget",
             "type": "Udvalg"
+        },
+        {
+            "id": 31731043,
+            "from_actor": 97,
+            "to_actor": 16916,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731044,
+            "from_actor": 97,
+            "to_actor": 1318,
+            "start": "2012-10-02",
+            "end": "2013-03-21",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731045,
+            "from_actor": 97,
+            "to_actor": 5139,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731046,
+            "from_actor": 97,
+            "to_actor": 18764,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731047,
+            "from_actor": 97,
+            "to_actor": 18737,
+            "start": "2019-07-02",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731048,
+            "from_actor": 97,
+            "to_actor": 1,
+            "start": "2013-11-25",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731049,
+            "from_actor": 97,
+            "to_actor": 18293,
+            "start": "2018-11-07",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731050,
+            "from_actor": 97,
+            "to_actor": 51,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731051,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2016-10-08",
+            "end": "2016-10-10",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731052,
+            "from_actor": 97,
+            "to_actor": 545,
+            "start": "2012-03-12",
+            "end": "2012-03-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731053,
+            "from_actor": 97,
+            "to_actor": 18738,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731054,
+            "from_actor": 97,
+            "to_actor": 170,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731055,
+            "from_actor": 97,
+            "to_actor": 114,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731056,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2016-10-12",
+            "end": "2017-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731057,
+            "from_actor": 97,
+            "to_actor": 290,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731058,
+            "from_actor": 97,
+            "to_actor": 16866,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731059,
+            "from_actor": 97,
+            "to_actor": 15747,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731060,
+            "from_actor": 97,
+            "to_actor": 16013,
+            "start": "2015-12-16",
+            "end": "2016-01-26",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731061,
+            "from_actor": 97,
+            "to_actor": 16031,
+            "start": "2015-10-07",
+            "end": "2016-02-09",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731062,
+            "from_actor": 97,
+            "to_actor": 18315,
+            "start": "2019-04-25",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731063,
+            "from_actor": 97,
+            "to_actor": 18305,
+            "start": "2018-10-03",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731064,
+            "from_actor": 97,
+            "to_actor": 18315,
+            "start": "2018-10-03",
+            "end": "2019-04-23",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731065,
+            "from_actor": 97,
+            "to_actor": 17646,
+            "start": "2018-09-12",
+            "end": "2018-09-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731066,
+            "from_actor": 97,
+            "to_actor": 15904,
+            "start": "2015-08-24",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731067,
+            "from_actor": 97,
+            "to_actor": 15746,
+            "start": "2015-06-18",
+            "end": "2015-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731068,
+            "from_actor": 97,
+            "to_actor": 13639,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731069,
+            "from_actor": 97,
+            "to_actor": 17642,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731070,
+            "from_actor": 97,
+            "to_actor": 18340,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731071,
+            "from_actor": 97,
+            "to_actor": 313,
+            "start": "2013-08-13",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731072,
+            "from_actor": 97,
+            "to_actor": 315,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731073,
+            "from_actor": 97,
+            "to_actor": 319,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731074,
+            "from_actor": 97,
+            "to_actor": 21,
+            "start": "2013-11-23",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731075,
+            "from_actor": 97,
+            "to_actor": 309,
+            "start": "2013-04-04",
+            "end": "2013-08-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "By- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731076,
+            "from_actor": 97,
+            "to_actor": 17652,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731077,
+            "from_actor": 97,
+            "to_actor": 16013,
+            "start": "2016-01-28",
+            "end": "2016-02-09",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731078,
+            "from_actor": 97,
+            "to_actor": 18348,
+            "start": "2018-10-03",
+            "end": "2019-03-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731079,
+            "from_actor": 97,
+            "to_actor": 17658,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731080,
+            "from_actor": 97,
+            "to_actor": 16034,
+            "start": "2016-03-19",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731081,
+            "from_actor": 97,
+            "to_actor": 16046,
+            "start": "2015-10-06",
+            "end": "2016-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731082,
+            "from_actor": 97,
+            "to_actor": 331,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731083,
+            "from_actor": 97,
+            "to_actor": 325,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731084,
+            "from_actor": 97,
+            "to_actor": 17643,
+            "start": "2017-10-04",
+            "end": "2018-05-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731085,
+            "from_actor": 97,
+            "to_actor": 332,
+            "start": "2013-04-04",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731086,
+            "from_actor": 97,
+            "to_actor": 16019,
+            "start": "2016-01-13",
+            "end": "2016-01-13",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731087,
+            "from_actor": 97,
+            "to_actor": 18314,
+            "start": "2018-12-13",
+            "end": "2018-12-13",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731088,
+            "from_actor": 97,
+            "to_actor": 17622,
+            "start": "2018-06-28",
+            "end": "2018-06-28",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Energi- Forsynings- og Klimaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731089,
+            "from_actor": 97,
+            "to_actor": 18314,
+            "start": "2018-11-14",
+            "end": "2018-11-14",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731090,
+            "from_actor": 97,
+            "to_actor": 16013,
+            "start": "2016-03-19",
+            "end": "2016-05-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731091,
+            "from_actor": 97,
+            "to_actor": 18305,
+            "start": "2018-11-09",
+            "end": "2018-12-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731092,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2017-02-17",
+            "end": "2017-05-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731093,
+            "from_actor": 97,
+            "to_actor": 329,
+            "start": "2013-03-19",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731094,
+            "from_actor": 97,
+            "to_actor": 598,
+            "start": "2013-03-21",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731095,
+            "from_actor": 97,
+            "to_actor": 599,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731096,
+            "from_actor": 97,
+            "to_actor": 595,
+            "start": "2010-04-16",
+            "end": "2010-04-16",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731097,
+            "from_actor": 97,
+            "to_actor": 324,
+            "start": "2013-04-04",
+            "end": "2013-08-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731098,
+            "from_actor": 97,
+            "to_actor": 16031,
+            "start": "2016-03-19",
+            "end": "2016-04-19",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731099,
+            "from_actor": 97,
+            "to_actor": 18293,
+            "start": "2018-10-12",
+            "end": "2018-10-12",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731100,
+            "from_actor": 97,
+            "to_actor": 16015,
+            "start": "2016-03-19",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731101,
+            "from_actor": 97,
+            "to_actor": 16013,
+            "start": "2016-05-14",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731102,
+            "from_actor": 97,
+            "to_actor": 16891,
+            "start": "2017-06-30",
+            "end": "2017-06-30",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731103,
+            "from_actor": 97,
+            "to_actor": 16031,
+            "start": "2016-04-21",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731104,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2017-05-05",
+            "end": "2017-05-23",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731105,
+            "from_actor": 97,
+            "to_actor": 6,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731106,
+            "from_actor": 97,
+            "to_actor": 13635,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731107,
+            "from_actor": 97,
+            "to_actor": 368,
+            "start": "2010-10-05",
+            "end": "2010-10-13",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731108,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2017-05-25",
+            "end": "2017-08-23",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731110,
+            "from_actor": 97,
+            "to_actor": 16019,
+            "start": "2016-05-19",
+            "end": "2016-05-19",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731111,
+            "from_actor": 97,
+            "to_actor": 420,
+            "start": "2011-09-15",
+            "end": "2011-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731112,
+            "from_actor": 97,
+            "to_actor": 18674,
+            "start": "2019-06-05",
+            "end": "2019-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731113,
+            "from_actor": 97,
+            "to_actor": 428,
+            "start": "2007-11-13",
+            "end": "2008-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731114,
+            "from_actor": 97,
+            "to_actor": 16911,
+            "start": "2017-08-25",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731115,
+            "from_actor": 97,
+            "to_actor": 345,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731116,
+            "from_actor": 97,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731117,
+            "from_actor": 97,
+            "to_actor": 342,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731118,
+            "from_actor": 97,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731119,
+            "from_actor": 97,
+            "to_actor": 18856,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731120,
+            "from_actor": 97,
+            "to_actor": 18303,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731121,
+            "from_actor": 97,
+            "to_actor": 232,
+            "start": "2008-10-07",
+            "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731122,
+            "from_actor": 97,
+            "to_actor": 429,
+            "start": "2009-10-06",
+            "end": "2010-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731123,
+            "from_actor": 97,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731124,
+            "from_actor": 97,
+            "to_actor": 17605,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31731125,
+            "from_actor": 97,
+            "to_actor": 253,
+            "start": "2021-08-16",
+            "end": "2015-06-28",
+            "role": "Minister",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "uddannelses- og forskningsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 31731126,
+            "from_actor": 97,
+            "to_actor": 769,
+            "start": "2010-03-04",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731127,
+            "from_actor": 97,
+            "to_actor": 770,
+            "start": "2010-10-05",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731128,
+            "from_actor": 97,
+            "to_actor": 771,
+            "start": "2010-10-05",
+            "end": "2011-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731129,
+            "from_actor": 97,
+            "to_actor": 772,
+            "start": "2010-03-01",
+            "end": "2013-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731130,
+            "from_actor": 97,
+            "to_actor": 256,
+            "start": "2010-03-01",
+            "end": "2014-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731131,
+            "from_actor": 97,
+            "to_actor": 773,
+            "start": "2010-10-05",
+            "end": "2012-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731132,
+            "from_actor": 97,
+            "to_actor": 826,
+            "start": "2007-11-28",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731133,
+            "from_actor": 97,
+            "to_actor": 827,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731134,
+            "from_actor": 97,
+            "to_actor": 589,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731135,
+            "from_actor": 97,
+            "to_actor": 1064,
+            "start": "2010-10-06",
+            "end": "2010-10-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731136,
+            "from_actor": 97,
+            "to_actor": 1064,
+            "start": "2011-01-24",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731137,
+            "from_actor": 97,
+            "to_actor": 1167,
+            "start": "2007-11-28",
+            "end": "2008-04-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731138,
+            "from_actor": 97,
+            "to_actor": 1167,
+            "start": "2008-04-18",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731139,
+            "from_actor": 97,
+            "to_actor": 1084,
+            "start": "2008-10-08",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731140,
+            "from_actor": 97,
+            "to_actor": 534,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731141,
+            "from_actor": 97,
+            "to_actor": 533,
+            "start": "2010-10-06",
+            "end": "2010-10-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731142,
+            "from_actor": 97,
+            "to_actor": 803,
+            "start": "2008-10-09",
+            "end": "2008-10-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731143,
+            "from_actor": 97,
+            "to_actor": 533,
+            "start": "2011-01-24",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731144,
+            "from_actor": 97,
+            "to_actor": 844,
+            "start": "2009-04-28",
+            "end": "2009-04-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731145,
+            "from_actor": 97,
+            "to_actor": 948,
+            "start": "2009-12-02",
+            "end": "2009-12-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731146,
+            "from_actor": 97,
+            "to_actor": 842,
+            "start": "2007-11-28",
+            "end": "2008-08-24",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731147,
+            "from_actor": 97,
+            "to_actor": 844,
+            "start": "2008-10-08",
+            "end": "2008-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731148,
+            "from_actor": 97,
+            "to_actor": 777,
+            "start": "2009-05-12",
+            "end": "2009-05-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731149,
+            "from_actor": 97,
+            "to_actor": 233,
+            "start": "2008-10-08",
+            "end": "2009-04-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731150,
+            "from_actor": 97,
+            "to_actor": 233,
+            "start": "2009-04-03",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731151,
+            "from_actor": 97,
+            "to_actor": 618,
+            "start": "2010-10-06",
+            "end": "2010-10-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731152,
+            "from_actor": 97,
+            "to_actor": 618,
+            "start": "2011-01-24",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731153,
+            "from_actor": 97,
+            "to_actor": 622,
+            "start": "2007-11-28",
+            "end": "2008-07-17",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731154,
+            "from_actor": 97,
+            "to_actor": 622,
+            "start": "2008-07-19",
+            "end": "2008-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731155,
+            "from_actor": 97,
+            "to_actor": 803,
+            "start": "2008-11-10",
+            "end": "2009-05-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731156,
+            "from_actor": 97,
+            "to_actor": 803,
+            "start": "2009-05-30",
+            "end": "2009-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731157,
+            "from_actor": 97,
+            "to_actor": 1135,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731158,
+            "from_actor": 97,
+            "to_actor": 892,
+            "start": "2010-10-06",
+            "end": "2010-10-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731159,
+            "from_actor": 97,
+            "to_actor": 892,
+            "start": "2011-01-24",
+            "end": "2011-09-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731160,
+            "from_actor": 97,
+            "to_actor": 19349,
+            "start": "2020-11-24",
+            "end": "2021-08-16",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31731161,
+            "from_actor": 97,
+            "to_actor": 630,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731162,
+            "from_actor": 97,
+            "to_actor": 595,
+            "start": "2009-11-06",
+            "end": "2009-11-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731163,
+            "from_actor": 97,
+            "to_actor": 595,
+            "start": "2010-06-29",
+            "end": "2010-06-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731164,
+            "from_actor": 97,
+            "to_actor": 594,
+            "start": "2008-11-12",
+            "end": "2008-11-12",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31731165,
+            "from_actor": 97,
+            "to_actor": 1088,
+            "start": "2010-10-14",
+            "end": "2011-01-21",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731166,
+            "from_actor": 97,
+            "to_actor": 16046,
+            "start": "2016-02-09",
+            "end": "2016-03-18",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31731168,
+            "from_actor": 97,
+            "to_actor": 368,
+            "start": "2010-10-14",
+            "end": "2011-01-21",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743469,
+            "from_actor": 97,
+            "to_actor": 16060,
+            "start": "2016-03-19",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743526,
+            "from_actor": 97,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-02-08",
+            "role": "medlem",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743696,
+            "from_actor": 97,
+            "to_actor": 16060,
+            "start": "2016-02-09",
+            "end": "2016-03-18",
+            "role": "orlov med vederlag",
+            "from_actor_name": "Jesper Petersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

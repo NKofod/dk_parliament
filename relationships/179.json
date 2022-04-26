@@ -1167,17 +1167,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22773320,
-            "from_actor": 179,
-            "to_actor": 18303,
-            "start": "2018-10-25",
-            "end": "2018-11-07",
-            "role": "medlem",
-            "from_actor_name": "Hans Christian Thoning",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22773321,
             "from_actor": 179,
             "to_actor": 18304,
@@ -2058,7 +2047,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617355,
+            "id": 31638994,
+            "from_actor": 179,
+            "to_actor": 18303,
+            "start": "2018-10-25",
+            "end": "2018-11-07",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Thoning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31743474,
             "from_actor": 179,
             "to_actor": 16060,
             "start": "2015-12-04",
@@ -2069,7 +2069,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27617372,
+            "id": 31743491,
             "from_actor": 179,
             "to_actor": 16060,
             "start": "2015-10-22",

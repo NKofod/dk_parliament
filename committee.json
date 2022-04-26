@@ -9718,5 +9718,301 @@
         "start": "2020-10-06",
         "end": "2021-10-05",
         "periodid": 153
+    },
+    "19829": {
+        "id": 19829,
+        "name": "Europaudvalget",
+        "short_name": "EUU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19839": {
+        "id": 19839,
+        "name": "Tilsynet med Folketingets Bibliotek",
+        "short_name": "Tilsyn med Bibliotek",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19877": {
+        "id": 19877,
+        "name": "Udvalget til Valgs Prøvelse",
+        "short_name": "UVP",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19878": {
+        "id": 19878,
+        "name": "Udvalget for Forretningsordenen",
+        "short_name": "UFO",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19879": {
+        "id": 19879,
+        "name": "Underudvalget under Udvalget for Forretningsordenen",
+        "short_name": "UUF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19880": {
+        "id": 19880,
+        "name": "Granskningsudvalget",
+        "short_name": "GRA",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19881": {
+        "id": 19881,
+        "name": "Folketingets Præsidium",
+        "short_name": "FPR",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19882": {
+        "id": 19882,
+        "name": "Tingsekretærer",
+        "short_name": "Tingsekretærer",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19887": {
+        "id": 19887,
+        "name": "Europaudvalgets Underudvalg",
+        "short_name": "UEU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19889": {
+        "id": 19889,
+        "name": "Beskæftigelsesudvalget",
+        "short_name": "BEU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19891": {
+        "id": 19891,
+        "name": "Nordisk Råd",
+        "short_name": "NOR",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19894": {
+        "id": 19894,
+        "name": "Den Arktiske Delegation",
+        "short_name": "AD",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19895": {
+        "id": 19895,
+        "name": "Børne- og Undervisningsudvalget",
+        "short_name": "BUU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19896": {
+        "id": 19896,
+        "name": "Epidemiudvalget",
+        "short_name": "EPI",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19897": {
+        "id": 19897,
+        "name": "Finansudvalget",
+        "short_name": "FIU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19898": {
+        "id": 19898,
+        "name": "Grønlandsudvalget",
+        "short_name": "GRU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19899": {
+        "id": 19899,
+        "name": "Indfødsretsudvalget",
+        "short_name": "IFU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19900": {
+        "id": 19900,
+        "name": "Ligestillingsudvalget",
+        "short_name": "LIU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19901": {
+        "id": 19901,
+        "name": "Tilsynet i henhold til grundlovens § 71",
+        "short_name": "§71",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19902": {
+        "id": 19902,
+        "name": "Social- og Ældreudvalget",
+        "short_name": "SOU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19903": {
+        "id": 19903,
+        "name": "Udenrigsudvalget",
+        "short_name": "URU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19904": {
+        "id": 19904,
+        "name": "Udlændinge- og Integrationsudvalget",
+        "short_name": "UUI",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19905": {
+        "id": 19905,
+        "name": "Færøudvalget",
+        "short_name": "FÆU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19906": {
+        "id": 19906,
+        "name": "Retsudvalget",
+        "short_name": "REU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19907": {
+        "id": 19907,
+        "name": "Erhvervsudvalget",
+        "short_name": "ERU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19908": {
+        "id": 19908,
+        "name": "Forsvarsudvalget",
+        "short_name": "FOU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19909": {
+        "id": 19909,
+        "name": "Indenrigs- og Boligudvalget",
+        "short_name": "BOU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19910": {
+        "id": 19910,
+        "name": "Kirkeudvalget",
+        "short_name": "KIU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19911": {
+        "id": 19911,
+        "name": "Klima-, Energi- og Forsyningsudvalget",
+        "short_name": "KEF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19912": {
+        "id": 19912,
+        "name": "Kulturudvalget ",
+        "short_name": "KUU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19913": {
+        "id": 19913,
+        "name": "Miljø- og Fødevareudvalget",
+        "short_name": "MOF",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19914": {
+        "id": 19914,
+        "name": "Skatteudvalget",
+        "short_name": "SAU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19915": {
+        "id": 19915,
+        "name": "Transportudvalget",
+        "short_name": "TRU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19916": {
+        "id": 19916,
+        "name": "Uddannelses- og Forskningsudvalget",
+        "short_name": "UFU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19917": {
+        "id": 19917,
+        "name": "Udvalget for Landdistrikter og Øer",
+        "short_name": "ULØ",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19921": {
+        "id": 19921,
+        "name": "Sundhedsudvalget",
+        "short_name": "SUU",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
+    },
+    "19967": {
+        "id": 19967,
+        "name": "Udvalget for Småøer",
+        "short_name": "UFS",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
     }
 }

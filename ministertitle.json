@@ -20,7 +20,7 @@
         "name": "forsvarsministeren",
         "short_name": "forsvarsminister",
         "start": "2019-06-27",
-        "end": null,
+        "end": "2022-02-04",
         "periodid": null
     },
     "14": {
@@ -67,8 +67,8 @@
         "id": 45,
         "name": "justitsministeren",
         "short_name": "justitsminister",
-        "start": "2015-06-28",
-        "end": "2016-11-28",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
         "periodid": null
     },
     "52": {
@@ -195,8 +195,8 @@
         "id": 253,
         "name": "uddannelses- og forskningsministeren",
         "short_name": "uddannelses- og forskningsminister",
-        "start": "2016-11-28",
-        "end": "2018-05-02",
+        "start": "2014-02-03",
+        "end": "2015-06-28",
         "periodid": null
     },
     "284": {
@@ -411,8 +411,8 @@
         "id": 1832,
         "name": "udviklingsministeren",
         "short_name": "udviklingsminister",
-        "start": "2012-10-02",
-        "end": null,
+        "start": "2004-01-01",
+        "end": "2004-01-01",
         "periodid": null
     },
     "1906": {
@@ -467,8 +467,8 @@
         "id": 13581,
         "name": "sundhedsministeren",
         "short_name": "sundhedsminister",
-        "start": "2000-02-23",
-        "end": "2000-12-21",
+        "start": "1998-03-23",
+        "end": "2000-02-23",
         "periodid": null
     },
     "14099": {
@@ -515,8 +515,8 @@
         "id": 14104,
         "name": "indenrigsministeren",
         "short_name": "indenrigsminister",
-        "start": "1993-01-25",
-        "end": "1997-10-20",
+        "start": "1982-09-10",
+        "end": "1986-03-12",
         "periodid": null
     },
     "14105": {
@@ -563,8 +563,8 @@
         "id": 14110,
         "name": "landbrugsministeren",
         "short_name": "landbrugsminister",
-        "start": "1982-09-10",
-        "end": "1986-03-12",
+        "start": "1986-03-12",
+        "end": "1987-09-10",
         "periodid": null
     },
     "14111": {
@@ -787,8 +787,8 @@
         "id": 15829,
         "name": "trafikministeren",
         "short_name": "trafikminister",
-        "start": "2001-11-27",
-        "end": "2005-02-18",
+        "start": "1989-01-10",
+        "end": "1990-12-18",
         "periodid": null
     },
     "15830": {
@@ -931,8 +931,8 @@
         "id": 15847,
         "name": "ministeren for udviklingsbistand",
         "short_name": "minister for udviklingsbistand",
-        "start": "2000-12-21",
-        "end": "2001-11-27",
+        "start": "1993-01-25",
+        "end": "1994-09-27",
         "periodid": null
     },
     "15848": {
@@ -1387,7 +1387,7 @@
         "id": 19497,
         "name": "ministeren for ligestilling",
         "short_name": "minister for ligestilling",
-        "start": "2020-11-19",
+        "start": "2022-02-04",
         "end": null,
         "periodid": null
     },
@@ -1419,7 +1419,7 @@
         "id": 19568,
         "name": "transportministeren",
         "short_name": "transportminister",
-        "start": "2021-01-21",
+        "start": "2022-02-04",
         "end": null,
         "periodid": null
     }

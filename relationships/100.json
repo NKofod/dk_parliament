@@ -100,7 +100,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615873,
+            "id": 31745688,
             "from_actor": 100,
             "to_actor": 405,
             "start": "2011-09-15",
@@ -111,7 +111,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615874,
+            "id": 31745689,
             "from_actor": 100,
             "to_actor": 406,
             "start": "2011-10-04",
@@ -122,7 +122,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615875,
+            "id": 31745690,
             "from_actor": 100,
             "to_actor": 15753,
             "start": "2015-06-18",
@@ -133,7 +133,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615876,
+            "id": 31745691,
             "from_actor": 100,
             "to_actor": 16053,
             "start": "2015-10-06",
@@ -144,7 +144,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615877,
+            "id": 31745692,
             "from_actor": 100,
             "to_actor": 18678,
             "start": "2019-06-05",
@@ -155,7 +155,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615878,
+            "id": 31745693,
             "from_actor": 100,
             "to_actor": 791,
             "start": "2011-10-07",
@@ -166,7 +166,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615879,
+            "id": 31745694,
+            "from_actor": 100,
+            "to_actor": 19983,
+            "start": "2022-03-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Lønningsrådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 31745695,
             "from_actor": 100,
             "to_actor": 13641,
             "start": "2014-10-07",
@@ -177,7 +188,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615880,
+            "id": 31745696,
             "from_actor": 100,
             "to_actor": 18888,
             "start": "2019-10-01",
@@ -188,18 +199,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615881,
-            "from_actor": 100,
-            "to_actor": 18759,
-            "start": "2020-10-13",
-            "end": "2023-07-03",
-            "role": "medlem",
-            "from_actor_name": "Sofie Carsten Nielsen",
-            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
-            "type": "Kommission"
-        },
-        {
-            "id": 27615882,
+            "id": 31745697,
             "from_actor": 100,
             "to_actor": 547,
             "start": "2011-10-07",
@@ -210,7 +210,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615883,
+            "id": 31745698,
             "from_actor": 100,
             "to_actor": 255,
             "start": "2013-02-20",
@@ -221,18 +221,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615884,
-            "from_actor": 100,
-            "to_actor": 19583,
-            "start": "2021-04-01",
-            "end": "2026-03-31",
-            "role": "medlem",
-            "from_actor_name": "Sofie Carsten Nielsen",
-            "to_actor_name": "Danmarks Nationalbanks repræsentantskab",
-            "type": "Kommission"
-        },
-        {
-            "id": 27615885,
+            "id": 31745699,
             "from_actor": 100,
             "to_actor": 17612,
             "start": "2017-10-03",
@@ -243,7 +232,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615886,
+            "id": 31745700,
             "from_actor": 100,
             "to_actor": 18327,
             "start": "2018-10-02",
@@ -254,7 +243,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615887,
+            "id": 31745701,
+            "from_actor": 100,
+            "to_actor": 19583,
+            "start": "2021-04-01",
+            "end": "2026-03-31",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Danmarks Nationalbanks repræsentantskab",
+            "type": "Kommission"
+        },
+        {
+            "id": 31745702,
             "from_actor": 100,
             "to_actor": 559,
             "start": "2011-10-07",
@@ -265,7 +265,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615888,
+            "id": 31745703,
             "from_actor": 100,
             "to_actor": 17637,
             "start": "2018-09-08",
@@ -276,7 +276,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615889,
+            "id": 31745704,
             "from_actor": 100,
             "to_actor": 16880,
             "start": "2016-10-04",
@@ -287,7 +287,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615890,
+            "id": 31745705,
             "from_actor": 100,
             "to_actor": 19356,
             "start": "2020-10-06",
@@ -298,7 +298,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615891,
+            "id": 31745706,
+            "from_actor": 100,
+            "to_actor": 19859,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31745707,
             "from_actor": 100,
             "to_actor": 18738,
             "start": "2019-07-03",
@@ -309,7 +320,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615892,
+            "id": 31745708,
             "from_actor": 100,
             "to_actor": 397,
             "start": "2011-10-07",
@@ -320,7 +331,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615893,
+            "id": 31745709,
             "from_actor": 100,
             "to_actor": 17655,
             "start": "2018-09-03",
@@ -331,7 +342,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615894,
+            "id": 31745710,
             "from_actor": 100,
             "to_actor": 18311,
             "start": "2018-11-15",
@@ -342,7 +353,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615895,
+            "id": 31745711,
+            "from_actor": 100,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31745712,
             "from_actor": 100,
             "to_actor": 18311,
             "start": "2018-11-06",
@@ -353,7 +375,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615896,
+            "id": 31745713,
             "from_actor": 100,
             "to_actor": 19419,
             "start": "2020-10-06",
@@ -364,7 +386,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27615897,
+            "id": 31745714,
             "from_actor": 100,
             "to_actor": 412,
             "start": "2012-10-03",
@@ -375,7 +397,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615898,
+            "id": 31745715,
+            "from_actor": 100,
+            "to_actor": 18759,
+            "start": "2020-10-13",
+            "end": "2023-07-03",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31745716,
             "from_actor": 100,
             "to_actor": 540,
             "start": "2011-10-07",
@@ -386,7 +419,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615899,
+            "id": 31745717,
             "from_actor": 100,
             "to_actor": 19,
             "start": "2013-10-02",
@@ -397,7 +430,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615900,
+            "id": 31745718,
             "from_actor": 100,
             "to_actor": 16019,
             "start": "2015-10-07",
@@ -408,7 +441,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615901,
+            "id": 31745719,
             "from_actor": 100,
             "to_actor": 15887,
             "start": "2015-07-03",
@@ -419,7 +452,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615902,
+            "id": 31745720,
             "from_actor": 100,
             "to_actor": 15884,
             "start": "2015-07-03",
@@ -430,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615903,
+            "id": 31745721,
             "from_actor": 100,
             "to_actor": 16014,
             "start": "2015-10-07",
@@ -441,7 +474,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615904,
+            "id": 31745722,
             "from_actor": 100,
             "to_actor": 17637,
             "start": "2018-09-03",
@@ -452,7 +485,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615905,
+            "id": 31745723,
             "from_actor": 100,
             "to_actor": 18317,
             "start": "2018-10-03",
@@ -463,7 +496,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615906,
+            "id": 31745724,
             "from_actor": 100,
             "to_actor": 20,
             "start": "2013-10-02",
@@ -474,7 +507,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615907,
+            "id": 31745725,
             "from_actor": 100,
             "to_actor": 15905,
             "start": "2015-07-09",
@@ -485,7 +518,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615908,
+            "id": 31745726,
             "from_actor": 100,
             "to_actor": 312,
             "start": "2012-10-03",
@@ -496,7 +529,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615909,
+            "id": 31745727,
             "from_actor": 100,
             "to_actor": 16915,
             "start": "2016-10-05",
@@ -507,7 +540,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615910,
+            "id": 31745728,
             "from_actor": 100,
             "to_actor": 128,
             "start": "2013-10-02",
@@ -518,7 +551,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615911,
+            "id": 31745729,
             "from_actor": 100,
             "to_actor": 1075,
             "start": "2013-02-20",
@@ -529,7 +562,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615912,
+            "id": 31745730,
             "from_actor": 100,
             "to_actor": 327,
             "start": "2012-10-03",
@@ -540,7 +573,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615913,
+            "id": 31745731,
             "from_actor": 100,
             "to_actor": 331,
             "start": "2012-10-03",
@@ -551,7 +584,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615914,
+            "id": 31745732,
+            "from_actor": 100,
+            "to_actor": 19845,
+            "start": "2022-02-25",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31745733,
             "from_actor": 100,
             "to_actor": 326,
             "start": "2012-12-03",
@@ -562,7 +606,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615915,
+            "id": 31745734,
             "from_actor": 100,
             "to_actor": 17634,
             "start": "2017-10-04",
@@ -573,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615916,
+            "id": 31745735,
             "from_actor": 100,
             "to_actor": 269,
             "start": "2013-10-01",
@@ -584,7 +628,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615917,
+            "id": 31745736,
             "from_actor": 100,
             "to_actor": 19349,
             "start": "2020-10-13",
@@ -595,7 +639,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615918,
+            "id": 31745737,
             "from_actor": 100,
             "to_actor": 16639,
             "start": "2020-10-20",
@@ -606,7 +650,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27615919,
+            "id": 31745738,
+            "from_actor": 100,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-02-23",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31745739,
             "from_actor": 100,
             "to_actor": 30,
             "start": "2012-10-03",
@@ -617,18 +672,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615920,
-            "from_actor": 100,
-            "to_actor": 19405,
-            "start": "2020-10-07",
-            "end": "2020-10-18",
-            "role": "medlem",
-            "from_actor_name": "Sofie Carsten Nielsen",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27615921,
+            "id": 31745740,
             "from_actor": 100,
             "to_actor": 17753,
             "start": "2021-03-01",
@@ -639,7 +683,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615922,
+            "id": 31745741,
             "from_actor": 100,
             "to_actor": 330,
             "start": "2012-10-03",
@@ -650,7 +694,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615923,
+            "id": 31745742,
             "from_actor": 100,
             "to_actor": 18863,
             "start": "2019-10-02",
@@ -661,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615924,
+            "id": 31745743,
             "from_actor": 100,
             "to_actor": 415,
             "start": "2012-10-02",
@@ -672,7 +716,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27615925,
+            "id": 31745744,
             "from_actor": 100,
             "to_actor": 18863,
             "start": "2020-06-17",
@@ -683,7 +727,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615926,
+            "id": 31745745,
+            "from_actor": 100,
+            "to_actor": 19405,
+            "start": "2020-10-07",
+            "end": "2020-10-18",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745746,
             "from_actor": 100,
             "to_actor": 16920,
             "start": "2016-10-05",
@@ -694,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615927,
+            "id": 31745747,
             "from_actor": 100,
             "to_actor": 545,
             "start": "2012-06-23",
@@ -705,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615928,
+            "id": 31745748,
             "from_actor": 100,
             "to_actor": 18872,
             "start": "2020-02-01",
@@ -716,7 +771,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615929,
+            "id": 31745749,
             "from_actor": 100,
             "to_actor": 419,
             "start": "2012-01-19",
@@ -727,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615930,
+            "id": 31745750,
             "from_actor": 100,
             "to_actor": 501,
             "start": "2011-10-07",
@@ -738,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615931,
+            "id": 31745751,
             "from_actor": 100,
             "to_actor": 18872,
             "start": "2019-10-02",
@@ -749,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615932,
+            "id": 31745752,
             "from_actor": 100,
             "to_actor": 15870,
             "start": "2013-02-20",
@@ -760,7 +815,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615933,
+            "id": 31745753,
             "from_actor": 100,
             "to_actor": 545,
             "start": "2011-10-07",
@@ -771,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615934,
+            "id": 31745754,
             "from_actor": 100,
             "to_actor": 418,
             "start": "2011-10-07",
@@ -782,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615935,
+            "id": 31745755,
             "from_actor": 100,
             "to_actor": 419,
             "start": "2011-11-11",
@@ -793,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615936,
+            "id": 31745756,
             "from_actor": 100,
             "to_actor": 18902,
             "start": "2019-10-02",
@@ -804,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615937,
+            "id": 31745757,
             "from_actor": 100,
             "to_actor": 18356,
             "start": "2018-10-03",
@@ -815,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615938,
+            "id": 31745758,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2020-06-26",
@@ -826,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615939,
+            "id": 31745759,
             "from_actor": 100,
             "to_actor": 174,
             "start": "2013-10-02",
@@ -837,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615940,
+            "id": 31745760,
             "from_actor": 100,
             "to_actor": 17635,
             "start": "2018-01-12",
@@ -848,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615941,
+            "id": 31745761,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2020-09-29",
@@ -859,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615942,
+            "id": 31745762,
             "from_actor": 100,
             "to_actor": 339,
             "start": "2013-01-10",
@@ -870,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615943,
+            "id": 31745763,
             "from_actor": 100,
             "to_actor": 19337,
             "start": "2020-10-07",
@@ -881,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615944,
+            "id": 31745764,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2020-06-08",
@@ -892,18 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615945,
-            "from_actor": 100,
-            "to_actor": 19388,
-            "start": "2020-10-07",
-            "end": "2020-10-19",
-            "role": "medlem",
-            "from_actor_name": "Sofie Carsten Nielsen",
-            "to_actor_name": "Forsvarsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27615946,
+            "id": 31745765,
             "from_actor": 100,
             "to_actor": 19371,
             "start": "2020-10-07",
@@ -914,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615947,
+            "id": 31745766,
             "from_actor": 100,
             "to_actor": 317,
             "start": "2013-01-10",
@@ -925,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615948,
+            "id": 31745767,
             "from_actor": 100,
             "to_actor": 18319,
             "start": "2018-10-03",
@@ -936,7 +980,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615949,
+            "id": 31745768,
+            "from_actor": 100,
+            "to_actor": 19388,
+            "start": "2020-10-07",
+            "end": "2020-10-19",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31745769,
             "from_actor": 100,
             "to_actor": 16080,
             "start": "2015-12-21",
@@ -947,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615950,
+            "id": 31745770,
             "from_actor": 100,
             "to_actor": 18739,
             "start": "2019-06-21",
@@ -958,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615951,
+            "id": 31745771,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2020-04-30",
@@ -969,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615952,
+            "id": 31745772,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2020-05-20",
@@ -980,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615953,
+            "id": 31745773,
             "from_actor": 100,
             "to_actor": 18764,
             "start": "2019-07-04",
@@ -991,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615954,
+            "id": 31745774,
             "from_actor": 100,
             "to_actor": 18919,
             "start": "2019-10-02",
@@ -1002,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615955,
+            "id": 31745775,
             "from_actor": 100,
             "to_actor": 16891,
             "start": "2017-01-18",
@@ -1013,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615956,
+            "id": 31745776,
             "from_actor": 100,
             "to_actor": 18344,
             "start": "2018-10-03",
@@ -1024,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615957,
+            "id": 31745777,
             "from_actor": 100,
             "to_actor": 16950,
             "start": "2016-10-12",
@@ -1035,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615958,
+            "id": 31745778,
             "from_actor": 100,
             "to_actor": 17602,
             "start": "2018-02-08",
@@ -1046,7 +1101,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615959,
+            "id": 31745779,
             "from_actor": 100,
             "to_actor": 17654,
             "start": "2017-10-04",
@@ -1057,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615960,
+            "id": 31745780,
             "from_actor": 100,
             "to_actor": 16910,
             "start": "2016-10-05",
@@ -1068,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615961,
+            "id": 31745781,
             "from_actor": 100,
             "to_actor": 17635,
             "start": "2017-10-04",
@@ -1079,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615962,
+            "id": 31745782,
             "from_actor": 100,
             "to_actor": 314,
             "start": "2013-01-10",
@@ -1090,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615963,
+            "id": 31745783,
             "from_actor": 100,
             "to_actor": 18314,
             "start": "2018-10-03",
@@ -1101,7 +1156,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615964,
+            "id": 31745784,
             "from_actor": 100,
             "to_actor": 16016,
             "start": "2015-10-07",
@@ -1112,7 +1167,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615965,
+            "id": 31745785,
             "from_actor": 100,
             "to_actor": 322,
             "start": "2013-01-10",
@@ -1123,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615966,
+            "id": 31745786,
             "from_actor": 100,
             "to_actor": 16080,
             "start": "2016-05-25",
@@ -1134,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615967,
+            "id": 31745787,
             "from_actor": 100,
             "to_actor": 332,
             "start": "2012-10-03",
@@ -1145,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615968,
+            "id": 31745788,
             "from_actor": 100,
             "to_actor": 21,
             "start": "2013-11-26",
@@ -1156,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615969,
+            "id": 31745789,
             "from_actor": 100,
             "to_actor": 324,
             "start": "2013-01-10",
@@ -1167,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615970,
+            "id": 31745790,
             "from_actor": 100,
             "to_actor": 18739,
             "start": "2019-07-04",
@@ -1178,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615971,
+            "id": 31745791,
             "from_actor": 100,
             "to_actor": 335,
             "start": "2013-01-10",
@@ -1189,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615972,
+            "id": 31745792,
             "from_actor": 100,
             "to_actor": 17604,
             "start": "2017-10-04",
@@ -1200,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615973,
+            "id": 31745793,
             "from_actor": 100,
             "to_actor": 18732,
             "start": "2019-06-21",
@@ -1211,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615974,
+            "id": 31745794,
             "from_actor": 100,
             "to_actor": 16021,
             "start": "2016-06-15",
@@ -1222,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615975,
+            "id": 31745795,
             "from_actor": 100,
             "to_actor": 22,
             "start": "2013-12-10",
@@ -1233,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615976,
+            "id": 31745796,
             "from_actor": 100,
             "to_actor": 22,
             "start": "2014-01-17",
@@ -1244,7 +1299,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615977,
+            "id": 31745797,
             "from_actor": 100,
             "to_actor": 16014,
             "start": "2016-09-23",
@@ -1255,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615978,
+            "id": 31745798,
             "from_actor": 100,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -1266,7 +1321,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615979,
+            "id": 31745799,
             "from_actor": 100,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -1277,7 +1332,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615980,
+            "id": 31745800,
             "from_actor": 100,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -1288,7 +1343,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615981,
+            "id": 31745801,
+            "from_actor": 100,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31745802,
             "from_actor": 100,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1299,7 +1365,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615982,
+            "id": 31745803,
             "from_actor": 100,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1310,7 +1376,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615984,
+            "id": 31745804,
+            "from_actor": 100,
+            "to_actor": 16060,
+            "start": "2015-10-06",
+            "end": "2016-10-04",
+            "role": "medlem",
+            "from_actor_name": "Sofie Carsten Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31745805,
             "from_actor": 100,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1321,7 +1398,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615985,
+            "id": 31745806,
             "from_actor": 100,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1332,7 +1409,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615986,
+            "id": 31745807,
             "from_actor": 100,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -1343,7 +1420,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615987,
+            "id": 31745808,
             "from_actor": 100,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1354,7 +1431,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615988,
+            "id": 31745809,
             "from_actor": 100,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -1365,7 +1442,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615989,
+            "id": 31745810,
             "from_actor": 100,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -1376,7 +1453,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615990,
+            "id": 31745811,
             "from_actor": 100,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -1387,7 +1464,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27615991,
+            "id": 31745812,
             "from_actor": 100,
             "to_actor": 1,
             "start": "2013-10-02",
@@ -1398,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615992,
+            "id": 31745813,
             "from_actor": 100,
             "to_actor": 313,
             "start": "2012-12-06",
@@ -1409,7 +1486,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615993,
+            "id": 31745814,
             "from_actor": 100,
             "to_actor": 840,
             "start": "2011-10-07",
@@ -1420,7 +1497,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615994,
+            "id": 31745815,
             "from_actor": 100,
             "to_actor": 322,
             "start": "2012-10-03",
@@ -1431,7 +1508,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27615995,
+            "id": 31745816,
             "from_actor": 100,
             "to_actor": 253,
             "start": "2014-02-03",
@@ -1442,7 +1519,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27615996,
+            "id": 31745817,
             "from_actor": 100,
             "to_actor": 1743,
             "start": "2011-10-07",
@@ -1453,7 +1530,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615997,
+            "id": 31745818,
             "from_actor": 100,
             "to_actor": 421,
             "start": "2012-10-03",
@@ -1464,7 +1541,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615998,
+            "id": 31745819,
             "from_actor": 100,
             "to_actor": 18302,
             "start": "2018-11-29",
@@ -1475,7 +1552,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27615999,
+            "id": 31745820,
             "from_actor": 100,
             "to_actor": 15871,
             "start": "2015-09-30",
@@ -1486,7 +1563,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616000,
+            "id": 31745821,
             "from_actor": 100,
             "to_actor": 256,
             "start": "2012-04-12",
@@ -1497,7 +1574,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616001,
+            "id": 31745822,
             "from_actor": 100,
             "to_actor": 600,
             "start": "2013-01-10",
@@ -1508,7 +1585,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616002,
+            "id": 31745823,
             "from_actor": 100,
             "to_actor": 772,
             "start": "2012-04-12",
@@ -1519,7 +1596,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616003,
+            "id": 31745824,
             "from_actor": 100,
             "to_actor": 499,
             "start": "2011-10-07",
@@ -1530,7 +1607,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616004,
+            "id": 31745825,
             "from_actor": 100,
             "to_actor": 17753,
             "start": "2018-03-01",
@@ -1541,7 +1618,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616005,
+            "id": 31745826,
             "from_actor": 100,
             "to_actor": 336,
             "start": "2012-10-03",
@@ -1552,7 +1629,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27616006,
+            "id": 31745827,
             "from_actor": 100,
             "to_actor": 16860,
             "start": "2017-04-21",
@@ -1561,17 +1638,6 @@
             "from_actor_name": "Sofie Carsten Nielsen",
             "to_actor_name": "Det Udenrigspolitiske Nævn",
             "type": "Kommission"
-        },
-        {
-            "id": 27617450,
-            "from_actor": 100,
-            "to_actor": 16060,
-            "start": "2015-10-06",
-            "end": "2016-10-04",
-            "role": "medlem",
-            "from_actor_name": "Sofie Carsten Nielsen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

@@ -2432,17 +2432,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22766896,
-            "from_actor": 171,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Per Clausen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22766897,
             "from_actor": 171,
             "to_actor": 859,
@@ -2452,17 +2441,6 @@
             "from_actor_name": "Per Clausen",
             "to_actor_name": "Enhedslisten",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22766898,
-            "from_actor": 171,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Per Clausen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22766899,
@@ -4857,6 +4835,28 @@
             "to_actor": 232,
             "start": "2008-10-07",
             "end": "2009-10-06",
+            "role": "medlem",
+            "from_actor_name": "Per Clausen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499539,
+            "from_actor": 171,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Per Clausen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499762,
+            "from_actor": 171,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Per Clausen",
             "to_actor_name": "Folketinget",

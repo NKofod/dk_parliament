@@ -705,7 +705,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604613,
+            "id": 31729295,
             "from_actor": 200,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -716,7 +716,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604614,
+            "id": 31729296,
             "from_actor": 200,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -727,7 +727,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604615,
+            "id": 31729297,
             "from_actor": 200,
             "to_actor": 1852,
             "start": "2011-09-15",
@@ -738,7 +738,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604616,
+            "id": 31729298,
             "from_actor": 200,
             "to_actor": 13682,
             "start": "2014-10-01",
@@ -749,7 +749,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604617,
+            "id": 31729299,
             "from_actor": 200,
             "to_actor": 15876,
             "start": "2014-10-01",
@@ -760,7 +760,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604618,
+            "id": 31729300,
             "from_actor": 200,
             "to_actor": 1126,
             "start": "2011-09-15",
@@ -771,7 +771,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604619,
+            "id": 31729301,
             "from_actor": 200,
             "to_actor": 1136,
             "start": "2011-09-15",
@@ -782,7 +782,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604620,
+            "id": 31729302,
             "from_actor": 200,
             "to_actor": 950,
             "start": "2011-10-07",
@@ -793,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604621,
+            "id": 31729303,
             "from_actor": 200,
             "to_actor": 15914,
             "start": "2015-07-09",
@@ -804,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604622,
+            "id": 31729304,
             "from_actor": 200,
             "to_actor": 16022,
             "start": "2015-10-07",
@@ -815,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604623,
+            "id": 31729305,
             "from_actor": 200,
             "to_actor": 16919,
             "start": "2016-10-05",
@@ -826,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604624,
+            "id": 31729306,
             "from_actor": 200,
             "to_actor": 18783,
             "start": "2019-09-26",
@@ -837,7 +837,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604625,
+            "id": 31729307,
             "from_actor": 200,
             "to_actor": 5145,
             "start": "2014-10-08",
@@ -848,7 +848,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604626,
+            "id": 31729308,
             "from_actor": 200,
             "to_actor": 374,
             "start": "2013-10-02",
@@ -859,7 +859,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604627,
+            "id": 31729309,
             "from_actor": 200,
             "to_actor": 18756,
             "start": "2019-08-13",
@@ -870,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604628,
+            "id": 31729310,
             "from_actor": 200,
             "to_actor": 328,
             "start": "2012-10-03",
@@ -881,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604629,
+            "id": 31729311,
             "from_actor": 200,
             "to_actor": 18868,
             "start": "2019-10-02",
@@ -892,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604630,
+            "id": 31729312,
             "from_actor": 200,
             "to_actor": 16917,
             "start": "2016-10-05",
@@ -903,7 +903,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604631,
+            "id": 31729313,
+            "from_actor": 200,
+            "to_actor": 19901,
+            "start": "2022-02-26",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729314,
+            "from_actor": 200,
+            "to_actor": 19901,
+            "start": "2021-10-06",
+            "end": "2022-02-24",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729315,
             "from_actor": 200,
             "to_actor": 19410,
             "start": "2020-10-07",
@@ -914,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604632,
+            "id": 31729316,
             "from_actor": 200,
             "to_actor": 16867,
             "start": "2016-10-05",
@@ -925,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604633,
+            "id": 31729317,
             "from_actor": 200,
             "to_actor": 16061,
             "start": "2015-10-07",
@@ -936,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604634,
+            "id": 31729318,
             "from_actor": 200,
             "to_actor": 16863,
             "start": "2016-10-05",
@@ -947,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604635,
+            "id": 31729319,
             "from_actor": 200,
             "to_actor": 17143,
             "start": "2016-12-12",
@@ -958,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604636,
+            "id": 31729320,
             "from_actor": 200,
             "to_actor": 5137,
             "start": "2014-10-08",
@@ -969,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604637,
+            "id": 31729321,
             "from_actor": 200,
             "to_actor": 5164,
             "start": "2014-10-08",
@@ -980,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604638,
+            "id": 31729322,
             "from_actor": 200,
             "to_actor": 16865,
             "start": "2016-10-05",
@@ -991,7 +1013,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604639,
+            "id": 31729323,
             "from_actor": 200,
             "to_actor": 397,
             "start": "2011-10-07",
@@ -1002,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604640,
+            "id": 31729324,
             "from_actor": 200,
             "to_actor": 543,
             "start": "2011-10-07",
@@ -1013,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604641,
+            "id": 31729325,
             "from_actor": 200,
             "to_actor": 840,
             "start": "2011-10-07",
@@ -1024,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604642,
+            "id": 31729326,
             "from_actor": 200,
             "to_actor": 267,
             "start": "2013-10-02",
@@ -1035,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604643,
+            "id": 31729327,
             "from_actor": 200,
             "to_actor": 90,
             "start": "2013-10-02",
@@ -1046,7 +1068,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604644,
+            "id": 31729328,
             "from_actor": 200,
             "to_actor": 15903,
             "start": "2015-07-09",
@@ -1057,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604645,
+            "id": 31729329,
             "from_actor": 200,
             "to_actor": 15906,
             "start": "2015-07-09",
@@ -1068,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604646,
+            "id": 31729330,
             "from_actor": 200,
             "to_actor": 16020,
             "start": "2015-10-07",
@@ -1079,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604647,
+            "id": 31729331,
             "from_actor": 200,
             "to_actor": 16028,
             "start": "2015-10-07",
@@ -1090,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604648,
+            "id": 31729332,
             "from_actor": 200,
             "to_actor": 548,
             "start": "2012-08-23",
@@ -1101,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604649,
+            "id": 31729333,
             "from_actor": 200,
             "to_actor": 16018,
             "start": "2015-10-07",
@@ -1112,7 +1134,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604650,
+            "id": 31729334,
             "from_actor": 200,
             "to_actor": 16036,
             "start": "2015-10-07",
@@ -1123,7 +1145,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604651,
+            "id": 31729335,
             "from_actor": 200,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -1134,7 +1156,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604652,
+            "id": 31729336,
+            "from_actor": 200,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31729337,
             "from_actor": 200,
             "to_actor": 15901,
             "start": "2015-07-09",
@@ -1145,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604653,
+            "id": 31729338,
             "from_actor": 200,
             "to_actor": 15907,
             "start": "2015-07-09",
@@ -1156,7 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604654,
+            "id": 31729339,
             "from_actor": 200,
             "to_actor": 17641,
             "start": "2017-10-04",
@@ -1167,7 +1200,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604655,
+            "id": 31729340,
             "from_actor": 200,
             "to_actor": 16918,
             "start": "2016-10-05",
@@ -1178,7 +1211,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604656,
+            "id": 31729341,
             "from_actor": 200,
             "to_actor": 16027,
             "start": "2015-10-07",
@@ -1189,7 +1222,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604657,
+            "id": 31729342,
             "from_actor": 200,
             "to_actor": 309,
             "start": "2012-10-03",
@@ -1200,7 +1233,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604658,
+            "id": 31729343,
             "from_actor": 200,
             "to_actor": 16870,
             "start": "2016-10-05",
@@ -1211,7 +1244,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604659,
+            "id": 31729344,
             "from_actor": 200,
             "to_actor": 15896,
             "start": "2015-07-09",
@@ -1222,7 +1255,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604660,
+            "id": 31729345,
             "from_actor": 200,
             "to_actor": 15897,
             "start": "2015-07-09",
@@ -1233,7 +1266,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604661,
+            "id": 31729346,
             "from_actor": 200,
             "to_actor": 16003,
             "start": "2015-10-07",
@@ -1244,7 +1277,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604662,
+            "id": 31729347,
             "from_actor": 200,
             "to_actor": 16033,
             "start": "2015-10-07",
@@ -1255,7 +1288,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604663,
+            "id": 31729348,
             "from_actor": 200,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -1266,7 +1299,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604664,
+            "id": 31729349,
             "from_actor": 200,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -1277,7 +1310,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604665,
+            "id": 31729350,
             "from_actor": 200,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -1288,7 +1321,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604666,
+            "id": 31729351,
             "from_actor": 200,
             "to_actor": 15886,
             "start": "2015-07-03",
@@ -1299,7 +1332,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604667,
+            "id": 31729352,
             "from_actor": 200,
             "to_actor": 15877,
             "start": "2015-07-03",
@@ -1310,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604668,
+            "id": 31729353,
             "from_actor": 200,
             "to_actor": 16894,
             "start": "2016-10-05",
@@ -1321,7 +1354,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604669,
+            "id": 31729354,
             "from_actor": 200,
             "to_actor": 18309,
             "start": "2018-10-03",
@@ -1332,7 +1365,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604670,
+            "id": 31729355,
             "from_actor": 200,
             "to_actor": 327,
             "start": "2012-12-13",
@@ -1343,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604671,
+            "id": 31729356,
             "from_actor": 200,
             "to_actor": 18311,
             "start": "2018-10-03",
@@ -1354,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604672,
+            "id": 31729357,
             "from_actor": 200,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -1365,7 +1398,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604673,
+            "id": 31729358,
             "from_actor": 200,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -1376,7 +1409,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604674,
+            "id": 31729359,
             "from_actor": 200,
             "to_actor": 18339,
             "start": "2018-10-03",
@@ -1387,7 +1420,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604675,
+            "id": 31729360,
             "from_actor": 200,
             "to_actor": 327,
             "start": "2012-10-03",
@@ -1398,7 +1431,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604676,
+            "id": 31729361,
             "from_actor": 200,
             "to_actor": 322,
             "start": "2012-10-03",
@@ -1409,7 +1442,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604677,
+            "id": 31729362,
+            "from_actor": 200,
+            "to_actor": 19900,
+            "start": "2021-10-06",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729363,
             "from_actor": 200,
             "to_actor": 18866,
             "start": "2019-10-02",
@@ -1420,7 +1464,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604678,
+            "id": 31729364,
             "from_actor": 200,
             "to_actor": 19391,
             "start": "2020-12-11",
@@ -1431,7 +1475,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604679,
+            "id": 31729365,
             "from_actor": 200,
             "to_actor": 19391,
             "start": "2020-10-07",
@@ -1442,7 +1486,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604680,
+            "id": 31729366,
+            "from_actor": 200,
+            "to_actor": 19910,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729367,
             "from_actor": 200,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -1453,7 +1508,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604681,
+            "id": 31729368,
             "from_actor": 200,
             "to_actor": 17638,
             "start": "2017-10-04",
@@ -1464,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604682,
+            "id": 31729369,
             "from_actor": 200,
             "to_actor": 18768,
             "start": "2019-07-04",
@@ -1475,7 +1530,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604683,
+            "id": 31729370,
             "from_actor": 200,
             "to_actor": 18875,
             "start": "2019-11-02",
@@ -1486,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604684,
+            "id": 31729371,
             "from_actor": 200,
             "to_actor": 18884,
             "start": "2020-05-16",
@@ -1497,7 +1552,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604685,
+            "id": 31729372,
             "from_actor": 200,
             "to_actor": 36,
             "start": "2013-10-02",
@@ -1508,7 +1563,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604686,
+            "id": 31729373,
             "from_actor": 200,
             "to_actor": 18875,
             "start": "2019-10-02",
@@ -1519,7 +1574,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604687,
+            "id": 31729374,
             "from_actor": 200,
             "to_actor": 17633,
             "start": "2017-12-06",
@@ -1530,7 +1585,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604688,
+            "id": 31729375,
             "from_actor": 200,
             "to_actor": 17646,
             "start": "2017-10-04",
@@ -1541,7 +1596,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604689,
+            "id": 31729376,
             "from_actor": 200,
             "to_actor": 18767,
             "start": "2019-07-04",
@@ -1552,7 +1607,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604690,
+            "id": 31729377,
             "from_actor": 200,
             "to_actor": 18884,
             "start": "2019-10-02",
@@ -1563,7 +1618,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604691,
+            "id": 31729378,
             "from_actor": 200,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -1574,7 +1629,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604692,
+            "id": 31729379,
             "from_actor": 200,
             "to_actor": 18777,
             "start": "2019-07-04",
@@ -1585,7 +1640,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604693,
+            "id": 31729380,
+            "from_actor": 200,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31729381,
             "from_actor": 200,
             "to_actor": 5143,
             "start": "2014-10-08",
@@ -1596,29 +1662,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604694,
-            "from_actor": 200,
-            "to_actor": 19409,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604695,
-            "from_actor": 200,
-            "to_actor": 19441,
-            "start": "2021-03-10",
-            "end": "2021-03-10",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604696,
+            "id": 31729382,
             "from_actor": 200,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -1629,7 +1673,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604697,
+            "id": 31729383,
+            "from_actor": 200,
+            "to_actor": 19896,
+            "start": "2022-01-27",
+            "end": "2022-02-01",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729384,
+            "from_actor": 200,
+            "to_actor": 19917,
+            "start": "2022-03-01",
+            "end": "2022-03-01",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729385,
             "from_actor": 200,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -1640,7 +1706,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604698,
+            "id": 31729386,
             "from_actor": 200,
             "to_actor": 19419,
             "start": "2020-10-06",
@@ -1651,7 +1717,18 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604699,
+            "id": 31729387,
+            "from_actor": 200,
+            "to_actor": 19896,
+            "start": "2022-01-08",
+            "end": "2022-01-25",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729388,
             "from_actor": 200,
             "to_actor": 18762,
             "start": "2019-07-04",
@@ -1662,7 +1739,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604700,
+            "id": 31729389,
+            "from_actor": 200,
+            "to_actor": 19441,
+            "start": "2021-03-10",
+            "end": "2021-03-10",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729390,
             "from_actor": 200,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -1673,18 +1761,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27604701,
+            "id": 31729391,
             "from_actor": 200,
-            "to_actor": 19620,
-            "start": "2021-06-04",
-            "end": "2021-10-05",
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2022-01-06",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604702,
+            "id": 31729392,
             "from_actor": 200,
             "to_actor": 18778,
             "start": "2019-07-04",
@@ -1695,18 +1783,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604703,
+            "id": 31729393,
             "from_actor": 200,
-            "to_actor": 19620,
-            "start": "2021-04-24",
-            "end": "2021-06-02",
+            "to_actor": 19409,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Epidemiudvalget",
+            "to_actor_name": "Ligestillingsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604704,
+            "id": 31729394,
             "from_actor": 200,
             "to_actor": 16020,
             "start": "2015-11-11",
@@ -1717,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604705,
+            "id": 31729395,
             "from_actor": 200,
             "to_actor": 18349,
             "start": "2018-10-03",
@@ -1728,29 +1816,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604706,
+            "id": 31729396,
             "from_actor": 200,
             "to_actor": 19620,
-            "start": "2021-04-17",
-            "end": "2021-04-21",
+            "start": "2021-06-04",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604707,
+            "id": 31729397,
             "from_actor": 200,
-            "to_actor": 19441,
-            "start": "2021-02-10",
-            "end": "2021-02-10",
+            "to_actor": 19895,
+            "start": "2021-12-15",
+            "end": "2021-12-15",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Kulturudvalget ",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604708,
+            "id": 31729398,
+            "from_actor": 200,
+            "to_actor": 19916,
+            "start": "2022-03-30",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729399,
             "from_actor": 200,
             "to_actor": 17669,
             "start": "2017-10-04",
@@ -1761,7 +1860,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604709,
+            "id": 31729400,
             "from_actor": 200,
             "to_actor": 17636,
             "start": "2017-10-04",
@@ -1772,18 +1871,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604710,
+            "id": 31729401,
             "from_actor": 200,
             "to_actor": 19620,
-            "start": "2021-03-25",
-            "end": "2021-03-25",
+            "start": "2021-04-24",
+            "end": "2021-06-02",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604711,
+            "id": 31729402,
             "from_actor": 200,
             "to_actor": 19408,
             "start": "2021-06-09",
@@ -1794,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604712,
+            "id": 31729403,
             "from_actor": 200,
             "to_actor": 18783,
             "start": "2019-07-04",
@@ -1805,18 +1904,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604713,
+            "id": 31729404,
             "from_actor": 200,
-            "to_actor": 19620,
-            "start": "2021-03-20",
-            "end": "2021-03-23",
+            "to_actor": 19896,
+            "start": "2022-02-03",
+            "end": "2022-02-22",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604714,
+            "id": 31729405,
+            "from_actor": 200,
+            "to_actor": 19620,
+            "start": "2021-04-17",
+            "end": "2021-04-21",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729406,
+            "from_actor": 200,
+            "to_actor": 19441,
+            "start": "2021-02-10",
+            "end": "2021-02-10",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729407,
+            "from_actor": 200,
+            "to_actor": 19916,
+            "start": "2022-02-09",
+            "end": "2022-03-09",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729408,
             "from_actor": 200,
             "to_actor": 5166,
             "start": "2015-01-15",
@@ -1827,18 +1959,73 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604715,
+            "id": 31729409,
+            "from_actor": 200,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729410,
+            "from_actor": 200,
+            "to_actor": 19895,
+            "start": "2021-12-09",
+            "end": "2021-12-09",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729411,
             "from_actor": 200,
             "to_actor": 19620,
-            "start": "2021-03-02",
-            "end": "2021-03-18",
+            "start": "2021-03-25",
+            "end": "2021-03-25",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
             "to_actor_name": "Epidemiudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 27604716,
+            "id": 31729412,
+            "from_actor": 200,
+            "to_actor": 19916,
+            "start": "2022-02-01",
+            "end": "2022-02-07",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729413,
+            "from_actor": 200,
+            "to_actor": 19896,
+            "start": "2022-02-24",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729414,
+            "from_actor": 200,
+            "to_actor": 19620,
+            "start": "2021-03-20",
+            "end": "2021-03-23",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729415,
             "from_actor": 200,
             "to_actor": 19387,
             "start": "2020-11-05",
@@ -1849,7 +2036,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604717,
+            "id": 31729416,
             "from_actor": 200,
             "to_actor": 5166,
             "start": "2015-01-27",
@@ -1860,7 +2047,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604718,
+            "id": 31729417,
             "from_actor": 200,
             "to_actor": 17603,
             "start": "2017-10-04",
@@ -1871,7 +2058,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604719,
+            "id": 31729418,
             "from_actor": 200,
             "to_actor": 17635,
             "start": "2017-10-11",
@@ -1882,7 +2069,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604720,
+            "id": 31729419,
+            "from_actor": 200,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-03-18",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729420,
             "from_actor": 200,
             "to_actor": 18867,
             "start": "2020-05-27",
@@ -1893,7 +2091,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604721,
+            "id": 31729421,
             "from_actor": 200,
             "to_actor": 18316,
             "start": "2018-10-03",
@@ -1904,7 +2102,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604722,
+            "id": 31729422,
+            "from_actor": 200,
+            "to_actor": 19916,
+            "start": "2022-03-11",
+            "end": "2022-03-28",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729423,
             "from_actor": 200,
             "to_actor": 15898,
             "start": "2015-09-17",
@@ -1915,18 +2124,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604723,
-            "from_actor": 200,
-            "to_actor": 19620,
-            "start": "2021-03-27",
-            "end": "2021-04-15",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604724,
+            "id": 31729424,
             "from_actor": 200,
             "to_actor": 16028,
             "start": "2016-04-01",
@@ -1937,7 +2135,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604725,
+            "id": 31729425,
+            "from_actor": 200,
+            "to_actor": 19620,
+            "start": "2021-03-27",
+            "end": "2021-04-15",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729426,
             "from_actor": 200,
             "to_actor": 18878,
             "start": "2020-02-17",
@@ -1948,7 +2157,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604726,
+            "id": 31729427,
             "from_actor": 200,
             "to_actor": 9,
             "start": "2014-06-25",
@@ -1959,7 +2168,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604727,
+            "id": 31729428,
+            "from_actor": 200,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31729429,
             "from_actor": 200,
             "to_actor": 36,
             "start": "2014-06-18",
@@ -1970,18 +2190,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604728,
+            "id": 31729430,
             "from_actor": 200,
             "to_actor": 19121,
             "start": "2020-03-01",
             "end": "2020-10-06",
             "role": "medlem",
             "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "2030-netværket ",
+            "to_actor_name": "2030-netværket",
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604729,
+            "id": 31729431,
             "from_actor": 200,
             "to_actor": 19418,
             "start": "2020-10-07",
@@ -1992,7 +2212,7 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 27604730,
+            "id": 31729432,
             "from_actor": 200,
             "to_actor": 18861,
             "start": "2020-01-27",
@@ -2003,7 +2223,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604731,
+            "id": 31729433,
             "from_actor": 200,
             "to_actor": 324,
             "start": "2013-02-05",
@@ -2014,7 +2234,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604732,
+            "id": 31729434,
             "from_actor": 200,
             "to_actor": 18867,
             "start": "2019-12-12",
@@ -2025,18 +2245,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604733,
-            "from_actor": 200,
-            "to_actor": 19441,
-            "start": "2021-01-13",
-            "end": "2021-01-13",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604734,
+            "id": 31729435,
             "from_actor": 200,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -2047,7 +2256,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604735,
+            "id": 31729436,
             "from_actor": 200,
             "to_actor": 18867,
             "start": "2020-02-04",
@@ -2058,18 +2267,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604736,
-            "from_actor": 200,
-            "to_actor": 19441,
-            "start": "2021-01-27",
-            "end": "2021-01-27",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604737,
+            "id": 31729437,
             "from_actor": 200,
             "to_actor": 17653,
             "start": "2017-10-04",
@@ -2080,7 +2278,29 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604738,
+            "id": 31729438,
+            "from_actor": 200,
+            "to_actor": 19441,
+            "start": "2021-01-13",
+            "end": "2021-01-13",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729439,
+            "from_actor": 200,
+            "to_actor": 19441,
+            "start": "2021-01-27",
+            "end": "2021-01-27",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729440,
             "from_actor": 200,
             "to_actor": 314,
             "start": "2013-09-03",
@@ -2091,7 +2311,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604739,
+            "id": 31729441,
             "from_actor": 200,
             "to_actor": 18345,
             "start": "2018-10-03",
@@ -2102,7 +2322,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604740,
+            "id": 31729442,
             "from_actor": 200,
             "to_actor": 327,
             "start": "2013-09-27",
@@ -2113,7 +2333,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604741,
+            "id": 31729443,
             "from_actor": 200,
             "to_actor": 18878,
             "start": "2020-03-10",
@@ -2124,18 +2344,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604742,
-            "from_actor": 200,
-            "to_actor": 19398,
-            "start": "2021-05-19",
-            "end": "2021-05-19",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604743,
+            "id": 31729444,
             "from_actor": 200,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -2146,7 +2355,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604744,
+            "id": 31729445,
             "from_actor": 200,
             "to_actor": 16014,
             "start": "2016-05-27",
@@ -2157,18 +2366,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604745,
-            "from_actor": 200,
-            "to_actor": 19386,
-            "start": "2021-01-21",
-            "end": "2021-02-25",
-            "role": "medlem",
-            "from_actor_name": "Jane Heitmann",
-            "to_actor_name": "Indenrigs- og Boligudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27604746,
+            "id": 31729446,
             "from_actor": 200,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -2179,7 +2377,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604747,
+            "id": 31729447,
+            "from_actor": 200,
+            "to_actor": 19386,
+            "start": "2021-01-21",
+            "end": "2021-02-25",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729448,
             "from_actor": 200,
             "to_actor": 19386,
             "start": "2020-10-07",
@@ -2190,7 +2399,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604748,
+            "id": 31729449,
+            "from_actor": 200,
+            "to_actor": 19398,
+            "start": "2021-05-19",
+            "end": "2021-05-19",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729450,
             "from_actor": 200,
             "to_actor": 16036,
             "start": "2016-03-18",
@@ -2201,7 +2421,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604749,
+            "id": 31729451,
             "from_actor": 200,
             "to_actor": 18329,
             "start": "2018-10-03",
@@ -2212,7 +2432,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604750,
+            "id": 31729452,
+            "from_actor": 200,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31729453,
             "from_actor": 200,
             "to_actor": 19414,
             "start": "2021-02-26",
@@ -2223,7 +2454,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604751,
+            "id": 31729454,
             "from_actor": 200,
             "to_actor": 16920,
             "start": "2017-06-23",
@@ -2234,7 +2465,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604752,
+            "id": 31729455,
             "from_actor": 200,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -2245,7 +2476,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604753,
+            "id": 31729456,
             "from_actor": 200,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -2256,7 +2487,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604754,
+            "id": 31729457,
             "from_actor": 200,
             "to_actor": 13708,
             "start": "2015-05-19",
@@ -2267,7 +2498,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604756,
+            "id": 31729459,
             "from_actor": 200,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -2278,7 +2509,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604757,
+            "id": 31729460,
             "from_actor": 200,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -2289,7 +2520,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604758,
+            "id": 31729461,
             "from_actor": 200,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -2300,7 +2531,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604759,
+            "id": 31729462,
             "from_actor": 200,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -2311,7 +2542,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604760,
+            "id": 31729463,
             "from_actor": 200,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -2322,7 +2553,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604761,
+            "id": 31729464,
             "from_actor": 200,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -2333,7 +2564,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604762,
+            "id": 31729465,
             "from_actor": 200,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -2344,7 +2575,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27604763,
+            "id": 31729466,
             "from_actor": 200,
             "to_actor": 18786,
             "start": "2019-07-04",
@@ -2355,7 +2586,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604764,
+            "id": 31729467,
             "from_actor": 200,
             "to_actor": 18934,
             "start": "2019-10-02",
@@ -2366,7 +2597,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604765,
+            "id": 31729468,
             "from_actor": 200,
             "to_actor": 18781,
             "start": "2019-07-04",
@@ -2377,7 +2608,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604766,
+            "id": 31729469,
             "from_actor": 200,
             "to_actor": 19416,
             "start": "2020-10-07",
@@ -2388,7 +2619,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27604767,
+            "id": 31729470,
+            "from_actor": 200,
+            "to_actor": 19927,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 31729471,
             "from_actor": 200,
             "to_actor": 18921,
             "start": "2019-10-02",
@@ -2399,7 +2641,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604768,
+            "id": 31729472,
+            "from_actor": 200,
+            "to_actor": 19921,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "formand",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31729473,
             "from_actor": 200,
             "to_actor": 19437,
             "start": "2020-10-07",
@@ -2410,7 +2663,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604769,
+            "id": 31729474,
             "from_actor": 200,
             "to_actor": 16951,
             "start": "2016-10-05",
@@ -2421,7 +2674,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604770,
+            "id": 31729475,
             "from_actor": 200,
             "to_actor": 15915,
             "start": "2015-07-09",
@@ -2432,7 +2685,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604771,
+            "id": 31729476,
             "from_actor": 200,
             "to_actor": 16023,
             "start": "2015-10-07",
@@ -2443,7 +2696,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604772,
+            "id": 31729477,
             "from_actor": 200,
             "to_actor": 17670,
             "start": "2017-10-04",
@@ -2454,7 +2707,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604773,
+            "id": 31729478,
             "from_actor": 200,
             "to_actor": 18350,
             "start": "2018-10-03",
@@ -2465,7 +2718,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27604774,
+            "id": 31729479,
+            "from_actor": 200,
+            "to_actor": 19892,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "NATO's Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 31729480,
             "from_actor": 200,
             "to_actor": 16934,
             "start": "2016-10-05",
@@ -2476,7 +2740,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604775,
+            "id": 31729481,
             "from_actor": 200,
             "to_actor": 949,
             "start": "2011-10-07",
@@ -2487,7 +2751,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604776,
+            "id": 31729482,
             "from_actor": 200,
             "to_actor": 5147,
             "start": "2014-10-08",
@@ -2498,7 +2762,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604777,
+            "id": 31729483,
             "from_actor": 200,
             "to_actor": 16067,
             "start": "2015-10-07",
@@ -2509,7 +2773,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604778,
+            "id": 31729484,
             "from_actor": 200,
             "to_actor": 17649,
             "start": "2017-10-04",
@@ -2520,7 +2784,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604779,
+            "id": 31729485,
             "from_actor": 200,
             "to_actor": 375,
             "start": "2013-10-02",
@@ -2531,7 +2795,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604780,
+            "id": 31729486,
             "from_actor": 200,
             "to_actor": 19429,
             "start": "2020-10-07",
@@ -2542,7 +2806,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604781,
+            "id": 31729487,
             "from_actor": 200,
             "to_actor": 340,
             "start": "2012-10-03",
@@ -2553,7 +2817,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604782,
+            "id": 31729488,
             "from_actor": 200,
             "to_actor": 18362,
             "start": "2018-10-03",
@@ -2564,7 +2828,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604783,
+            "id": 31729489,
             "from_actor": 200,
             "to_actor": 18928,
             "start": "2020-01-29",
@@ -2575,7 +2839,18 @@
             "type": "Kommission"
         },
         {
-            "id": 27604784,
+            "id": 31729490,
+            "from_actor": 200,
+            "to_actor": 19893,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 31729491,
             "from_actor": 200,
             "to_actor": 15920,
             "start": "2015-07-09",
@@ -2586,7 +2861,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27604785,
+            "id": 31729492,
             "from_actor": 200,
             "to_actor": 18926,
             "start": "2019-10-02",
@@ -2597,7 +2872,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604786,
+            "id": 31729493,
             "from_actor": 200,
             "to_actor": 18774,
             "start": "2019-07-04",
@@ -2608,7 +2883,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27604787,
+            "id": 31729494,
             "from_actor": 200,
             "to_actor": 19427,
             "start": "2020-10-07",
@@ -2619,7 +2894,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27617435,
+            "id": 31729495,
+            "from_actor": 200,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Jane Heitmann",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31743554,
             "from_actor": 200,
             "to_actor": 16060,
             "start": "2015-10-06",

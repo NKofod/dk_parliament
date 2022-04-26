@@ -615,14 +615,6 @@
         "end": "1971-09-21",
         "periodid": 46
     },
-    "15609": {
-        "id": 15609,
-        "name": "Folketinget",
-        "short_name": "Folketinget",
-        "start": "1971-09-21",
-        "end": "1971-10-05",
-        "periodid": 47
-    },
     "15628": {
         "id": 15628,
         "name": "Folketinget",
@@ -734,5 +726,13 @@
         "start": "2020-10-06",
         "end": "2021-10-05",
         "periodid": 153
+    },
+    "19854": {
+        "id": 19854,
+        "name": "Folketinget",
+        "short_name": "Folketinget",
+        "start": "2021-10-05",
+        "end": "2022-10-04",
+        "periodid": 155
     }
 }

@@ -1,7 +1,7 @@
 {
     "182": [
         {
-            "id": 27601355,
+            "id": 31728088,
             "from_actor": 182,
             "to_actor": 729,
             "start": "2004-10-05",
@@ -12,7 +12,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601356,
+            "id": 31728089,
             "from_actor": 182,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -23,7 +23,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601357,
+            "id": 31728090,
             "from_actor": 182,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -34,7 +34,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601358,
+            "id": 31728091,
             "from_actor": 182,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -45,18 +45,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601359,
-            "from_actor": 182,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601360,
+            "id": 31728092,
             "from_actor": 182,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -67,18 +56,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601361,
-            "from_actor": 182,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 27601362,
+            "id": 31728093,
             "from_actor": 182,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -89,7 +67,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601363,
+            "id": 31728094,
             "from_actor": 182,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -100,7 +78,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601364,
+            "id": 31728095,
             "from_actor": 182,
             "to_actor": 553,
             "start": "2007-11-13",
@@ -111,7 +89,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601365,
+            "id": 31728096,
             "from_actor": 182,
             "to_actor": 554,
             "start": "2008-10-07",
@@ -122,7 +100,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601366,
+            "id": 31728097,
             "from_actor": 182,
             "to_actor": 555,
             "start": "2009-10-06",
@@ -133,7 +111,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601367,
+            "id": 31728098,
             "from_actor": 182,
             "to_actor": 556,
             "start": "2010-10-05",
@@ -144,7 +122,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601368,
+            "id": 31728099,
             "from_actor": 182,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -155,7 +133,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601369,
+            "id": 31728100,
             "from_actor": 182,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -166,7 +144,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601370,
+            "id": 31728101,
             "from_actor": 182,
             "to_actor": 19592,
             "start": "2021-02-05",
@@ -177,7 +155,18 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601371,
+            "id": 31728102,
+            "from_actor": 182,
+            "to_actor": 19874,
+            "start": "2021-10-05",
+            "end": "2021-12-21",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Uden for folketingsgrupperne - Inger Støjberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31728103,
             "from_actor": 182,
             "to_actor": 695,
             "start": "2008-01-18",
@@ -188,7 +177,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601372,
+            "id": 31728104,
             "from_actor": 182,
             "to_actor": 889,
             "start": "2007-11-28",
@@ -199,7 +188,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601373,
+            "id": 31728105,
             "from_actor": 182,
             "to_actor": 1103,
             "start": "2008-10-07",
@@ -210,7 +199,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601374,
+            "id": 31728106,
             "from_actor": 182,
             "to_actor": 1107,
             "start": "2008-10-08",
@@ -221,7 +210,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601375,
+            "id": 31728107,
             "from_actor": 182,
             "to_actor": 1104,
             "start": "2009-10-06",
@@ -232,7 +221,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601376,
+            "id": 31728108,
             "from_actor": 182,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -243,7 +232,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601377,
+            "id": 31728109,
             "from_actor": 182,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -254,7 +243,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601378,
+            "id": 31728110,
             "from_actor": 182,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -265,7 +254,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601379,
+            "id": 31728111,
             "from_actor": 182,
             "to_actor": 1143,
             "start": "2006-10-03",
@@ -276,7 +265,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601380,
+            "id": 31728112,
             "from_actor": 182,
             "to_actor": 1144,
             "start": "2007-10-02",
@@ -287,7 +276,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601381,
+            "id": 31728113,
             "from_actor": 182,
             "to_actor": 1145,
             "start": "2007-11-13",
@@ -298,7 +287,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601382,
+            "id": 31728114,
             "from_actor": 182,
             "to_actor": 622,
             "start": "2007-11-28",
@@ -309,7 +298,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601383,
+            "id": 31728115,
             "from_actor": 182,
             "to_actor": 622,
             "start": "2008-06-14",
@@ -320,7 +309,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601384,
+            "id": 31728116,
             "from_actor": 182,
             "to_actor": 622,
             "start": "2008-07-19",
@@ -331,7 +320,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601385,
+            "id": 31728117,
             "from_actor": 182,
             "to_actor": 1127,
             "start": "2007-01-01",
@@ -342,7 +331,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601386,
+            "id": 31728118,
             "from_actor": 182,
             "to_actor": 233,
             "start": "2008-10-08",
@@ -353,7 +342,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601387,
+            "id": 31728119,
             "from_actor": 182,
             "to_actor": 937,
             "start": "2005-02-23",
@@ -364,7 +353,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601388,
+            "id": 31728120,
             "from_actor": 182,
             "to_actor": 943,
             "start": "2006-04-19",
@@ -375,7 +364,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601389,
+            "id": 31728121,
             "from_actor": 182,
             "to_actor": 943,
             "start": "2006-05-03",
@@ -386,7 +375,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601390,
+            "id": 31728122,
             "from_actor": 182,
             "to_actor": 943,
             "start": "2006-05-10",
@@ -397,7 +386,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601391,
+            "id": 31728123,
             "from_actor": 182,
             "to_actor": 943,
             "start": "2006-05-22",
@@ -408,7 +397,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601392,
+            "id": 31728124,
             "from_actor": 182,
             "to_actor": 943,
             "start": "2006-05-24",
@@ -419,7 +408,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601393,
+            "id": 31728125,
             "from_actor": 182,
             "to_actor": 906,
             "start": "2007-05-23",
@@ -430,7 +419,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601394,
+            "id": 31728126,
             "from_actor": 182,
             "to_actor": 811,
             "start": "2007-10-03",
@@ -441,7 +430,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601395,
+            "id": 31728127,
             "from_actor": 182,
             "to_actor": 456,
             "start": "2007-11-28",
@@ -452,7 +441,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601396,
+            "id": 31728128,
             "from_actor": 182,
             "to_actor": 592,
             "start": "2005-09-29",
@@ -463,7 +452,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601397,
+            "id": 31728129,
             "from_actor": 182,
             "to_actor": 804,
             "start": "2005-02-23",
@@ -474,7 +463,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601398,
+            "id": 31728130,
             "from_actor": 182,
             "to_actor": 1150,
             "start": "2005-02-23",
@@ -485,7 +474,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601399,
+            "id": 31728131,
             "from_actor": 182,
             "to_actor": 805,
             "start": "2005-10-05",
@@ -496,7 +485,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601400,
+            "id": 31728132,
             "from_actor": 182,
             "to_actor": 829,
             "start": "2005-10-05",
@@ -507,7 +496,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601401,
+            "id": 31728133,
             "from_actor": 182,
             "to_actor": 1151,
             "start": "2005-10-05",
@@ -518,7 +507,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601402,
+            "id": 31728134,
             "from_actor": 182,
             "to_actor": 879,
             "start": "2005-10-04",
@@ -529,7 +518,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601403,
+            "id": 31728135,
             "from_actor": 182,
             "to_actor": 611,
             "start": "2006-10-04",
@@ -540,7 +529,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601404,
+            "id": 31728136,
             "from_actor": 182,
             "to_actor": 628,
             "start": "2006-10-04",
@@ -551,7 +540,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601405,
+            "id": 31728137,
             "from_actor": 182,
             "to_actor": 515,
             "start": "2007-10-03",
@@ -562,7 +551,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601406,
+            "id": 31728138,
             "from_actor": 182,
             "to_actor": 806,
             "start": "2007-10-03",
@@ -573,7 +562,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601407,
+            "id": 31728139,
             "from_actor": 182,
             "to_actor": 629,
             "start": "2007-10-03",
@@ -584,7 +573,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601408,
+            "id": 31728140,
             "from_actor": 182,
             "to_actor": 828,
             "start": "2005-03-02",
@@ -595,7 +584,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601409,
+            "id": 31728141,
             "from_actor": 182,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -606,7 +595,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601410,
+            "id": 31728142,
             "from_actor": 182,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -617,7 +606,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601411,
+            "id": 31728143,
             "from_actor": 182,
             "to_actor": 18785,
             "start": "2019-08-13",
@@ -628,7 +617,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601412,
+            "id": 31728144,
             "from_actor": 182,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -639,7 +628,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601413,
+            "id": 31728145,
             "from_actor": 182,
             "to_actor": 18765,
             "start": "2019-08-13",
@@ -650,7 +639,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601414,
+            "id": 31728146,
             "from_actor": 182,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -661,7 +650,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601415,
+            "id": 31728147,
             "from_actor": 182,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -672,7 +661,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601416,
+            "id": 31728148,
             "from_actor": 182,
             "to_actor": 237,
             "start": "2008-10-08",
@@ -683,7 +672,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601417,
+            "id": 31728149,
             "from_actor": 182,
             "to_actor": 13670,
             "start": "2014-03-14",
@@ -694,7 +683,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601418,
+            "id": 31728150,
             "from_actor": 182,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -705,7 +694,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601419,
+            "id": 31728151,
             "from_actor": 182,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -716,7 +705,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601420,
+            "id": 31728152,
             "from_actor": 182,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -727,7 +716,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601421,
+            "id": 31728153,
             "from_actor": 182,
             "to_actor": 810,
             "start": "2006-10-04",
@@ -738,7 +727,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601422,
+            "id": 31728154,
             "from_actor": 182,
             "to_actor": 15870,
             "start": "2014-03-13",
@@ -749,7 +738,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601423,
+            "id": 31728155,
             "from_actor": 182,
             "to_actor": 495,
             "start": "2007-11-28",
@@ -760,7 +749,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601424,
+            "id": 31728156,
             "from_actor": 182,
             "to_actor": 60,
             "start": "2013-10-02",
@@ -771,7 +760,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601425,
+            "id": 31728157,
             "from_actor": 182,
             "to_actor": 255,
             "start": "2014-03-14",
@@ -782,7 +771,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601426,
+            "id": 31728158,
             "from_actor": 182,
             "to_actor": 18770,
             "start": "2019-08-13",
@@ -793,7 +782,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601427,
+            "id": 31728159,
             "from_actor": 182,
             "to_actor": 22,
             "start": "2013-10-02",
@@ -804,7 +793,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601428,
+            "id": 31728160,
             "from_actor": 182,
             "to_actor": 5146,
             "start": "2014-10-08",
@@ -815,7 +804,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601429,
+            "id": 31728161,
             "from_actor": 182,
             "to_actor": 1154,
             "start": "2004-12-10",
@@ -826,7 +815,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601430,
+            "id": 31728162,
             "from_actor": 182,
             "to_actor": 1154,
             "start": "2004-10-06",
@@ -837,7 +826,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601431,
+            "id": 31728163,
             "from_actor": 182,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -848,7 +837,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601432,
+            "id": 31728164,
             "from_actor": 182,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -859,7 +848,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601433,
+            "id": 31728165,
             "from_actor": 182,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -870,7 +859,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601434,
+            "id": 31728166,
             "from_actor": 182,
             "to_actor": 413,
             "start": "2011-10-07",
@@ -881,7 +870,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601435,
+            "id": 31728167,
             "from_actor": 182,
             "to_actor": 267,
             "start": "2013-10-02",
@@ -892,7 +881,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601436,
+            "id": 31728168,
             "from_actor": 182,
             "to_actor": 840,
             "start": "2011-10-07",
@@ -903,7 +892,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601437,
+            "id": 31728169,
             "from_actor": 182,
             "to_actor": 840,
             "start": "2012-09-13",
@@ -914,7 +903,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601438,
+            "id": 31728170,
             "from_actor": 182,
             "to_actor": 76,
             "start": "2013-10-02",
@@ -925,7 +914,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601439,
+            "id": 31728171,
             "from_actor": 182,
             "to_actor": 5141,
             "start": "2014-10-08",
@@ -936,7 +925,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601440,
+            "id": 31728172,
             "from_actor": 182,
             "to_actor": 500,
             "start": "2011-10-07",
@@ -947,7 +936,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601441,
+            "id": 31728173,
             "from_actor": 182,
             "to_actor": 500,
             "start": "2011-11-18",
@@ -958,7 +947,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601442,
+            "id": 31728174,
             "from_actor": 182,
             "to_actor": 898,
             "start": "2004-10-06",
@@ -969,7 +958,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601443,
+            "id": 31728175,
             "from_actor": 182,
             "to_actor": 597,
             "start": "2004-10-21",
@@ -980,7 +969,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601444,
+            "id": 31728176,
             "from_actor": 182,
             "to_actor": 324,
             "start": "2012-10-03",
@@ -991,7 +980,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601445,
+            "id": 31728177,
             "from_actor": 182,
             "to_actor": 313,
             "start": "2013-03-12",
@@ -1002,7 +991,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601446,
+            "id": 31728178,
             "from_actor": 182,
             "to_actor": 308,
             "start": "2012-10-03",
@@ -1013,7 +1002,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601447,
+            "id": 31728179,
             "from_actor": 182,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -1024,7 +1013,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601448,
+            "id": 31728180,
             "from_actor": 182,
             "to_actor": 5164,
             "start": "2014-10-08",
@@ -1035,7 +1024,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601449,
+            "id": 31728181,
             "from_actor": 182,
             "to_actor": 18869,
             "start": "2019-10-02",
@@ -1046,7 +1035,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601450,
+            "id": 31728182,
             "from_actor": 182,
             "to_actor": 322,
             "start": "2012-10-03",
@@ -1057,7 +1046,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601451,
+            "id": 31728183,
             "from_actor": 182,
             "to_actor": 335,
             "start": "2012-10-03",
@@ -1068,7 +1057,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601452,
+            "id": 31728184,
             "from_actor": 182,
             "to_actor": 5156,
             "start": "2014-10-08",
@@ -1079,7 +1068,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601453,
+            "id": 31728185,
             "from_actor": 182,
             "to_actor": 18880,
             "start": "2019-10-02",
@@ -1090,7 +1079,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601454,
+            "id": 31728186,
             "from_actor": 182,
             "to_actor": 18880,
             "start": "2020-06-19",
@@ -1101,7 +1090,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601455,
+            "id": 31728187,
             "from_actor": 182,
             "to_actor": 321,
             "start": "2012-12-04",
@@ -1112,7 +1101,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601456,
+            "id": 31728188,
             "from_actor": 182,
             "to_actor": 267,
             "start": "2014-04-09",
@@ -1123,7 +1112,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601457,
+            "id": 31728189,
             "from_actor": 182,
             "to_actor": 419,
             "start": "2011-11-30",
@@ -1134,7 +1123,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601458,
+            "id": 31728190,
             "from_actor": 182,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -1145,7 +1134,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601459,
+            "id": 31728191,
+            "from_actor": 182,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2021-12-21",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728192,
             "from_actor": 182,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -1156,29 +1156,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601460,
-            "from_actor": 182,
-            "to_actor": 19411,
-            "start": "2020-10-07",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601461,
-            "from_actor": 182,
-            "to_actor": 19441,
-            "start": "2021-03-11",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601462,
+            "id": 31728193,
             "from_actor": 182,
             "to_actor": 14957,
             "start": "2003-10-07",
@@ -1189,7 +1167,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601463,
+            "id": 31728194,
             "from_actor": 182,
             "to_actor": 417,
             "start": "2011-10-07",
@@ -1200,7 +1178,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601464,
+            "id": 31728195,
             "from_actor": 182,
             "to_actor": 5141,
             "start": "2015-03-02",
@@ -1211,18 +1189,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601465,
-            "from_actor": 182,
-            "to_actor": 19441,
-            "start": "2021-01-28",
-            "end": "2021-03-09",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601466,
+            "id": 31728196,
             "from_actor": 182,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -1233,7 +1200,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601467,
+            "id": 31728197,
             "from_actor": 182,
             "to_actor": 14943,
             "start": "2002-10-01",
@@ -1244,29 +1211,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601468,
+            "id": 31728198,
             "from_actor": 182,
             "to_actor": 19441,
-            "start": "2021-01-14",
-            "end": "2021-01-26",
+            "start": "2021-03-11",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Inger Støjberg",
             "to_actor_name": "Kulturudvalget ",
             "type": "Udvalg"
         },
         {
-            "id": 27601469,
+            "id": 31728199,
             "from_actor": 182,
             "to_actor": 19441,
-            "start": "2020-11-12",
-            "end": "2021-01-12",
+            "start": "2021-01-28",
+            "end": "2021-03-09",
             "role": "medlem",
             "from_actor_name": "Inger Støjberg",
             "to_actor_name": "Kulturudvalget ",
             "type": "Udvalg"
         },
         {
-            "id": 27601470,
+            "id": 31728200,
             "from_actor": 182,
             "to_actor": 14926,
             "start": "2001-11-20",
@@ -1277,7 +1244,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 27601471,
+            "id": 31728201,
             "from_actor": 182,
             "to_actor": 18877,
             "start": "2020-01-30",
@@ -1288,7 +1255,51 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601472,
+            "id": 31728202,
+            "from_actor": 182,
+            "to_actor": 19441,
+            "start": "2021-01-14",
+            "end": "2021-01-26",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728203,
+            "from_actor": 182,
+            "to_actor": 19411,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728204,
+            "from_actor": 182,
+            "to_actor": 19441,
+            "start": "2020-11-12",
+            "end": "2021-01-12",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728205,
+            "from_actor": 182,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728206,
             "from_actor": 182,
             "to_actor": 19441,
             "start": "2020-10-07",
@@ -1299,7 +1310,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601473,
+            "id": 31728207,
             "from_actor": 182,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -1310,18 +1321,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601474,
-            "from_actor": 182,
-            "to_actor": 19398,
-            "start": "2021-01-22",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601475,
+            "id": 31728208,
             "from_actor": 182,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -1332,18 +1332,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601476,
-            "from_actor": 182,
-            "to_actor": 19398,
-            "start": "2020-10-07",
-            "end": "2021-01-20",
-            "role": "medlem",
-            "from_actor_name": "Inger Støjberg",
-            "to_actor_name": "Udlændinge- og Integrationsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 27601477,
+            "id": 31728209,
             "from_actor": 182,
             "to_actor": 18867,
             "start": "2020-06-11",
@@ -1354,7 +1343,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601478,
+            "id": 31728210,
             "from_actor": 182,
             "to_actor": 325,
             "start": "2013-06-26",
@@ -1365,7 +1354,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601479,
+            "id": 31728211,
+            "from_actor": 182,
+            "to_actor": 19398,
+            "start": "2021-01-22",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728212,
             "from_actor": 182,
             "to_actor": 18877,
             "start": "2019-11-28",
@@ -1376,7 +1376,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601480,
+            "id": 31728213,
             "from_actor": 182,
             "to_actor": 18867,
             "start": "2019-10-02",
@@ -1387,7 +1387,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601481,
+            "id": 31728214,
             "from_actor": 182,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -1398,7 +1398,29 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601482,
+            "id": 31728215,
+            "from_actor": 182,
+            "to_actor": 19398,
+            "start": "2020-10-07",
+            "end": "2021-01-20",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728216,
+            "from_actor": 182,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31728217,
             "from_actor": 182,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -1409,7 +1431,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601484,
+            "id": 31728219,
             "from_actor": 182,
             "to_actor": 18876,
             "start": "2019-12-13",
@@ -1420,7 +1442,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601485,
+            "id": 31728220,
             "from_actor": 182,
             "to_actor": 31,
             "start": "2014-03-14",
@@ -1431,7 +1453,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601486,
+            "id": 31728221,
             "from_actor": 182,
             "to_actor": 22,
             "start": "2014-01-18",
@@ -1442,7 +1464,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601487,
+            "id": 31728222,
+            "from_actor": 182,
+            "to_actor": 19904,
+            "start": "2021-10-06",
+            "end": "2021-12-22",
+            "role": "medlem",
+            "from_actor_name": "Inger Støjberg",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31728223,
             "from_actor": 182,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -1453,7 +1486,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601488,
+            "id": 31728224,
             "from_actor": 182,
             "to_actor": 19437,
             "start": "2021-04-28",
@@ -1464,7 +1497,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601489,
+            "id": 31728225,
             "from_actor": 182,
             "to_actor": 429,
             "start": "2009-10-06",
@@ -1475,7 +1508,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601490,
+            "id": 31728226,
             "from_actor": 182,
             "to_actor": 19437,
             "start": "2021-05-11",
@@ -1486,7 +1519,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601491,
+            "id": 31728227,
             "from_actor": 182,
             "to_actor": 232,
             "start": "2008-10-07",
@@ -1497,7 +1530,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601492,
+            "id": 31728228,
             "from_actor": 182,
             "to_actor": 428,
             "start": "2007-11-13",
@@ -1508,7 +1541,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601493,
+            "id": 31728229,
             "from_actor": 182,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -1519,7 +1552,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601494,
+            "id": 31728230,
             "from_actor": 182,
             "to_actor": 14259,
             "start": "2003-10-07",
@@ -1530,7 +1563,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601495,
+            "id": 31728231,
             "from_actor": 182,
             "to_actor": 14931,
             "start": "2002-10-01",
@@ -1541,7 +1574,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601496,
+            "id": 31728232,
             "from_actor": 182,
             "to_actor": 14917,
             "start": "2001-11-20",
@@ -1552,7 +1585,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601497,
+            "id": 31728233,
             "from_actor": 182,
             "to_actor": 368,
             "start": "2010-10-05",
@@ -1563,7 +1596,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 27601498,
+            "id": 31728234,
             "from_actor": 182,
             "to_actor": 1220,
             "start": "2004-10-06",
@@ -1574,7 +1607,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601499,
+            "id": 31728235,
             "from_actor": 182,
             "to_actor": 136,
             "start": "2009-04-07",
@@ -1585,7 +1618,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27601500,
+            "id": 31728236,
             "from_actor": 182,
             "to_actor": 1741,
             "start": "2009-04-07",
@@ -1596,7 +1629,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27601501,
+            "id": 31728237,
             "from_actor": 182,
             "to_actor": 15854,
             "start": "2015-06-28",
@@ -1607,7 +1640,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27601502,
+            "id": 31728238,
             "from_actor": 182,
             "to_actor": 17075,
             "start": "2016-11-28",
@@ -1618,7 +1651,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 27601503,
+            "id": 31728239,
             "from_actor": 182,
             "to_actor": 18737,
             "start": "2019-09-27",
@@ -1629,7 +1662,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601504,
+            "id": 31728240,
             "from_actor": 182,
             "to_actor": 15866,
             "start": "2014-10-01",
@@ -1640,7 +1673,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601505,
+            "id": 31728241,
             "from_actor": 182,
             "to_actor": 13703,
             "start": "2011-10-07",
@@ -1651,7 +1684,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601506,
+            "id": 31728242,
             "from_actor": 182,
             "to_actor": 799,
             "start": "2004-10-06",
@@ -1662,7 +1695,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601507,
+            "id": 31728243,
             "from_actor": 182,
             "to_actor": 13679,
             "start": "2014-10-01",
@@ -1673,7 +1706,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601508,
+            "id": 31728244,
             "from_actor": 182,
             "to_actor": 383,
             "start": "2011-10-07",
@@ -1684,7 +1717,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601509,
+            "id": 31728245,
             "from_actor": 182,
             "to_actor": 196,
             "start": "2014-03-14",
@@ -1695,7 +1728,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601510,
+            "id": 31728246,
             "from_actor": 182,
             "to_actor": 887,
             "start": "2007-04-26",
@@ -1706,7 +1739,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601511,
+            "id": 31728247,
             "from_actor": 182,
             "to_actor": 886,
             "start": "2006-09-13",
@@ -1717,7 +1750,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601512,
+            "id": 31728248,
             "from_actor": 182,
             "to_actor": 887,
             "start": "2007-02-22",
@@ -1728,7 +1761,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601513,
+            "id": 31728249,
             "from_actor": 182,
             "to_actor": 887,
             "start": "2007-04-19",
@@ -1739,7 +1772,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601514,
+            "id": 31728250,
             "from_actor": 182,
             "to_actor": 752,
             "start": "2004-10-06",
@@ -1750,7 +1783,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601515,
+            "id": 31728251,
             "from_actor": 182,
             "to_actor": 614,
             "start": "2005-02-23",
@@ -1761,7 +1794,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601516,
+            "id": 31728252,
             "from_actor": 182,
             "to_actor": 741,
             "start": "2005-02-23",
@@ -1772,7 +1805,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601517,
+            "id": 31728253,
             "from_actor": 182,
             "to_actor": 616,
             "start": "2005-10-05",
@@ -1783,7 +1816,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601518,
+            "id": 31728254,
             "from_actor": 182,
             "to_actor": 742,
             "start": "2006-10-04",
@@ -1794,7 +1827,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601519,
+            "id": 31728255,
             "from_actor": 182,
             "to_actor": 1139,
             "start": "2006-10-04",
@@ -1805,7 +1838,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601520,
+            "id": 31728256,
             "from_actor": 182,
             "to_actor": 1140,
             "start": "2007-10-03",
@@ -1816,7 +1849,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601521,
+            "id": 31728257,
             "from_actor": 182,
             "to_actor": 547,
             "start": "2011-10-07",
@@ -1827,7 +1860,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601522,
+            "id": 31728258,
             "from_actor": 182,
             "to_actor": 887,
             "start": "2007-03-29",
@@ -1838,7 +1871,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601523,
+            "id": 31728259,
             "from_actor": 182,
             "to_actor": 540,
             "start": "2011-10-07",
@@ -1849,7 +1882,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601524,
+            "id": 31728260,
             "from_actor": 182,
             "to_actor": 795,
             "start": "2004-10-06",
@@ -1860,7 +1893,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601525,
+            "id": 31728261,
             "from_actor": 182,
             "to_actor": 535,
             "start": "2004-10-05",
@@ -1871,7 +1904,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601526,
+            "id": 31728262,
             "from_actor": 182,
             "to_actor": 921,
             "start": "2004-10-06",
@@ -1882,7 +1915,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601527,
+            "id": 31728263,
             "from_actor": 182,
             "to_actor": 1154,
             "start": "2004-12-09",
@@ -1893,7 +1926,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601528,
+            "id": 31728264,
             "from_actor": 182,
             "to_actor": 745,
             "start": "2005-10-05",
@@ -1904,7 +1937,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 27601529,
+            "id": 31728265,
             "from_actor": 182,
             "to_actor": 18853,
             "start": "2019-10-02",
@@ -1915,7 +1948,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601530,
+            "id": 31728266,
             "from_actor": 182,
             "to_actor": 19349,
             "start": "2020-10-07",
@@ -1926,7 +1959,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27601531,
+            "id": 31728267,
             "from_actor": 182,
             "to_actor": 18737,
             "start": "2019-08-13",
@@ -1937,7 +1970,7 @@
             "type": "Kommission"
         },
         {
-            "id": 27617388,
+            "id": 31743507,
             "from_actor": 182,
             "to_actor": 16060,
             "start": "2015-10-06",

@@ -67,17 +67,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 22649891,
-            "from_actor": 92,
-            "to_actor": 425,
-            "start": "2005-10-04",
-            "end": "2006-10-03",
-            "role": "medlem",
-            "from_actor_name": "Carsten Hansen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22649892,
             "from_actor": 92,
             "to_actor": 573,
@@ -87,17 +76,6 @@
             "from_actor_name": "Carsten Hansen",
             "to_actor_name": "Socialdemokratiet",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 22649893,
-            "from_actor": 92,
-            "to_actor": 426,
-            "start": "2006-10-03",
-            "end": "2007-10-02",
-            "role": "medlem",
-            "from_actor_name": "Carsten Hansen",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
         },
         {
             "id": 22649894,
@@ -1502,6 +1480,28 @@
             "to_actor": 423,
             "start": "2004-10-05",
             "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Carsten Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499437,
+            "from_actor": 92,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Carsten Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499659,
+            "from_actor": 92,
+            "to_actor": 425,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
             "role": "medlem",
             "from_actor_name": "Carsten Hansen",
             "to_actor_name": "Folketinget",
