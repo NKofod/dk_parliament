@@ -1,0 +1,36 @@
+{
+    "area": "Beskæftigelsesministeriet",
+    "period": 23,
+    "resume": "Beslutningsforslaget pålagde regeringen at fremsætte lovforslag, der forbød brugen af hemmelige jobklausuler, med henblik på ikrafttrædelse senest den 1. januar 2008.",
+    "sagid": 49390,
+    "sponsors": [
+        {
+            "actor_id": 1891,
+            "administration": false,
+            "name": "Thomas Adelskov",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 3087,
+            "administration": false,
+            "name": "Elisabeth Geday",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 226,
+            "administration": false,
+            "name": "Ole Sohn",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 215,
+            "administration": false,
+            "name": "Jørgen Arbo-Bæhr",
+            "party": "Enhedslisten"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om forbud mod brugen af hemmelige jobklausuler.",
+    "type": 5,
+    "vote_id": 5247
+}

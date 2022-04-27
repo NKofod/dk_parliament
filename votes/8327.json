@@ -1,0 +1,42 @@
+{
+    "area": "Skatteministeriet",
+    "period": 153,
+    "resume": "Forslaget vil afskaffe skatten på arbejdstelefoner og arbejdsgiverbetalt internet. Formålet er at gøre kommunikation på arbejdspladserne mere effektiv og fjerne besvær i administrationen af skatten.\n",
+    "sagid": 87525,
+    "sponsors": [
+        {
+            "actor_id": 17360,
+            "administration": false,
+            "name": "Merete Scheelsbeck",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 17141,
+            "administration": false,
+            "name": "Brigitte Klintskov Jerkel",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 18713,
+            "administration": false,
+            "name": "Mona Juul",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 15790,
+            "administration": false,
+            "name": "Marcus Knuth",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 15784,
+            "administration": false,
+            "name": "Søren Pape Poulsen",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 16,
+    "title": "Forslag til folketingsbeslutning om afskaffelse af skat på arbejdstelefon og arbejdsgiverbetalt internet.",
+    "type": 5,
+    "vote_id": 8327
+}

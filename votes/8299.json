@@ -1,0 +1,48 @@
+{
+    "area": "Folketinget",
+    "period": 153,
+    "resume": "Beslutningsforslaget indebærer, at der skal iværksættes en uafhængig advokatundersøgelse af sager, hvor Folketinget har udtalt kritik af ministre, for at få kortlagt den praksis, Folketinget hidtil har anlagt vedrørende ministeransvarlighedsloven.",
+    "sagid": 86889,
+    "sponsors": [
+        {
+            "actor_id": 238,
+            "administration": false,
+            "name": "Morten Messerschmidt",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 50,
+            "administration": false,
+            "name": "Liselott Blixt",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 98,
+            "administration": false,
+            "name": "René Christensen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 77,
+            "administration": false,
+            "name": "Kristian Thulesen Dahl",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 252,
+            "administration": false,
+            "name": "Pia Kjærsgaard",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 48,
+            "administration": false,
+            "name": "Peter Skaarup",
+            "party": "Dansk Folkeparti"
+        }
+    ],
+    "statusid": 16,
+    "title": "Forslag til folketingsbeslutning om en uafhængig advokatundersøgelse af sager, hvor Folketinget har udtalt kritik af ministre.",
+    "type": 5,
+    "vote_id": 8299
+}

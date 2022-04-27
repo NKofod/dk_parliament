@@ -1,0 +1,30 @@
+{
+    "area": "Justitsministeriet",
+    "period": 27,
+    "resume": "Det Radikale Venstre foreslog, at regeringen pålagdes at fremsætte lovforslag og foretage de nødvendige administrative ændringer, således at overtrædelse af kvivforbuddet medførte bødestraf og ikke som hidtil ubetinget fængselsstraf.",
+    "sagid": 16823,
+    "sponsors": [
+        {
+            "actor_id": 654,
+            "administration": false,
+            "name": "Lone Dybkjær",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 106,
+            "administration": false,
+            "name": "Margrethe Vestager",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 116,
+            "administration": false,
+            "name": "Morten Østergaard",
+            "party": "Radikale Venstre"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om ændring af våbenlovens regler om besiddelse af kniv på offentligt tilgængelige steder m.v.",
+    "type": 5,
+    "vote_id": 2245
+}

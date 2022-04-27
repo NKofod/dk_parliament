@@ -1,0 +1,36 @@
+{
+    "area": "Beskæftigelsesministeriet",
+    "period": 22,
+    "resume": "Folketingsbeslutningen pålægger regeringen senest den 1. januar 2007 at fremsætte forslag til ændring af lov om aktiv socialpolitik, således at unge under 25 år med psykiske lidelser på den nedsatte kontanthjælpsydelse tildeles et tillæg, så den samlede månedlige kontanthjælpsydelse kommer til at svare til kontanthjælpsniveauet for kontanthjælpsmodtagere over 25 år. Undtaget er personer, der modtager starthjælp i henhold til lov om aktiv socialpolitik, og personer, der ikke er omfattet af de på bilag 1 til folketingsbeslutningen opførte sygdomme.",
+    "sagid": 40578,
+    "sponsors": [
+        {
+            "actor_id": 1891,
+            "administration": false,
+            "name": "Thomas Adelskov",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 3087,
+            "administration": false,
+            "name": "Elisabeth Geday",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 198,
+            "administration": false,
+            "name": "Anne Baastrup",
+            "party": "Socialistisk Folkeparti"
+        },
+        {
+            "actor_id": 215,
+            "administration": false,
+            "name": "Jørgen Arbo-Bæhr",
+            "party": "Enhedslisten"
+        }
+    ],
+    "statusid": 10,
+    "title": "Forslag til folketingsbeslutning om tillæg til den nedsatte kontanthjælp til unge under 25 år med psykiske lidelser.",
+    "type": 5,
+    "vote_id": 5640
+}

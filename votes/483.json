@@ -1,0 +1,54 @@
+{
+    "area": "Skatteministeriet",
+    "period": 31,
+    "resume": "Forslaget opfordrede Folketinget til at pålægge regeringen at fremsætte lovforslag, der indførte mulighed for at kunne vælge en nummerpladetype med dannebrog på.",
+    "sagid": 6194,
+    "sponsors": [
+        {
+            "actor_id": 216,
+            "administration": false,
+            "name": "Mikkel Dencker",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 162,
+            "administration": false,
+            "name": "Karina Adsbøl",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 77,
+            "administration": false,
+            "name": "Kristian Thulesen Dahl",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 34,
+            "administration": false,
+            "name": "Søren Espersen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 119,
+            "administration": false,
+            "name": "Dennis Flydtkjær",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 82,
+            "administration": false,
+            "name": "Hans Kristian Skibby",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 48,
+            "administration": false,
+            "name": "Peter Skaarup",
+            "party": "Dansk Folkeparti"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om indførelse af nummerplader med dannebrog.",
+    "type": 5,
+    "vote_id": 483
+}

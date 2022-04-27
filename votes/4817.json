@@ -1,0 +1,41 @@
+{
+    "period": 25,
+    "resume": "",
+    "sagid": 54023,
+    "sponsors": [
+        {
+            "actor_id": 4956,
+            "administration": false,
+            "name": "Ib Poulsen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 133,
+            "administration": false,
+            "name": "John Dyrby Paulsen",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 193,
+            "administration": false,
+            "name": "Karsten Nonbo",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 680,
+            "administration": false,
+            "name": "Morten Helveg Petersen",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 71,
+            "administration": false,
+            "name": "Tom Behnke",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 17,
+    "title": "Folketinget tager forsvarsministerens redegørelse vedrørende den fremtidige anskaffelse af kampfly til efterretning. Folketinget opfordrer forsvarsministeren til at sikre en åben proces med henblik på at tilvejebringe et gennemskueligt og uvildigt beslutningsgrundlag.",
+    "type": 9,
+    "vote_id": 4817
+}

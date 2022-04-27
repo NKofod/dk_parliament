@@ -1,0 +1,42 @@
+{
+    "area": "Erhvervsministeriet",
+    "period": 148,
+    "resume": "Med beslutningsforslaget ønskes en folkeafstemning om, om Danmark skal tilslutte sig bankunionen.",
+    "sagid": 78006,
+    "sponsors": [
+        {
+            "actor_id": 176,
+            "administration": false,
+            "name": "Søren Søndergaard",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 15791,
+            "administration": false,
+            "name": "Eva Flyvholm",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 655,
+            "administration": false,
+            "name": "Rune Lund",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 16073,
+            "administration": false,
+            "name": "Rasmus Vestergaard Madsen",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 87,
+            "administration": false,
+            "name": "Finn Sørensen",
+            "party": "Enhedslisten"
+        }
+    ],
+    "statusid": 16,
+    "title": "Forslag til folketingsbeslutning om en folkeafstemning om dansk tilslutning til bankunionen.",
+    "type": 5,
+    "vote_id": 6987
+}

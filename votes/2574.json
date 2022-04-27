@@ -1,0 +1,36 @@
+{
+    "area": "Justitsministeriet",
+    "period": 35,
+    "resume": "Med folketingsbeslutningen bliver regeringen pålagt at informere Folketinget, når dansk lovgivning eller en administrativ forskrift går videre, end hvad en EU-retsakt (et EU-direktiv eller en forordning) foreskriver. Konkret betyder det, at Justitsministeriets vejledning om lovkvalitet ændres, så regeringen i et lovforslags bemærkninger pålægges at oplyse, hvilke krav der i implementeringen er baseret på EU-lovgivning, og hvilke krav der rækker ud over EU-lovgivningen, dvs. strengere danske krav. Formålet er at sikre, at Folketinget konsekvent informeres om regeringens implementeringspraksis.",
+    "sagid": 21923,
+    "sponsors": [
+        {
+            "actor_id": 265,
+            "administration": false,
+            "name": "Eva Kjer Hansen",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 221,
+            "administration": false,
+            "name": "Pia Adelsteen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 135,
+            "administration": false,
+            "name": "Mette Bock",
+            "party": "Liberal Alliance"
+        },
+        {
+            "actor_id": 149,
+            "administration": false,
+            "name": "Lars Barfoed",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 10,
+    "title": "Forslag til folketingsbeslutning om information til Folketinget vedrørende implementering af EU-direktiver, forordninger og administrative forskrifter.",
+    "type": 5,
+    "vote_id": 2574
+}

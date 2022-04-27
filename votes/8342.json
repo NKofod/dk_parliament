@@ -1,0 +1,36 @@
+{
+    "area": "Beskæftigelsesministeriet",
+    "period": 153,
+    "resume": "Det foreslås at afskaffe modregningen i folkepensionens grundbeløb som følge af arbejdsindkomst.",
+    "sagid": 87546,
+    "sponsors": [
+        {
+            "actor_id": 15790,
+            "administration": false,
+            "name": "Marcus Knuth",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 17141,
+            "administration": false,
+            "name": "Brigitte Klintskov Jerkel",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 18713,
+            "administration": false,
+            "name": "Mona Juul",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 15784,
+            "administration": false,
+            "name": "Søren Pape Poulsen",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 16,
+    "title": "Forslag til folketingsbeslutning om afskaffelse af modregningen af arbejdsindkomst i folkepensionen.",
+    "type": 5,
+    "vote_id": 8342
+}

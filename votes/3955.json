@@ -1,0 +1,30 @@
+{
+    "area": "Skatteministeriet",
+    "period": 35,
+    "resume": "Forslagsstillerne foreslår, at Folketinget pålægger regeringen inden udgangen af 2014 at fremsætte lovforslag, der afskaffer NOx-afgiften.\n\nForslaget foreslås finansieret som led i finansloven for 2015.\n",
+    "sagid": 21479,
+    "sponsors": [
+        {
+            "actor_id": 80,
+            "administration": false,
+            "name": "Torsten Schack Pedersen",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 99,
+            "administration": false,
+            "name": "Ole Birk Olesen",
+            "party": "Liberal Alliance"
+        },
+        {
+            "actor_id": 83,
+            "administration": false,
+            "name": "Brian Mikkelsen",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om afskaffelse af NOx-afgiften.",
+    "type": 5,
+    "vote_id": 3955
+}

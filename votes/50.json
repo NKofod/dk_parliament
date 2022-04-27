@@ -1,0 +1,30 @@
+{
+    "area": "Skatteministeriet",
+    "period": 32,
+    "resume": "Forslagsstillerne foreslog, at Folketinget skulle pålægge regeringen inden udgangen af folketingsåret 2013-14 at fremsætte lovforslag og/eller foretage de nødvendige ændringer i administrative forskrifter, som gav andelshavere et nedslag i grundvurderingen af andelsboliger på 2,5 pct. frem mod 2016, så det svarede til den kompensation for de fejlbehæftede vurderinger, som allerede var vedtaget for ejerboliger.",
+    "sagid": 888,
+    "sponsors": [
+        {
+            "actor_id": 83,
+            "administration": false,
+            "name": "Brian Mikkelsen",
+            "party": "Det Konservative Folkeparti"
+        },
+        {
+            "actor_id": 80,
+            "administration": false,
+            "name": "Torsten Schack Pedersen",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 119,
+            "administration": false,
+            "name": "Dennis Flydtkjær",
+            "party": "Dansk Folkeparti"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om kompensation til andelshavere for de fejlbehæftede ejendomsvurderinger.",
+    "type": 5,
+    "vote_id": 50
+}

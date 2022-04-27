@@ -1,0 +1,90 @@
+{
+    "area": "Folketinget",
+    "period": 35,
+    "resume": "Folketingsbeslutningen indebærer en ændring af forretningsordenen, således at fordelingen af formandsposter i de stående udvalg afspejler folketingsgruppernes (valggruppernes) størrelse. Dog kan grupperne aftale, at visse formandsposter ikke skal være omfattet af den forholdsmæssige fordeling. \n\nFordelingen sker efter d’Hondts metode, der i forvejen anvendes i Folketinget ved fordelingen af udvalgspladser, og som er beskrevet i forretningsordenens § 36. De ved beregningen fremkomne delingstal vil afgøre, i hvilken rækkefølge valggrupperne vælger, hvilke udvalg de ønsker at besætte formandsposten i.\n\nAf bemærkninger til forslaget fremgår det, at der er enighed mellem forslagsstillerne (alle folketinggrupperne) om også at lade øvrige udvalg, delegationer m.v. indgå i den forholdsmæssige fordeling, dog således at visse udvalg, delegationer m.v. kan undtages fra at indgå i de forholdsmæssige fordeling.",
+    "sagid": 21375,
+    "sponsors": [
+        {
+            "actor_id": 384,
+            "administration": false,
+            "name": "Mogens Lykketoft",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 129,
+            "administration": false,
+            "name": "Bertel Haarder",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 252,
+            "administration": false,
+            "name": "Pia Kjærsgaard",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 156,
+            "administration": false,
+            "name": "Lone Loklindt",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 171,
+            "administration": false,
+            "name": "Per Clausen",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 271,
+            "administration": false,
+            "name": "Kristian Jensen",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 260,
+            "administration": false,
+            "name": "Leif Lahn Jensen",
+            "party": "Socialdemokratiet"
+        },
+        {
+            "actor_id": 48,
+            "administration": false,
+            "name": "Peter Skaarup",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 209,
+            "administration": false,
+            "name": "Camilla Hersom",
+            "party": "Radikale Venstre"
+        },
+        {
+            "actor_id": 205,
+            "administration": false,
+            "name": "Jonas Dahl",
+            "party": "Socialistisk Folkeparti"
+        },
+        {
+            "actor_id": 122,
+            "administration": false,
+            "name": "Stine Brix",
+            "party": "Enhedslisten"
+        },
+        {
+            "actor_id": 117,
+            "administration": false,
+            "name": "Simon Emil Ammitzbøll-Bille",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 83,
+            "administration": false,
+            "name": "Brian Mikkelsen",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 10,
+    "title": "Forslag til folketingsbeslutning om ændring af forretningsordenen for Folketinget. (Forholdsmæssig fordeling af formandsposter i de stående udvalg m.v.).",
+    "type": 5,
+    "vote_id": 2269
+}

@@ -1,0 +1,35 @@
+{
+    "period": 30,
+    "resume": "",
+    "sagid": 10742,
+    "sponsors": [
+        {
+            "actor_id": 183,
+            "administration": false,
+            "name": "Bent Bøgsted",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 200,
+            "administration": false,
+            "name": "Jane Heitmann",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 111,
+            "administration": false,
+            "name": "Joachim B. Olsen",
+            "party": "Liberal Alliance"
+        },
+        {
+            "actor_id": 302,
+            "administration": false,
+            "name": "Benedikte Kiær",
+            "party": "Not Applicable"
+        }
+    ],
+    "statusid": 13,
+    "title": "Folketinget pålægger regeringen at undersøge forholdene omkring problemerne med overharmonisk jordstrøm som f.eks. på Hesthavevej i Linderum i Hjørring Kommune og herunder foretage en samlet vurdering af eventuelle sundhedsrisici forbundet med overharmonisk jordstrøm.",
+    "type": 9,
+    "vote_id": 1092
+}

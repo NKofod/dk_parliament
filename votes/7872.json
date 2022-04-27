@@ -1,0 +1,30 @@
+{
+    "area": "Skatteministeriet",
+    "period": 153,
+    "resume": "Med beslutningsforslaget foreslås det at pålægge regeringen at sænke selskabsskatten med 1 pct.",
+    "sagid": 85928,
+    "sponsors": [
+        {
+            "actor_id": 99,
+            "administration": false,
+            "name": "Ole Birk Olesen",
+            "party": "Liberal Alliance"
+        },
+        {
+            "actor_id": 15800,
+            "administration": false,
+            "name": "Henrik Dahl",
+            "party": "Liberal Alliance"
+        },
+        {
+            "actor_id": 18703,
+            "administration": false,
+            "name": "Alex Vanopslagh",
+            "party": "Liberal Alliance"
+        }
+    ],
+    "statusid": 16,
+    "title": "Forslag til folketingsbeslutning om sænkelse af selskabsskatten.",
+    "type": 5,
+    "vote_id": 7872
+}

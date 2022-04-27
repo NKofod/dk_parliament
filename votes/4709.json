@@ -1,0 +1,54 @@
+{
+    "area": "Udenrigsministeriet",
+    "period": 25,
+    "resume": "Formålet med forslaget var at pålægge regeringen at sørge for, at Lissabontraktaten blev omdelt til samtlige husstande i Danmark, i god tid før Lissabontraktaten skulle træde i kraft, med henblik på at give danskerne mulighed for at gøre sig bekendt med den nye traktat.",
+    "sagid": 21103,
+    "sponsors": [
+        {
+            "actor_id": 238,
+            "administration": false,
+            "name": "Morten Messerschmidt",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 183,
+            "administration": false,
+            "name": "Bent Bøgsted",
+            "party": "Uden for folketingsgrupperne"
+        },
+        {
+            "actor_id": 77,
+            "administration": false,
+            "name": "Kristian Thulesen Dahl",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 70,
+            "administration": false,
+            "name": "Martin Henriksen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 252,
+            "administration": false,
+            "name": "Pia Kjærsgaard",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 3090,
+            "administration": false,
+            "name": "Tina Petersen",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 48,
+            "administration": false,
+            "name": "Peter Skaarup",
+            "party": "Dansk Folkeparti"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om at lade Lissabontraktaten omdele til samtlige danske husstande i god tid forud for ikrafttrædelsen.",
+    "type": 5,
+    "vote_id": 4709
+}

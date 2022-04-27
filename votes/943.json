@@ -1,0 +1,30 @@
+{
+    "area": "Skatteministeriet",
+    "period": 30,
+    "resume": "Beslutningsforslaget var en genfremsættelse af beslutningsforslag B 140 fra folketingsåret 2010-11, 1. samling. Formålet med forslaget var at afskaffe det gældende ejendomsvurderingssystem med det formål at tilvejebringe et enklere grundlag for beskatning af fast ejendom. Konkret blev det foreslået, at de almindelige vurderinger af fast ejendom skulle ophøre, og at der i stedet skulle etableres en ny model for vurdering af nyopførte ejerboliger og erhvervsejendomme.",
+    "sagid": 8536,
+    "sponsors": [
+        {
+            "actor_id": 119,
+            "administration": false,
+            "name": "Dennis Flydtkjær",
+            "party": "Dansk Folkeparti"
+        },
+        {
+            "actor_id": 80,
+            "administration": false,
+            "name": "Torsten Schack Pedersen",
+            "party": "Venstre"
+        },
+        {
+            "actor_id": 83,
+            "administration": false,
+            "name": "Brian Mikkelsen",
+            "party": "Det Konservative Folkeparti"
+        }
+    ],
+    "statusid": 3,
+    "title": "Forslag til folketingsbeslutning om et enklere grundlag for beskatning af fast ejendom.",
+    "type": 5,
+    "vote_id": 943
+}
