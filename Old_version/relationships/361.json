@@ -1,0 +1,125 @@
+{
+    "361": [
+        {
+            "id": 47662,
+            "from_actor": 398,
+            "to_actor": 361,
+            "start": "2011-10-26",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 50489,
+            "from_actor": 355,
+            "to_actor": 361,
+            "start": "2011-10-26",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 53548,
+            "from_actor": 196,
+            "to_actor": 361,
+            "start": "2011-10-26",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 54213,
+            "from_actor": 13679,
+            "to_actor": 361,
+            "start": "2014-10-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 112901,
+            "from_actor": 15866,
+            "to_actor": 361,
+            "start": "2014-10-01",
+            "end": "2018-09-30",
+            "role": "medlem",
+            "from_actor_name": "Statsrevisorerne",
+            "to_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "type": "Kommission"
+        },
+        {
+            "id": 48776,
+            "from_actor": 361,
+            "to_actor": 398,
+            "start": "2011-10-04",
+            "end": "2012-10-02",
+            "role": "medlem",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 48777,
+            "from_actor": 361,
+            "to_actor": 355,
+            "start": "2012-10-02",
+            "end": "2013-10-01",
+            "role": "medlem",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 156489,
+            "from_actor": 361,
+            "to_actor": 196,
+            "start": "2011-10-26",
+            "end": "2014-10-07",
+            "role": "medlem",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 156503,
+            "from_actor": 361,
+            "to_actor": 13679,
+            "start": "2014-10-01",
+            "end": "2015-06-18",
+            "role": "medlem",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 10561288,
+            "from_actor": 361,
+            "to_actor": 15866,
+            "start": "2014-10-01",
+            "end": "2018-09-30",
+            "role": "medlem",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 31394926,
+            "from_actor": 361,
+            "to_actor": 18370,
+            "start": "2018-10-01",
+            "end": "2022-09-30",
+            "role": "formand",
+            "from_actor_name": "Klaus Frandsen (udpeget af RV)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "9863": [
+        {
+            "id": 72295,
+            "from_actor": 14431,
+            "to_actor": 9863,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72709,
+            "from_actor": 14457,
+            "to_actor": 9863,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73131,
+            "from_actor": 14478,
+            "to_actor": 9863,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73847,
+            "from_actor": 14495,
+            "to_actor": 9863,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74245,
+            "from_actor": 14523,
+            "to_actor": 9863,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74657,
+            "from_actor": 14546,
+            "to_actor": 9863,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74908,
+            "from_actor": 14562,
+            "to_actor": 9863,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76876,
+            "from_actor": 14617,
+            "to_actor": 9863,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 77815,
+            "from_actor": 14649,
+            "to_actor": 9863,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anders Christian Poulsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938700,
+            "from_actor": 9863,
+            "to_actor": 14520,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938701,
+            "from_actor": 9863,
+            "to_actor": 14541,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938702,
+            "from_actor": 9863,
+            "to_actor": 14562,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938703,
+            "from_actor": 9863,
+            "to_actor": 14475,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938704,
+            "from_actor": 9863,
+            "to_actor": 14493,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938705,
+            "from_actor": 9863,
+            "to_actor": 14661,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938706,
+            "from_actor": 9863,
+            "to_actor": 14452,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938707,
+            "from_actor": 9863,
+            "to_actor": 14607,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938708,
+            "from_actor": 9863,
+            "to_actor": 14627,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19938709,
+            "from_actor": 9863,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938710,
+            "from_actor": 9863,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938711,
+            "from_actor": 9863,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938712,
+            "from_actor": 9863,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938713,
+            "from_actor": 9863,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938714,
+            "from_actor": 9863,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938715,
+            "from_actor": 9863,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19938717,
+            "from_actor": 9863,
+            "to_actor": 14649,
+            "start": "1987-10-06",
+            "end": "1988-05-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32575007,
+            "from_actor": 9863,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Anders Christian Poulsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

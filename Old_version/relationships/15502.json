@@ -1,0 +1,257 @@
+{
+    "15502": [
+        {
+            "id": 97276,
+            "from_actor": 15523,
+            "to_actor": 15502,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97401,
+            "from_actor": 15531,
+            "to_actor": 15502,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Eva Rée",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98217,
+            "from_actor": 15533,
+            "to_actor": 15502,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98441,
+            "from_actor": 15554,
+            "to_actor": 15502,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Eva Rée",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98592,
+            "from_actor": 15557,
+            "to_actor": 15502,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98813,
+            "from_actor": 15567,
+            "to_actor": 15502,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Eva Rée",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99014,
+            "from_actor": 15574,
+            "to_actor": 15502,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99253,
+            "from_actor": 15585,
+            "to_actor": 15502,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Eva Rée",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99409,
+            "from_actor": 15591,
+            "to_actor": 15502,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99647,
+            "from_actor": 15607,
+            "to_actor": 15502,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Eva Rée",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102171,
+            "from_actor": 15498,
+            "to_actor": 15502,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Eva Rée",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20545126,
+            "from_actor": 15502,
+            "to_actor": 15607,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20545127,
+            "from_actor": 15502,
+            "to_actor": 15585,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20545128,
+            "from_actor": 15502,
+            "to_actor": 15554,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20545129,
+            "from_actor": 15502,
+            "to_actor": 15567,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20545130,
+            "from_actor": 15502,
+            "to_actor": 15520,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20545131,
+            "from_actor": 15502,
+            "to_actor": 15531,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529207,
+            "from_actor": 15502,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529394,
+            "from_actor": 15502,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529553,
+            "from_actor": 15502,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529731,
+            "from_actor": 15502,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529924,
+            "from_actor": 15502,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255620,
+            "from_actor": 15502,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Eva Rée",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

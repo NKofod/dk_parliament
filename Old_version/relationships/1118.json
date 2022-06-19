@@ -1,0 +1,246 @@
+{
+    "1118": [
+        {
+            "id": 53349,
+            "from_actor": 41,
+            "to_actor": 1118,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Jakob Willum Slot",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64163,
+            "from_actor": 13708,
+            "to_actor": 1118,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Jakob Willum Slot",
+            "type": "Udvalg"
+        },
+        {
+            "id": 123455,
+            "from_actor": 15907,
+            "to_actor": 1118,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transportudvalget",
+            "to_actor_name": "Jakob Willum Slot",
+            "type": "Udvalg"
+        },
+        {
+            "id": 128573,
+            "from_actor": 16036,
+            "to_actor": 1118,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Transport- og Bygningsudvalget",
+            "to_actor_name": "Jakob Willum Slot",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3755437,
+            "from_actor": 1118,
+            "to_actor": 16036,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Transport- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3755438,
+            "from_actor": 1118,
+            "to_actor": 15907,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3755439,
+            "from_actor": 1118,
+            "to_actor": 13708,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3755441,
+            "from_actor": 1118,
+            "to_actor": 41,
+            "start": "2014-09-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5867930,
+            "from_actor": 1118,
+            "to_actor": 16929,
+            "start": "2017-03-13",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6332469,
+            "from_actor": 1118,
+            "to_actor": 16870,
+            "start": "2016-10-05",
+            "end": "2017-03-14",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10583364,
+            "from_actor": 1118,
+            "to_actor": 17640,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606261,
+            "from_actor": 1118,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14213213,
+            "from_actor": 1118,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14441770,
+            "from_actor": 1118,
+            "to_actor": 18357,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957001,
+            "from_actor": 1118,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957019,
+            "from_actor": 1118,
+            "to_actor": 18740,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21707103,
+            "from_actor": 1118,
+            "to_actor": 18922,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529716,
+            "from_actor": 1118,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27882777,
+            "from_actor": 1118,
+            "to_actor": 19887,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153316,
+            "from_actor": 1118,
+            "to_actor": 19626,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693998,
+            "from_actor": 1118,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599786,
+            "from_actor": 1118,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Jakob Willum Slot",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

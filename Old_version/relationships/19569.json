@@ -1,0 +1,136 @@
+{
+    "19569": [
+        {
+            "id": 30415281,
+            "from_actor": 19569,
+            "to_actor": 19354,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30415283,
+            "from_actor": 19569,
+            "to_actor": 19439,
+            "start": "2021-03-01",
+            "end": "2021-05-01",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30415284,
+            "from_actor": 19569,
+            "to_actor": 19404,
+            "start": "2021-03-01",
+            "end": "2021-05-01",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30415285,
+            "from_actor": 19569,
+            "to_actor": 19409,
+            "start": "2021-03-04",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30415286,
+            "from_actor": 19569,
+            "to_actor": 19856,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30415287,
+            "from_actor": 19569,
+            "to_actor": 19414,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31205350,
+            "from_actor": 19569,
+            "to_actor": 19901,
+            "start": "2022-02-25",
+            "end": "2022-02-25",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071560,
+            "from_actor": 19569,
+            "to_actor": 19352,
+            "start": "2021-03-01",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32208102,
+            "from_actor": 19569,
+            "to_actor": 19907,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475748,
+            "from_actor": 19569,
+            "to_actor": 19900,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525535,
+            "from_actor": 19569,
+            "to_actor": 19854,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32857530,
+            "from_actor": 19569,
+            "to_actor": 19917,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maja Torp",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        }
+    ]
+}

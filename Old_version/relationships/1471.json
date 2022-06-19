@@ -1,0 +1,180 @@
+{
+    "1471": [
+        {
+            "id": 28413,
+            "from_actor": 742,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28789,
+            "from_actor": 887,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "medlem",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29910,
+            "from_actor": 426,
+            "to_actor": 1471,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29917,
+            "from_actor": 426,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 35941,
+            "from_actor": 1045,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 36048,
+            "from_actor": 907,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36599,
+            "from_actor": 906,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Udvalg"
+        },
+        {
+            "id": 36682,
+            "from_actor": 818,
+            "to_actor": 1471,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Sanne Schroll",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772887,
+            "from_actor": 1471,
+            "to_actor": 1045,
+            "start": "2007-03-20",
+            "end": "2007-04-04",
+            "role": "medlem",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772888,
+            "from_actor": 1471,
+            "to_actor": 818,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "medlem",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772889,
+            "from_actor": 1471,
+            "to_actor": 887,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "medlem",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772890,
+            "from_actor": 1471,
+            "to_actor": 906,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772891,
+            "from_actor": 1471,
+            "to_actor": 907,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772892,
+            "from_actor": 1471,
+            "to_actor": 742,
+            "start": "2007-03-20",
+            "end": "2007-04-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29499393,
+            "from_actor": 1471,
+            "to_actor": 426,
+            "start": "2007-03-20",
+            "end": "2007-04-04",
+            "role": "medlem",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499580,
+            "from_actor": 1471,
+            "to_actor": 426,
+            "start": "2006-10-03",
+            "end": "2007-10-02",
+            "role": "medlem",
+            "from_actor_name": "Sanne Schroll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

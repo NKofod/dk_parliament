@@ -1,0 +1,224 @@
+{
+    "1116": [
+        {
+            "id": 23369,
+            "from_actor": 425,
+            "to_actor": 1116,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23683,
+            "from_actor": 990,
+            "to_actor": 1116,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24511,
+            "from_actor": 519,
+            "to_actor": 1116,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25155,
+            "from_actor": 817,
+            "to_actor": 1116,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25232,
+            "from_actor": 982,
+            "to_actor": 1116,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25295,
+            "from_actor": 943,
+            "to_actor": 1116,
+            "start": "2006-01-24",
+            "end": "2006-01-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29463,
+            "from_actor": 521,
+            "to_actor": 1116,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29925,
+            "from_actor": 426,
+            "to_actor": 1116,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30054,
+            "from_actor": 991,
+            "to_actor": 1116,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 36596,
+            "from_actor": 906,
+            "to_actor": 1116,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Arbejdsmarkedsudvalget",
+            "to_actor_name": "Marianne Saxtoft",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875622,
+            "from_actor": 1116,
+            "to_actor": 990,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29875623,
+            "from_actor": 1116,
+            "to_actor": 991,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29875624,
+            "from_actor": 1116,
+            "to_actor": 519,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875625,
+            "from_actor": 1116,
+            "to_actor": 817,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875626,
+            "from_actor": 1116,
+            "to_actor": 521,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875627,
+            "from_actor": 1116,
+            "to_actor": 426,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29875628,
+            "from_actor": 1116,
+            "to_actor": 425,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "medlem",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29875629,
+            "from_actor": 1116,
+            "to_actor": 982,
+            "start": "2006-01-23",
+            "end": "2006-01-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875630,
+            "from_actor": 1116,
+            "to_actor": 906,
+            "start": "2007-01-22",
+            "end": "2007-01-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875631,
+            "from_actor": 1116,
+            "to_actor": 943,
+            "start": "2006-01-24",
+            "end": "2006-01-29",
+            "role": "stedfortræder",
+            "from_actor_name": "Marianne Saxtoft",
+            "to_actor_name": "Arbejdsmarkedsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "14350": [
+        {
+            "id": 70805,
+            "from_actor": 14338,
+            "to_actor": 14350,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Kledal",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72732,
+            "from_actor": 14457,
+            "to_actor": 14350,
+            "start": "1981-09-02",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Kledal",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73144,
+            "from_actor": 14478,
+            "to_actor": 14350,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Kledal",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75027,
+            "from_actor": 14490,
+            "to_actor": 14350,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Finn Kledal",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125118,
+            "from_actor": 14350,
+            "to_actor": 14490,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125119,
+            "from_actor": 14350,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 125120,
+            "from_actor": 14350,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696817,
+            "from_actor": 14350,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714606,
+            "from_actor": 14350,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451080,
+            "from_actor": 14350,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Finn Kledal",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

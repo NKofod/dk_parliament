@@ -1,0 +1,26 @@
+{
+    "20103": [
+        {
+            "id": 32829761,
+            "from_actor": 20103,
+            "to_actor": 19916,
+            "start": "2022-03-28",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirsten Hermansen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911553,
+            "from_actor": 20103,
+            "to_actor": 19895,
+            "start": "2022-03-28",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirsten Hermansen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

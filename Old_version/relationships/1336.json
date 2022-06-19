@@ -1,0 +1,59 @@
+{
+    "1336": [
+        {
+            "id": 99294,
+            "from_actor": 15574,
+            "to_actor": 1336,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Houmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99688,
+            "from_actor": 15591,
+            "to_actor": 1336,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Oluf Houmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126540,
+            "from_actor": 15585,
+            "to_actor": 1336,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Oluf Houmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530008,
+            "from_actor": 1336,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Houmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255704,
+            "from_actor": 1336,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Oluf Houmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

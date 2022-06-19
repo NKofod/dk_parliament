@@ -1,0 +1,125 @@
+{
+    "9671": [
+        {
+            "id": 70631,
+            "from_actor": 14092,
+            "to_actor": 9671,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Lars Abel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70685,
+            "from_actor": 14270,
+            "to_actor": 9671,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Lars Abel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103630,
+            "from_actor": 15721,
+            "to_actor": 9671,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lars Abel",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121181,
+            "from_actor": 14082,
+            "to_actor": 9671,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lars Abel",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128218,
+            "from_actor": 15722,
+            "to_actor": 9671,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Lars Abel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128289,
+            "from_actor": 14092,
+            "to_actor": 9671,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Lars Abel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69801,
+            "from_actor": 9671,
+            "to_actor": 14092,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Lars Abel",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69802,
+            "from_actor": 9671,
+            "to_actor": 14270,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Lars Abel",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235328,
+            "from_actor": 9671,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Lars Abel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235532,
+            "from_actor": 9671,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Lars Abel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880735,
+            "from_actor": 9671,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Lars Abel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

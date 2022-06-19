@@ -1,0 +1,125 @@
+{
+    "3994": [
+        {
+            "id": 23355,
+            "from_actor": 425,
+            "to_actor": 3994,
+            "start": "2006-01-17",
+            "end": "2006-02-28",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jesper Kinch-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23634,
+            "from_actor": 573,
+            "to_actor": 3994,
+            "start": "2006-01-17",
+            "end": "2006-02-28",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jesper Kinch-Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24294,
+            "from_actor": 1079,
+            "to_actor": 3994,
+            "start": "2006-02-21",
+            "end": "2006-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Jesper Kinch-Jensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 76884,
+            "from_actor": 14617,
+            "to_actor": 3994,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jesper Kinch-Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30714148,
+            "from_actor": 3994,
+            "to_actor": 573,
+            "start": "2006-01-17",
+            "end": "2006-02-28",
+            "role": "medlem",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30714149,
+            "from_actor": 3994,
+            "to_actor": 14628,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30714150,
+            "from_actor": 3994,
+            "to_actor": 14608,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30714151,
+            "from_actor": 3994,
+            "to_actor": 425,
+            "start": "2006-01-17",
+            "end": "2006-02-28",
+            "role": "medlem",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30714152,
+            "from_actor": 3994,
+            "to_actor": 1079,
+            "start": "2006-02-21",
+            "end": "2006-02-28",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30714153,
+            "from_actor": 3994,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32575014,
+            "from_actor": 3994,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jesper Kinch-Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

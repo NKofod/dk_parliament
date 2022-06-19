@@ -1,0 +1,268 @@
+{
+    "927": [
+        {
+            "id": 1877,
+            "from_actor": 289,
+            "to_actor": 927,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 50410,
+            "from_actor": 337,
+            "to_actor": 927,
+            "start": "2013-08-01",
+            "end": "2013-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 55853,
+            "from_actor": 13701,
+            "to_actor": 927,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 116755,
+            "from_actor": 15920,
+            "to_actor": 927,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Kamilla Kjelgaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609426,
+            "from_actor": 927,
+            "to_actor": 18772,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609427,
+            "from_actor": 927,
+            "to_actor": 18924,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609428,
+            "from_actor": 927,
+            "to_actor": 17648,
+            "start": "2018-06-01",
+            "end": "2018-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609429,
+            "from_actor": 927,
+            "to_actor": 18361,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609430,
+            "from_actor": 927,
+            "to_actor": 18360,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609431,
+            "from_actor": 927,
+            "to_actor": 18773,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609432,
+            "from_actor": 927,
+            "to_actor": 18925,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609434,
+            "from_actor": 927,
+            "to_actor": 13701,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609435,
+            "from_actor": 927,
+            "to_actor": 16934,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609436,
+            "from_actor": 927,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-09-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609437,
+            "from_actor": 927,
+            "to_actor": 16067,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609438,
+            "from_actor": 927,
+            "to_actor": 289,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609439,
+            "from_actor": 927,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609440,
+            "from_actor": 927,
+            "to_actor": 337,
+            "start": "2013-08-01",
+            "end": "2013-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 24609441,
+            "from_actor": 927,
+            "to_actor": 18853,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 28043405,
+            "from_actor": 927,
+            "to_actor": 19426,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28612705,
+            "from_actor": 927,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 30823176,
+            "from_actor": 927,
+            "to_actor": 19890,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Europarådet",
+            "type": "Kommission"
+        },
+        {
+            "id": 32208324,
+            "from_actor": 927,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32235710,
+            "from_actor": 927,
+            "to_actor": 18759,
+            "start": "2021-06-29",
+            "end": "2023-07-03",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Kamilla Kjelgaard",
+            "to_actor_name": "Udvalget vedrørende Efterretningstjenesterne",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "10045": [
+        {
+            "id": 73902,
+            "from_actor": 14495,
+            "to_actor": 10045,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74300,
+            "from_actor": 14523,
+            "to_actor": 10045,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74711,
+            "from_actor": 14546,
+            "to_actor": 10045,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74918,
+            "from_actor": 14563,
+            "to_actor": 10045,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Steen Tinning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75463,
+            "from_actor": 14564,
+            "to_actor": 10045,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75701,
+            "from_actor": 14580,
+            "to_actor": 10045,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Steen Tinning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75833,
+            "from_actor": 14583,
+            "to_actor": 10045,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76076,
+            "from_actor": 14595,
+            "to_actor": 10045,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Steen Tinning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76246,
+            "from_actor": 14596,
+            "to_actor": 10045,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76496,
+            "from_actor": 14608,
+            "to_actor": 10045,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Steen Tinning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76631,
+            "from_actor": 14617,
+            "to_actor": 10045,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Steen Tinning",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76874,
+            "from_actor": 14628,
+            "to_actor": 10045,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Steen Tinning",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331094,
+            "from_actor": 10045,
+            "to_actor": 14608,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331095,
+            "from_actor": 10045,
+            "to_actor": 14628,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331096,
+            "from_actor": 10045,
+            "to_actor": 14521,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331097,
+            "from_actor": 10045,
+            "to_actor": 14542,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331098,
+            "from_actor": 10045,
+            "to_actor": 14563,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331099,
+            "from_actor": 10045,
+            "to_actor": 14595,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331100,
+            "from_actor": 10045,
+            "to_actor": 14580,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 8331101,
+            "from_actor": 10045,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331103,
+            "from_actor": 10045,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331104,
+            "from_actor": 10045,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331105,
+            "from_actor": 10045,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331106,
+            "from_actor": 10045,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 8331107,
+            "from_actor": 10045,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32574942,
+            "from_actor": 10045,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Steen Tinning",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

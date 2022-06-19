@@ -1,0 +1,323 @@
+{
+    "403": [
+        {
+            "id": 48571,
+            "from_actor": 559,
+            "to_actor": 403,
+            "start": "2012-01-02",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 48709,
+            "from_actor": 411,
+            "to_actor": 403,
+            "start": "2012-09-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 49513,
+            "from_actor": 751,
+            "to_actor": 403,
+            "start": "2012-01-02",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51084,
+            "from_actor": 318,
+            "to_actor": 403,
+            "start": "2013-07-01",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 51139,
+            "from_actor": 320,
+            "to_actor": 403,
+            "start": "2013-08-01",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 53065,
+            "from_actor": 375,
+            "to_actor": 403,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Ane Elmose",
+            "type": "Kommission"
+        },
+        {
+            "id": 55866,
+            "from_actor": 5147,
+            "to_actor": 403,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Ane Elmose",
+            "type": "Kommission"
+        },
+        {
+            "id": 65279,
+            "from_actor": 5143,
+            "to_actor": 403,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65638,
+            "from_actor": 36,
+            "to_actor": 403,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115724,
+            "from_actor": 15915,
+            "to_actor": 403,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Ane Elmose",
+            "type": "Kommission"
+        },
+        {
+            "id": 125914,
+            "from_actor": 15906,
+            "to_actor": 403,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundheds- og Ældreudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127410,
+            "from_actor": 16020,
+            "to_actor": 403,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundheds- og Ældreudvalget",
+            "to_actor_name": "Ane Elmose",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127469,
+            "from_actor": 16023,
+            "to_actor": 403,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Ane Elmose",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118023,
+            "from_actor": 403,
+            "to_actor": 5147,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118024,
+            "from_actor": 403,
+            "to_actor": 16023,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118025,
+            "from_actor": 403,
+            "to_actor": 375,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118026,
+            "from_actor": 403,
+            "to_actor": 15915,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30118027,
+            "from_actor": 403,
+            "to_actor": 5143,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118028,
+            "from_actor": 403,
+            "to_actor": 411,
+            "start": "2012-09-04",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118029,
+            "from_actor": 403,
+            "to_actor": 559,
+            "start": "2012-01-02",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118030,
+            "from_actor": 403,
+            "to_actor": 16020,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118031,
+            "from_actor": 403,
+            "to_actor": 36,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118032,
+            "from_actor": 403,
+            "to_actor": 15906,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118033,
+            "from_actor": 403,
+            "to_actor": 16896,
+            "start": "2016-10-05",
+            "end": "2017-08-31",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118034,
+            "from_actor": 403,
+            "to_actor": 318,
+            "start": "2013-07-01",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118035,
+            "from_actor": 403,
+            "to_actor": 16868,
+            "start": "2016-12-05",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118036,
+            "from_actor": 403,
+            "to_actor": 751,
+            "start": "2012-01-02",
+            "end": "2012-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118037,
+            "from_actor": 403,
+            "to_actor": 320,
+            "start": "2013-08-01",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30118038,
+            "from_actor": 403,
+            "to_actor": 16026,
+            "start": "2016-09-29",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Ane Elmose",
+            "to_actor_name": "Kulturudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

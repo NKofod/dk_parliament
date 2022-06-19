@@ -1,0 +1,191 @@
+{
+    "19807": [
+        {
+            "id": 28155279,
+            "from_actor": 19807,
+            "to_actor": 19354,
+            "start": "2021-08-12",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28182749,
+            "from_actor": 19807,
+            "to_actor": 19398,
+            "start": "2021-08-30",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30388133,
+            "from_actor": 19807,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32071759,
+            "from_actor": 19807,
+            "to_actor": 19352,
+            "start": "2021-08-12",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451175,
+            "from_actor": 19807,
+            "to_actor": 19914,
+            "start": "2021-11-09",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475963,
+            "from_actor": 19807,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525528,
+            "from_actor": 19807,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599826,
+            "from_actor": 19807,
+            "to_actor": 19891,
+            "start": "2022-03-20",
+            "end": "2022-03-22",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32673568,
+            "from_actor": 19807,
+            "to_actor": 20168,
+            "start": "2022-10-05",
+            "end": "2022-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722711,
+            "from_actor": 19807,
+            "to_actor": 20169,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722743,
+            "from_actor": 19807,
+            "to_actor": 20170,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32775015,
+            "from_actor": 19807,
+            "to_actor": 19906,
+            "start": "2022-03-04",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32775016,
+            "from_actor": 19807,
+            "to_actor": 19906,
+            "start": "2021-12-08",
+            "end": "2022-03-02",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32775017,
+            "from_actor": 19807,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2021-12-06",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829539,
+            "from_actor": 19807,
+            "to_actor": 19909,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829782,
+            "from_actor": 19807,
+            "to_actor": 19899,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856931,
+            "from_actor": 19807,
+            "to_actor": 19904,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anne Rasmussen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

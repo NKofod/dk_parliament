@@ -1,0 +1,59 @@
+{
+    "10028": [
+        {
+            "id": 70853,
+            "from_actor": 14338,
+            "to_actor": 10028,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Stubtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71712,
+            "from_actor": 14387,
+            "to_actor": 10028,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Stubtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 129161,
+            "from_actor": 10028,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Stubtoft",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696829,
+            "from_actor": 10028,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Stubtoft",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451127,
+            "from_actor": 10028,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Stubtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

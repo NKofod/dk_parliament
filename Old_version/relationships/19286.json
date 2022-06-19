@@ -1,0 +1,26 @@
+{
+    "19286": [
+        {
+            "id": 23530699,
+            "from_actor": 19286,
+            "to_actor": 18878,
+            "start": "2020-08-24",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lea Lykke Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31259600,
+            "from_actor": 19286,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lea Lykke Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

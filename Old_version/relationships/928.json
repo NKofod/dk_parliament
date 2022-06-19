@@ -1,0 +1,312 @@
+{
+    "928": [
+        {
+            "id": 1878,
+            "from_actor": 289,
+            "to_actor": 928,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 39964,
+            "from_actor": 882,
+            "to_actor": 928,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 44816,
+            "from_actor": 883,
+            "to_actor": 928,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 47740,
+            "from_actor": 2090,
+            "to_actor": 928,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 48010,
+            "from_actor": 562,
+            "to_actor": 928,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 50411,
+            "from_actor": 337,
+            "to_actor": 928,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 55854,
+            "from_actor": 13701,
+            "to_actor": 928,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 116758,
+            "from_actor": 15920,
+            "to_actor": 928,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nordisk Råd",
+            "to_actor_name": "Ulla Stegemüller",
+            "type": "Kommission"
+        },
+        {
+            "id": 18234,
+            "from_actor": 928,
+            "to_actor": 289,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 59514,
+            "from_actor": 928,
+            "to_actor": 13701,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 134345,
+            "from_actor": 928,
+            "to_actor": 15920,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 1277888,
+            "from_actor": 928,
+            "to_actor": 16067,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2858975,
+            "from_actor": 928,
+            "to_actor": 337,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859058,
+            "from_actor": 928,
+            "to_actor": 562,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859117,
+            "from_actor": 928,
+            "to_actor": 882,
+            "start": "2009-10-07",
+            "end": "2010-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859181,
+            "from_actor": 928,
+            "to_actor": 883,
+            "start": "2010-10-06",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 2859262,
+            "from_actor": 928,
+            "to_actor": 2090,
+            "start": "2010-10-06",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 5965287,
+            "from_actor": 928,
+            "to_actor": 16934,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 12718543,
+            "from_actor": 928,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 14419512,
+            "from_actor": 928,
+            "to_actor": 18362,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 15956873,
+            "from_actor": 928,
+            "to_actor": 18787,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957421,
+            "from_actor": 928,
+            "to_actor": 18774,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21707829,
+            "from_actor": 928,
+            "to_actor": 18926,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21708678,
+            "from_actor": 928,
+            "to_actor": 18929,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153044,
+            "from_actor": 928,
+            "to_actor": 19430,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28345991,
+            "from_actor": 928,
+            "to_actor": 19427,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31367908,
+            "from_actor": 928,
+            "to_actor": 19894,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599860,
+            "from_actor": 928,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Ulla Stegemüller",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        }
+    ]
+}

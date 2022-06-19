@@ -1,0 +1,37 @@
+{
+    "15695": [
+        {
+            "id": 127092,
+            "from_actor": 15686,
+            "to_actor": 15695,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ole Thamsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32600064,
+            "from_actor": 15695,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Thamsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600086,
+            "from_actor": 15695,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ole Thamsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

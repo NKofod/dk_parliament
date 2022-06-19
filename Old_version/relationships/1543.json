@@ -1,0 +1,301 @@
+{
+    "1543": [
+        {
+            "id": 43171,
+            "from_actor": 1416,
+            "to_actor": 1543,
+            "start": "2011-02-04",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 47749,
+            "from_actor": 1938,
+            "to_actor": 1543,
+            "start": "2011-02-04",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 47899,
+            "from_actor": 1743,
+            "to_actor": 1543,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 50244,
+            "from_actor": 421,
+            "to_actor": 1543,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 53436,
+            "from_actor": 381,
+            "to_actor": 1543,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 115417,
+            "from_actor": 13700,
+            "to_actor": 1543,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 119109,
+            "from_actor": 15919,
+            "to_actor": 1543,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "to_actor_name": "Susanne Henriksen",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795055,
+            "from_actor": 1543,
+            "to_actor": 18774,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30795056,
+            "from_actor": 1543,
+            "to_actor": 1938,
+            "start": "2011-02-04",
+            "end": "2011-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795057,
+            "from_actor": 1543,
+            "to_actor": 13700,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795058,
+            "from_actor": 1543,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795059,
+            "from_actor": 1543,
+            "to_actor": 381,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795060,
+            "from_actor": 1543,
+            "to_actor": 16933,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795061,
+            "from_actor": 1543,
+            "to_actor": 18362,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795062,
+            "from_actor": 1543,
+            "to_actor": 1743,
+            "start": "2011-10-07",
+            "end": "2012-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795063,
+            "from_actor": 1543,
+            "to_actor": 18787,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30795064,
+            "from_actor": 1543,
+            "to_actor": 1416,
+            "start": "2011-02-04",
+            "end": "2011-09-15",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795065,
+            "from_actor": 1543,
+            "to_actor": 421,
+            "start": "2012-10-03",
+            "end": "2013-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795066,
+            "from_actor": 1543,
+            "to_actor": 15919,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795067,
+            "from_actor": 1543,
+            "to_actor": 16066,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795068,
+            "from_actor": 1543,
+            "to_actor": 18929,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30795069,
+            "from_actor": 1543,
+            "to_actor": 17648,
+            "start": "2017-10-04",
+            "end": "2018-05-31",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 30795071,
+            "from_actor": 1543,
+            "to_actor": 19430,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30795072,
+            "from_actor": 1543,
+            "to_actor": 18926,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30795074,
+            "from_actor": 1543,
+            "to_actor": 19427,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31367909,
+            "from_actor": 1543,
+            "to_actor": 19894,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599858,
+            "from_actor": 1543,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Susanne Henriksen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        }
+    ]
+}

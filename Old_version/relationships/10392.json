@@ -1,0 +1,136 @@
+{
+    "10392": [
+        {
+            "id": 98267,
+            "from_actor": 15533,
+            "to_actor": 10392,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98337,
+            "from_actor": 15549,
+            "to_actor": 10392,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98630,
+            "from_actor": 15557,
+            "to_actor": 10392,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98708,
+            "from_actor": 15562,
+            "to_actor": 10392,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99052,
+            "from_actor": 15574,
+            "to_actor": 10392,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99131,
+            "from_actor": 15579,
+            "to_actor": 10392,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99446,
+            "from_actor": 15591,
+            "to_actor": 10392,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99530,
+            "from_actor": 15598,
+            "to_actor": 10392,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Ejnar Amtoft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529591,
+            "from_actor": 10392,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ejnar Amtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529769,
+            "from_actor": 10392,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ejnar Amtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529961,
+            "from_actor": 10392,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ejnar Amtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255657,
+            "from_actor": 10392,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Ejnar Amtoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

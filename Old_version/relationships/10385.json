@@ -1,0 +1,312 @@
+{
+    "10385": [
+        {
+            "id": 69078,
+            "from_actor": 14328,
+            "to_actor": 10385,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70953,
+            "from_actor": 14338,
+            "to_actor": 10385,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71580,
+            "from_actor": 14387,
+            "to_actor": 10385,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71849,
+            "from_actor": 14415,
+            "to_actor": 10385,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72022,
+            "from_actor": 14423,
+            "to_actor": 10385,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102418,
+            "from_actor": 15687,
+            "to_actor": 10385,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102648,
+            "from_actor": 15660,
+            "to_actor": 10385,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102846,
+            "from_actor": 15699,
+            "to_actor": 10385,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102979,
+            "from_actor": 15707,
+            "to_actor": 10385,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103354,
+            "from_actor": 15721,
+            "to_actor": 10385,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121133,
+            "from_actor": 14082,
+            "to_actor": 10385,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Møller",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128237,
+            "from_actor": 15727,
+            "to_actor": 10385,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128299,
+            "from_actor": 14090,
+            "to_actor": 10385,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kristeligt folkeparti",
+            "to_actor_name": "Jens Møller",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 66699,
+            "from_actor": 10385,
+            "to_actor": 14090,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88502,
+            "from_actor": 10385,
+            "to_actor": 14328,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88503,
+            "from_actor": 10385,
+            "to_actor": 14365,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88504,
+            "from_actor": 10385,
+            "to_actor": 14402,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88505,
+            "from_actor": 10385,
+            "to_actor": 14423,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88506,
+            "from_actor": 10385,
+            "to_actor": 14268,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88507,
+            "from_actor": 10385,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88508,
+            "from_actor": 10385,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 88510,
+            "from_actor": 10385,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 136240,
+            "from_actor": 10385,
+            "to_actor": 15687,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235233,
+            "from_actor": 10385,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235484,
+            "from_actor": 10385,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880687,
+            "from_actor": 10385,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32450978,
+            "from_actor": 10385,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600007,
+            "from_actor": 10385,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

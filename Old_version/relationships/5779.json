@@ -1,0 +1,125 @@
+{
+    "5779": [
+        {
+            "id": 11594972,
+            "from_actor": 5779,
+            "to_actor": 17636,
+            "start": "2018-09-03",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11594974,
+            "from_actor": 5779,
+            "to_actor": 17655,
+            "start": "2018-09-03",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14419001,
+            "from_actor": 5779,
+            "to_actor": 18311,
+            "start": "2018-10-03",
+            "end": "2018-11-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15145713,
+            "from_actor": 5779,
+            "to_actor": 18317,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957761,
+            "from_actor": 5779,
+            "to_actor": 18782,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15958011,
+            "from_actor": 5779,
+            "to_actor": 18737,
+            "start": "2019-07-01",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 23530811,
+            "from_actor": 5779,
+            "to_actor": 18879,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23531055,
+            "from_actor": 5779,
+            "to_actor": 18853,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 28154737,
+            "from_actor": 5779,
+            "to_actor": 19397,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184520,
+            "from_actor": 5779,
+            "to_actor": 19419,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 28612741,
+            "from_actor": 5779,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Nina Egebjærg Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        }
+    ]
+}

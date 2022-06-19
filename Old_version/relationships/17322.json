@@ -1,0 +1,81 @@
+{
+    "17322": [
+        {
+            "id": 5867947,
+            "from_actor": 17322,
+            "to_actor": 16929,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606277,
+            "from_actor": 17322,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14213230,
+            "from_actor": 17322,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957015,
+            "from_actor": 17322,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529727,
+            "from_actor": 17322,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31694010,
+            "from_actor": 17322,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599797,
+            "from_actor": 17322,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Bodil Marsden",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

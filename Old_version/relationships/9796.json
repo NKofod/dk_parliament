@@ -1,0 +1,103 @@
+{
+    "9796": [
+        {
+            "id": 79139,
+            "from_actor": 14690,
+            "to_actor": 9796,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Melgaard Haakonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 80425,
+            "from_actor": 14720,
+            "to_actor": 9796,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Melgaard Haakonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 81857,
+            "from_actor": 14754,
+            "to_actor": 9796,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Melgaard Haakonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28016650,
+            "from_actor": 9796,
+            "to_actor": 14755,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28016651,
+            "from_actor": 9796,
+            "to_actor": 14693,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28016652,
+            "from_actor": 9796,
+            "to_actor": 14721,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28016653,
+            "from_actor": 9796,
+            "to_actor": 14720,
+            "start": "1990-12-12",
+            "end": "1991-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28016654,
+            "from_actor": 9796,
+            "to_actor": 14690,
+            "start": "1989-10-03",
+            "end": "1990-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28016655,
+            "from_actor": 9796,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Melgaard Haakonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

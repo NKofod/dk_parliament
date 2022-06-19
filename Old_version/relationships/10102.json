@@ -1,0 +1,180 @@
+{
+    "10102": [
+        {
+            "id": 75470,
+            "from_actor": 14564,
+            "to_actor": 10102,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75686,
+            "from_actor": 14579,
+            "to_actor": 10102,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75840,
+            "from_actor": 14583,
+            "to_actor": 10102,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76060,
+            "from_actor": 14594,
+            "to_actor": 10102,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76253,
+            "from_actor": 14596,
+            "to_actor": 10102,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76479,
+            "from_actor": 14607,
+            "to_actor": 10102,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76638,
+            "from_actor": 14617,
+            "to_actor": 10102,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76859,
+            "from_actor": 14627,
+            "to_actor": 10102,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Bente Mousten Nielsen Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19794618,
+            "from_actor": 10102,
+            "to_actor": 14594,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19794619,
+            "from_actor": 10102,
+            "to_actor": 14607,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19794620,
+            "from_actor": 10102,
+            "to_actor": 14627,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19794621,
+            "from_actor": 10102,
+            "to_actor": 14579,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 19794622,
+            "from_actor": 10102,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19794624,
+            "from_actor": 10102,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 19794625,
+            "from_actor": 10102,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32574949,
+            "from_actor": 10102,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Bente Mousten Nielsen Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

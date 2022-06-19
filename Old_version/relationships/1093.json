@@ -1,0 +1,59 @@
+{
+    "1093": [
+        {
+            "id": 69764,
+            "from_actor": 14363,
+            "to_actor": 1093,
+            "start": "1977-12-03",
+            "end": "1978-04-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Margit Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70760,
+            "from_actor": 14326,
+            "to_actor": 1093,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Margit Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71046,
+            "from_actor": 14338,
+            "to_actor": 1093,
+            "start": "1977-12-03",
+            "end": "1978-04-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Margit Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696853,
+            "from_actor": 1093,
+            "to_actor": 14363,
+            "start": "1977-12-03",
+            "end": "1978-04-04",
+            "role": "medlem",
+            "from_actor_name": "Margit Hansen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451071,
+            "from_actor": 1093,
+            "to_actor": 14338,
+            "start": "1977-12-03",
+            "end": "1978-04-04",
+            "role": "medlem",
+            "from_actor_name": "Margit Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

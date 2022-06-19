@@ -1,0 +1,37 @@
+{
+    "19961": [
+        {
+            "id": 29580257,
+            "from_actor": 19961,
+            "to_actor": 19936,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Karina Sand Thomsen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 32208364,
+            "from_actor": 19961,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Karina Sand Thomsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32599806,
+            "from_actor": 19961,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Karina Sand Thomsen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

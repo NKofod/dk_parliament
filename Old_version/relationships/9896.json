@@ -1,0 +1,37 @@
+{
+    "9896": [
+        {
+            "id": 80842,
+            "from_actor": 14730,
+            "to_actor": 9896,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Kvist Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28505670,
+            "from_actor": 9896,
+            "to_actor": 14735,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Kvist Jensen",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28505671,
+            "from_actor": 9896,
+            "to_actor": 14730,
+            "start": "1991-10-01",
+            "end": "1992-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Kvist Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

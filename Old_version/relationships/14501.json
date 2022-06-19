@@ -1,0 +1,290 @@
+{
+    "14501": [
+        {
+            "id": 73886,
+            "from_actor": 14495,
+            "to_actor": 14501,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74284,
+            "from_actor": 14523,
+            "to_actor": 14501,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74696,
+            "from_actor": 14546,
+            "to_actor": 14501,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74864,
+            "from_actor": 14555,
+            "to_actor": 14501,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75456,
+            "from_actor": 14564,
+            "to_actor": 14501,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75640,
+            "from_actor": 14576,
+            "to_actor": 14501,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75826,
+            "from_actor": 14583,
+            "to_actor": 14501,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76011,
+            "from_actor": 14590,
+            "to_actor": 14501,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76239,
+            "from_actor": 14596,
+            "to_actor": 14501,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76427,
+            "from_actor": 14603,
+            "to_actor": 14501,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76624,
+            "from_actor": 14617,
+            "to_actor": 14501,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76808,
+            "from_actor": 14623,
+            "to_actor": 14501,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Paul Lohmann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119604,
+            "from_actor": 14501,
+            "to_actor": 14590,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119605,
+            "from_actor": 14501,
+            "to_actor": 14603,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119606,
+            "from_actor": 14501,
+            "to_actor": 14576,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119607,
+            "from_actor": 14501,
+            "to_actor": 14537,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119608,
+            "from_actor": 14501,
+            "to_actor": 14555,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119609,
+            "from_actor": 14501,
+            "to_actor": 14517,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 119610,
+            "from_actor": 14501,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 119612,
+            "from_actor": 14501,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 119613,
+            "from_actor": 14501,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 119615,
+            "from_actor": 14501,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 119616,
+            "from_actor": 14501,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714938,
+            "from_actor": 14501,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379857,
+            "from_actor": 14501,
+            "to_actor": 14623,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32574935,
+            "from_actor": 14501,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Paul Lohmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

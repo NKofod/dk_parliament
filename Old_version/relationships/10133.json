@@ -1,0 +1,301 @@
+{
+    "10133": [
+        {
+            "id": 70903,
+            "from_actor": 14338,
+            "to_actor": 10133,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71678,
+            "from_actor": 14387,
+            "to_actor": 10133,
+            "start": "1978-10-03",
+            "end": "1979-09-30",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75118,
+            "from_actor": 14265,
+            "to_actor": 10133,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75141,
+            "from_actor": 14085,
+            "to_actor": 10133,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102443,
+            "from_actor": 15688,
+            "to_actor": 10133,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102630,
+            "from_actor": 15660,
+            "to_actor": 10133,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102828,
+            "from_actor": 15699,
+            "to_actor": 10133,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102967,
+            "from_actor": 15706,
+            "to_actor": 10133,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103342,
+            "from_actor": 15721,
+            "to_actor": 10133,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103479,
+            "from_actor": 15726,
+            "to_actor": 10133,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121064,
+            "from_actor": 14082,
+            "to_actor": 10133,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kai Nyborg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492610,
+            "from_actor": 10133,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492611,
+            "from_actor": 10133,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492612,
+            "from_actor": 10133,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492614,
+            "from_actor": 10133,
+            "to_actor": 15706,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492615,
+            "from_actor": 10133,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492616,
+            "from_actor": 10133,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492617,
+            "from_actor": 10133,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-09-30",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492619,
+            "from_actor": 10133,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492624,
+            "from_actor": 10133,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492625,
+            "from_actor": 10133,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-09-30",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235221,
+            "from_actor": 10133,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235412,
+            "from_actor": 10133,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880615,
+            "from_actor": 10133,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30908355,
+            "from_actor": 10133,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450928,
+            "from_actor": 10133,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599989,
+            "from_actor": 10133,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kai Nyborg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "14343": [
+        {
+            "id": 70830,
+            "from_actor": 14338,
+            "to_actor": 14343,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kaj Lyngsøe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128879,
+            "from_actor": 14343,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kaj Lyngsøe",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451104,
+            "from_actor": 14343,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Kaj Lyngsøe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

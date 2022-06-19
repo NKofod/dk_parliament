@@ -1,0 +1,301 @@
+{
+    "10408": [
+        {
+            "id": 70895,
+            "from_actor": 14338,
+            "to_actor": 10408,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71679,
+            "from_actor": 14387,
+            "to_actor": 10408,
+            "start": "1978-10-03",
+            "end": "1979-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75116,
+            "from_actor": 14265,
+            "to_actor": 10408,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75139,
+            "from_actor": 14085,
+            "to_actor": 10408,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102422,
+            "from_actor": 15688,
+            "to_actor": 10408,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102626,
+            "from_actor": 15660,
+            "to_actor": 10408,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102824,
+            "from_actor": 15699,
+            "to_actor": 10408,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102946,
+            "from_actor": 15706,
+            "to_actor": 10408,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103341,
+            "from_actor": 15721,
+            "to_actor": 10408,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103461,
+            "from_actor": 15726,
+            "to_actor": 10408,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121050,
+            "from_actor": 14082,
+            "to_actor": 10408,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20544720,
+            "from_actor": 10408,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544721,
+            "from_actor": 10408,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544722,
+            "from_actor": 10408,
+            "to_actor": 15706,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544723,
+            "from_actor": 10408,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544724,
+            "from_actor": 10408,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544725,
+            "from_actor": 10408,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544727,
+            "from_actor": 10408,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-01-10",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20544729,
+            "from_actor": 10408,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20544731,
+            "from_actor": 10408,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20544732,
+            "from_actor": 10408,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20544734,
+            "from_actor": 10408,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20544735,
+            "from_actor": 10408,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-01-10",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880601,
+            "from_actor": 10408,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30908353,
+            "from_actor": 10408,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450920,
+            "from_actor": 10408,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599985,
+            "from_actor": 10408,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

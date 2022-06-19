@@ -1,0 +1,26 @@
+{
+    "14289": [
+        {
+            "id": 25670570,
+            "from_actor": 14289,
+            "to_actor": 14263,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Jens Søndergård Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30880729,
+            "from_actor": 14289,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Jens Søndergård Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

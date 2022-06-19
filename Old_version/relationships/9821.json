@@ -1,0 +1,235 @@
+{
+    "9821": [
+        {
+            "id": 74723,
+            "from_actor": 14546,
+            "to_actor": 9821,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75519,
+            "from_actor": 14564,
+            "to_actor": 9821,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75697,
+            "from_actor": 14580,
+            "to_actor": 9821,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75888,
+            "from_actor": 14583,
+            "to_actor": 9821,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76072,
+            "from_actor": 14595,
+            "to_actor": 9821,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76302,
+            "from_actor": 14596,
+            "to_actor": 9821,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76492,
+            "from_actor": 14608,
+            "to_actor": 9821,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76687,
+            "from_actor": 14617,
+            "to_actor": 9821,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76872,
+            "from_actor": 14628,
+            "to_actor": 9821,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Elisabeth Bruun Olesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083365,
+            "from_actor": 9821,
+            "to_actor": 14595,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083366,
+            "from_actor": 9821,
+            "to_actor": 14608,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083367,
+            "from_actor": 9821,
+            "to_actor": 14628,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083368,
+            "from_actor": 9821,
+            "to_actor": 14580,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083369,
+            "from_actor": 9821,
+            "to_actor": 14542,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083370,
+            "from_actor": 9821,
+            "to_actor": 14563,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21083371,
+            "from_actor": 9821,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21083373,
+            "from_actor": 9821,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21083374,
+            "from_actor": 9821,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21083375,
+            "from_actor": 9821,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21083376,
+            "from_actor": 9821,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32574998,
+            "from_actor": 9821,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Elisabeth Bruun Olesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

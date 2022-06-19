@@ -1,0 +1,125 @@
+{
+    "14294": [
+        {
+            "id": 69086,
+            "from_actor": 14329,
+            "to_actor": 14294,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Svend Hjortlund Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69785,
+            "from_actor": 14366,
+            "to_actor": 14294,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Svend Hjortlund Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71021,
+            "from_actor": 14338,
+            "to_actor": 14294,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Hjortlund Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71138,
+            "from_actor": 14403,
+            "to_actor": 14294,
+            "start": "1978-10-03",
+            "end": "1979-03-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks Retsforbund",
+            "to_actor_name": "Svend Hjortlund Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71683,
+            "from_actor": 14387,
+            "to_actor": 14294,
+            "start": "1978-10-03",
+            "end": "1979-03-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Hjortlund Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 68911,
+            "from_actor": 14294,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121332,
+            "from_actor": 14294,
+            "to_actor": 14366,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121333,
+            "from_actor": 14294,
+            "to_actor": 14329,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121334,
+            "from_actor": 14294,
+            "to_actor": 14403,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Danmarks Retsforbund",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121336,
+            "from_actor": 14294,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451046,
+            "from_actor": 14294,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Hjortlund Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "14298": [
+        {
+            "id": 71026,
+            "from_actor": 14338,
+            "to_actor": 14298,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingolf Knudsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71684,
+            "from_actor": 14387,
+            "to_actor": 14298,
+            "start": "1978-10-03",
+            "end": "1979-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingolf Knudsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102406,
+            "from_actor": 15686,
+            "to_actor": 14298,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ingolf Knudsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102635,
+            "from_actor": 15660,
+            "to_actor": 14298,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingolf Knudsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102833,
+            "from_actor": 15699,
+            "to_actor": 14298,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ingolf Knudsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 108607,
+            "from_actor": 14298,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108608,
+            "from_actor": 14298,
+            "to_actor": 14324,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108610,
+            "from_actor": 14298,
+            "to_actor": 15700,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108611,
+            "from_actor": 14298,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-01-10",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 108613,
+            "from_actor": 14298,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 108615,
+            "from_actor": 14298,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 108616,
+            "from_actor": 14298,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451051,
+            "from_actor": 14298,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599994,
+            "from_actor": 14298,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600077,
+            "from_actor": 14298,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ingolf Knudsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

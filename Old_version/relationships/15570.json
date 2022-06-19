@@ -1,0 +1,268 @@
+{
+    "15570": [
+        {
+            "id": 98846,
+            "from_actor": 15557,
+            "to_actor": 15570,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99285,
+            "from_actor": 15574,
+            "to_actor": 15570,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100330,
+            "from_actor": 15609,
+            "to_actor": 15570,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100441,
+            "from_actor": 15622,
+            "to_actor": 15570,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100688,
+            "from_actor": 15628,
+            "to_actor": 15570,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100803,
+            "from_actor": 15631,
+            "to_actor": 15570,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101059,
+            "from_actor": 15639,
+            "to_actor": 15570,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101250,
+            "from_actor": 15642,
+            "to_actor": 15570,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101677,
+            "from_actor": 15649,
+            "to_actor": 15570,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101812,
+            "from_actor": 15652,
+            "to_actor": 15570,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126490,
+            "from_actor": 15563,
+            "to_actor": 15570,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126529,
+            "from_actor": 15580,
+            "to_actor": 15570,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Poul Falk Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131696,
+            "from_actor": 15570,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422259,
+            "from_actor": 15570,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422453,
+            "from_actor": 15570,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422648,
+            "from_actor": 15570,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422778,
+            "from_actor": 15570,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422854,
+            "from_actor": 15570,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422930,
+            "from_actor": 15570,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529800,
+            "from_actor": 15570,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529999,
+            "from_actor": 15570,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531810,
+            "from_actor": 15570,
+            "to_actor": 15563,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531879,
+            "from_actor": 15570,
+            "to_actor": 15580,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29337130,
+            "from_actor": 15570,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Falk Hansen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        }
+    ]
+}

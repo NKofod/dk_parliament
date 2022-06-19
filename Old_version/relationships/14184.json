@@ -1,0 +1,235 @@
+{
+    "14184": [
+        {
+            "id": 66457,
+            "from_actor": 14228,
+            "to_actor": 14184,
+            "start": "1976-06-20",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Svend Bay",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 68212,
+            "from_actor": 14278,
+            "to_actor": 14184,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Svend Bay",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75155,
+            "from_actor": 14085,
+            "to_actor": 14184,
+            "start": "1975-10-07",
+            "end": "1976-06-20",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102424,
+            "from_actor": 15688,
+            "to_actor": 14184,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102646,
+            "from_actor": 15660,
+            "to_actor": 14184,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Bay",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102844,
+            "from_actor": 15699,
+            "to_actor": 14184,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Bay",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102948,
+            "from_actor": 15706,
+            "to_actor": 14184,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103353,
+            "from_actor": 15721,
+            "to_actor": 14184,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Bay",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103463,
+            "from_actor": 15726,
+            "to_actor": 14184,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121095,
+            "from_actor": 14082,
+            "to_actor": 14184,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Bay",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 476979,
+            "from_actor": 14184,
+            "to_actor": 14228,
+            "start": "1976-06-20",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Uden for folketingsgrupperne - Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476980,
+            "from_actor": 14184,
+            "to_actor": 14278,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Uden for folketingsgrupperne - Svend Bay",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476981,
+            "from_actor": 14184,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476982,
+            "from_actor": 14184,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476983,
+            "from_actor": 14184,
+            "to_actor": 15706,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476984,
+            "from_actor": 14184,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-06-20",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476988,
+            "from_actor": 14184,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235232,
+            "from_actor": 14184,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235444,
+            "from_actor": 14184,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880647,
+            "from_actor": 14184,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600005,
+            "from_actor": 14184,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Bay",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

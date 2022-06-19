@@ -1,0 +1,92 @@
+{
+    "14286": [
+        {
+            "id": 68271,
+            "from_actor": 14269,
+            "to_actor": 14286,
+            "start": "1976-11-12",
+            "end": "1976-12-16",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Bodil Leth Emanuel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70687,
+            "from_actor": 14269,
+            "to_actor": 14286,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Bodil Leth Emanuel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71453,
+            "from_actor": 14400,
+            "to_actor": 14286,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Bodil Leth Emanuel",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71724,
+            "from_actor": 14387,
+            "to_actor": 14286,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Bodil Leth Emanuel",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158945,
+            "from_actor": 14286,
+            "to_actor": 14400,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Bodil Leth Emanuel",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158946,
+            "from_actor": 14286,
+            "to_actor": 14269,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Leth Emanuel",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158948,
+            "from_actor": 14286,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Leth Emanuel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880726,
+            "from_actor": 14286,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Bodil Leth Emanuel",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

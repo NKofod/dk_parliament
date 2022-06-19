@@ -1,0 +1,37 @@
+{
+    "1123": [
+        {
+            "id": 81877,
+            "from_actor": 14754,
+            "to_actor": 1123,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Mario See",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32747846,
+            "from_actor": 1123,
+            "to_actor": 14755,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "medlem",
+            "from_actor_name": "Mario See",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32747847,
+            "from_actor": 1123,
+            "to_actor": 14754,
+            "start": "1993-10-05",
+            "end": "1994-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Mario See",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

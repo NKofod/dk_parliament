@@ -1,0 +1,158 @@
+{
+    "14140": [
+        {
+            "id": 70848,
+            "from_actor": 14338,
+            "to_actor": 14140,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75113,
+            "from_actor": 14265,
+            "to_actor": 14140,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75136,
+            "from_actor": 14085,
+            "to_actor": 14140,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103391,
+            "from_actor": 15721,
+            "to_actor": 14140,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103474,
+            "from_actor": 15726,
+            "to_actor": 14140,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121034,
+            "from_actor": 14082,
+            "to_actor": 14140,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kjeld Wamberg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 66747,
+            "from_actor": 14140,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 110835,
+            "from_actor": 14140,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128873,
+            "from_actor": 14140,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235270,
+            "from_actor": 14140,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235382,
+            "from_actor": 14140,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880585,
+            "from_actor": 14140,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30908350,
+            "from_actor": 14140,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451122,
+            "from_actor": 14140,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Kjeld Wamberg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

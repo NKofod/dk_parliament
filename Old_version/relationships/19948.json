@@ -1,0 +1,92 @@
+{
+    "19948": [
+        {
+            "id": 30388094,
+            "from_actor": 19948,
+            "to_actor": 19856,
+            "start": "2021-10-14",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32208346,
+            "from_actor": 19948,
+            "to_actor": 19845,
+            "start": "2021-10-14",
+            "end": "2021-12-13",
+            "role": "stedfortræder",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32525348,
+            "from_actor": 19948,
+            "to_actor": 19854,
+            "start": "2021-10-14",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600220,
+            "from_actor": 19948,
+            "to_actor": 19908,
+            "start": "2021-12-07",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32600222,
+            "from_actor": 19948,
+            "to_actor": 19908,
+            "start": "2021-10-14",
+            "end": "2021-11-14",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32698144,
+            "from_actor": 19948,
+            "to_actor": 19911,
+            "start": "2021-10-14",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857004,
+            "from_actor": 19948,
+            "to_actor": 19898,
+            "start": "2021-12-07",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857007,
+            "from_actor": 19948,
+            "to_actor": 19898,
+            "start": "2021-10-14",
+            "end": "2021-11-14",
+            "role": "medlem",
+            "from_actor_name": "Mark Grossmann",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

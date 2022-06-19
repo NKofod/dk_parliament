@@ -1,0 +1,158 @@
+{
+    "14499": [
+        {
+            "id": 73879,
+            "from_actor": 14495,
+            "to_actor": 14499,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74277,
+            "from_actor": 14523,
+            "to_actor": 14499,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74689,
+            "from_actor": 14546,
+            "to_actor": 14499,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74776,
+            "from_actor": 14551,
+            "to_actor": 14499,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99674,
+            "from_actor": 15591,
+            "to_actor": 14499,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126551,
+            "from_actor": 15597,
+            "to_actor": 14499,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Finn Jørgensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106370,
+            "from_actor": 14499,
+            "to_actor": 14533,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106371,
+            "from_actor": 14499,
+            "to_actor": 14551,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106372,
+            "from_actor": 14499,
+            "to_actor": 14512,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 106374,
+            "from_actor": 14499,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 106375,
+            "from_actor": 14499,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4677268,
+            "from_actor": 14499,
+            "to_actor": 15597,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714931,
+            "from_actor": 14499,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255690,
+            "from_actor": 14499,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Finn Jørgensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

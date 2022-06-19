@@ -1,0 +1,48 @@
+{
+    "19443": [
+        {
+            "id": 29255884,
+            "from_actor": 19443,
+            "to_actor": 19626,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mette Buskjær Rasmussen",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255885,
+            "from_actor": 19443,
+            "to_actor": 19887,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mette Buskjær Rasmussen",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31694000,
+            "from_actor": 19443,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mette Buskjær Rasmussen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599788,
+            "from_actor": 19443,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-05-23",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mette Buskjær Rasmussen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "16757": [
+        {
+            "id": 22995117,
+            "from_actor": 16757,
+            "to_actor": 16051,
+            "start": "2016-10-01",
+            "end": "2016-12-30",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22995119,
+            "from_actor": 16757,
+            "to_actor": 16879,
+            "start": "2016-10-04",
+            "end": "2016-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Liberal Alliance",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22995120,
+            "from_actor": 16757,
+            "to_actor": 17143,
+            "start": "2016-12-12",
+            "end": "2017-01-08",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22995121,
+            "from_actor": 16757,
+            "to_actor": 16910,
+            "start": "2016-10-06",
+            "end": "2016-11-08",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22995122,
+            "from_actor": 16757,
+            "to_actor": 16917,
+            "start": "2016-10-06",
+            "end": "2016-12-30",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Social-, Indenrigs- og Børneudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22995123,
+            "from_actor": 16757,
+            "to_actor": 16910,
+            "start": "2016-11-10",
+            "end": "2016-12-30",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22995124,
+            "from_actor": 16757,
+            "to_actor": 16863,
+            "start": "2016-12-02",
+            "end": "2017-10-03",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24252004,
+            "from_actor": 16757,
+            "to_actor": 16886,
+            "start": "2016-10-04",
+            "end": "2016-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32961060,
+            "from_actor": 16757,
+            "to_actor": 16060,
+            "start": "2016-10-01",
+            "end": "2016-12-31",
+            "role": "medlem",
+            "from_actor_name": "Danny K. Malkowski",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

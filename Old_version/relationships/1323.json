@@ -1,0 +1,246 @@
+{
+    "1323": [
+        {
+            "id": 70975,
+            "from_actor": 14338,
+            "to_actor": 1323,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71601,
+            "from_actor": 14387,
+            "to_actor": 1323,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71870,
+            "from_actor": 14415,
+            "to_actor": 1323,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72013,
+            "from_actor": 14422,
+            "to_actor": 1323,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72201,
+            "from_actor": 14431,
+            "to_actor": 1323,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72624,
+            "from_actor": 14457,
+            "to_actor": 1323,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73048,
+            "from_actor": 14478,
+            "to_actor": 1323,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73233,
+            "from_actor": 14488,
+            "to_actor": 1323,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ole Pilgaard Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749546,
+            "from_actor": 1323,
+            "to_actor": 14447,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749547,
+            "from_actor": 1323,
+            "to_actor": 14469,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749548,
+            "from_actor": 1323,
+            "to_actor": 14488,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749549,
+            "from_actor": 1323,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749550,
+            "from_actor": 1323,
+            "to_actor": 14422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749551,
+            "from_actor": 1323,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749552,
+            "from_actor": 1323,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 27749553,
+            "from_actor": 1323,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27749554,
+            "from_actor": 1323,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27749555,
+            "from_actor": 1323,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27749556,
+            "from_actor": 1323,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27749557,
+            "from_actor": 1323,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27749559,
+            "from_actor": 1323,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451000,
+            "from_actor": 1323,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ole Pilgaard Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

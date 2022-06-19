@@ -1,0 +1,202 @@
+{
+    "10372": [
+        {
+            "id": 71024,
+            "from_actor": 14338,
+            "to_actor": 10372,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71649,
+            "from_actor": 14387,
+            "to_actor": 10372,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71918,
+            "from_actor": 14415,
+            "to_actor": 10372,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72011,
+            "from_actor": 14422,
+            "to_actor": 10372,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74714,
+            "from_actor": 14546,
+            "to_actor": 10372,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74800,
+            "from_actor": 14553,
+            "to_actor": 10372,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Hans Christian Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856196,
+            "from_actor": 10372,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856197,
+            "from_actor": 10372,
+            "to_actor": 14422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856198,
+            "from_actor": 10372,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856199,
+            "from_actor": 10372,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856200,
+            "from_actor": 10372,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856201,
+            "from_actor": 10372,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856203,
+            "from_actor": 10372,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856204,
+            "from_actor": 10372,
+            "to_actor": 14523,
+            "start": "1983-07-02",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856205,
+            "from_actor": 10372,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32450848,
+            "from_actor": 10372,
+            "to_actor": 14535,
+            "start": "1983-07-02",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450868,
+            "from_actor": 10372,
+            "to_actor": 14553,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451049,
+            "from_actor": 10372,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Christian Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

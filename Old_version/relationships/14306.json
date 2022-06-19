@@ -1,0 +1,191 @@
+{
+    "14306": [
+        {
+            "id": 71036,
+            "from_actor": 14338,
+            "to_actor": 14306,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71660,
+            "from_actor": 14387,
+            "to_actor": 14306,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71929,
+            "from_actor": 14415,
+            "to_actor": 14306,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72078,
+            "from_actor": 14424,
+            "to_actor": 14306,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72522,
+            "from_actor": 14431,
+            "to_actor": 14306,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72747,
+            "from_actor": 14457,
+            "to_actor": 14306,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75084,
+            "from_actor": 14319,
+            "to_actor": 14306,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Marinus Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 493051,
+            "from_actor": 14306,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 493052,
+            "from_actor": 14306,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 493055,
+            "from_actor": 14306,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 493056,
+            "from_actor": 14306,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 493058,
+            "from_actor": 14306,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 493059,
+            "from_actor": 14306,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 493060,
+            "from_actor": 14306,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696805,
+            "from_actor": 14306,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30962429,
+            "from_actor": 14306,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451061,
+            "from_actor": 14306,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Marinus Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "14200": [
+        {
+            "id": 70832,
+            "from_actor": 14338,
+            "to_actor": 14200,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71708,
+            "from_actor": 14387,
+            "to_actor": 14200,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72745,
+            "from_actor": 14457,
+            "to_actor": 14200,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75104,
+            "from_actor": 14270,
+            "to_actor": 14200,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75108,
+            "from_actor": 14092,
+            "to_actor": 14200,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102687,
+            "from_actor": 15660,
+            "to_actor": 14200,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103416,
+            "from_actor": 15721,
+            "to_actor": 14200,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103428,
+            "from_actor": 15722,
+            "to_actor": 14200,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121121,
+            "from_actor": 14082,
+            "to_actor": 14200,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127090,
+            "from_actor": 15686,
+            "to_actor": 14200,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Christian Arnfast",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158979,
+            "from_actor": 14200,
+            "to_actor": 15722,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158980,
+            "from_actor": 14200,
+            "to_actor": 14092,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158981,
+            "from_actor": 14200,
+            "to_actor": 14270,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158982,
+            "from_actor": 14200,
+            "to_actor": 14464,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158983,
+            "from_actor": 14200,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158985,
+            "from_actor": 14200,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158990,
+            "from_actor": 14200,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158991,
+            "from_actor": 14200,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235295,
+            "from_actor": 14200,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235472,
+            "from_actor": 14200,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880675,
+            "from_actor": 14200,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451106,
+            "from_actor": 14200,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600046,
+            "from_actor": 14200,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600084,
+            "from_actor": 14200,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Christian Arnfast",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

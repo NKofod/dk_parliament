@@ -1,0 +1,180 @@
+{
+    "9981": [
+        {
+            "id": 82198,
+            "from_actor": 14764,
+            "to_actor": 9981,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82249,
+            "from_actor": 14767,
+            "to_actor": 9981,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82546,
+            "from_actor": 14778,
+            "to_actor": 9981,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 82619,
+            "from_actor": 14780,
+            "to_actor": 9981,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 82926,
+            "from_actor": 14789,
+            "to_actor": 9981,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83001,
+            "from_actor": 14791,
+            "to_actor": 9981,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 83352,
+            "from_actor": 14800,
+            "to_actor": 9981,
+            "start": "1996-10-01",
+            "end": "1996-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 83433,
+            "from_actor": 14803,
+            "to_actor": 9981,
+            "start": "1996-10-01",
+            "end": "1996-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Stefan G. Rasmussen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28987773,
+            "from_actor": 9981,
+            "to_actor": 14767,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28987774,
+            "from_actor": 9981,
+            "to_actor": 14780,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28987775,
+            "from_actor": 9981,
+            "to_actor": 14791,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28987776,
+            "from_actor": 9981,
+            "to_actor": 14803,
+            "start": "1996-10-01",
+            "end": "1996-10-03",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28987777,
+            "from_actor": 9981,
+            "to_actor": 14789,
+            "start": "1995-10-03",
+            "end": "1996-10-01",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28987778,
+            "from_actor": 9981,
+            "to_actor": 14778,
+            "start": "1994-10-04",
+            "end": "1995-10-03",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28987779,
+            "from_actor": 9981,
+            "to_actor": 14764,
+            "start": "1994-09-21",
+            "end": "1994-10-04",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28987780,
+            "from_actor": 9981,
+            "to_actor": 14800,
+            "start": "1996-10-01",
+            "end": "1996-10-03",
+            "role": "medlem",
+            "from_actor_name": "Stefan G. Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

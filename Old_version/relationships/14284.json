@@ -1,0 +1,70 @@
+{
+    "14284": [
+        {
+            "id": 70686,
+            "from_actor": 14270,
+            "to_actor": 14284,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Hans Chr. Jepsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103620,
+            "from_actor": 15721,
+            "to_actor": 14284,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Chr. Jepsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128219,
+            "from_actor": 15722,
+            "to_actor": 14284,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Hans Chr. Jepsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128682,
+            "from_actor": 14284,
+            "to_actor": 14270,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Hans Chr. Jepsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235318,
+            "from_actor": 14284,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Chr. Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880730,
+            "from_actor": 14284,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Chr. Jepsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

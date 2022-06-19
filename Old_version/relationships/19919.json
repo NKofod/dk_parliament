@@ -1,0 +1,202 @@
+{
+    "19919": [
+        {
+            "id": 32722978,
+            "from_actor": 19919,
+            "to_actor": 19855,
+            "start": "2021-10-07",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32722980,
+            "from_actor": 19919,
+            "to_actor": 19854,
+            "start": "2021-10-07",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32722982,
+            "from_actor": 19919,
+            "to_actor": 19921,
+            "start": "2022-01-25",
+            "end": "2022-05-02",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32722992,
+            "from_actor": 19919,
+            "to_actor": 19914,
+            "start": "2021-12-14",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32722994,
+            "from_actor": 19919,
+            "to_actor": 19914,
+            "start": "2021-12-09",
+            "end": "2021-12-09",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32722995,
+            "from_actor": 19919,
+            "to_actor": 19914,
+            "start": "2022-03-31",
+            "end": "2022-03-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32774984,
+            "from_actor": 19919,
+            "to_actor": 19906,
+            "start": "2022-01-25",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829274,
+            "from_actor": 19919,
+            "to_actor": 19915,
+            "start": "2022-01-25",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829354,
+            "from_actor": 19919,
+            "to_actor": 19893,
+            "start": "2021-10-07",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 32829445,
+            "from_actor": 19919,
+            "to_actor": 19896,
+            "start": "2022-05-03",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829510,
+            "from_actor": 19919,
+            "to_actor": 19909,
+            "start": "2021-11-11",
+            "end": "2021-11-11",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829790,
+            "from_actor": 19919,
+            "to_actor": 19877,
+            "start": "2021-12-17",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829791,
+            "from_actor": 19919,
+            "to_actor": 19877,
+            "start": "2021-12-15",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829792,
+            "from_actor": 19919,
+            "to_actor": 19877,
+            "start": "2021-10-07",
+            "end": "2021-12-13",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856990,
+            "from_actor": 19919,
+            "to_actor": 19898,
+            "start": "2021-10-07",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857410,
+            "from_actor": 19919,
+            "to_actor": 19913,
+            "start": "2021-10-07",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857515,
+            "from_actor": 19919,
+            "to_actor": 19917,
+            "start": "2022-01-25",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911480,
+            "from_actor": 19919,
+            "to_actor": 19895,
+            "start": "2022-05-03",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Brian Bressendorff",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

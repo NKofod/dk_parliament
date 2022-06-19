@@ -1,0 +1,202 @@
+{
+    "10053": [
+        {
+            "id": 70776,
+            "from_actor": 14319,
+            "to_actor": 10053,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70835,
+            "from_actor": 14338,
+            "to_actor": 10053,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71695,
+            "from_actor": 14387,
+            "to_actor": 10053,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103614,
+            "from_actor": 15721,
+            "to_actor": 10053,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121195,
+            "from_actor": 14082,
+            "to_actor": 10053,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128270,
+            "from_actor": 15728,
+            "to_actor": 10053,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128365,
+            "from_actor": 14083,
+            "to_actor": 10053,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Dycke Hoff",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856010,
+            "from_actor": 10053,
+            "to_actor": 14083,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856011,
+            "from_actor": 10053,
+            "to_actor": 15728,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856013,
+            "from_actor": 10053,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856014,
+            "from_actor": 10053,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22856015,
+            "from_actor": 10053,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856016,
+            "from_actor": 10053,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856017,
+            "from_actor": 10053,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22856019,
+            "from_actor": 10053,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880743,
+            "from_actor": 10053,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30962441,
+            "from_actor": 10053,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451109,
+            "from_actor": 10053,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Dycke Hoff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

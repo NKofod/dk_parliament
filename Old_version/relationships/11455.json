@@ -1,0 +1,81 @@
+{
+    "11455": [
+        {
+            "id": 63965,
+            "from_actor": 291,
+            "to_actor": 11455,
+            "start": "2014-03-10",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Underudvalget til belysning af rammerne for Statsrevisorernes og Rigsrevisionens arbejde med regeringens lovforberedelse",
+            "to_actor_name": "Birgit Thostrup Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 65895,
+            "from_actor": 14054,
+            "to_actor": 11455,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Underudvalget til belysning af rammerne for Statsrevisorernes og Rigsrevisionens arbejde med regeringens lovforberedelse",
+            "to_actor_name": "Birgit Thostrup Christensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 42512,
+            "from_actor": 11455,
+            "to_actor": 291,
+            "start": "2013-10-01",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Birgit Thostrup Christensen",
+            "to_actor_name": "Underudvalget til belysning af rammerne for Statsrevisorernes og Rigsrevisionens arbejde med regeringens lovforberedelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28183879,
+            "from_actor": 11455,
+            "to_actor": 19371,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Birgit Thostrup Christensen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184059,
+            "from_actor": 11455,
+            "to_actor": 19689,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Birgit Thostrup Christensen",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32263449,
+            "from_actor": 11455,
+            "to_actor": 19880,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Birgit Thostrup Christensen",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857253,
+            "from_actor": 11455,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Birgit Thostrup Christensen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        }
+    ]
+}

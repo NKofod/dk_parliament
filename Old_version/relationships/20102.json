@@ -1,0 +1,26 @@
+{
+    "20102": [
+        {
+            "id": 31367906,
+            "from_actor": 20102,
+            "to_actor": 19894,
+            "start": "2022-02-14",
+            "end": "2022-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Morten Schiøttz",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599857,
+            "from_actor": 20102,
+            "to_actor": 19891,
+            "start": "2022-02-14",
+            "end": "2022-10-04",
+            "role": "delegationssekretær",
+            "from_actor_name": "Morten Schiøttz",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        }
+    ]
+}

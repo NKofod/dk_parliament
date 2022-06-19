@@ -1,0 +1,136 @@
+{
+    "15590": [
+        {
+            "id": 99290,
+            "from_actor": 15574,
+            "to_actor": 15590,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99683,
+            "from_actor": 15591,
+            "to_actor": 15590,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Erik Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126488,
+            "from_actor": 15563,
+            "to_actor": 15590,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126528,
+            "from_actor": 15580,
+            "to_actor": 15590,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126651,
+            "from_actor": 15631,
+            "to_actor": 15590,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Svend Erik Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 17731944,
+            "from_actor": 15590,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422716,
+            "from_actor": 15590,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422788,
+            "from_actor": 15590,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530004,
+            "from_actor": 15590,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531806,
+            "from_actor": 15590,
+            "to_actor": 15563,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21531877,
+            "from_actor": 15590,
+            "to_actor": 15580,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29255699,
+            "from_actor": 15590,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Erik Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

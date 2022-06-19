@@ -1,0 +1,26 @@
+{
+    "14287": [
+        {
+            "id": 5158931,
+            "from_actor": 14287,
+            "to_actor": 14266,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Birte Kjærum",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30880727,
+            "from_actor": 14287,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Birte Kjærum",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

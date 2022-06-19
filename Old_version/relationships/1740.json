@@ -1,0 +1,290 @@
+{
+    "1740": [
+        {
+            "id": 14934,
+            "from_actor": 984,
+            "to_actor": 1740,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15009,
+            "from_actor": 612,
+            "to_actor": 1740,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Europaudvalget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15320,
+            "from_actor": 502,
+            "to_actor": 1740,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 15616,
+            "from_actor": 797,
+            "to_actor": 1740,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 16258,
+            "from_actor": 1220,
+            "to_actor": 1740,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketingets Økontaktudvalg",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Kommission"
+        },
+        {
+            "id": 27514,
+            "from_actor": 423,
+            "to_actor": 1740,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 27764,
+            "from_actor": 754,
+            "to_actor": 1740,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 87495,
+            "from_actor": 14917,
+            "to_actor": 1740,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87544,
+            "from_actor": 14919,
+            "to_actor": 1740,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 87857,
+            "from_actor": 14931,
+            "to_actor": 1740,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 87907,
+            "from_actor": 14932,
+            "to_actor": 1740,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88122,
+            "from_actor": 14944,
+            "to_actor": 1740,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Dansk Folkeparti",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 88465,
+            "from_actor": 14259,
+            "to_actor": 1740,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karina Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693599,
+            "from_actor": 1740,
+            "to_actor": 423,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693600,
+            "from_actor": 1740,
+            "to_actor": 502,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31693601,
+            "from_actor": 1740,
+            "to_actor": 1220,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Folketingets Økontaktudvalg",
+            "type": "Kommission"
+        },
+        {
+            "id": 31693602,
+            "from_actor": 1740,
+            "to_actor": 754,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693603,
+            "from_actor": 1740,
+            "to_actor": 612,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693604,
+            "from_actor": 1740,
+            "to_actor": 14919,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31693605,
+            "from_actor": 1740,
+            "to_actor": 14932,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31693606,
+            "from_actor": 1740,
+            "to_actor": 14944,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Dansk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31693607,
+            "from_actor": 1740,
+            "to_actor": 14931,
+            "start": "2002-10-01",
+            "end": "2003-10-07",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693608,
+            "from_actor": 1740,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693609,
+            "from_actor": 1740,
+            "to_actor": 14259,
+            "start": "2003-10-07",
+            "end": "2004-10-05",
+            "role": "medlem",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31693610,
+            "from_actor": 1740,
+            "to_actor": 797,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31693611,
+            "from_actor": 1740,
+            "to_actor": 984,
+            "start": "2004-10-06",
+            "end": "2005-02-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Karina Sørensen",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

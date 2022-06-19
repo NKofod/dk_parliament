@@ -1,0 +1,92 @@
+{
+    "19982": [
+        {
+            "id": 32828975,
+            "from_actor": 19982,
+            "to_actor": 19858,
+            "start": "2021-11-23",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32828976,
+            "from_actor": 19982,
+            "to_actor": 19854,
+            "start": "2021-11-23",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32829516,
+            "from_actor": 19982,
+            "to_actor": 19909,
+            "start": "2021-12-10",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829712,
+            "from_actor": 19982,
+            "to_actor": 19916,
+            "start": "2021-12-10",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856995,
+            "from_actor": 19982,
+            "to_actor": 19898,
+            "start": "2021-12-10",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857269,
+            "from_actor": 19982,
+            "to_actor": 19910,
+            "start": "2021-11-23",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911504,
+            "from_actor": 19982,
+            "to_actor": 19895,
+            "start": "2022-05-11",
+            "end": "2022-06-06",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911505,
+            "from_actor": 19982,
+            "to_actor": 19895,
+            "start": "2022-04-07",
+            "end": "2022-05-09",
+            "role": "medlem",
+            "from_actor_name": "Jan Bjergskov Larsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

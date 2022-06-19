@@ -1,0 +1,202 @@
+{
+    "1473": [
+        {
+            "id": 23366,
+            "from_actor": 425,
+            "to_actor": 1473,
+            "start": "2005-12-08",
+            "end": "2005-12-16",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23700,
+            "from_actor": 1122,
+            "to_actor": 1473,
+            "start": "2005-12-08",
+            "end": "2005-12-16",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25235,
+            "from_actor": 982,
+            "to_actor": 1473,
+            "start": "2005-12-14",
+            "end": "2005-12-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 37682,
+            "from_actor": 232,
+            "to_actor": 1473,
+            "start": "2008-10-09",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 37822,
+            "from_actor": 1164,
+            "to_actor": 1473,
+            "start": "2008-10-09",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 37966,
+            "from_actor": 827,
+            "to_actor": 1473,
+            "start": "2008-10-21",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38187,
+            "from_actor": 621,
+            "to_actor": 1473,
+            "start": "2008-10-21",
+            "end": "2008-11-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 38435,
+            "from_actor": 306,
+            "to_actor": 1473,
+            "start": "2008-11-06",
+            "end": "2008-11-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Trafikudvalget",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 39101,
+            "from_actor": 717,
+            "to_actor": 1473,
+            "start": "2008-11-06",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "to_actor_name": "Sidsel Homann",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28773805,
+            "from_actor": 1473,
+            "to_actor": 1122,
+            "start": "2005-12-08",
+            "end": "2005-12-16",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28773806,
+            "from_actor": 1473,
+            "to_actor": 717,
+            "start": "2008-11-06",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Udvalget vedrørende Færøske Forhold",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28773807,
+            "from_actor": 1473,
+            "to_actor": 1164,
+            "start": "2008-10-09",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28773808,
+            "from_actor": 1473,
+            "to_actor": 827,
+            "start": "2008-10-21",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28773809,
+            "from_actor": 1473,
+            "to_actor": 232,
+            "start": "2008-10-09",
+            "end": "2008-11-06",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28773810,
+            "from_actor": 1473,
+            "to_actor": 306,
+            "start": "2008-11-06",
+            "end": "2008-11-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Trafikudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28773811,
+            "from_actor": 1473,
+            "to_actor": 982,
+            "start": "2005-12-14",
+            "end": "2005-12-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28773812,
+            "from_actor": 1473,
+            "to_actor": 621,
+            "start": "2008-10-21",
+            "end": "2008-11-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29499808,
+            "from_actor": 1473,
+            "to_actor": 425,
+            "start": "2005-12-08",
+            "end": "2005-12-16",
+            "role": "medlem",
+            "from_actor_name": "Sidsel Homann",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

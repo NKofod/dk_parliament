@@ -1,0 +1,147 @@
+{
+    "14295": [
+        {
+            "id": 71022,
+            "from_actor": 14338,
+            "to_actor": 14295,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tove Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71647,
+            "from_actor": 14387,
+            "to_actor": 14295,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tove Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71916,
+            "from_actor": 14415,
+            "to_actor": 14295,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tove Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72079,
+            "from_actor": 14424,
+            "to_actor": 14295,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Tove Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75085,
+            "from_actor": 14319,
+            "to_actor": 14295,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Tove Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199504,
+            "from_actor": 14295,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199505,
+            "from_actor": 14295,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 199508,
+            "from_actor": 14295,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 199509,
+            "from_actor": 14295,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 199511,
+            "from_actor": 14295,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696806,
+            "from_actor": 14295,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30962430,
+            "from_actor": 14295,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451047,
+            "from_actor": 14295,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Tove Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

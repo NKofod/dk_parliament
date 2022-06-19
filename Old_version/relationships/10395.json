@@ -1,0 +1,213 @@
+{
+    "10395": [
+        {
+            "id": 70983,
+            "from_actor": 14338,
+            "to_actor": 10395,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71609,
+            "from_actor": 14387,
+            "to_actor": 10395,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71878,
+            "from_actor": 14415,
+            "to_actor": 10395,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72070,
+            "from_actor": 14424,
+            "to_actor": 10395,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72506,
+            "from_actor": 14431,
+            "to_actor": 10395,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72728,
+            "from_actor": 14457,
+            "to_actor": 10395,
+            "start": "1981-03-11",
+            "end": "1981-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75076,
+            "from_actor": 14319,
+            "to_actor": 10395,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Jørgen Frederiksen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149986,
+            "from_actor": 10395,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149987,
+            "from_actor": 10395,
+            "to_actor": 14424,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149988,
+            "from_actor": 10395,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149990,
+            "from_actor": 10395,
+            "to_actor": 14471,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149991,
+            "from_actor": 10395,
+            "to_actor": 14449,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21149992,
+            "from_actor": 10395,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21149993,
+            "from_actor": 10395,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21149995,
+            "from_actor": 10395,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21149996,
+            "from_actor": 10395,
+            "to_actor": 14457,
+            "start": "1981-03-11",
+            "end": "1981-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21149997,
+            "from_actor": 10395,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30962421,
+            "from_actor": 10395,
+            "to_actor": 14319,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451008,
+            "from_actor": 10395,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Frederiksen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

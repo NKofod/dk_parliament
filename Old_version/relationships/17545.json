@@ -1,0 +1,92 @@
+{
+    "17545": [
+        {
+            "id": 6916700,
+            "from_actor": 17545,
+            "to_actor": 16861,
+            "start": "2017-09-01",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 8075011,
+            "from_actor": 17545,
+            "to_actor": 17683,
+            "start": "2017-10-04",
+            "end": "1953-09-22",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Fiskeriudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11765855,
+            "from_actor": 17545,
+            "to_actor": 17658,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14419108,
+            "from_actor": 17545,
+            "to_actor": 18348,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957380,
+            "from_actor": 17545,
+            "to_actor": 18769,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530309,
+            "from_actor": 17545,
+            "to_actor": 18932,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154043,
+            "from_actor": 17545,
+            "to_actor": 19438,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857505,
+            "from_actor": 17545,
+            "to_actor": 19913,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Camilla Brask Lentz",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

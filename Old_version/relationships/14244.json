@@ -1,0 +1,169 @@
+{
+    "14244": [
+        {
+            "id": 70630,
+            "from_actor": 14092,
+            "to_actor": 14244,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102412,
+            "from_actor": 15686,
+            "to_actor": 14244,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102659,
+            "from_actor": 15660,
+            "to_actor": 14244,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102857,
+            "from_actor": 15699,
+            "to_actor": 14244,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103636,
+            "from_actor": 15721,
+            "to_actor": 14244,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121197,
+            "from_actor": 14082,
+            "to_actor": 14244,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128216,
+            "from_actor": 15722,
+            "to_actor": 14244,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128287,
+            "from_actor": 14092,
+            "to_actor": 14244,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Svend Tønnesen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69918,
+            "from_actor": 14244,
+            "to_actor": 14092,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121550,
+            "from_actor": 14244,
+            "to_actor": 15700,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121551,
+            "from_actor": 14244,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235334,
+            "from_actor": 14244,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235548,
+            "from_actor": 14244,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600018,
+            "from_actor": 14244,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600083,
+            "from_actor": 14244,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Svend Tønnesen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "18386": [
+        {
+            "id": 14213220,
+            "from_actor": 18386,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Stine Sofie Mathisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957007,
+            "from_actor": 18386,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Stine Sofie Mathisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23529726,
+            "from_actor": 18386,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Stine Sofie Mathisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31694009,
+            "from_actor": 18386,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Stine Sofie Mathisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599796,
+            "from_actor": 18386,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Stine Sofie Mathisen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

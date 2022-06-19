@@ -1,0 +1,37 @@
+{
+    "14351": [
+        {
+            "id": 70825,
+            "from_actor": 14338,
+            "to_actor": 14351,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Paulus Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5177059,
+            "from_actor": 14351,
+            "to_actor": 14357,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Paulus Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451100,
+            "from_actor": 14351,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Paulus Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

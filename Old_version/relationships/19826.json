@@ -1,0 +1,59 @@
+{
+    "19826": [
+        {
+            "id": 29255488,
+            "from_actor": 19826,
+            "to_actor": 19430,
+            "start": "2021-08-23",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255490,
+            "from_actor": 19826,
+            "to_actor": 19427,
+            "start": "2021-08-23",
+            "end": "2021-10-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29580256,
+            "from_actor": 19826,
+            "to_actor": 19936,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 31694001,
+            "from_actor": 19826,
+            "to_actor": 19337,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599793,
+            "from_actor": 19826,
+            "to_actor": 19829,
+            "start": "2021-11-25",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Dennis Barndorph Sichlau",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "14410": [
+        {
+            "id": 71731,
+            "from_actor": 14387,
+            "to_actor": 14410,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100372,
+            "from_actor": 15609,
+            "to_actor": 14410,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100547,
+            "from_actor": 15630,
+            "to_actor": 14410,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100730,
+            "from_actor": 15628,
+            "to_actor": 14410,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101099,
+            "from_actor": 15639,
+            "to_actor": 14410,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101158,
+            "from_actor": 15641,
+            "to_actor": 14410,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101540,
+            "from_actor": 15651,
+            "to_actor": 14410,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101717,
+            "from_actor": 15649,
+            "to_actor": 14410,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gunnar Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 476230,
+            "from_actor": 14410,
+            "to_actor": 14401,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476231,
+            "from_actor": 14410,
+            "to_actor": 15641,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476232,
+            "from_actor": 14410,
+            "to_actor": 15651,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476233,
+            "from_actor": 14410,
+            "to_actor": 15620,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 476239,
+            "from_actor": 14410,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4678157,
+            "from_actor": 14410,
+            "to_actor": 15630,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422299,
+            "from_actor": 14410,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422493,
+            "from_actor": 14410,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422688,
+            "from_actor": 14410,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29337172,
+            "from_actor": 14410,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Gunnar Jensen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        }
+    ]
+}

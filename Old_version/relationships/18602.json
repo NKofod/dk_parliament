@@ -1,0 +1,37 @@
+{
+    "18602": [
+        {
+            "id": 31990061,
+            "from_actor": 18602,
+            "to_actor": 20131,
+            "start": "2022-06-01",
+            "end": "2028-05-31",
+            "role": "medlem",
+            "from_actor_name": "Vagn Kjær-Hansen (udpeget af SF)",
+            "to_actor_name": "Landsskatteretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 32372304,
+            "from_actor": 18602,
+            "to_actor": 20158,
+            "start": "2022-10-01",
+            "end": "2026-09-30",
+            "role": "stedfortræder",
+            "from_actor_name": "Vagn Kjær-Hansen (udpeget af SF)",
+            "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 32722680,
+            "from_actor": 18602,
+            "to_actor": 16742,
+            "start": "2019-02-19",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Vagn Kjær-Hansen (udpeget af SF)",
+            "to_actor_name": "Landsskatteretten",
+            "type": "Kommission"
+        }
+    ]
+}

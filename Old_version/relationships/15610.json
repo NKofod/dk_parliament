@@ -1,0 +1,257 @@
+{
+    "15610": [
+        {
+            "id": 100326,
+            "from_actor": 15609,
+            "to_actor": 15610,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100557,
+            "from_actor": 15630,
+            "to_actor": 15610,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100684,
+            "from_actor": 15628,
+            "to_actor": 15610,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101055,
+            "from_actor": 15639,
+            "to_actor": 15610,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101169,
+            "from_actor": 15641,
+            "to_actor": 15610,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101551,
+            "from_actor": 15651,
+            "to_actor": 15610,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101673,
+            "from_actor": 15649,
+            "to_actor": 15610,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102297,
+            "from_actor": 15677,
+            "to_actor": 15610,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102567,
+            "from_actor": 15660,
+            "to_actor": 15610,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102765,
+            "from_actor": 15699,
+            "to_actor": 15610,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102942,
+            "from_actor": 15705,
+            "to_actor": 15610,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Poul Overgaard Nielsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120391,
+            "from_actor": 15610,
+            "to_actor": 15705,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120393,
+            "from_actor": 15610,
+            "to_actor": 15620,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120395,
+            "from_actor": 15610,
+            "to_actor": 15651,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120396,
+            "from_actor": 15610,
+            "to_actor": 15641,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120398,
+            "from_actor": 15610,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 588474,
+            "from_actor": 15610,
+            "to_actor": 15677,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4678167,
+            "from_actor": 15610,
+            "to_actor": 15630,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422255,
+            "from_actor": 15610,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422449,
+            "from_actor": 15610,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422644,
+            "from_actor": 15610,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29337126,
+            "from_actor": 15610,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32599926,
+            "from_actor": 15610,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Overgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

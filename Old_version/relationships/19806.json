@@ -1,0 +1,323 @@
+{
+    "19806": [
+        {
+            "id": 30198723,
+            "from_actor": 19806,
+            "to_actor": 19353,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30198729,
+            "from_actor": 19806,
+            "to_actor": 19398,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30198730,
+            "from_actor": 19806,
+            "to_actor": 19415,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30198733,
+            "from_actor": 19806,
+            "to_actor": 19414,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30198741,
+            "from_actor": 19806,
+            "to_actor": 19412,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30198743,
+            "from_actor": 19806,
+            "to_actor": 19427,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30198751,
+            "from_actor": 19806,
+            "to_actor": 19399,
+            "start": "2021-09-16",
+            "end": "2022-01-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 30496909,
+            "from_actor": 19806,
+            "to_actor": 19888,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "OSCEs Parlamentariske Forsamling",
+            "type": "Kommission"
+        },
+        {
+            "id": 32044661,
+            "from_actor": 19806,
+            "to_actor": 19905,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071552,
+            "from_actor": 19806,
+            "to_actor": 19352,
+            "start": "2021-09-16",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451133,
+            "from_actor": 19806,
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-01-01",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475736,
+            "from_actor": 19806,
+            "to_actor": 19900,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475939,
+            "from_actor": 19806,
+            "to_actor": 19889,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475983,
+            "from_actor": 19806,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475991,
+            "from_actor": 19806,
+            "to_actor": 19902,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476347,
+            "from_actor": 19806,
+            "to_actor": 19921,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525280,
+            "from_actor": 19806,
+            "to_actor": 19855,
+            "start": "2021-10-05",
+            "end": "2022-01-01",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525330,
+            "from_actor": 19806,
+            "to_actor": 19855,
+            "start": "2022-01-02",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525352,
+            "from_actor": 19806,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-01-01",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32525533,
+            "from_actor": 19806,
+            "to_actor": 19854,
+            "start": "2022-01-02",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599738,
+            "from_actor": 19806,
+            "to_actor": 19829,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599814,
+            "from_actor": 19806,
+            "to_actor": 19891,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599817,
+            "from_actor": 19806,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829276,
+            "from_actor": 19806,
+            "to_actor": 19915,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856894,
+            "from_actor": 19806,
+            "to_actor": 19904,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857261,
+            "from_actor": 19806,
+            "to_actor": 19910,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857511,
+            "from_actor": 19806,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857517,
+            "from_actor": 19806,
+            "to_actor": 19917,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911483,
+            "from_actor": 19806,
+            "to_actor": 19895,
+            "start": "2022-01-01",
+            "end": "2022-01-19",
+            "role": "medlem",
+            "from_actor_name": "Alexander Grandt",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

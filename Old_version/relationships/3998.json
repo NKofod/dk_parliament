@@ -1,0 +1,158 @@
+{
+    "3998": [
+        {
+            "id": 23371,
+            "from_actor": 425,
+            "to_actor": 3998,
+            "start": "2006-01-10",
+            "end": "2006-06-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Thomas Krog",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23701,
+            "from_actor": 1122,
+            "to_actor": 3998,
+            "start": "2006-01-10",
+            "end": "2006-06-09",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Thomas Krog",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24393,
+            "from_actor": 1062,
+            "to_actor": 3998,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "medlem",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Thomas Krog",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24693,
+            "from_actor": 610,
+            "to_actor": 3998,
+            "start": "2006-02-24",
+            "end": "2006-06-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "to_actor_name": "Thomas Krog",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24777,
+            "from_actor": 829,
+            "to_actor": 3998,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Thomas Krog",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24958,
+            "from_actor": 745,
+            "to_actor": 3998,
+            "start": "2006-05-11",
+            "end": "2006-05-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Thomas Krog",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25034,
+            "from_actor": 905,
+            "to_actor": 3998,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Thomas Krog",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772150,
+            "from_actor": 3998,
+            "to_actor": 1122,
+            "start": "2006-01-10",
+            "end": "2006-06-09",
+            "role": "medlem",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772151,
+            "from_actor": 3998,
+            "to_actor": 1062,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "medlem",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772152,
+            "from_actor": 3998,
+            "to_actor": 610,
+            "start": "2006-02-24",
+            "end": "2006-06-19",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Det Politisk-Økonomiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772153,
+            "from_actor": 3998,
+            "to_actor": 829,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772154,
+            "from_actor": 3998,
+            "to_actor": 905,
+            "start": "2006-01-11",
+            "end": "2006-06-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772155,
+            "from_actor": 3998,
+            "to_actor": 745,
+            "start": "2006-05-11",
+            "end": "2006-05-11",
+            "role": "stedfortræder",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29499806,
+            "from_actor": 3998,
+            "to_actor": 425,
+            "start": "2006-01-10",
+            "end": "2006-06-09",
+            "role": "medlem",
+            "from_actor_name": "Thomas Krog",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

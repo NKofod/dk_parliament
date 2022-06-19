@@ -1,0 +1,158 @@
+{
+    "20051": [
+        {
+            "id": 32044660,
+            "from_actor": 20051,
+            "to_actor": 19905,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475735,
+            "from_actor": 20051,
+            "to_actor": 19900,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475990,
+            "from_actor": 20051,
+            "to_actor": 19902,
+            "start": "2022-01-20",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476346,
+            "from_actor": 20051,
+            "to_actor": 19921,
+            "start": "2022-01-20",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476351,
+            "from_actor": 20051,
+            "to_actor": 19921,
+            "start": "2022-02-24",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525331,
+            "from_actor": 20051,
+            "to_actor": 19855,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525534,
+            "from_actor": 20051,
+            "to_actor": 19854,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599737,
+            "from_actor": 20051,
+            "to_actor": 19829,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599812,
+            "from_actor": 20051,
+            "to_actor": 19891,
+            "start": "2022-01-20",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829275,
+            "from_actor": 20051,
+            "to_actor": 19915,
+            "start": "2022-01-20",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829442,
+            "from_actor": 20051,
+            "to_actor": 19896,
+            "start": "2022-02-08",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857260,
+            "from_actor": 20051,
+            "to_actor": 19910,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857516,
+            "from_actor": 20051,
+            "to_actor": 19917,
+            "start": "2022-01-20",
+            "end": "2022-01-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911482,
+            "from_actor": 20051,
+            "to_actor": 19895,
+            "start": "2022-01-20",
+            "end": "2022-04-24",
+            "role": "medlem",
+            "from_actor_name": "Theis Kylling Hommeltoft",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

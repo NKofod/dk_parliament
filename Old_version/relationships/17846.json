@@ -1,0 +1,48 @@
+{
+    "17846": [
+        {
+            "id": 28183881,
+            "from_actor": 17846,
+            "to_actor": 19371,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184060,
+            "from_actor": 17846,
+            "to_actor": 19689,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829817,
+            "from_actor": 17846,
+            "to_actor": 19877,
+            "start": "2021-12-14",
+            "end": "2022-03-24",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857255,
+            "from_actor": 17846,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Helle Carpentier",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        }
+    ]
+}

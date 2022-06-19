@@ -1,0 +1,48 @@
+{
+    "19547": [
+        {
+            "id": 28184344,
+            "from_actor": 19547,
+            "to_actor": 19418,
+            "start": "2021-02-01",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karen Schack Andreassen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 28612706,
+            "from_actor": 19547,
+            "to_actor": 19349,
+            "start": "2021-02-24",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Karen Schack Andreassen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 29580254,
+            "from_actor": 19547,
+            "to_actor": 19936,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karen Schack Andreassen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 32208325,
+            "from_actor": 19547,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Karen Schack Andreassen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        }
+    ]
+}

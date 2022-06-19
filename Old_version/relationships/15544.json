@@ -1,0 +1,180 @@
+{
+    "15544": [
+        {
+            "id": 98272,
+            "from_actor": 15533,
+            "to_actor": 15544,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98342,
+            "from_actor": 15549,
+            "to_actor": 15544,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98635,
+            "from_actor": 15557,
+            "to_actor": 15544,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98713,
+            "from_actor": 15562,
+            "to_actor": 15544,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99057,
+            "from_actor": 15574,
+            "to_actor": 15544,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99136,
+            "from_actor": 15579,
+            "to_actor": 15544,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99451,
+            "from_actor": 15591,
+            "to_actor": 15544,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99535,
+            "from_actor": 15598,
+            "to_actor": 15544,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Jørgen Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176839,
+            "from_actor": 15544,
+            "to_actor": 15549,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176840,
+            "from_actor": 15544,
+            "to_actor": 15562,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176841,
+            "from_actor": 15544,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176842,
+            "from_actor": 15544,
+            "to_actor": 15598,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529596,
+            "from_actor": 15544,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529774,
+            "from_actor": 15544,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529966,
+            "from_actor": 15544,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255662,
+            "from_actor": 15544,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Jørgen Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

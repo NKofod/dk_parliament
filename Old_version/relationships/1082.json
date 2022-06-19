@@ -1,0 +1,246 @@
+{
+    "1082": [
+        {
+            "id": 51857,
+            "from_actor": 310,
+            "to_actor": 1082,
+            "start": "2012-10-01",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Børne- og Undervisningsudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 55517,
+            "from_actor": 5136,
+            "to_actor": 1082,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56727,
+            "from_actor": 60,
+            "to_actor": 1082,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 91135,
+            "from_actor": 5170,
+            "to_actor": 1082,
+            "start": "2015-05-11",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115296,
+            "from_actor": 15884,
+            "to_actor": 1082,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 115300,
+            "from_actor": 15884,
+            "to_actor": 1082,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127225,
+            "from_actor": 16014,
+            "to_actor": 1082,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Beskæftigelsesudvalget",
+            "to_actor_name": "Katja Holmboe Andersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184843,
+            "from_actor": 1082,
+            "to_actor": 19415,
+            "start": "2021-10-01",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184844,
+            "from_actor": 1082,
+            "to_actor": 5136,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184845,
+            "from_actor": 1082,
+            "to_actor": 60,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184848,
+            "from_actor": 1082,
+            "to_actor": 19406,
+            "start": "2021-10-01",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184850,
+            "from_actor": 1082,
+            "to_actor": 15884,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184851,
+            "from_actor": 1082,
+            "to_actor": 310,
+            "start": "2012-10-01",
+            "end": "2013-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184852,
+            "from_actor": 1082,
+            "to_actor": 5170,
+            "start": "2015-05-11",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184854,
+            "from_actor": 1082,
+            "to_actor": 17648,
+            "start": "2018-06-01",
+            "end": "2018-10-02",
+            "role": "delegationsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Den Parlamentariske Fors. for EU-Middelhavsområdet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28184855,
+            "from_actor": 1082,
+            "to_actor": 18361,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 28184856,
+            "from_actor": 1082,
+            "to_actor": 18773,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 28184857,
+            "from_actor": 1082,
+            "to_actor": 18925,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Den Parlamentariske Forsamling for Middelhavsunionen",
+            "type": "Kommission"
+        },
+        {
+            "id": 28211436,
+            "from_actor": 1082,
+            "to_actor": 19620,
+            "start": "2021-03-02",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28747275,
+            "from_actor": 1082,
+            "to_actor": 19121,
+            "start": "2020-03-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "2030-netværket",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 32475979,
+            "from_actor": 1082,
+            "to_actor": 19889,
+            "start": "2022-02-08",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829501,
+            "from_actor": 1082,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Katja Holmboe Andersen",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

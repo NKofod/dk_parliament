@@ -1,0 +1,59 @@
+{
+    "14354": [
+        {
+            "id": 70815,
+            "from_actor": 14338,
+            "to_actor": 14354,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Drejer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71711,
+            "from_actor": 14387,
+            "to_actor": 14354,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Drejer",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158716,
+            "from_actor": 14354,
+            "to_actor": 14392,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Drejer",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158718,
+            "from_actor": 14354,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Drejer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451090,
+            "from_actor": 14354,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Drejer",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

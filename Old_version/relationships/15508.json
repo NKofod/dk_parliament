@@ -1,0 +1,114 @@
+{
+    "15508": [
+        {
+            "id": 97066,
+            "from_actor": 15515,
+            "to_actor": 15508,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Poul Antonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97292,
+            "from_actor": 15523,
+            "to_actor": 15508,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Antonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97355,
+            "from_actor": 15526,
+            "to_actor": 15508,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Liberalt centrum",
+            "to_actor_name": "Poul Antonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102187,
+            "from_actor": 15498,
+            "to_actor": 15508,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Antonsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128070,
+            "from_actor": 15682,
+            "to_actor": 15508,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Antonsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 122953,
+            "from_actor": 15508,
+            "to_actor": 15515,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Antonsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 122954,
+            "from_actor": 15508,
+            "to_actor": 15526,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Poul Antonsen",
+            "to_actor_name": "Liberalt centrum",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529223,
+            "from_actor": 15508,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Antonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529410,
+            "from_actor": 15508,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Poul Antonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600066,
+            "from_actor": 15508,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Antonsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

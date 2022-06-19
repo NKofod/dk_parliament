@@ -1,0 +1,48 @@
+{
+    "9758": [
+        {
+            "id": 70798,
+            "from_actor": 14363,
+            "to_actor": 9758,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Anton Kanstrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70844,
+            "from_actor": 14338,
+            "to_actor": 9758,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anton Kanstrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696852,
+            "from_actor": 9758,
+            "to_actor": 14363,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anton Kanstrup",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451118,
+            "from_actor": 9758,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Anton Kanstrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

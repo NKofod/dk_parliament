@@ -1,0 +1,92 @@
+{
+    "18245": [
+        {
+            "id": 12718541,
+            "from_actor": 18245,
+            "to_actor": 17649,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 14419510,
+            "from_actor": 18245,
+            "to_actor": 18362,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 15956871,
+            "from_actor": 18245,
+            "to_actor": 18787,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 15957419,
+            "from_actor": 18245,
+            "to_actor": 18774,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21707827,
+            "from_actor": 18245,
+            "to_actor": 18926,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 21708676,
+            "from_actor": 18245,
+            "to_actor": 18929,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153042,
+            "from_actor": 18245,
+            "to_actor": 19430,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28345988,
+            "from_actor": 18245,
+            "to_actor": 19427,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "delegationssekretær",
+            "from_actor_name": "Joan Ólavsdóttir",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        }
+    ]
+}

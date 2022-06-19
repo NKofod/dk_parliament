@@ -1,0 +1,48 @@
+{
+    "19999": [
+        {
+            "id": 32673580,
+            "from_actor": 19999,
+            "to_actor": 20168,
+            "start": "2022-10-05",
+            "end": "2022-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Bjerregaard",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722723,
+            "from_actor": 19999,
+            "to_actor": 20169,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Bjerregaard",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722755,
+            "from_actor": 19999,
+            "to_actor": 20170,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Bjerregaard",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32829555,
+            "from_actor": 19999,
+            "to_actor": 19909,
+            "start": "2022-01-10",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Mikkel Bjerregaard",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

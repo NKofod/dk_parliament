@@ -1,0 +1,92 @@
+{
+    "10114": [
+        {
+            "id": 74724,
+            "from_actor": 14546,
+            "to_actor": 10114,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Damgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76881,
+            "from_actor": 14617,
+            "to_actor": 10114,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Damgaard Nielsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 13174368,
+            "from_actor": 10114,
+            "to_actor": 14621,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 13174371,
+            "from_actor": 10114,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 13174372,
+            "from_actor": 10114,
+            "to_actor": 14546,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32450856,
+            "from_actor": 10114,
+            "to_actor": 14535,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450871,
+            "from_actor": 10114,
+            "to_actor": 14553,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32575011,
+            "from_actor": 10114,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Hans Damgaard Nielsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

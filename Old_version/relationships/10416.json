@@ -1,0 +1,191 @@
+{
+    "10416": [
+        {
+            "id": 100137,
+            "from_actor": 15619,
+            "to_actor": 10416,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Toft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100364,
+            "from_actor": 15609,
+            "to_actor": 10416,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Hans Toft",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100520,
+            "from_actor": 15629,
+            "to_actor": 10416,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Toft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100722,
+            "from_actor": 15628,
+            "to_actor": 10416,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Toft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101091,
+            "from_actor": 15639,
+            "to_actor": 10416,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Toft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101130,
+            "from_actor": 15640,
+            "to_actor": 10416,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Toft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101513,
+            "from_actor": 15650,
+            "to_actor": 10416,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Toft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101709,
+            "from_actor": 15649,
+            "to_actor": 10416,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Toft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102275,
+            "from_actor": 15676,
+            "to_actor": 10416,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Hans Toft",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102587,
+            "from_actor": 15660,
+            "to_actor": 10416,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Toft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102785,
+            "from_actor": 15699,
+            "to_actor": 10416,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Hans Toft",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422291,
+            "from_actor": 10416,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422485,
+            "from_actor": 10416,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422680,
+            "from_actor": 10416,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21300265,
+            "from_actor": 10416,
+            "to_actor": 15640,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29337164,
+            "from_actor": 10416,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32599946,
+            "from_actor": 10416,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Hans Toft",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

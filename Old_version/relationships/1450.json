@@ -1,0 +1,279 @@
+{
+    "1450": [
+        {
+            "id": 72283,
+            "from_actor": 14431,
+            "to_actor": 1450,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72468,
+            "from_actor": 14451,
+            "to_actor": 1450,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72698,
+            "from_actor": 14457,
+            "to_actor": 1450,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72922,
+            "from_actor": 14474,
+            "to_actor": 1450,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 73121,
+            "from_actor": 14478,
+            "to_actor": 1450,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73329,
+            "from_actor": 14492,
+            "to_actor": 1450,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74093,
+            "from_actor": 14519,
+            "to_actor": 1450,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74239,
+            "from_actor": 14523,
+            "to_actor": 1450,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74504,
+            "from_actor": 14540,
+            "to_actor": 1450,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - valgt i Grønland",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74651,
+            "from_actor": 14546,
+            "to_actor": 1450,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75427,
+            "from_actor": 14564,
+            "to_actor": 1450,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75651,
+            "from_actor": 14576,
+            "to_actor": 1450,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75797,
+            "from_actor": 14583,
+            "to_actor": 1450,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76024,
+            "from_actor": 14590,
+            "to_actor": 1450,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76210,
+            "from_actor": 14596,
+            "to_actor": 1450,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76441,
+            "from_actor": 14603,
+            "to_actor": 1450,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76597,
+            "from_actor": 14617,
+            "to_actor": 1450,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Preben Lange",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76822,
+            "from_actor": 14623,
+            "to_actor": 1450,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Preben Lange",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131536,
+            "from_actor": 1450,
+            "to_actor": 14576,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 131651,
+            "from_actor": 1450,
+            "to_actor": 14590,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 132054,
+            "from_actor": 1450,
+            "to_actor": 14603,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714583,
+            "from_actor": 1450,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714893,
+            "from_actor": 1450,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379871,
+            "from_actor": 1450,
+            "to_actor": 14623,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32574908,
+            "from_actor": 1450,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Preben Lange",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

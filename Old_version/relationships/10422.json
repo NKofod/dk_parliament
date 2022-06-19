@@ -1,0 +1,147 @@
+{
+    "10422": [
+        {
+            "id": 70989,
+            "from_actor": 14338,
+            "to_actor": 10422,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71615,
+            "from_actor": 14387,
+            "to_actor": 10422,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71884,
+            "from_actor": 14415,
+            "to_actor": 10422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72212,
+            "from_actor": 14431,
+            "to_actor": 10422,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72635,
+            "from_actor": 14457,
+            "to_actor": 10422,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73059,
+            "from_actor": 14478,
+            "to_actor": 10422,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt Eilif Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2389213,
+            "from_actor": 10422,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2389215,
+            "from_actor": 10422,
+            "to_actor": 14431,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2389216,
+            "from_actor": 10422,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2389217,
+            "from_actor": 10422,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 2389219,
+            "from_actor": 10422,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714521,
+            "from_actor": 10422,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451014,
+            "from_actor": 10422,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Kurt Eilif Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "632": [
+        {
+            "id": 927,
+            "from_actor": 170,
+            "to_actor": 632,
+            "start": "2014-07-21",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 64377,
+            "from_actor": 5170,
+            "to_actor": 632,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 79947,
+            "from_actor": 5163,
+            "to_actor": 632,
+            "start": "2015-03-29",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kommunaludvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 114118,
+            "from_actor": 5161,
+            "to_actor": 632,
+            "start": "2015-04-01",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 116021,
+            "from_actor": 15899,
+            "to_actor": 632,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127317,
+            "from_actor": 16017,
+            "to_actor": 632,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Nadia Elmhøj Pedersen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255492,
+            "from_actor": 632,
+            "to_actor": 17663,
+            "start": "2018-06-11",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255493,
+            "from_actor": 632,
+            "to_actor": 18308,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255494,
+            "from_actor": 632,
+            "to_actor": 18766,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255495,
+            "from_actor": 632,
+            "to_actor": 15899,
+            "start": "2015-07-09",
+            "end": "2015-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255496,
+            "from_actor": 632,
+            "to_actor": 5161,
+            "start": "2015-04-01",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255497,
+            "from_actor": 632,
+            "to_actor": 16914,
+            "start": "2017-04-01",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255498,
+            "from_actor": 632,
+            "to_actor": 5163,
+            "start": "2015-03-29",
+            "end": "2015-06-18",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Kommunaludvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255500,
+            "from_actor": 632,
+            "to_actor": 170,
+            "start": "2014-07-21",
+            "end": "2014-10-07",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Klima-, Energi- og Bygningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255501,
+            "from_actor": 632,
+            "to_actor": 18739,
+            "start": "2019-06-21",
+            "end": "2019-10-01",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255502,
+            "from_actor": 632,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255504,
+            "from_actor": 632,
+            "to_actor": 16929,
+            "start": "2017-05-02",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255505,
+            "from_actor": 632,
+            "to_actor": 18919,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255506,
+            "from_actor": 632,
+            "to_actor": 17637,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29255507,
+            "from_actor": 632,
+            "to_actor": 16067,
+            "start": "2015-12-01",
+            "end": "2016-10-04",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 29255508,
+            "from_actor": 632,
+            "to_actor": 18926,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "delegationsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31694004,
+            "from_actor": 632,
+            "to_actor": 19337,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599791,
+            "from_actor": 632,
+            "to_actor": 19829,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Nadia Elmhøj Pedersen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

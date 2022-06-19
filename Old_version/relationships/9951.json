@@ -1,0 +1,125 @@
+{
+    "9951": [
+        {
+            "id": 76310,
+            "from_actor": 14596,
+            "to_actor": 9951,
+            "start": "1985-10-20",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alice Holst Brask",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76363,
+            "from_actor": 14599,
+            "to_actor": 9951,
+            "start": "1985-10-20",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Alice Holst Brask",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76695,
+            "from_actor": 14617,
+            "to_actor": 9951,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alice Holst Brask",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76745,
+            "from_actor": 14619,
+            "to_actor": 9951,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Alice Holst Brask",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 78755,
+            "from_actor": 14676,
+            "to_actor": 9951,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alice Holst Brask",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21266801,
+            "from_actor": 9951,
+            "to_actor": 14680,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21266802,
+            "from_actor": 9951,
+            "to_actor": 14599,
+            "start": "1985-10-20",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21266803,
+            "from_actor": 9951,
+            "to_actor": 14619,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21266804,
+            "from_actor": 9951,
+            "to_actor": 14596,
+            "start": "1985-10-20",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21266806,
+            "from_actor": 9951,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32575006,
+            "from_actor": 9951,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Alice Holst Brask",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

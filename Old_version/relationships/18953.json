@@ -1,0 +1,59 @@
+{
+    "18953": [
+        {
+            "id": 32722689,
+            "from_actor": 18953,
+            "to_actor": 18894,
+            "start": "2019-10-22",
+            "end": "2019-11-22",
+            "role": "medlem",
+            "from_actor_name": "Mira Issa Bloch",
+            "to_actor_name": "Alternativet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32722690,
+            "from_actor": 18953,
+            "to_actor": 18860,
+            "start": "2019-10-22",
+            "end": "2019-11-24",
+            "role": "medlem",
+            "from_actor_name": "Mira Issa Bloch",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32722691,
+            "from_actor": 18953,
+            "to_actor": 18856,
+            "start": "2019-10-22",
+            "end": "2019-11-21",
+            "role": "medlem",
+            "from_actor_name": "Mira Issa Bloch",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32722692,
+            "from_actor": 18953,
+            "to_actor": 18861,
+            "start": "2019-10-24",
+            "end": "2019-11-25",
+            "role": "medlem",
+            "from_actor_name": "Mira Issa Bloch",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32722693,
+            "from_actor": 18953,
+            "to_actor": 18877,
+            "start": "2019-10-23",
+            "end": "2019-11-24",
+            "role": "medlem",
+            "from_actor_name": "Mira Issa Bloch",
+            "to_actor_name": "Social- og Indenrigsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

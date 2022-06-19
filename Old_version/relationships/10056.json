@@ -1,0 +1,26 @@
+{
+    "10056": [
+        {
+            "id": 28773802,
+            "from_actor": 10056,
+            "to_actor": 14921,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "medlem",
+            "from_actor_name": "Christian Brix Møller",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28773803,
+            "from_actor": 10056,
+            "to_actor": 14917,
+            "start": "2001-11-20",
+            "end": "2002-10-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Christian Brix Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

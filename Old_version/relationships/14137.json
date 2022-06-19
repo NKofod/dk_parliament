@@ -1,0 +1,323 @@
+{
+    "14137": [
+        {
+            "id": 122984,
+            "from_actor": 15818,
+            "to_actor": 14137,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "ministeren for nordiske anliggender samt europæiske markedsanliggender",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 122985,
+            "from_actor": 15833,
+            "to_actor": 14137,
+            "start": "1973-12-19",
+            "end": "1975-02-13",
+            "role": "Minister",
+            "from_actor_name": "økonomi- og handelsministeren",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 122986,
+            "from_actor": 15834,
+            "to_actor": 14137,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "økonomiministeren",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 126663,
+            "from_actor": 15635,
+            "to_actor": 14137,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 126701,
+            "from_actor": 15646,
+            "to_actor": 14137,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 127087,
+            "from_actor": 15656,
+            "to_actor": 14137,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128068,
+            "from_actor": 15682,
+            "to_actor": 14137,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128280,
+            "from_actor": 15732,
+            "to_actor": 14137,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Poul Nyboe Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045446,
+            "from_actor": 14137,
+            "to_actor": 15732,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045447,
+            "from_actor": 14137,
+            "to_actor": 15682,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045448,
+            "from_actor": 14137,
+            "to_actor": 15712,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045449,
+            "from_actor": 14137,
+            "to_actor": 15646,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045450,
+            "from_actor": 14137,
+            "to_actor": 15656,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045451,
+            "from_actor": 14137,
+            "to_actor": 15635,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045452,
+            "from_actor": 14137,
+            "to_actor": 15626,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24045454,
+            "from_actor": 14137,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045455,
+            "from_actor": 14137,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045457,
+            "from_actor": 14137,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045458,
+            "from_actor": 14137,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045459,
+            "from_actor": 14137,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045460,
+            "from_actor": 14137,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24045462,
+            "from_actor": 14137,
+            "to_actor": 15818,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "ministeren for nordiske anliggender samt europæiske markedsanliggender",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 24045463,
+            "from_actor": 14137,
+            "to_actor": 15833,
+            "start": "1973-12-19",
+            "end": "1975-02-13",
+            "role": "Minister",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "økonomi- og handelsministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 24045464,
+            "from_actor": 14137,
+            "to_actor": 15834,
+            "start": "1968-02-02",
+            "end": "1971-10-11",
+            "role": "Minister",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "økonomiministeren",
+            "type": "Ministertitel"
+        },
+        {
+            "id": 29337133,
+            "from_actor": 14137,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 30880579,
+            "from_actor": 14137,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880909,
+            "from_actor": 14137,
+            "to_actor": 14084,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30908152,
+            "from_actor": 14137,
+            "to_actor": 14264,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32599930,
+            "from_actor": 14137,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Nyboe Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

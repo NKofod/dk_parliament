@@ -1,0 +1,191 @@
+{
+    "14301": [
+        {
+            "id": 69792,
+            "from_actor": 14369,
+            "to_actor": 14301,
+            "start": "1978-01-24",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erhvervspartiet",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69793,
+            "from_actor": 14370,
+            "to_actor": 14301,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Asger Lindinger",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71029,
+            "from_actor": 14338,
+            "to_actor": 14301,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71144,
+            "from_actor": 14405,
+            "to_actor": 14301,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erhvervspartiet",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71653,
+            "from_actor": 14387,
+            "to_actor": 14301,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71922,
+            "from_actor": 14415,
+            "to_actor": 14301,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71991,
+            "from_actor": 14421,
+            "to_actor": 14301,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Erhvervspartiet",
+            "to_actor_name": "Asger Lindinger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158883,
+            "from_actor": 14301,
+            "to_actor": 14369,
+            "start": "1978-01-24",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Erhvervspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158884,
+            "from_actor": 14301,
+            "to_actor": 14370,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Uden for folketingsgrupperne - Asger Lindinger",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158885,
+            "from_actor": 14301,
+            "to_actor": 14405,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Erhvervspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158886,
+            "from_actor": 14301,
+            "to_actor": 14421,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Erhvervspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158887,
+            "from_actor": 14301,
+            "to_actor": 14324,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158888,
+            "from_actor": 14301,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-01-10",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158889,
+            "from_actor": 14301,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158890,
+            "from_actor": 14301,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158892,
+            "from_actor": 14301,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451054,
+            "from_actor": 14301,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Asger Lindinger",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

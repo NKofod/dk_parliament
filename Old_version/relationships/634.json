@@ -1,0 +1,257 @@
+{
+    "634": [
+        {
+            "id": 15613,
+            "from_actor": 797,
+            "to_actor": 634,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Lone Clausen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 19002,
+            "from_actor": 1086,
+            "to_actor": 634,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Lone Clausen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25021,
+            "from_actor": 905,
+            "to_actor": 634,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Kirkeudvalget",
+            "to_actor_name": "Lone Clausen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25510,
+            "from_actor": 494,
+            "to_actor": 634,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "to_actor_name": "Lone Clausen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 70629,
+            "from_actor": 5156,
+            "to_actor": 634,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "nævnsassistent",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Lone Clausen",
+            "type": "Kommission"
+        },
+        {
+            "id": 95051,
+            "from_actor": 5143,
+            "to_actor": 634,
+            "start": "2014-10-07",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Sundheds- og Forebyggelsesudvalget",
+            "to_actor_name": "Lone Clausen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9650,
+            "from_actor": 634,
+            "to_actor": 797,
+            "start": "2004-10-05",
+            "end": "2005-02-08",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 9651,
+            "from_actor": 634,
+            "to_actor": 1086,
+            "start": "2005-02-08",
+            "end": "2005-10-04",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56805,
+            "from_actor": 634,
+            "to_actor": 5156,
+            "start": "2014-10-07",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 172000,
+            "from_actor": 634,
+            "to_actor": 905,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 3087409,
+            "from_actor": 634,
+            "to_actor": 494,
+            "start": "2005-10-04",
+            "end": "2006-10-03",
+            "role": "udvalgsassistent",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "21-mands-udvalget vedrørende Færøerne",
+            "type": "Udvalg"
+        },
+        {
+            "id": 6118239,
+            "from_actor": 634,
+            "to_actor": 16914,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10606267,
+            "from_actor": 634,
+            "to_actor": 17637,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 11444798,
+            "from_actor": 634,
+            "to_actor": 17602,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 11487529,
+            "from_actor": 634,
+            "to_actor": 17664,
+            "start": "2017-10-03",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14213218,
+            "from_actor": 634,
+            "to_actor": 18356,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 14418777,
+            "from_actor": 634,
+            "to_actor": 18308,
+            "start": "2018-10-02",
+            "end": "2019-06-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530312,
+            "from_actor": 634,
+            "to_actor": 18932,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530371,
+            "from_actor": 634,
+            "to_actor": 18869,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530619,
+            "from_actor": 634,
+            "to_actor": 18868,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23531049,
+            "from_actor": 634,
+            "to_actor": 18853,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32208125,
+            "from_actor": 634,
+            "to_actor": 19907,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857149,
+            "from_actor": 634,
+            "to_actor": 19912,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Lone Clausen",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        }
+    ]
+}

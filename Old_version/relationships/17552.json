@@ -1,0 +1,81 @@
+{
+    "17552": [
+        {
+            "id": 30064132,
+            "from_actor": 17552,
+            "to_actor": 16870,
+            "start": "2016-10-04",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064133,
+            "from_actor": 17552,
+            "to_actor": 18778,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064134,
+            "from_actor": 17552,
+            "to_actor": 17653,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064135,
+            "from_actor": 17552,
+            "to_actor": 18329,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064136,
+            "from_actor": 17552,
+            "to_actor": 17653,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064137,
+            "from_actor": 17552,
+            "to_actor": 18329,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30064138,
+            "from_actor": 17552,
+            "to_actor": 16870,
+            "start": "2017-09-01",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lars Gerstrøm",
+            "to_actor_name": "Transport-, Bygnings- og Boligudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

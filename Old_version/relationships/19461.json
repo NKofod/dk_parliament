@@ -1,0 +1,81 @@
+{
+    "19461": [
+        {
+            "id": 29283191,
+            "from_actor": 19461,
+            "to_actor": 19365,
+            "start": "2020-11-03",
+            "end": "2020-11-10",
+            "role": "medlem",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Sambandsflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29283192,
+            "from_actor": 19461,
+            "to_actor": 19427,
+            "start": "2020-11-03",
+            "end": "2020-11-11",
+            "role": "medlem",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29283193,
+            "from_actor": 19461,
+            "to_actor": 19390,
+            "start": "2020-11-03",
+            "end": "2020-11-11",
+            "role": "medlem",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29283195,
+            "from_actor": 19461,
+            "to_actor": 19349,
+            "start": "2020-11-03",
+            "end": "2020-11-11",
+            "role": "medlem",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 29283196,
+            "from_actor": 19461,
+            "to_actor": 19389,
+            "start": "2020-11-03",
+            "end": "2020-11-11",
+            "role": "formand",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29283197,
+            "from_actor": 19461,
+            "to_actor": 19430,
+            "start": "2020-11-03",
+            "end": "2020-11-11",
+            "role": "næstformand",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071568,
+            "from_actor": 19461,
+            "to_actor": 19352,
+            "start": "2020-11-03",
+            "end": "2020-11-10",
+            "role": "medlem",
+            "from_actor_name": "Magnus Rasmussen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

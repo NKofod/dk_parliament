@@ -1,0 +1,191 @@
+{
+    "242": [
+        {
+            "id": 3457,
+            "from_actor": 21,
+            "to_actor": 242,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Tina Grønlund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5336,
+            "from_actor": 325,
+            "to_actor": 242,
+            "start": "2013-09-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Tina Grønlund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 56626,
+            "from_actor": 5142,
+            "to_actor": 242,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Tina Grønlund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 113791,
+            "from_actor": 15885,
+            "to_actor": 242,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Tina Grønlund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 127255,
+            "from_actor": 16015,
+            "to_actor": 242,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Skatteudvalget",
+            "to_actor_name": "Tina Grønlund",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5230271,
+            "from_actor": 242,
+            "to_actor": 5142,
+            "start": "2014-10-08",
+            "end": "2015-06-18",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5230273,
+            "from_actor": 242,
+            "to_actor": 15885,
+            "start": "2015-07-03",
+            "end": "2015-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5230274,
+            "from_actor": 242,
+            "to_actor": 21,
+            "start": "2013-10-02",
+            "end": "2014-10-07",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5230275,
+            "from_actor": 242,
+            "to_actor": 325,
+            "start": "2013-09-02",
+            "end": "2013-10-01",
+            "role": "udvalgssekretær2",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 5444145,
+            "from_actor": 242,
+            "to_actor": 16015,
+            "start": "2015-10-07",
+            "end": "2016-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 10561972,
+            "from_actor": 242,
+            "to_actor": 16916,
+            "start": "2016-10-05",
+            "end": "2017-10-03",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 17732474,
+            "from_actor": 242,
+            "to_actor": 18315,
+            "start": "2018-10-03",
+            "end": "2019-06-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 18187590,
+            "from_actor": 242,
+            "to_actor": 18779,
+            "start": "2019-07-04",
+            "end": "2019-10-01",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23530447,
+            "from_actor": 242,
+            "to_actor": 18876,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 27317419,
+            "from_actor": 242,
+            "to_actor": 17652,
+            "start": "2017-10-04",
+            "end": "2018-10-02",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182562,
+            "from_actor": 242,
+            "to_actor": 19412,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32451199,
+            "from_actor": 242,
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Tina Grønlund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

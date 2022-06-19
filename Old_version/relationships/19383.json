@@ -1,0 +1,37 @@
+{
+    "19383": [
+        {
+            "id": 23531053,
+            "from_actor": 19383,
+            "to_actor": 18853,
+            "start": "2019-10-01",
+            "end": "2020-10-06",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Marie Hansen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 28612739,
+            "from_actor": 19383,
+            "to_actor": 19349,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Marie Hansen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32208361,
+            "from_actor": 19383,
+            "to_actor": 19845,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Marie Hansen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        }
+    ]
+}

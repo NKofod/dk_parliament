@@ -1,0 +1,59 @@
+{
+    "9795": [
+        {
+            "id": 102437,
+            "from_actor": 15688,
+            "to_actor": 9795,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kurt M. Ipsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102622,
+            "from_actor": 15660,
+            "to_actor": 9795,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt M. Ipsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102820,
+            "from_actor": 15699,
+            "to_actor": 9795,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Kurt M. Ipsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102961,
+            "from_actor": 15706,
+            "to_actor": 9795,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Kurt M. Ipsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32599981,
+            "from_actor": 9795,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Kurt M. Ipsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

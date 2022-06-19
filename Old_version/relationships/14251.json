@@ -1,0 +1,125 @@
+{
+    "14251": [
+        {
+            "id": 103633,
+            "from_actor": 15721,
+            "to_actor": 14251,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Juul Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121183,
+            "from_actor": 14082,
+            "to_actor": 14251,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Peter Juul Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127124,
+            "from_actor": 15678,
+            "to_actor": 14251,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Juul Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128266,
+            "from_actor": 15728,
+            "to_actor": 14251,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Juul Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128361,
+            "from_actor": 14083,
+            "to_actor": 14251,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Peter Juul Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176823,
+            "from_actor": 14251,
+            "to_actor": 15678,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176824,
+            "from_actor": 14251,
+            "to_actor": 14083,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176825,
+            "from_actor": 14251,
+            "to_actor": 15728,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235331,
+            "from_actor": 14251,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235534,
+            "from_actor": 14251,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600065,
+            "from_actor": 14251,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Peter Juul Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

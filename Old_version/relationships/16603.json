@@ -1,0 +1,26 @@
+{
+    "16603": [
+        {
+            "id": 22994968,
+            "from_actor": 16603,
+            "to_actor": 16050,
+            "start": "2016-04-04",
+            "end": "2016-04-24",
+            "role": "medlem",
+            "from_actor_name": "Sarah Glerup",
+            "to_actor_name": "Enhedslisten",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32961065,
+            "from_actor": 16603,
+            "to_actor": 16060,
+            "start": "2016-04-04",
+            "end": "2016-04-24",
+            "role": "medlem",
+            "from_actor_name": "Sarah Glerup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "11912": [
+        {
+            "id": 69091,
+            "from_actor": 14330,
+            "to_actor": 11912,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71014,
+            "from_actor": 14338,
+            "to_actor": 11912,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71640,
+            "from_actor": 14387,
+            "to_actor": 11912,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71909,
+            "from_actor": 14415,
+            "to_actor": 11912,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72125,
+            "from_actor": 14428,
+            "to_actor": 11912,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72231,
+            "from_actor": 14431,
+            "to_actor": 11912,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72496,
+            "from_actor": 14453,
+            "to_actor": 11912,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Venstresocialisterne",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72654,
+            "from_actor": 14457,
+            "to_actor": 11912,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73078,
+            "from_actor": 14478,
+            "to_actor": 11912,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Carl Thio Tyroll",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 129189,
+            "from_actor": 11912,
+            "to_actor": 14404,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130742,
+            "from_actor": 11912,
+            "to_actor": 14476,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130855,
+            "from_actor": 11912,
+            "to_actor": 14494,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4696859,
+            "from_actor": 11912,
+            "to_actor": 14367,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714540,
+            "from_actor": 11912,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451039,
+            "from_actor": 11912,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Carl Thio Tyroll",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

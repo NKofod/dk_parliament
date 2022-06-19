@@ -1,0 +1,26 @@
+{
+    "17219": [
+        {
+            "id": 23735601,
+            "from_actor": 17219,
+            "to_actor": 17185,
+            "start": "2017-02-01",
+            "end": "2021-01-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Jan Woollhead (udpeget af RV)",
+            "to_actor_name": "Planklagenævnet",
+            "type": "Kommission"
+        },
+        {
+            "id": 28585941,
+            "from_actor": 17219,
+            "to_actor": 19527,
+            "start": "2021-02-01",
+            "end": "2025-01-31",
+            "role": "medlem",
+            "from_actor_name": "Jan Woollhead (udpeget af RV)",
+            "to_actor_name": "Planklagenævnet",
+            "type": "Kommission"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "3997": [
+        {
+            "id": 23362,
+            "from_actor": 425,
+            "to_actor": 3997,
+            "start": "2005-12-12",
+            "end": "2005-12-18",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tina Bostrup",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23682,
+            "from_actor": 990,
+            "to_actor": 3997,
+            "start": "2005-12-12",
+            "end": "2005-12-18",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Tina Bostrup",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772273,
+            "from_actor": 3997,
+            "to_actor": 990,
+            "start": "2005-12-12",
+            "end": "2005-12-18",
+            "role": "medlem",
+            "from_actor_name": "Tina Bostrup",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29499811,
+            "from_actor": 3997,
+            "to_actor": 425,
+            "start": "2005-12-12",
+            "end": "2005-12-18",
+            "role": "medlem",
+            "from_actor_name": "Tina Bostrup",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "15499": [
+        {
+            "id": 97011,
+            "from_actor": 15498,
+            "to_actor": 15499,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97062,
+            "from_actor": 15514,
+            "to_actor": 15499,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97271,
+            "from_actor": 15523,
+            "to_actor": 15499,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97351,
+            "from_actor": 15525,
+            "to_actor": 15499,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98213,
+            "from_actor": 15533,
+            "to_actor": 15499,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98333,
+            "from_actor": 15549,
+            "to_actor": 15499,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98588,
+            "from_actor": 15557,
+            "to_actor": 15499,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98704,
+            "from_actor": 15562,
+            "to_actor": 15499,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99010,
+            "from_actor": 15574,
+            "to_actor": 15499,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99127,
+            "from_actor": 15579,
+            "to_actor": 15499,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99405,
+            "from_actor": 15591,
+            "to_actor": 15499,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99526,
+            "from_actor": 15598,
+            "to_actor": 15499,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Rigmor Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120500,
+            "from_actor": 15499,
+            "to_actor": 15514,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120501,
+            "from_actor": 15499,
+            "to_actor": 15525,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120502,
+            "from_actor": 15499,
+            "to_actor": 15549,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120503,
+            "from_actor": 15499,
+            "to_actor": 15562,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120504,
+            "from_actor": 15499,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 120505,
+            "from_actor": 15499,
+            "to_actor": 15598,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529202,
+            "from_actor": 15499,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529389,
+            "from_actor": 15499,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529549,
+            "from_actor": 15499,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529727,
+            "from_actor": 15499,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529920,
+            "from_actor": 15499,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255616,
+            "from_actor": 15499,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Rigmor Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

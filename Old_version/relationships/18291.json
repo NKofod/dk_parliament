@@ -1,0 +1,92 @@
+{
+    "18291": [
+        {
+            "id": 23045867,
+            "from_actor": 18291,
+            "to_actor": 18330,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23045868,
+            "from_actor": 18291,
+            "to_actor": 18336,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045869,
+            "from_actor": 18291,
+            "to_actor": 18349,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Sundheds- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045871,
+            "from_actor": 18291,
+            "to_actor": 18304,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045872,
+            "from_actor": 18291,
+            "to_actor": 18348,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045873,
+            "from_actor": 18291,
+            "to_actor": 18315,
+            "start": "2018-12-05",
+            "end": "2018-12-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23045874,
+            "from_actor": 18291,
+            "to_actor": 18302,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 31638996,
+            "from_actor": 18291,
+            "to_actor": 18303,
+            "start": "2018-10-08",
+            "end": "2019-02-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

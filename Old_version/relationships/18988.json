@@ -1,0 +1,37 @@
+{
+    "18988": [
+        {
+            "id": 23530310,
+            "from_actor": 18988,
+            "to_actor": 18932,
+            "start": "2019-10-02",
+            "end": "2020-10-06",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lea Stoustrup Brandt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154044,
+            "from_actor": 18988,
+            "to_actor": 19438,
+            "start": "2020-10-07",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lea Stoustrup Brandt",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829350,
+            "from_actor": 18988,
+            "to_actor": 19915,
+            "start": "2021-10-15",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Lea Stoustrup Brandt",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

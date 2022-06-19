@@ -1,0 +1,70 @@
+{
+    "15589": [
+        {
+            "id": 99287,
+            "from_actor": 15574,
+            "to_actor": 15589,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "F. A. Elmerkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99681,
+            "from_actor": 15591,
+            "to_actor": 15589,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "F. A. Elmerkjær",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126512,
+            "from_actor": 15578,
+            "to_actor": 15589,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "F. A. Elmerkjær",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 10516841,
+            "from_actor": 15589,
+            "to_actor": 15578,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "F. A. Elmerkjær",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21530001,
+            "from_actor": 15589,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "F. A. Elmerkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255697,
+            "from_actor": 15589,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "F. A. Elmerkjær",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

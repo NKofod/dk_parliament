@@ -1,0 +1,26 @@
+{
+    "20044": [
+        {
+            "id": 32829784,
+            "from_actor": 20044,
+            "to_actor": 19899,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nikolaj Nordby Thøgersen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857147,
+            "from_actor": 20044,
+            "to_actor": 19912,
+            "start": "2022-02-01",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Nikolaj Nordby Thøgersen",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "19792": [
+        {
+            "id": 28184063,
+            "from_actor": 19792,
+            "to_actor": 19689,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Annette Bruun",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32263451,
+            "from_actor": 19792,
+            "to_actor": 19880,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Annette Bruun",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

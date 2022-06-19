@@ -1,0 +1,301 @@
+{
+    "10377": [
+        {
+            "id": 71010,
+            "from_actor": 14338,
+            "to_actor": 10377,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71636,
+            "from_actor": 14387,
+            "to_actor": 10377,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71905,
+            "from_actor": 14415,
+            "to_actor": 10377,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72007,
+            "from_actor": 14422,
+            "to_actor": 10377,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72227,
+            "from_actor": 14431,
+            "to_actor": 10377,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72650,
+            "from_actor": 14457,
+            "to_actor": 10377,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73074,
+            "from_actor": 14478,
+            "to_actor": 10377,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73228,
+            "from_actor": 14488,
+            "to_actor": 10377,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 73809,
+            "from_actor": 14495,
+            "to_actor": 10377,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74207,
+            "from_actor": 14523,
+            "to_actor": 10377,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74537,
+            "from_actor": 14543,
+            "to_actor": 10377,
+            "start": "1983-09-01",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Anker Tang Sørensen",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 74619,
+            "from_actor": 14546,
+            "to_actor": 10377,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 74889,
+            "from_actor": 14558,
+            "to_actor": 10377,
+            "start": "1983-10-04",
+            "end": "1984-01-10",
+            "role": "medlem",
+            "from_actor_name": "Uden for folketingsgrupperne - Anker Tang Sørensen",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103641,
+            "from_actor": 15721,
+            "to_actor": 10377,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Anker Tang Sørensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128765,
+            "from_actor": 10377,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128866,
+            "from_actor": 10377,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129093,
+            "from_actor": 10377,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130507,
+            "from_actor": 10377,
+            "to_actor": 14447,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130647,
+            "from_actor": 10377,
+            "to_actor": 14469,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130774,
+            "from_actor": 10377,
+            "to_actor": 14488,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136337,
+            "from_actor": 10377,
+            "to_actor": 14543,
+            "start": "1983-09-01",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Uden for folketingsgrupperne - Anker Tang Sørensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714536,
+            "from_actor": 10377,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714861,
+            "from_actor": 10377,
+            "to_actor": 14523,
+            "start": "1982-10-05",
+            "end": "1983-10-04",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235339,
+            "from_actor": 10377,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32450853,
+            "from_actor": 10377,
+            "to_actor": 14535,
+            "start": "1982-10-05",
+            "end": "1983-08-31",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450880,
+            "from_actor": 10377,
+            "to_actor": 14515,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451035,
+            "from_actor": 10377,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Anker Tang Sørensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

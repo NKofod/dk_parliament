@@ -1,0 +1,48 @@
+{
+    "9674": [
+        {
+            "id": 102699,
+            "from_actor": 15660,
+            "to_actor": 9674,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "John Bech Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127102,
+            "from_actor": 15688,
+            "to_actor": 9674,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "John Bech Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 136168,
+            "from_actor": 9674,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "John Bech Christensen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32600058,
+            "from_actor": 9674,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "John Bech Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

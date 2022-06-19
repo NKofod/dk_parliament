@@ -1,0 +1,81 @@
+{
+    "19480": [
+        {
+            "id": 28153306,
+            "from_actor": 19480,
+            "to_actor": 19626,
+            "start": "2021-01-27",
+            "end": "2021-06-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Europaudvalgets Underudvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153837,
+            "from_actor": 19480,
+            "to_actor": 19409,
+            "start": "2021-05-05",
+            "end": "2021-05-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154685,
+            "from_actor": 19480,
+            "to_actor": 19397,
+            "start": "2021-02-02",
+            "end": "2021-05-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182578,
+            "from_actor": 19480,
+            "to_actor": 19414,
+            "start": "2020-11-17",
+            "end": "2021-06-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28639587,
+            "from_actor": 19480,
+            "to_actor": 19356,
+            "start": "2020-11-17",
+            "end": "2021-06-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31693944,
+            "from_actor": 19480,
+            "to_actor": 19337,
+            "start": "2021-02-02",
+            "end": "2021-06-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071567,
+            "from_actor": 19480,
+            "to_actor": 19352,
+            "start": "2020-11-17",
+            "end": "2021-06-04",
+            "role": "medlem",
+            "from_actor_name": "Henrik Vinther",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

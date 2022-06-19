@@ -1,0 +1,114 @@
+{
+    "14348": [
+        {
+            "id": 70809,
+            "from_actor": 14338,
+            "to_actor": 14348,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Therkel Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71666,
+            "from_actor": 14387,
+            "to_actor": 14348,
+            "start": "1979-01-11",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Therkel Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71935,
+            "from_actor": 14415,
+            "to_actor": 14348,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Therkel Christensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71953,
+            "from_actor": 14416,
+            "to_actor": 14348,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Therkel Christensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140794,
+            "from_actor": 14348,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140795,
+            "from_actor": 14348,
+            "to_actor": 14416,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140796,
+            "from_actor": 14348,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 140797,
+            "from_actor": 14348,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 140798,
+            "from_actor": 14348,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451084,
+            "from_actor": 14348,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Therkel Christensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

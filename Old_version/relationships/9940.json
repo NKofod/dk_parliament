@@ -1,0 +1,59 @@
+{
+    "9940": [
+        {
+            "id": 102399,
+            "from_actor": 15686,
+            "to_actor": 9940,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Poul Boeg",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102629,
+            "from_actor": 15660,
+            "to_actor": 9940,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Boeg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102827,
+            "from_actor": 15699,
+            "to_actor": 9940,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Boeg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599988,
+            "from_actor": 9940,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Boeg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600070,
+            "from_actor": 9940,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Boeg",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

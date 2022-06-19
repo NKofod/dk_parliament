@@ -1,0 +1,224 @@
+{
+    "15621": [
+        {
+            "id": 100378,
+            "from_actor": 15609,
+            "to_actor": 15621,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100413,
+            "from_actor": 15622,
+            "to_actor": 15621,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100737,
+            "from_actor": 15628,
+            "to_actor": 15621,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100775,
+            "from_actor": 15631,
+            "to_actor": 15621,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101106,
+            "from_actor": 15639,
+            "to_actor": 15621,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101222,
+            "from_actor": 15642,
+            "to_actor": 15621,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101724,
+            "from_actor": 15649,
+            "to_actor": 15621,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101784,
+            "from_actor": 15652,
+            "to_actor": 15621,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102688,
+            "from_actor": 15660,
+            "to_actor": 15621,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127127,
+            "from_actor": 15678,
+            "to_actor": 15621,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158704,
+            "from_actor": 15621,
+            "to_actor": 15678,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131668,
+            "from_actor": 15621,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422306,
+            "from_actor": 15621,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422500,
+            "from_actor": 15621,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422695,
+            "from_actor": 15621,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422750,
+            "from_actor": 15621,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422826,
+            "from_actor": 15621,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422903,
+            "from_actor": 15621,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29337178,
+            "from_actor": 15621,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32600047,
+            "from_actor": 15621,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Andersen (Frederiksborg amt)",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

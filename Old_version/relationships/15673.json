@@ -1,0 +1,92 @@
+{
+    "15673": [
+        {
+            "id": 102421,
+            "from_actor": 15688,
+            "to_actor": 15673,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ib Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102654,
+            "from_actor": 15660,
+            "to_actor": 15673,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102852,
+            "from_actor": 15699,
+            "to_actor": 15673,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102945,
+            "from_actor": 15706,
+            "to_actor": 15673,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Ib Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176819,
+            "from_actor": 15673,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ib Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176820,
+            "from_actor": 15673,
+            "to_actor": 15706,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ib Andersen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5176821,
+            "from_actor": 15673,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ib Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600013,
+            "from_actor": 15673,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ib Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

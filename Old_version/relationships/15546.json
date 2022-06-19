@@ -1,0 +1,235 @@
+{
+    "15546": [
+        {
+            "id": 98274,
+            "from_actor": 15533,
+            "to_actor": 15546,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98315,
+            "from_actor": 15548,
+            "to_actor": 15546,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98637,
+            "from_actor": 15557,
+            "to_actor": 15546,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98683,
+            "from_actor": 15561,
+            "to_actor": 15546,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99059,
+            "from_actor": 15574,
+            "to_actor": 15546,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99104,
+            "from_actor": 15578,
+            "to_actor": 15546,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99453,
+            "from_actor": 15591,
+            "to_actor": 15546,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99504,
+            "from_actor": 15597,
+            "to_actor": 15546,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101302,
+            "from_actor": 15639,
+            "to_actor": 15546,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Erik Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126633,
+            "from_actor": 15629,
+            "to_actor": 15546,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Erik Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158719,
+            "from_actor": 15546,
+            "to_actor": 15597,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158721,
+            "from_actor": 15546,
+            "to_actor": 15578,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158722,
+            "from_actor": 15546,
+            "to_actor": 15629,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5158723,
+            "from_actor": 15546,
+            "to_actor": 15548,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376484,
+            "from_actor": 15546,
+            "to_actor": 15561,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422518,
+            "from_actor": 15546,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422713,
+            "from_actor": 15546,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529598,
+            "from_actor": 15546,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529776,
+            "from_actor": 15546,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21529968,
+            "from_actor": 15546,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255664,
+            "from_actor": 15546,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Erik Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

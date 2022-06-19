@@ -1,0 +1,213 @@
+{
+    "9916": [
+        {
+            "id": 71706,
+            "from_actor": 14387,
+            "to_actor": 9916,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75472,
+            "from_actor": 14564,
+            "to_actor": 9916,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75553,
+            "from_actor": 14572,
+            "to_actor": 9916,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75842,
+            "from_actor": 14583,
+            "to_actor": 9916,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75927,
+            "from_actor": 14586,
+            "to_actor": 9916,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76255,
+            "from_actor": 14596,
+            "to_actor": 9916,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76345,
+            "from_actor": 14599,
+            "to_actor": 9916,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76640,
+            "from_actor": 14617,
+            "to_actor": 9916,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76727,
+            "from_actor": 14619,
+            "to_actor": 9916,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Birgit Fogh-Andersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855772,
+            "from_actor": 9916,
+            "to_actor": 14599,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855773,
+            "from_actor": 9916,
+            "to_actor": 14619,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855774,
+            "from_actor": 9916,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855775,
+            "from_actor": 9916,
+            "to_actor": 14586,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855776,
+            "from_actor": 9916,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855778,
+            "from_actor": 9916,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855779,
+            "from_actor": 9916,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 22855780,
+            "from_actor": 9916,
+            "to_actor": 14395,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22855781,
+            "from_actor": 9916,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32574951,
+            "from_actor": 9916,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Birgit Fogh-Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

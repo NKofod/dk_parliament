@@ -1,0 +1,37 @@
+{
+    "10084": [
+        {
+            "id": 71689,
+            "from_actor": 14387,
+            "to_actor": 10084,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Vig",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31205206,
+            "from_actor": 10084,
+            "to_actor": 14402,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Svend Vig",
+            "to_actor_name": "Kristeligt folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31205207,
+            "from_actor": 10084,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Vig",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

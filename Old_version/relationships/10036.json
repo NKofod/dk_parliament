@@ -1,0 +1,59 @@
+{
+    "10036": [
+        {
+            "id": 102407,
+            "from_actor": 15686,
+            "to_actor": 10036,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ib Larsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102624,
+            "from_actor": 15660,
+            "to_actor": 10036,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102822,
+            "from_actor": 15699,
+            "to_actor": 10036,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ib Larsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599983,
+            "from_actor": 10036,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ib Larsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600078,
+            "from_actor": 10036,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ib Larsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

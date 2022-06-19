@@ -1,0 +1,180 @@
+{
+    "1044": [
+        {
+            "id": 28589,
+            "from_actor": 1046,
+            "to_actor": 1044,
+            "start": "2006-11-21",
+            "end": "2006-11-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28706,
+            "from_actor": 946,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Kommission"
+        },
+        {
+            "id": 28848,
+            "from_actor": 887,
+            "to_actor": 1044,
+            "start": "2006-12-13",
+            "end": "2006-12-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Retsudvalget",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29287,
+            "from_actor": 810,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2007-01-08",
+            "role": "medlem",
+            "from_actor_name": "Socialudvalget",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29503,
+            "from_actor": 521,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2007-03-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29914,
+            "from_actor": 426,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 35939,
+            "from_actor": 1045,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 36221,
+            "from_actor": 1040,
+            "to_actor": 1044,
+            "start": "2006-10-05",
+            "end": "2007-01-18",
+            "role": "medlem",
+            "from_actor_name": "Indfødsretsudvalget",
+            "to_actor_name": "Lotte Thiim Bertelsen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772530,
+            "from_actor": 1044,
+            "to_actor": 1045,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "medlem",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22772531,
+            "from_actor": 1044,
+            "to_actor": 1040,
+            "start": "2006-10-05",
+            "end": "2007-01-18",
+            "role": "medlem",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772532,
+            "from_actor": 1044,
+            "to_actor": 810,
+            "start": "2006-10-05",
+            "end": "2007-01-08",
+            "role": "medlem",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Socialudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772533,
+            "from_actor": 1044,
+            "to_actor": 946,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 22772534,
+            "from_actor": 1044,
+            "to_actor": 887,
+            "start": "2006-12-13",
+            "end": "2006-12-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772535,
+            "from_actor": 1044,
+            "to_actor": 1046,
+            "start": "2006-11-21",
+            "end": "2006-11-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22772536,
+            "from_actor": 1044,
+            "to_actor": 521,
+            "start": "2006-10-05",
+            "end": "2007-03-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Udvalget for Udlændinge- og Integrationspolitik",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29499577,
+            "from_actor": 1044,
+            "to_actor": 426,
+            "start": "2006-10-05",
+            "end": "2006-12-15",
+            "role": "medlem",
+            "from_actor_name": "Lotte Thiim Bertelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "1300": [
+        {
+            "id": 99288,
+            "from_actor": 15574,
+            "to_actor": 1300,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Henrik Gydemark",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121201,
+            "from_actor": 14082,
+            "to_actor": 1300,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Niels Henrik Gydemark",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121222,
+            "from_actor": 14087,
+            "to_actor": 1300,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Niels Henrik Gydemark",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121223,
+            "from_actor": 15579,
+            "to_actor": 1300,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Niels Henrik Gydemark",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121225,
+            "from_actor": 15705,
+            "to_actor": 1300,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Det Radikale Venstre",
+            "to_actor_name": "Niels Henrik Gydemark",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32317677,
+            "from_actor": 1300,
+            "to_actor": 14087,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32317678,
+            "from_actor": 1300,
+            "to_actor": 15705,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32317679,
+            "from_actor": 1300,
+            "to_actor": 15579,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Det Radikale Venstre",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32317680,
+            "from_actor": 1300,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32317681,
+            "from_actor": 1300,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32317682,
+            "from_actor": 1300,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Niels Henrik Gydemark",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

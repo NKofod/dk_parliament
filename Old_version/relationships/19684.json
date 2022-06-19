@@ -1,0 +1,81 @@
+{
+    "19684": [
+        {
+            "id": 28152953,
+            "from_actor": 19684,
+            "to_actor": 19415,
+            "start": "2021-04-13",
+            "end": "2021-08-22",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153439,
+            "from_actor": 19684,
+            "to_actor": 19388,
+            "start": "2021-04-14",
+            "end": "2021-04-30",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Forsvarsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28155869,
+            "from_actor": 19684,
+            "to_actor": 19359,
+            "start": "2021-04-13",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28184130,
+            "from_actor": 19684,
+            "to_actor": 19411,
+            "start": "2021-04-13",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31259591,
+            "from_actor": 19684,
+            "to_actor": 19392,
+            "start": "2021-05-27",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31259592,
+            "from_actor": 19684,
+            "to_actor": 19392,
+            "start": "2021-04-13",
+            "end": "2021-05-25",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071556,
+            "from_actor": 19684,
+            "to_actor": 19352,
+            "start": "2021-04-13",
+            "end": "2021-08-16",
+            "role": "medlem",
+            "from_actor_name": "Mads Andersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

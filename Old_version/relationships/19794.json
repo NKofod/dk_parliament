@@ -1,0 +1,48 @@
+{
+    "19794": [
+        {
+            "id": 28182667,
+            "from_actor": 19794,
+            "to_actor": 19414,
+            "start": "2021-09-03",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karoline Ove Dahl",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875782,
+            "from_actor": 19794,
+            "to_actor": 19410,
+            "start": "2021-09-01",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karoline Ove Dahl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31205358,
+            "from_actor": 19794,
+            "to_actor": 19901,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karoline Ove Dahl",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476029,
+            "from_actor": 19794,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Karoline Ove Dahl",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

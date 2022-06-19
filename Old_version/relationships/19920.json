@@ -1,0 +1,147 @@
+{
+    "19920": [
+        {
+            "id": 32723078,
+            "from_actor": 19920,
+            "to_actor": 19854,
+            "start": "2022-06-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32723079,
+            "from_actor": 19920,
+            "to_actor": 19858,
+            "start": "2022-06-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32723080,
+            "from_actor": 19920,
+            "to_actor": 19858,
+            "start": "2021-10-07",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32723081,
+            "from_actor": 19920,
+            "to_actor": 19854,
+            "start": "2021-10-07",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32723082,
+            "from_actor": 19920,
+            "to_actor": 19911,
+            "start": "2022-06-01",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32723083,
+            "from_actor": 19920,
+            "to_actor": 19911,
+            "start": "2021-10-07",
+            "end": "2022-01-03",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32723085,
+            "from_actor": 19920,
+            "to_actor": 19914,
+            "start": "2021-10-07",
+            "end": "2022-01-03",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32723086,
+            "from_actor": 19920,
+            "to_actor": 19891,
+            "start": "2021-10-06",
+            "end": "2021-12-31",
+            "role": "stedfortræder",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829502,
+            "from_actor": 19920,
+            "to_actor": 19909,
+            "start": "2022-06-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829763,
+            "from_actor": 19920,
+            "to_actor": 19899,
+            "start": "2022-06-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Indfødsretsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857256,
+            "from_actor": 19920,
+            "to_actor": 19910,
+            "start": "2022-06-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857401,
+            "from_actor": 19920,
+            "to_actor": 19913,
+            "start": "2022-06-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857424,
+            "from_actor": 19920,
+            "to_actor": 19913,
+            "start": "2021-10-07",
+            "end": "2022-01-03",
+            "role": "medlem",
+            "from_actor_name": "Karsten Filsø",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

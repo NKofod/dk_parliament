@@ -1,0 +1,92 @@
+{
+    "15665": [
+        {
+            "id": 102426,
+            "from_actor": 15688,
+            "to_actor": 15665,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jens Peder Bodart",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102619,
+            "from_actor": 15660,
+            "to_actor": 15665,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Peder Bodart",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102817,
+            "from_actor": 15699,
+            "to_actor": 15665,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jens Peder Bodart",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102950,
+            "from_actor": 15706,
+            "to_actor": 15665,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Jens Peder Bodart",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 200351,
+            "from_actor": 15665,
+            "to_actor": 15688,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Peder Bodart",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 200352,
+            "from_actor": 15665,
+            "to_actor": 15706,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Jens Peder Bodart",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 200354,
+            "from_actor": 15665,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Jens Peder Bodart",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599978,
+            "from_actor": 15665,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Jens Peder Bodart",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

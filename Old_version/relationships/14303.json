@@ -1,0 +1,169 @@
+{
+    "14303": [
+        {
+            "id": 71033,
+            "from_actor": 14338,
+            "to_actor": 14303,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ernst Prehn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71657,
+            "from_actor": 14387,
+            "to_actor": 14303,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ernst Prehn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71926,
+            "from_actor": 14415,
+            "to_actor": 14303,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ernst Prehn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71950,
+            "from_actor": 14416,
+            "to_actor": 14303,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Ernst Prehn",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102880,
+            "from_actor": 15699,
+            "to_actor": 14303,
+            "start": "1974-10-10",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ernst Prehn",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492762,
+            "from_actor": 14303,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492763,
+            "from_actor": 14303,
+            "to_actor": 14416,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492764,
+            "from_actor": 14303,
+            "to_actor": 14324,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492765,
+            "from_actor": 14303,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492766,
+            "from_actor": 14303,
+            "to_actor": 15700,
+            "start": "1974-10-10",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 492767,
+            "from_actor": 14303,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492768,
+            "from_actor": 14303,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492770,
+            "from_actor": 14303,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 492771,
+            "from_actor": 14303,
+            "to_actor": 15699,
+            "start": "1974-10-10",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451058,
+            "from_actor": 14303,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ernst Prehn",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

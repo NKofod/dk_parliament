@@ -1,0 +1,37 @@
+{
+    "14510": [
+        {
+            "id": 73921,
+            "from_actor": 14495,
+            "to_actor": 14510,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Alfred Hansen Arildsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5158842,
+            "from_actor": 14510,
+            "to_actor": 14495,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "stedfortræder",
+            "from_actor_name": "Alfred Hansen Arildsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32450891,
+            "from_actor": 14510,
+            "to_actor": 14515,
+            "start": "1981-12-08",
+            "end": "1982-10-05",
+            "role": "medlem",
+            "from_actor_name": "Alfred Hansen Arildsen",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

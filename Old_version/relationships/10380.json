@@ -1,0 +1,257 @@
+{
+    "10380": [
+        {
+            "id": 70916,
+            "from_actor": 14338,
+            "to_actor": 10380,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71545,
+            "from_actor": 14387,
+            "to_actor": 10380,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71815,
+            "from_actor": 14415,
+            "to_actor": 10380,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71997,
+            "from_actor": 14422,
+            "to_actor": 10380,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75120,
+            "from_actor": 14265,
+            "to_actor": 10380,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75143,
+            "from_actor": 14085,
+            "to_actor": 10380,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103406,
+            "from_actor": 15721,
+            "to_actor": 10380,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103475,
+            "from_actor": 15726,
+            "to_actor": 10380,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121080,
+            "from_actor": 14082,
+            "to_actor": 10380,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Nauerby",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5212600,
+            "from_actor": 10380,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212601,
+            "from_actor": 10380,
+            "to_actor": 14422,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212602,
+            "from_actor": 10380,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212603,
+            "from_actor": 10380,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212604,
+            "from_actor": 10380,
+            "to_actor": 14085,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212606,
+            "from_actor": 10380,
+            "to_actor": 15726,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 5212607,
+            "from_actor": 10380,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5212608,
+            "from_actor": 10380,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 5212610,
+            "from_actor": 10380,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235285,
+            "from_actor": 10380,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235428,
+            "from_actor": 10380,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880631,
+            "from_actor": 10380,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30908357,
+            "from_actor": 10380,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32450941,
+            "from_actor": 10380,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Knud Nauerby",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

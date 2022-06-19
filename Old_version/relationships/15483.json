@@ -1,0 +1,224 @@
+{
+    "15483": [
+        {
+            "id": 96400,
+            "from_actor": 15481,
+            "to_actor": 15483,
+            "start": "1966-11-01",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harris Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 96531,
+            "from_actor": 15488,
+            "to_actor": 15483,
+            "start": "1966-11-01",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100356,
+            "from_actor": 15609,
+            "to_actor": 15483,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fejloprettet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 100423,
+            "from_actor": 15622,
+            "to_actor": 15483,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 100714,
+            "from_actor": 15628,
+            "to_actor": 15483,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harris Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 100785,
+            "from_actor": 15631,
+            "to_actor": 15483,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101083,
+            "from_actor": 15639,
+            "to_actor": 15483,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harris Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101232,
+            "from_actor": 15642,
+            "to_actor": 15483,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 101701,
+            "from_actor": 15649,
+            "to_actor": 15483,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Harris Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 101794,
+            "from_actor": 15652,
+            "to_actor": 15483,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Socialdemokratiet",
+            "to_actor_name": "Harris Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20131678,
+            "from_actor": 15483,
+            "to_actor": 15622,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422283,
+            "from_actor": 15483,
+            "to_actor": 15649,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422477,
+            "from_actor": 15483,
+            "to_actor": 15639,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422672,
+            "from_actor": 15483,
+            "to_actor": 15628,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 20422760,
+            "from_actor": 15483,
+            "to_actor": 15631,
+            "start": "1971-10-05",
+            "end": "1972-10-03",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422836,
+            "from_actor": 15483,
+            "to_actor": 15642,
+            "start": "1972-10-03",
+            "end": "1973-10-02",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 20422913,
+            "from_actor": 15483,
+            "to_actor": 15652,
+            "start": "1973-10-02",
+            "end": "1973-12-04",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529045,
+            "from_actor": 15483,
+            "to_actor": 15481,
+            "start": "1966-11-01",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 21531526,
+            "from_actor": 15483,
+            "to_actor": 15488,
+            "start": "1966-11-01",
+            "end": "1966-11-22",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 29337156,
+            "from_actor": 15483,
+            "to_actor": 15609,
+            "start": "1971-09-21",
+            "end": "1971-10-05",
+            "role": "medlem",
+            "from_actor_name": "Harris Jensen",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "14121": [
+        {
+            "id": 66331,
+            "from_actor": 14091,
+            "to_actor": 14121,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 68181,
+            "from_actor": 14269,
+            "to_actor": 14121,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69062,
+            "from_actor": 14326,
+            "to_actor": 14121,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 69759,
+            "from_actor": 14363,
+            "to_actor": 14121,
+            "start": "1977-10-04",
+            "end": "1977-12-02",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71051,
+            "from_actor": 14338,
+            "to_actor": 14121,
+            "start": "1977-10-04",
+            "end": "1977-12-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102395,
+            "from_actor": 15685,
+            "to_actor": 14121,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102605,
+            "from_actor": 15660,
+            "to_actor": 14121,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102803,
+            "from_actor": 15699,
+            "to_actor": 14121,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102899,
+            "from_actor": 15701,
+            "to_actor": 14121,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103331,
+            "from_actor": 15721,
+            "to_actor": 14121,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 103433,
+            "from_actor": 15723,
+            "to_actor": 14121,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Danmarks kommunistiske parti",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 121005,
+            "from_actor": 14082,
+            "to_actor": 14121,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Knud Jespersen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 66755,
+            "from_actor": 14121,
+            "to_actor": 14091,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111074,
+            "from_actor": 14121,
+            "to_actor": 14269,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111075,
+            "from_actor": 14121,
+            "to_actor": 14326,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111076,
+            "from_actor": 14121,
+            "to_actor": 15685,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111077,
+            "from_actor": 14121,
+            "to_actor": 15701,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111078,
+            "from_actor": 14121,
+            "to_actor": 15723,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 111079,
+            "from_actor": 14121,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 111085,
+            "from_actor": 14121,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4696854,
+            "from_actor": 14121,
+            "to_actor": 14363,
+            "start": "1977-10-04",
+            "end": "1977-12-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Danmarks kommunistiske parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235210,
+            "from_actor": 14121,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235353,
+            "from_actor": 14121,
+            "to_actor": 14082,
+            "start": "1975-10-07",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880557,
+            "from_actor": 14121,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451076,
+            "from_actor": 14121,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1977-12-02",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599964,
+            "from_actor": 14121,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Knud Jespersen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

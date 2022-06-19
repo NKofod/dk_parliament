@@ -1,0 +1,70 @@
+{
+    "14285": [
+        {
+            "id": 70730,
+            "from_actor": 14265,
+            "to_actor": 14285,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "K.J. Rosleff",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71690,
+            "from_actor": 14387,
+            "to_actor": 14285,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "K.J. Rosleff",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 125530,
+            "from_actor": 14285,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "K.J. Rosleff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 129110,
+            "from_actor": 14285,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "K.J. Rosleff",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 30880731,
+            "from_actor": 14285,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "stedfortræder",
+            "from_actor_name": "K.J. Rosleff",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30908372,
+            "from_actor": 14285,
+            "to_actor": 14265,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "K.J. Rosleff",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

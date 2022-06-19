@@ -1,0 +1,48 @@
+{
+    "19797": [
+        {
+            "id": 28182666,
+            "from_actor": 19797,
+            "to_actor": 19414,
+            "start": "2021-08-05",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Charlotte Avnsted-Vilman",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29875781,
+            "from_actor": 19797,
+            "to_actor": 19410,
+            "start": "2021-08-02",
+            "end": "2021-10-05",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Charlotte Avnsted-Vilman",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 31205357,
+            "from_actor": 19797,
+            "to_actor": 19901,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Charlotte Avnsted-Vilman",
+            "to_actor_name": "Tilsynet i henhold til grundlovens § 71",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476028,
+            "from_actor": 19797,
+            "to_actor": 19902,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgssekretær",
+            "from_actor_name": "Charlotte Avnsted-Vilman",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

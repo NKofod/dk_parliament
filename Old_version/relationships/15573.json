@@ -1,0 +1,48 @@
+{
+    "15573": [
+        {
+            "id": 98853,
+            "from_actor": 15557,
+            "to_actor": 15573,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Leo Kjærgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126355,
+            "from_actor": 15561,
+            "to_actor": 15573,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Leo Kjærgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376494,
+            "from_actor": 15573,
+            "to_actor": 15561,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Leo Kjærgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529807,
+            "from_actor": 15573,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Leo Kjærgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

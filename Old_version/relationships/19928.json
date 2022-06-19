@@ -1,0 +1,136 @@
+{
+    "19928": [
+        {
+            "id": 32044662,
+            "from_actor": 19928,
+            "to_actor": 19905,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475737,
+            "from_actor": 19928,
+            "to_actor": 19900,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475992,
+            "from_actor": 19928,
+            "to_actor": 19902,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476348,
+            "from_actor": 19928,
+            "to_actor": 19921,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525277,
+            "from_actor": 19928,
+            "to_actor": 19855,
+            "start": "2021-10-25",
+            "end": "2022-01-01",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525347,
+            "from_actor": 19928,
+            "to_actor": 19854,
+            "start": "2021-10-25",
+            "end": "2022-01-01",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599739,
+            "from_actor": 19928,
+            "to_actor": 19829,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829277,
+            "from_actor": 19928,
+            "to_actor": 19915,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857262,
+            "from_actor": 19928,
+            "to_actor": 19910,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Kirkeudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857403,
+            "from_actor": 19928,
+            "to_actor": 19913,
+            "start": "2021-12-02",
+            "end": "2021-12-02",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857518,
+            "from_actor": 19928,
+            "to_actor": 19917,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911484,
+            "from_actor": 19928,
+            "to_actor": 19895,
+            "start": "2021-10-25",
+            "end": "2021-12-31",
+            "role": "medlem",
+            "from_actor_name": "Kim Aas",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

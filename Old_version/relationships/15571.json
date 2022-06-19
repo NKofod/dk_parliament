@@ -1,0 +1,81 @@
+{
+    "15571": [
+        {
+            "id": 98847,
+            "from_actor": 15557,
+            "to_actor": 15571,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gudrun Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99679,
+            "from_actor": 15591,
+            "to_actor": 15571,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Gudrun Jensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 126552,
+            "from_actor": 15597,
+            "to_actor": 15571,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Gudrun Jensen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4677269,
+            "from_actor": 15571,
+            "to_actor": 15597,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Jensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9376497,
+            "from_actor": 15571,
+            "to_actor": 15561,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Gudrun Jensen",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 21529801,
+            "from_actor": 15571,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Gudrun Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255695,
+            "from_actor": 15571,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "stedfortræder",
+            "from_actor_name": "Gudrun Jensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

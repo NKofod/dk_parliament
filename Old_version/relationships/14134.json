@@ -1,0 +1,268 @@
+{
+    "14134": [
+        {
+            "id": 69057,
+            "from_actor": 14325,
+            "to_actor": 14134,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ole Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 71037,
+            "from_actor": 14338,
+            "to_actor": 14134,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71661,
+            "from_actor": 14387,
+            "to_actor": 14134,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71930,
+            "from_actor": 14415,
+            "to_actor": 14134,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72094,
+            "from_actor": 14425,
+            "to_actor": 14134,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ole Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75100,
+            "from_actor": 14273,
+            "to_actor": 14134,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ole Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 103632,
+            "from_actor": 15721,
+            "to_actor": 14134,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 121169,
+            "from_actor": 14082,
+            "to_actor": 14134,
+            "start": "1976-02-01",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ole Olsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128272,
+            "from_actor": 15729,
+            "to_actor": 14134,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ole Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 128377,
+            "from_actor": 14088,
+            "to_actor": 14134,
+            "start": "1976-02-02",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ole Olsen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232327,
+            "from_actor": 14134,
+            "to_actor": 14325,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232328,
+            "from_actor": 14134,
+            "to_actor": 14362,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232329,
+            "from_actor": 14134,
+            "to_actor": 14399,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232330,
+            "from_actor": 14134,
+            "to_actor": 14425,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232331,
+            "from_actor": 14134,
+            "to_actor": 14273,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232332,
+            "from_actor": 14134,
+            "to_actor": 15729,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232333,
+            "from_actor": 14134,
+            "to_actor": 14088,
+            "start": "1976-02-02",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 232334,
+            "from_actor": 14134,
+            "to_actor": 14415,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 232335,
+            "from_actor": 14134,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 232337,
+            "from_actor": 14134,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235330,
+            "from_actor": 14134,
+            "to_actor": 15721,
+            "start": "1975-01-09",
+            "end": "1975-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9235520,
+            "from_actor": 14134,
+            "to_actor": 14082,
+            "start": "1976-02-01",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880722,
+            "from_actor": 14134,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451062,
+            "from_actor": 14134,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ole Olsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

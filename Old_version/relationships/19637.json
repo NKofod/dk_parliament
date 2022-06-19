@@ -1,0 +1,279 @@
+{
+    "19637": [
+        {
+            "id": 28153004,
+            "from_actor": 19637,
+            "to_actor": 19404,
+            "start": "2021-04-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154918,
+            "from_actor": 19637,
+            "to_actor": 19439,
+            "start": "2021-04-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28155278,
+            "from_actor": 19637,
+            "to_actor": 19354,
+            "start": "2021-04-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28182545,
+            "from_actor": 19637,
+            "to_actor": 19412,
+            "start": "2021-04-27",
+            "end": "2021-04-28",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182561,
+            "from_actor": 19637,
+            "to_actor": 19412,
+            "start": "2021-04-29",
+            "end": "2021-10-05",
+            "role": "næstformand",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182762,
+            "from_actor": 19637,
+            "to_actor": 19398,
+            "start": "2021-05-20",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182763,
+            "from_actor": 19637,
+            "to_actor": 19398,
+            "start": "2021-04-14",
+            "end": "2021-05-18",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28182764,
+            "from_actor": 19637,
+            "to_actor": 19398,
+            "start": "2021-04-01",
+            "end": "2021-04-12",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28827131,
+            "from_actor": 19637,
+            "to_actor": 19387,
+            "start": "2021-04-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 30388132,
+            "from_actor": 19637,
+            "to_actor": 19856,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31612019,
+            "from_actor": 19637,
+            "to_actor": 19967,
+            "start": "2022-06-09",
+            "end": "2022-06-10",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udvalget for Småøer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071753,
+            "from_actor": 19637,
+            "to_actor": 19352,
+            "start": "2021-04-01",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32208096,
+            "from_actor": 19637,
+            "to_actor": 19907,
+            "start": "2022-04-22",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32208097,
+            "from_actor": 19637,
+            "to_actor": 19907,
+            "start": "2022-02-04",
+            "end": "2022-04-20",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32208098,
+            "from_actor": 19637,
+            "to_actor": 19907,
+            "start": "2021-10-06",
+            "end": "2022-02-02",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Erhvervsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32451198,
+            "from_actor": 19637,
+            "to_actor": 19914,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Skatteudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525522,
+            "from_actor": 19637,
+            "to_actor": 19854,
+            "start": "2021-10-05",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32775020,
+            "from_actor": 19637,
+            "to_actor": 19906,
+            "start": "2022-05-20",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32775021,
+            "from_actor": 19637,
+            "to_actor": 19906,
+            "start": "2022-02-01",
+            "end": "2022-05-18",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829732,
+            "from_actor": 19637,
+            "to_actor": 19916,
+            "start": "2021-12-14",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829745,
+            "from_actor": 19637,
+            "to_actor": 19916,
+            "start": "2021-12-21",
+            "end": "2021-12-21",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856938,
+            "from_actor": 19637,
+            "to_actor": 19904,
+            "start": "2022-01-14",
+            "end": "2022-01-31",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856939,
+            "from_actor": 19637,
+            "to_actor": 19904,
+            "start": "2021-10-06",
+            "end": "2022-01-12",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857545,
+            "from_actor": 19637,
+            "to_actor": 19917,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32911533,
+            "from_actor": 19637,
+            "to_actor": 19895,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Kenneth Mikkelsen",
+            "to_actor_name": "Børne- og Undervisningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

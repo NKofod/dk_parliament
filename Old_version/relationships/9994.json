@@ -1,0 +1,70 @@
+{
+    "9994": [
+        {
+            "id": 70833,
+            "from_actor": 14338,
+            "to_actor": 9994,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Lodal Carlsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71726,
+            "from_actor": 14387,
+            "to_actor": 9994,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ebbe Lodal Carlsen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 9175581,
+            "from_actor": 9994,
+            "to_actor": 14361,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Lodal Carlsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9175582,
+            "from_actor": 9994,
+            "to_actor": 14398,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Ebbe Lodal Carlsen",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9175584,
+            "from_actor": 9994,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Ebbe Lodal Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451107,
+            "from_actor": 9994,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Ebbe Lodal Carlsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

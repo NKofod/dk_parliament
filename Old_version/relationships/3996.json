@@ -1,0 +1,158 @@
+{
+    "3996": [
+        {
+            "id": 23360,
+            "from_actor": 425,
+            "to_actor": 3996,
+            "start": "2006-05-29",
+            "end": "2006-06-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23581,
+            "from_actor": 550,
+            "to_actor": 3996,
+            "start": "2006-05-29",
+            "end": "2006-06-05",
+            "role": "medlem",
+            "from_actor_name": "Venstre, Danmarks Liberale Parti",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24044,
+            "from_actor": 462,
+            "to_actor": 3996,
+            "start": "2006-05-31",
+            "end": "2006-06-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Det Udenrigspolitiske Nævn",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Kommission"
+        },
+        {
+            "id": 24319,
+            "from_actor": 715,
+            "to_actor": 3996,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24405,
+            "from_actor": 1062,
+            "to_actor": 3996,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Uddannelsesudvalget",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24549,
+            "from_actor": 805,
+            "to_actor": 3996,
+            "start": "2006-05-31",
+            "end": "2006-05-31",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 25198,
+            "from_actor": 982,
+            "to_actor": 3996,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Boligudvalget",
+            "to_actor_name": "Henrik Fruergaard",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913712,
+            "from_actor": 3996,
+            "to_actor": 550,
+            "start": "2006-05-29",
+            "end": "2006-06-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 22913713,
+            "from_actor": 3996,
+            "to_actor": 805,
+            "start": "2006-05-31",
+            "end": "2006-05-31",
+            "role": "medlem",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913714,
+            "from_actor": 3996,
+            "to_actor": 982,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913715,
+            "from_actor": 3996,
+            "to_actor": 715,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "medlem",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913716,
+            "from_actor": 3996,
+            "to_actor": 1062,
+            "start": "2006-05-30",
+            "end": "2006-06-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Uddannelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 22913717,
+            "from_actor": 3996,
+            "to_actor": 462,
+            "start": "2006-05-31",
+            "end": "2006-06-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 29499818,
+            "from_actor": 3996,
+            "to_actor": 425,
+            "start": "2006-05-29",
+            "end": "2006-06-05",
+            "role": "medlem",
+            "from_actor_name": "Henrik Fruergaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

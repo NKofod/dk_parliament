@@ -1,0 +1,81 @@
+{
+    "15663": [
+        {
+            "id": 102402,
+            "from_actor": 15686,
+            "to_actor": 15663,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Centrum-demokraterne",
+            "to_actor_name": "Egon Højland",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102614,
+            "from_actor": 15660,
+            "to_actor": 15663,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Egon Højland",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 102812,
+            "from_actor": 15699,
+            "to_actor": 15663,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Egon Højland",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 105801,
+            "from_actor": 15663,
+            "to_actor": 15700,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Egon Højland",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 105803,
+            "from_actor": 15663,
+            "to_actor": 15699,
+            "start": "1974-10-01",
+            "end": "1975-01-09",
+            "role": "medlem",
+            "from_actor_name": "Egon Højland",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599973,
+            "from_actor": 15663,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Egon Højland",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32600073,
+            "from_actor": 15663,
+            "to_actor": 15686,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Egon Højland",
+            "to_actor_name": "Centrum-demokraterne",
+            "type": "Folketingsgruppe"
+        }
+    ]
+}

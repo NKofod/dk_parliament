@@ -1,0 +1,37 @@
+{
+    "15690": [
+        {
+            "id": 102693,
+            "from_actor": 15660,
+            "to_actor": 15690,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Helge Buchwald",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 127101,
+            "from_actor": 15688,
+            "to_actor": 15690,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "medlem",
+            "from_actor_name": "Fremskridtspartiet",
+            "to_actor_name": "Helge Buchwald",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32600052,
+            "from_actor": 15690,
+            "to_actor": 15660,
+            "start": "1973-12-04",
+            "end": "1974-10-01",
+            "role": "stedfortræder",
+            "from_actor_name": "Helge Buchwald",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

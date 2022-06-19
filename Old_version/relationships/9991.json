@@ -1,0 +1,26 @@
+{
+    "9991": [
+        {
+            "id": 70837,
+            "from_actor": 14338,
+            "to_actor": 9991,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Connie Sonja Buus",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451111,
+            "from_actor": 9991,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Connie Sonja Buus",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

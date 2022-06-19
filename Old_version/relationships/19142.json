@@ -1,0 +1,59 @@
+{
+    "19142": [
+        {
+            "id": 25696572,
+            "from_actor": 19142,
+            "to_actor": 18900,
+            "start": "2020-03-17",
+            "end": "2020-03-24",
+            "role": "medlem",
+            "from_actor_name": "Barbara Gaardlykke Apol",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25696575,
+            "from_actor": 19142,
+            "to_actor": 18856,
+            "start": "2020-03-17",
+            "end": "2020-03-24",
+            "role": "medlem",
+            "from_actor_name": "Barbara Gaardlykke Apol",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28155911,
+            "from_actor": 19142,
+            "to_actor": 19366,
+            "start": "2021-05-16",
+            "end": "2021-05-23",
+            "role": "medlem",
+            "from_actor_name": "Barbara Gaardlykke Apol",
+            "to_actor_name": "Javnaðarflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28612712,
+            "from_actor": 19142,
+            "to_actor": 19349,
+            "start": "2021-05-16",
+            "end": "2021-05-23",
+            "role": "stedfortræder",
+            "from_actor_name": "Barbara Gaardlykke Apol",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32071555,
+            "from_actor": 19142,
+            "to_actor": 19352,
+            "start": "2021-05-16",
+            "end": "2021-05-23",
+            "role": "medlem",
+            "from_actor_name": "Barbara Gaardlykke Apol",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

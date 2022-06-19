@@ -1,0 +1,37 @@
+{
+    "10612": [
+        {
+            "id": 28183878,
+            "from_actor": 10612,
+            "to_actor": 19371,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Anton Høj Jacobsen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28184061,
+            "from_actor": 10612,
+            "to_actor": 19689,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Anton Høj Jacobsen",
+            "to_actor_name": "Granskningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857252,
+            "from_actor": 10612,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "udvalgsassistent2",
+            "from_actor_name": "Anton Høj Jacobsen",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        }
+    ]
+}

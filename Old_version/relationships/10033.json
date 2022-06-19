@@ -1,0 +1,37 @@
+{
+    "10033": [
+        {
+            "id": 85854,
+            "from_actor": 14855,
+            "to_actor": 10033,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Tove Bjerre Mortensen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28505555,
+            "from_actor": 10033,
+            "to_actor": 14866,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "medlem",
+            "from_actor_name": "Tove Bjerre Mortensen",
+            "to_actor_name": "Venstre, Danmarks Liberale Parti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28505556,
+            "from_actor": 10033,
+            "to_actor": 14855,
+            "start": "1999-10-05",
+            "end": "2000-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Tove Bjerre Mortensen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

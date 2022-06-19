@@ -1,0 +1,81 @@
+{
+    "19996": [
+        {
+            "id": 31367905,
+            "from_actor": 19996,
+            "to_actor": 19894,
+            "start": "2021-12-07",
+            "end": "2021-12-15",
+            "role": "næstformand",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Den Arktiske Delegation",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32044683,
+            "from_actor": 19996,
+            "to_actor": 19905,
+            "start": "2021-12-07",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Færøudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32208317,
+            "from_actor": 19996,
+            "to_actor": 19845,
+            "start": "2021-12-07",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32476398,
+            "from_actor": 19996,
+            "to_actor": 19868,
+            "start": "2021-12-07",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Sambandsflokkurin",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525350,
+            "from_actor": 19996,
+            "to_actor": 19854,
+            "start": "2021-12-07",
+            "end": "2021-12-14",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599834,
+            "from_actor": 19996,
+            "to_actor": 19891,
+            "start": "2021-12-07",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857019,
+            "from_actor": 19996,
+            "to_actor": 19898,
+            "start": "2021-12-07",
+            "end": "2021-12-15",
+            "role": "medlem",
+            "from_actor_name": "Helgi Abrahamsen",
+            "to_actor_name": "Grønlandsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

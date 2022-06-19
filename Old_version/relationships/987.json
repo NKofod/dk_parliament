@@ -1,0 +1,59 @@
+{
+    "987": [
+        {
+            "id": 121008,
+            "from_actor": 14082,
+            "to_actor": 987,
+            "start": "1976-04-21",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Litten Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 6721282,
+            "from_actor": 987,
+            "to_actor": 14093,
+            "start": "1976-04-22",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Litten Hansen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 6721283,
+            "from_actor": 987,
+            "to_actor": 14272,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Litten Hansen",
+            "to_actor_name": "Venstresocialisterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 9235356,
+            "from_actor": 987,
+            "to_actor": 14082,
+            "start": "1976-04-21",
+            "end": "1976-10-05",
+            "role": "medlem",
+            "from_actor_name": "Litten Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 30880560,
+            "from_actor": 987,
+            "to_actor": 14262,
+            "start": "1976-10-05",
+            "end": "1977-02-15",
+            "role": "medlem",
+            "from_actor_name": "Litten Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

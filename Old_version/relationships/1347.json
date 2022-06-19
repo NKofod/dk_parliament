@@ -1,0 +1,268 @@
+{
+    "1347": [
+        {
+            "id": 97080,
+            "from_actor": 15517,
+            "to_actor": 1347,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 97281,
+            "from_actor": 15523,
+            "to_actor": 1347,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 97368,
+            "from_actor": 15528,
+            "to_actor": 1347,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98220,
+            "from_actor": 15533,
+            "to_actor": 1347,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98420,
+            "from_actor": 15551,
+            "to_actor": 1347,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 98595,
+            "from_actor": 15557,
+            "to_actor": 1347,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 98727,
+            "from_actor": 15564,
+            "to_actor": 1347,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99017,
+            "from_actor": 15574,
+            "to_actor": 1347,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99224,
+            "from_actor": 15581,
+            "to_actor": 1347,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 99412,
+            "from_actor": 15591,
+            "to_actor": 1347,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 99619,
+            "from_actor": 15604,
+            "to_actor": 1347,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 102176,
+            "from_actor": 15498,
+            "to_actor": 1347,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Ove Krog Hansen",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225095,
+            "from_actor": 1347,
+            "to_actor": 15581,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225096,
+            "from_actor": 1347,
+            "to_actor": 15604,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225097,
+            "from_actor": 1347,
+            "to_actor": 15551,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225098,
+            "from_actor": 1347,
+            "to_actor": 15564,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225099,
+            "from_actor": 1347,
+            "to_actor": 15517,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225100,
+            "from_actor": 1347,
+            "to_actor": 15528,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24225102,
+            "from_actor": 1347,
+            "to_actor": 15574,
+            "start": "1969-10-07",
+            "end": "1970-10-06",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225103,
+            "from_actor": 1347,
+            "to_actor": 15557,
+            "start": "1968-10-01",
+            "end": "1969-10-07",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225104,
+            "from_actor": 1347,
+            "to_actor": 15533,
+            "start": "1968-01-23",
+            "end": "1968-10-01",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225105,
+            "from_actor": 1347,
+            "to_actor": 15498,
+            "start": "1966-11-22",
+            "end": "1967-10-03",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24225106,
+            "from_actor": 1347,
+            "to_actor": 15523,
+            "start": "1967-10-03",
+            "end": "1968-01-23",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29255623,
+            "from_actor": 1347,
+            "to_actor": 15591,
+            "start": "1970-10-06",
+            "end": "1971-09-21",
+            "role": "medlem",
+            "from_actor_name": "Ove Krog Hansen",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

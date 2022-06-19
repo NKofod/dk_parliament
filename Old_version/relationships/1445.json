@@ -1,0 +1,202 @@
+{
+    "1445": [
+        {
+            "id": 75515,
+            "from_actor": 14564,
+            "to_actor": 1445,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75566,
+            "from_actor": 14572,
+            "to_actor": 1445,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 75884,
+            "from_actor": 14583,
+            "to_actor": 1445,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 75940,
+            "from_actor": 14586,
+            "to_actor": 1445,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76297,
+            "from_actor": 14596,
+            "to_actor": 1445,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76358,
+            "from_actor": 14599,
+            "to_actor": 1445,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 76682,
+            "from_actor": 14617,
+            "to_actor": 1445,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 76740,
+            "from_actor": 14619,
+            "to_actor": 1445,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Poul Henrik Houe",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345717,
+            "from_actor": 1445,
+            "to_actor": 14599,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345718,
+            "from_actor": 1445,
+            "to_actor": 14619,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345719,
+            "from_actor": 1445,
+            "to_actor": 14572,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345720,
+            "from_actor": 1445,
+            "to_actor": 14586,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345721,
+            "from_actor": 1445,
+            "to_actor": 14680,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 28345722,
+            "from_actor": 1445,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28345724,
+            "from_actor": 1445,
+            "to_actor": 14583,
+            "start": "1984-10-02",
+            "end": "1985-10-01",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28345725,
+            "from_actor": 1445,
+            "to_actor": 14564,
+            "start": "1984-01-10",
+            "end": "1984-10-02",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 28345726,
+            "from_actor": 1445,
+            "to_actor": 14676,
+            "start": "1988-10-04",
+            "end": "1989-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32574993,
+            "from_actor": 1445,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Poul Henrik Houe",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

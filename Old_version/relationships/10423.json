@@ -1,0 +1,169 @@
+{
+    "10423": [
+        {
+            "id": 69038,
+            "from_actor": 14323,
+            "to_actor": 10423,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 70998,
+            "from_actor": 14338,
+            "to_actor": 10423,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71624,
+            "from_actor": 14387,
+            "to_actor": 10423,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71893,
+            "from_actor": 14415,
+            "to_actor": 10423,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71980,
+            "from_actor": 14419,
+            "to_actor": 10423,
+            "start": "1979-10-02",
+            "end": "1979-10-23",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72217,
+            "from_actor": 14431,
+            "to_actor": 10423,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72339,
+            "from_actor": 14445,
+            "to_actor": 10423,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Det Konservative Folkeparti",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 72640,
+            "from_actor": 14457,
+            "to_actor": 10423,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 73064,
+            "from_actor": 14478,
+            "to_actor": 10423,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Karl Kjelgaard",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 128844,
+            "from_actor": 10423,
+            "to_actor": 14360,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 129072,
+            "from_actor": 10423,
+            "to_actor": 14395,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 130622,
+            "from_actor": 10423,
+            "to_actor": 14467,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 4714526,
+            "from_actor": 10423,
+            "to_actor": 14478,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 4714639,
+            "from_actor": 10423,
+            "to_actor": 14486,
+            "start": "1981-10-06",
+            "end": "1981-12-08",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32451023,
+            "from_actor": 10423,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Karl Kjelgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

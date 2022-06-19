@@ -1,0 +1,191 @@
+{
+    "1121": [
+        {
+            "id": 23363,
+            "from_actor": 425,
+            "to_actor": 1121,
+            "start": "2005-10-27",
+            "end": "2005-11-08",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Fugl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 23699,
+            "from_actor": 1122,
+            "to_actor": 1121,
+            "start": "2005-10-27",
+            "end": "2005-11-08",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Marie Fugl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 25158,
+            "from_actor": 817,
+            "to_actor": 1121,
+            "start": "2005-10-27",
+            "end": "2005-10-27",
+            "role": "medlem",
+            "from_actor_name": "Sundhedsudvalget",
+            "to_actor_name": "Marie Fugl",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28618,
+            "from_actor": 617,
+            "to_actor": 1121,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Udvalget for Videnskab og Teknologi",
+            "to_actor_name": "Marie Fugl",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29434,
+            "from_actor": 482,
+            "to_actor": 1121,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Marie Fugl",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29922,
+            "from_actor": 426,
+            "to_actor": 1121,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Marie Fugl",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 35942,
+            "from_actor": 1045,
+            "to_actor": 1121,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Socialistisk Folkeparti",
+            "to_actor_name": "Marie Fugl",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 36121,
+            "from_actor": 625,
+            "to_actor": 1121,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Det Energipolitiske Udvalg",
+            "to_actor_name": "Marie Fugl",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23994398,
+            "from_actor": 1121,
+            "to_actor": 1122,
+            "start": "2005-10-27",
+            "end": "2005-11-08",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23994400,
+            "from_actor": 1121,
+            "to_actor": 1045,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 23994401,
+            "from_actor": 1121,
+            "to_actor": 817,
+            "start": "2005-10-27",
+            "end": "2005-10-27",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23994402,
+            "from_actor": 1121,
+            "to_actor": 625,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Det Energipolitiske Udvalg",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23994403,
+            "from_actor": 1121,
+            "to_actor": 617,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Udvalget for Videnskab og Teknologi",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23994404,
+            "from_actor": 1121,
+            "to_actor": 628,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Miljø- og Planlægningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 23994405,
+            "from_actor": 1121,
+            "to_actor": 482,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "stedfortræder",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 29499583,
+            "from_actor": 1121,
+            "to_actor": 426,
+            "start": "2007-05-08",
+            "end": "2007-05-14",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 29499804,
+            "from_actor": 1121,
+            "to_actor": 425,
+            "start": "2005-10-27",
+            "end": "2005-11-08",
+            "role": "medlem",
+            "from_actor_name": "Marie Fugl",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

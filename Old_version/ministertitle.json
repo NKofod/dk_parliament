@@ -1,0 +1,1426 @@
+{
+    "3": {
+        "id": 3,
+        "name": "finansministeren",
+        "short_name": "finansminister",
+        "start": "2019-06-27",
+        "end": null,
+        "periodid": null
+    },
+    "4": {
+        "id": 4,
+        "name": "økonomi- og indenrigsministeren",
+        "short_name": "økonomi- og indenrigsminister",
+        "start": "2014-09-02",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "8": {
+        "id": 8,
+        "name": "forsvarsministeren",
+        "short_name": "forsvarsminister",
+        "start": "2019-06-27",
+        "end": "2022-02-04",
+        "periodid": null
+    },
+    "14": {
+        "id": 14,
+        "name": "undervisningsministeren",
+        "short_name": "undervisningsminister",
+        "start": "2013-08-09",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "25": {
+        "id": 25,
+        "name": "erhvervs- og vækstministeren",
+        "short_name": "erhvervs- og vækstminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "29": {
+        "id": 29,
+        "name": "udenrigsministeren",
+        "short_name": "udenrigsminister",
+        "start": "2014-02-03",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "35": {
+        "id": 35,
+        "name": "ministeren for sundhed og forebyggelse",
+        "short_name": "minister for sundhed og forebyggelse",
+        "start": "2014-02-03",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "40": {
+        "id": 40,
+        "name": "transportministeren",
+        "short_name": "transportminister",
+        "start": "2013-08-09",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "45": {
+        "id": 45,
+        "name": "justitsministeren",
+        "short_name": "justitsminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "52": {
+        "id": 52,
+        "name": "kulturministeren",
+        "short_name": "kulturminister",
+        "start": "2011-10-03",
+        "end": "2012-12-06",
+        "periodid": null
+    },
+    "58": {
+        "id": 58,
+        "name": "udviklingsministeren",
+        "short_name": "udviklingsminister",
+        "start": "2013-11-21",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "61": {
+        "id": 61,
+        "name": "social-, børne- og integrationsministeren",
+        "short_name": "social-, børne- og integrationsminister",
+        "start": "2013-08-09",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "65": {
+        "id": 65,
+        "name": "handels- og europaministeren",
+        "short_name": "handels- og europaminister",
+        "start": "2013-08-09",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "89": {
+        "id": 89,
+        "name": "ministeren for by, bolig og landdistrikter",
+        "short_name": "minister for by, bolig og landdistrikter",
+        "start": "2011-10-03",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "107": {
+        "id": 107,
+        "name": "ministeren for forskning, innovation og videregående uddannelser",
+        "short_name": "minister for forskning, innovation og videregående uddannelser",
+        "start": "2011-10-03",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "136": {
+        "id": 136,
+        "name": "beskæftigelsesministeren",
+        "short_name": "beskæftigelsesminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "140": {
+        "id": 140,
+        "name": "klima-, energi- og bygningsministeren",
+        "short_name": "klima-, energi- og bygningsminister",
+        "start": "2011-10-03",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "142": {
+        "id": 142,
+        "name": "statsministeren",
+        "short_name": "statsminister",
+        "start": "2019-06-27",
+        "end": null,
+        "periodid": null
+    },
+    "150": {
+        "id": 150,
+        "name": "miljøministeren",
+        "short_name": "miljøminister 2001",
+        "start": "2007-11-23",
+        "end": "2010-02-23",
+        "periodid": null
+    },
+    "165": {
+        "id": 165,
+        "name": "fødevareministeren",
+        "short_name": "fødevareminister",
+        "start": "2011-10-03",
+        "end": "2013-08-08",
+        "periodid": null
+    },
+    "186": {
+        "id": 186,
+        "name": "ministeren for børn, ligestilling, integration og sociale forhold",
+        "short_name": "minister for børn, ligestilling, integration og sociale forhold",
+        "start": "2014-02-03",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "203": {
+        "id": 203,
+        "name": "skatteministeren",
+        "short_name": "skatteminister",
+        "start": "2010-02-23",
+        "end": "2011-03-08",
+        "periodid": null
+    },
+    "228": {
+        "id": 228,
+        "name": "ministeren for ligestilling og kirke",
+        "short_name": "minister for ligestilling og kirke",
+        "start": "2011-10-03",
+        "end": "2014-02-03",
+        "periodid": null
+    },
+    "250": {
+        "id": 250,
+        "name": "handels- og udviklingsministeren",
+        "short_name": "handels- og udviklingsminister",
+        "start": "2014-02-03",
+        "end": "2015-06-28",
+        "periodid": null
+    },
+    "253": {
+        "id": 253,
+        "name": "uddannelses- og forskningsministeren",
+        "short_name": "uddannelses- og forskningsminister",
+        "start": "2016-11-28",
+        "end": "2018-05-02",
+        "periodid": null
+    },
+    "284": {
+        "id": 284,
+        "name": "kirkeministeren",
+        "short_name": "kirkeminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "292": {
+        "id": 292,
+        "name": "ministeren for nordisk samarbejde",
+        "short_name": "minister for nordisk samarbejde",
+        "start": "2019-06-27",
+        "end": "2020-11-19",
+        "periodid": null
+    },
+    "298": {
+        "id": 298,
+        "name": "Folketinget",
+        "short_name": "Folketinget",
+        "start": "2004-01-01",
+        "end": null,
+        "periodid": null
+    },
+    "346": {
+        "id": 346,
+        "name": "social- og integrationsministeren",
+        "short_name": "social- og integrationsminister",
+        "start": "2011-10-03",
+        "end": "2013-08-08",
+        "periodid": null
+    },
+    "347": {
+        "id": 347,
+        "name": "børne- og undervisningsministeren",
+        "short_name": "børne- og undervisningsminister",
+        "start": "2011-10-03",
+        "end": "2013-08-08",
+        "periodid": null
+    },
+    "356": {
+        "id": 356,
+        "name": "ministeren for udviklingsbistand",
+        "short_name": "minister for udviklingsbistand",
+        "start": "2010-02-23",
+        "end": "2011-10-03",
+        "periodid": null
+    },
+    "357": {
+        "id": 357,
+        "name": "handels- og investeringsministeren",
+        "short_name": "handels- og investeringsminister",
+        "start": "2011-10-03",
+        "end": "2013-08-08",
+        "periodid": null
+    },
+    "359": {
+        "id": 359,
+        "name": "europaministeren",
+        "short_name": "europaminister",
+        "start": "2011-10-03",
+        "end": "2013-08-08",
+        "periodid": null
+    },
+    "399": {
+        "id": 399,
+        "name": "videnskabsministeren",
+        "short_name": "videnskabsminister",
+        "start": "2001-11-27",
+        "end": "2010-02-23",
+        "periodid": null
+    },
+    "563": {
+        "id": 563,
+        "name": "integrationsministeren",
+        "short_name": "integrationsminister",
+        "start": "2011-03-08",
+        "end": "2011-10-03",
+        "periodid": null
+    },
+    "564": {
+        "id": 564,
+        "name": "kirkeministeren",
+        "short_name": "kirkeminister",
+        "start": "2005-02-18",
+        "end": "2007-11-23",
+        "periodid": null
+    },
+    "565": {
+        "id": 565,
+        "name": "undervisningsministeren",
+        "short_name": "undervisningsminister",
+        "start": "2011-03-08",
+        "end": "2011-10-03",
+        "periodid": null
+    },
+    "566": {
+        "id": 566,
+        "name": "indenrigs- og sundhedsministeren",
+        "short_name": "indenrigs- og sundhedsminister",
+        "start": "2010-02-23",
+        "end": "2011-10-03",
+        "periodid": null
+    },
+    "567": {
+        "id": 567,
+        "name": "Ministeren for flygtninge, indvandrere og integration",
+        "short_name": "Minister for flygtninge, indvandrere og integration",
+        "start": "2001-11-27",
+        "end": "2005-05-18",
+        "periodid": null
+    },
+    "722": {
+        "id": 722,
+        "name": "indenrigs- og sundhedsministeren",
+        "short_name": "indenrigs- og sundhedsminister",
+        "start": "2001-11-27",
+        "end": "2007-11-23",
+        "periodid": null
+    },
+    "793": {
+        "id": 793,
+        "name": "økonomi- og erhvervsministeren",
+        "short_name": "økonomi- og erhvervsminister",
+        "start": "2010-02-23",
+        "end": "2011-10-03",
+        "periodid": null
+    },
+    "1298": {
+        "id": 1298,
+        "name": "Folketingets Ombudsmand",
+        "short_name": "Folketingets Ombudsmand",
+        "start": "2004-01-01",
+        "end": "2004-01-01",
+        "periodid": null
+    },
+    "1344": {
+        "id": 1344,
+        "name": "ministeren for sundhed og forebyggelse",
+        "short_name": "minister for sundhed og forebyggelse",
+        "start": "2007-11-23",
+        "end": "2010-02-23",
+        "periodid": null
+    },
+    "1354": {
+        "id": 1354,
+        "name": "velfærdsministeren",
+        "short_name": "velfærdsminister",
+        "start": "2007-11-23",
+        "end": "2009-04-07",
+        "periodid": null
+    },
+    "1492": {
+        "id": 1492,
+        "name": "transport- og energiministeren",
+        "short_name": "transport- og energiminister",
+        "start": "2005-02-25",
+        "end": "2007-09-12",
+        "periodid": null
+    },
+    "1509": {
+        "id": 1509,
+        "name": "Folketingets formand",
+        "short_name": "Folketingets formand",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "1732": {
+        "id": 1732,
+        "name": "trafik- og energiministeren",
+        "short_name": "trafik- og energiminister",
+        "start": "2005-02-18",
+        "end": "2005-02-25",
+        "periodid": null
+    },
+    "1733": {
+        "id": 1733,
+        "name": "trafikministeren",
+        "short_name": "trafikminister",
+        "start": "2001-11-27",
+        "end": "2005-02-18",
+        "periodid": null
+    },
+    "1741": {
+        "id": 1741,
+        "name": "ministeren for ligestilling",
+        "short_name": "minister for ligestilling",
+        "start": "2009-04-07",
+        "end": "2010-02-23",
+        "periodid": null
+    },
+    "1742": {
+        "id": 1742,
+        "name": "socialministeren",
+        "short_name": "socialminister ",
+        "start": "2000-02-23",
+        "end": "2001-11-27",
+        "periodid": null
+    },
+    "1784": {
+        "id": 1784,
+        "name": "familie- og forbrugerministeren",
+        "short_name": "familie- og forbrugerminister",
+        "start": "2004-08-02",
+        "end": "2005-02-16",
+        "periodid": null
+    },
+    "1832": {
+        "id": 1832,
+        "name": "udviklingsministeren",
+        "short_name": "udviklingsminister",
+        "start": "2004-01-01",
+        "end": "2004-01-01",
+        "periodid": null
+    },
+    "1906": {
+        "id": 1906,
+        "name": "klima- og energiministeren",
+        "short_name": "klima- og energiminister",
+        "start": "2007-11-23",
+        "end": "2009-11-24",
+        "periodid": null
+    },
+    "1907": {
+        "id": 1907,
+        "name": "Ministeren for FN's klimakonference i København i 2009",
+        "short_name": "Minister for FN's klimakonference i København i 2009",
+        "start": "2009-04-05",
+        "end": "2009-12-20",
+        "periodid": null
+    },
+    "5025": {
+        "id": 5025,
+        "name": "socialministeren",
+        "short_name": "socialminister ",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "5181": {
+        "id": 5181,
+        "name": "indenrigs- og socialministeren",
+        "short_name": "indenrigs- og socialminister",
+        "start": "2009-04-07",
+        "end": "2010-02-23",
+        "periodid": null
+    },
+    "13163": {
+        "id": 13163,
+        "name": "trafikministeren",
+        "short_name": "trafikminister",
+        "start": "1987-09-10",
+        "end": "1988-06-03",
+        "periodid": null
+    },
+    "13580": {
+        "id": 13580,
+        "name": "trafik- og kommunikationsministeren",
+        "short_name": "trafik- og kommunikationsminister",
+        "start": "1988-06-03",
+        "end": "1989-01-10",
+        "periodid": null
+    },
+    "13581": {
+        "id": 13581,
+        "name": "sundhedsministeren",
+        "short_name": "sundhedsminister",
+        "start": "1998-03-23",
+        "end": "2000-02-23",
+        "periodid": null
+    },
+    "14099": {
+        "id": 14099,
+        "name": "økonomiministeren",
+        "short_name": "økonomiminister",
+        "start": "1993-01-25",
+        "end": "2001-11-27",
+        "periodid": null
+    },
+    "14100": {
+        "id": 14100,
+        "name": "handelsministeren",
+        "short_name": "handelsminister",
+        "start": "1975-02-13",
+        "end": "1976-09-08",
+        "periodid": null
+    },
+    "14101": {
+        "id": 14101,
+        "name": "ministeren for udenrigsøkonomi og for nordiske anliggender",
+        "short_name": "minister for udenrigsøkonomi og for nordiske anliggender",
+        "start": "1975-02-13",
+        "end": "1977-02-26",
+        "periodid": null
+    },
+    "14102": {
+        "id": 14102,
+        "name": "ministeren for nordiske anliggender",
+        "short_name": "minister for nordiske anliggender",
+        "start": "1980-02-28",
+        "end": "1987-09-10",
+        "periodid": null
+    },
+    "14103": {
+        "id": 14103,
+        "name": "boligministeren",
+        "short_name": "boligminister",
+        "start": "1986-03-12",
+        "end": "1987-09-10",
+        "periodid": null
+    },
+    "14104": {
+        "id": 14104,
+        "name": "indenrigsministeren",
+        "short_name": "indenrigsminister",
+        "start": "1982-09-10",
+        "end": "1986-03-12",
+        "periodid": null
+    },
+    "14105": {
+        "id": 14105,
+        "name": "ministeren for offentlige arbejder og forureningsbekæmpelse",
+        "short_name": "minister for offentlige arbejder og forureningsbekæmpelse",
+        "start": "1971-10-11",
+        "end": "1973-09-27",
+        "periodid": null
+    },
+    "14106": {
+        "id": 14106,
+        "name": "ministeren for kulturelle anliggender",
+        "short_name": "minister for kulturelle anliggender",
+        "start": "1975-02-13",
+        "end": "1980-02-16",
+        "periodid": null
+    },
+    "14107": {
+        "id": 14107,
+        "name": "arbejdsministeren",
+        "short_name": "arbejdsminister",
+        "start": "1993-01-25",
+        "end": "1998-03-23",
+        "periodid": null
+    },
+    "14108": {
+        "id": 14108,
+        "name": "ministeren for skatter og afgifter",
+        "short_name": "minister for skatter og afgifter",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "14109": {
+        "id": 14109,
+        "name": "ministeren for Grønland",
+        "short_name": "minister for Grønland",
+        "start": "1981-01-20",
+        "end": "1982-09-10",
+        "periodid": null
+    },
+    "14110": {
+        "id": 14110,
+        "name": "landbrugsministeren",
+        "short_name": "landbrugsminister",
+        "start": "1986-03-12",
+        "end": "1987-09-10",
+        "periodid": null
+    },
+    "14111": {
+        "id": 14111,
+        "name": "fiskeriministeren",
+        "short_name": "fiskeriminister",
+        "start": "1993-01-25",
+        "end": "1994-09-27",
+        "periodid": null
+    },
+    "15803": {
+        "id": 15803,
+        "name": "arbejds- og boligministeren",
+        "short_name": "arbejds- og boligminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15804": {
+        "id": 15804,
+        "name": "arbejdsministeren",
+        "short_name": "arbejdsminister",
+        "start": "1971-10-11",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15805": {
+        "id": 15805,
+        "name": "boligministeren",
+        "short_name": "boligminister",
+        "start": "1971-10-11",
+        "end": "1973-09-27",
+        "periodid": null
+    },
+    "15806": {
+        "id": 15806,
+        "name": "budgetministeren",
+        "short_name": "budgetminister",
+        "start": "1973-09-27",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15807": {
+        "id": 15807,
+        "name": "by- og boligministeren",
+        "short_name": "by- og boligminister",
+        "start": "1998-03-23",
+        "end": "2000-12-21",
+        "periodid": null
+    },
+    "15808": {
+        "id": 15808,
+        "name": "energiministeren",
+        "short_name": "energiminister",
+        "start": "1988-06-03",
+        "end": "1990-12-18",
+        "periodid": null
+    },
+    "15809": {
+        "id": 15809,
+        "name": "erhvervsministeren",
+        "short_name": "erhvervsminister",
+        "start": "1998-03-23",
+        "end": "2000-12-21",
+        "periodid": null
+    },
+    "15810": {
+        "id": 15810,
+        "name": "fiskeriministeren",
+        "short_name": "fiskeriminister",
+        "start": "1953-09-30",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15811": {
+        "id": 15811,
+        "name": "ministeren for handel, håndværk industri og søfart",
+        "short_name": "minister for handel, håndværk industri og søfart",
+        "start": "1971-10-11",
+        "end": "1972-10-05",
+        "periodid": null
+    },
+    "15812": {
+        "id": 15812,
+        "name": "industriministeren",
+        "short_name": "industriminister",
+        "start": "1993-01-25",
+        "end": "1994-01-28",
+        "periodid": null
+    },
+    "15813": {
+        "id": 15813,
+        "name": "kirkeministeren",
+        "short_name": "kirkeminister",
+        "start": "1984-07-23",
+        "end": "1988-06-03",
+        "periodid": null
+    },
+    "15814": {
+        "id": 15814,
+        "name": "kultur- og kommunikationsministeren",
+        "short_name": "kultur- og kommunikationsminister",
+        "start": "1987-09-10",
+        "end": "1988-06-03",
+        "periodid": null
+    },
+    "15815": {
+        "id": 15815,
+        "name": "landbrugs- og fiskeriministeren",
+        "short_name": "landbrugs- og fiskeriminister",
+        "start": "1973-12-19",
+        "end": "1975-02-13",
+        "periodid": null
+    },
+    "15816": {
+        "id": 15816,
+        "name": "landbrugsministeren",
+        "short_name": "landbrugsminister",
+        "start": "1971-10-11",
+        "end": "1973-09-27",
+        "periodid": null
+    },
+    "15817": {
+        "id": 15817,
+        "name": "ministeren for nordisk samarbejde",
+        "short_name": "minister for nordisk samarbejde",
+        "start": "1988-06-03",
+        "end": "1992-11-19",
+        "periodid": null
+    },
+    "15818": {
+        "id": 15818,
+        "name": "ministeren for nordiske anliggender samt europæiske markedsanliggender",
+        "short_name": "minister for nordiske anliggender samt europæiske markedsanliggender",
+        "start": "1968-02-02",
+        "end": "1971-10-11",
+        "periodid": null
+    },
+    "15819": {
+        "id": 15819,
+        "name": "ministeren for offentlige arbejder",
+        "short_name": "minister for offentlige arbejder",
+        "start": "1968-02-02",
+        "end": "1971-10-11",
+        "periodid": null
+    },
+    "15820": {
+        "id": 15820,
+        "name": "ministeren for offentlige arbejder",
+        "short_name": "minister for offentlige arbejder",
+        "start": "1986-08-14",
+        "end": "1987-09-10",
+        "periodid": null
+    },
+    "15821": {
+        "id": 15821,
+        "name": "ministeren for skatter og afgifter",
+        "short_name": "minister for skatter og afgifter",
+        "start": "1981-01-20",
+        "end": "1982-09-10",
+        "periodid": null
+    },
+    "15822": {
+        "id": 15822,
+        "name": "ministeren for statens lønnings- og pensionsvæsen",
+        "short_name": "minister for statens lønnings- og pensionsvæsen",
+        "start": "1968-02-28",
+        "end": "1971-10-11",
+        "periodid": null
+    },
+    "15823": {
+        "id": 15823,
+        "name": "ministeren for teknisk samarbejde med udviklingslandene samt nedrustningsspm",
+        "short_name": "minister for teknisk samarbejde med udviklingslandene samt nedrustningsspørgsmål",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15824": {
+        "id": 15824,
+        "name": "ministeren for udenrigsøkonomi, europæiske markedsanliggender samt nordiske anl.",
+        "short_name": "minister for udenrigsøkonomi, europæiske markedsanliggender samt nordiske anlig.",
+        "start": "1971-10-11",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15825": {
+        "id": 15825,
+        "name": "ministeren for økonomisk samordning",
+        "short_name": "minister for økonomisk samordning",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15826": {
+        "id": 15826,
+        "name": "ministeren uden portefølje med særligt henblik på udenrigspolitiske spørgsmål",
+        "short_name": "minister uden portefølje med særligt henblik på udenrigspolitiske spørgsmål",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15827": {
+        "id": 15827,
+        "name": "ministeren uden portefølje med henblik på økonomisk samordning",
+        "short_name": "minister uden portefølje med henblik på økonomisk samordning",
+        "start": "1978-08-30",
+        "end": "1979-03-13",
+        "periodid": null
+    },
+    "15828": {
+        "id": 15828,
+        "name": "samordningsministeren",
+        "short_name": "samordningsminister",
+        "start": "1993-01-25",
+        "end": "1994-02-08",
+        "periodid": null
+    },
+    "15829": {
+        "id": 15829,
+        "name": "trafikministeren",
+        "short_name": "trafikminister",
+        "start": "1989-01-10",
+        "end": "1990-12-18",
+        "periodid": null
+    },
+    "15830": {
+        "id": 15830,
+        "name": "undervisnings- og forskningsministeren",
+        "short_name": "undervisnings- og forskningsminister",
+        "start": "1987-09-10",
+        "end": "1993-01-25",
+        "periodid": null
+    },
+    "15831": {
+        "id": 15831,
+        "name": "undervisningsministeren",
+        "short_name": "undervisningsminister",
+        "start": "1982-09-10",
+        "end": "1987-09-10",
+        "periodid": null
+    },
+    "15832": {
+        "id": 15832,
+        "name": "økonomi- og budgetministeren",
+        "short_name": "økonomi- og budgetminister",
+        "start": "1971-10-11",
+        "end": "1973-09-27",
+        "periodid": null
+    },
+    "15833": {
+        "id": 15833,
+        "name": "økonomi- og handelsministeren",
+        "short_name": "økonomi- og handelsminister",
+        "start": "1973-12-19",
+        "end": "1975-02-13",
+        "periodid": null
+    },
+    "15834": {
+        "id": 15834,
+        "name": "økonomiministeren",
+        "short_name": "økonomiminister",
+        "start": "1968-02-02",
+        "end": "1971-10-11",
+        "periodid": null
+    },
+    "15835": {
+        "id": 15835,
+        "name": "økonomiministeren",
+        "short_name": "økonomiminister",
+        "start": "1973-09-27",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15836": {
+        "id": 15836,
+        "name": "forsknings- og teknologiministeren",
+        "short_name": "forsknings- og teknologiminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15837": {
+        "id": 15837,
+        "name": "forskningsministeren",
+        "short_name": "forskningsminister",
+        "start": "1999-07-10",
+        "end": "2000-12-21",
+        "periodid": null
+    },
+    "15838": {
+        "id": 15838,
+        "name": "industri- og samordningsministeren",
+        "short_name": "industri- og samordningsminister",
+        "start": "1994-02-08",
+        "end": "1994-09-27",
+        "periodid": null
+    },
+    "15839": {
+        "id": 15839,
+        "name": "kirke- og kommunikationsministeren",
+        "short_name": "kirke- og kommunikationsminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15840": {
+        "id": 15840,
+        "name": "kommunikationsministeren",
+        "short_name": "kommunikationsminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15841": {
+        "id": 15841,
+        "name": "landbrugs- og fiskeriministeren",
+        "short_name": "landbrugs- og fiskeriminister",
+        "start": "1994-09-27",
+        "end": "1996-12-30",
+        "periodid": null
+    },
+    "15842": {
+        "id": 15842,
+        "name": "miljø- og energiministeren",
+        "short_name": "miljø- og energiminister",
+        "start": "1994-09-27",
+        "end": "2001-11-27",
+        "periodid": null
+    },
+    "15843": {
+        "id": 15843,
+        "name": "miljøministeren",
+        "short_name": "miljøministeren",
+        "start": "1980-02-28",
+        "end": "1982-09-10",
+        "periodid": null
+    },
+    "15844": {
+        "id": 15844,
+        "name": "ministeren for familie- og forbrugeranliggender",
+        "short_name": "minister for familie- og forbrugeranliggender",
+        "start": "2004-08-02",
+        "end": "2005-02-16",
+        "periodid": null
+    },
+    "15845": {
+        "id": 15845,
+        "name": "ministeren for kommunikation og turisme",
+        "short_name": "minister for kommunikation og turisme",
+        "start": "1994-01-28",
+        "end": "1994-09-27",
+        "periodid": null
+    },
+    "15846": {
+        "id": 15846,
+        "name": "ministeren for nordisk samarbejde og Østersøspørgsmål",
+        "short_name": "minister for nordisk samarbejde og Østersøspørgsmål",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "15847": {
+        "id": 15847,
+        "name": "ministeren for udviklingsbistand",
+        "short_name": "minister for udviklingsbistand",
+        "start": "1993-01-25",
+        "end": "1994-09-27",
+        "periodid": null
+    },
+    "15848": {
+        "id": 15848,
+        "name": "ministeren uden portefølje (europaministeren)",
+        "short_name": "minister uden portefølje (europaminister)",
+        "start": "2001-11-27",
+        "end": "2003-01-01",
+        "periodid": null
+    },
+    "15849": {
+        "id": 15849,
+        "name": "handelsministeren",
+        "short_name": "handelsminister",
+        "start": "1972-10-05",
+        "end": "1973-12-19",
+        "periodid": null
+    },
+    "15850": {
+        "id": 15850,
+        "name": "transport- og bygningsministeren",
+        "short_name": "transport- og bygningsminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "15852": {
+        "id": 15852,
+        "name": "miljø- og fødevareministeren",
+        "short_name": "miljø- og fødevareminister",
+        "start": "2018-05-02",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "15854": {
+        "id": 15854,
+        "name": "udlændinge-, integrations- og boligministeren",
+        "short_name": "udlændinge-, integrations- og boligminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "15856": {
+        "id": 15856,
+        "name": "social- og indenrigsministeren",
+        "short_name": "social- og indenrigsminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "15858": {
+        "id": 15858,
+        "name": "energi-, forsynings- og klimaministeren",
+        "short_name": "energi-, forsynings- og klimaminister",
+        "start": "2015-06-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "15860": {
+        "id": 15860,
+        "name": "ministeren for børn, undervisning og ligestilling",
+        "short_name": "minister for børn, undervisning og ligestilling",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "15862": {
+        "id": 15862,
+        "name": "sundheds- og ældreministeren",
+        "short_name": "sundheds- og ældreminister",
+        "start": "2015-06-28",
+        "end": "2016-11-28",
+        "periodid": null
+    },
+    "16134": {
+        "id": 16134,
+        "name": "arbejds- og boligministeren",
+        "short_name": "arbejds- og boligminister",
+        "start": "1957-05-28",
+        "end": "1960-02-21",
+        "periodid": null
+    },
+    "16142": {
+        "id": 16142,
+        "name": "arbejds- og socialministeren",
+        "short_name": "arbejds- og socialminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16143": {
+        "id": 16143,
+        "name": "arbejds- og socialministeren",
+        "short_name": "arbejds- og socialminister",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16147": {
+        "id": 16147,
+        "name": "arbejdsministeren",
+        "short_name": "arbejdsminister",
+        "start": "1960-11-18",
+        "end": "1968-02-02",
+        "periodid": null
+    },
+    "16160": {
+        "id": 16160,
+        "name": "boligministeren",
+        "short_name": "boligminister",
+        "start": "1955-08-30",
+        "end": "1957-05-28",
+        "periodid": null
+    },
+    "16163": {
+        "id": 16163,
+        "name": "handelsministeren",
+        "short_name": "handelsminister",
+        "start": "1967-10-01",
+        "end": "1968-02-02",
+        "periodid": null
+    },
+    "16164": {
+        "id": 16164,
+        "name": "indenrigs- og boligministeren",
+        "short_name": "indenrigs- og boligminister",
+        "start": "1953-09-30",
+        "end": "1955-08-30",
+        "periodid": null
+    },
+    "16165": {
+        "id": 16165,
+        "name": "ministeren for familiens anliggende",
+        "short_name": "minister for familiens anliggende",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16166": {
+        "id": 16166,
+        "name": "ministeren for Grønland",
+        "short_name": "minister for Grønland",
+        "start": "1955-08-30",
+        "end": "1957-05-28",
+        "periodid": null
+    },
+    "16167": {
+        "id": 16167,
+        "name": "ministeren for handel, industri og søfart",
+        "short_name": "minister for handel, industri og søfart",
+        "start": "1961-09-07",
+        "end": "1964-08-26",
+        "periodid": null
+    },
+    "16168": {
+        "id": 16168,
+        "name": "ministeren for nordiske anliggender",
+        "short_name": "minister for nordiske anliggender",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16169": {
+        "id": 16169,
+        "name": "ministeren for nordiske anliggender",
+        "short_name": "minister for nordiske anliggender",
+        "start": "1967-10-01",
+        "end": "1968-02-02",
+        "periodid": null
+    },
+    "16170": {
+        "id": 16170,
+        "name": "ministeren for udenrigsøkonomi, europæiske markedsanliggender samt nordiske anl.",
+        "short_name": "minister for udenrigsøkonomi, europæiske markedsanliggender samt nordiske anlig.",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16171": {
+        "id": 16171,
+        "name": "ministeren for offentlige arbejder",
+        "short_name": "minister for offentlige arbejder",
+        "start": "1953-09-30",
+        "end": "1957-05-28",
+        "periodid": null
+    },
+    "16184": {
+        "id": 16184,
+        "name": "ministeren for offentlig arbejder og Grønland",
+        "short_name": "minister for offentlig arbejder og Grønland",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16185": {
+        "id": 16185,
+        "name": "ministeren for udenrigsøkonomi ",
+        "short_name": "minister for udenrigsøkonomi ",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16186": {
+        "id": 16186,
+        "name": "ministeren uden portefølje ",
+        "short_name": "minister uden portefølje",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16187": {
+        "id": 16187,
+        "name": "ministeren uden portefølje ",
+        "short_name": "minister uden portefølje",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16188": {
+        "id": 16188,
+        "name": "Ministeren uden portefølje med henblik på udenrigspolitiske spørgsmål",
+        "short_name": "Minister uden portefølje med henblik på udenrigspolitiske spørgsmål",
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "16189": {
+        "id": 16189,
+        "name": "socialministeren",
+        "short_name": "socialminister",
+        "start": "1953-11-01",
+        "end": "1962-09-03",
+        "periodid": null
+    },
+    "16190": {
+        "id": 16190,
+        "name": "socialministeren",
+        "short_name": "socialminister",
+        "start": "1964-09-26",
+        "end": "1968-02-02",
+        "periodid": null
+    },
+    "16192": {
+        "id": 16192,
+        "name": "økonomi- og arbejdsministeren",
+        "short_name": "økonomi- og arbejdsminister",
+        "start": "1953-11-01",
+        "end": "1957-05-28",
+        "periodid": null
+    },
+    "17069": {
+        "id": 17069,
+        "name": "økonomi- og indenrigsministeren",
+        "short_name": "økonomi- og indenrigsminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17071": {
+        "id": 17071,
+        "name": "ministeren for udviklingssamarbejde",
+        "short_name": "minister for udviklingssamarbejde",
+        "start": "2019-06-27",
+        "end": "2020-11-19",
+        "periodid": null
+    },
+    "17073": {
+        "id": 17073,
+        "name": "undervisningsministeren",
+        "short_name": "undervisningsminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17075": {
+        "id": 17075,
+        "name": "udlændinge- og integrationsministeren",
+        "short_name": "udlændinge- og integrationsminister",
+        "start": "2019-06-27",
+        "end": "2022-05-02",
+        "periodid": null
+    },
+    "17077": {
+        "id": 17077,
+        "name": "ministeren for ligestilling",
+        "short_name": "minister for ligestilling",
+        "start": "2016-11-28",
+        "end": "2017-08-06",
+        "periodid": null
+    },
+    "17079": {
+        "id": 17079,
+        "name": "sundhedsministeren",
+        "short_name": "sundhedsminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17081": {
+        "id": 17081,
+        "name": "ministeren for offentlig innovation",
+        "short_name": "minister for offentlig innovation",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17083": {
+        "id": 17083,
+        "name": "børne- og socialministeren",
+        "short_name": "børne- og socialminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17086": {
+        "id": 17086,
+        "name": "transport-, bygnings- og boligministeren",
+        "short_name": "transport-, bygnings- og boligminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17088": {
+        "id": 17088,
+        "name": "ældreministeren",
+        "short_name": "ældreminister",
+        "start": "2016-11-28",
+        "end": "2019-06-27",
+        "periodid": null
+    },
+    "17090": {
+        "id": 17090,
+        "name": "erhvervsministeren",
+        "short_name": "erhvervsminister",
+        "start": "2019-06-27",
+        "end": null,
+        "periodid": null
+    },
+    "17519": {
+        "id": 17519,
+        "name": "IT-forskningsministeren",
+        "short_name": "IT-forskningsminister",
+        "start": "2000-12-21",
+        "end": "2001-11-27",
+        "periodid": null
+    },
+    "17528": {
+        "id": 17528,
+        "name": "ministeren for fiskeri og ligestilling",
+        "short_name": "minister for fiskeri og ligestilling",
+        "start": "2017-08-07",
+        "end": "2018-05-02",
+        "periodid": null
+    },
+    "18025": {
+        "id": 18025,
+        "name": "Folketingets formand",
+        "short_name": "Folketingets formand",
+        "start": "2018-05-14",
+        "end": null,
+        "periodid": null
+    },
+    "18028": {
+        "id": 18028,
+        "name": "Statsrevisorerne",
+        "short_name": "Statsrevisorerne",
+        "start": "2018-05-16",
+        "end": null,
+        "periodid": null
+    },
+    "18743": {
+        "id": 18743,
+        "name": "social- og indenrigsministeren",
+        "short_name": "social- og indenrigsminister",
+        "start": "2019-06-27",
+        "end": "2021-01-21",
+        "periodid": null
+    },
+    "18745": {
+        "id": 18745,
+        "name": "klima-, energi- og forsyningsministeren",
+        "short_name": "klima-, energi- og forsyningsminister",
+        "start": "2019-06-27",
+        "end": null,
+        "periodid": null
+    },
+    "18746": {
+        "id": 18746,
+        "name": "ministeren for fødevarer, fiskeri og ligestilling",
+        "short_name": "minister for fødevarer, fiskeri og ligestilling",
+        "start": "2019-06-27",
+        "end": "2020-11-19",
+        "periodid": null
+    },
+    "18747": {
+        "id": 18747,
+        "name": "miljøministeren",
+        "short_name": "miljøminister",
+        "start": "2019-06-27",
+        "end": "2020-11-19",
+        "periodid": null
+    },
+    "18748": {
+        "id": 18748,
+        "name": "transportministeren",
+        "short_name": "transportminister",
+        "start": "2019-06-27",
+        "end": "2021-01-21",
+        "periodid": null
+    },
+    "18749": {
+        "id": 18749,
+        "name": "boligministeren",
+        "short_name": "boligminister",
+        "start": "2019-06-27",
+        "end": "2021-01-21",
+        "periodid": null
+    },
+    "18751": {
+        "id": 18751,
+        "name": "børne- og undervisningsministeren",
+        "short_name": "børne- og undervisningsminister",
+        "start": "2019-06-27",
+        "end": null,
+        "periodid": null
+    },
+    "18753": {
+        "id": 18753,
+        "name": "sundheds- og ældreministeren",
+        "short_name": "sundheds- og ældreminister",
+        "start": "2019-06-27",
+        "end": "2021-01-21",
+        "periodid": null
+    },
+    "19492": {
+        "id": 19492,
+        "name": "ministeren for fødevarer, landbrug og fiskeri",
+        "short_name": "minister for fødevarer, landbrug og fiskeri",
+        "start": "2020-11-19",
+        "end": null,
+        "periodid": null
+    },
+    "19496": {
+        "id": 19496,
+        "name": "miljøministeren",
+        "short_name": "miljøminister",
+        "start": "2020-11-19",
+        "end": null,
+        "periodid": null
+    },
+    "19497": {
+        "id": 19497,
+        "name": "ministeren for ligestilling",
+        "short_name": "minister for ligestilling",
+        "start": "2022-02-04",
+        "end": null,
+        "periodid": null
+    },
+    "19562": {
+        "id": 19562,
+        "name": "indenrigs- og boligministeren",
+        "short_name": "indenrigs- og boligminister",
+        "start": "2021-01-21",
+        "end": "2022-05-02",
+        "periodid": null
+    },
+    "19565": {
+        "id": 19565,
+        "name": "sundhedsministeren",
+        "short_name": "sundhedsminister",
+        "start": "2021-01-21",
+        "end": null,
+        "periodid": null
+    },
+    "19567": {
+        "id": 19567,
+        "name": "social- og ældreministeren",
+        "short_name": "social- og ældreminister",
+        "start": "2021-01-21",
+        "end": null,
+        "periodid": null
+    },
+    "19568": {
+        "id": 19568,
+        "name": "transportministeren",
+        "short_name": "transportminister",
+        "start": "2022-02-04",
+        "end": null,
+        "periodid": null
+    }
+}

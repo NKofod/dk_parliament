@@ -1,0 +1,37 @@
+{
+    "10121": [
+        {
+            "id": 76885,
+            "from_actor": 14617,
+            "to_actor": 10121,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Jette Westh",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24379813,
+            "from_actor": 10121,
+            "to_actor": 14604,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Jette Westh",
+            "to_actor_name": "Socialistisk Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32575015,
+            "from_actor": 10121,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "stedfortræder",
+            "from_actor_name": "Jette Westh",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

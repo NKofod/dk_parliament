@@ -1,0 +1,213 @@
+{
+    "18736": [
+        {
+            "id": 24916919,
+            "from_actor": 18736,
+            "to_actor": 18674,
+            "start": "2019-08-05",
+            "end": "2019-09-27",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24916920,
+            "from_actor": 18736,
+            "to_actor": 18681,
+            "start": "2019-08-05",
+            "end": "2019-09-27",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24916921,
+            "from_actor": 18736,
+            "to_actor": 18856,
+            "start": "2020-08-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 24916922,
+            "from_actor": 18736,
+            "to_actor": 18893,
+            "start": "2020-08-01",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 24916924,
+            "from_actor": 18736,
+            "to_actor": 18769,
+            "start": "2019-08-01",
+            "end": "2019-09-27",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24916926,
+            "from_actor": 18736,
+            "to_actor": 18884,
+            "start": "2020-08-12",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24916927,
+            "from_actor": 18736,
+            "to_actor": 18761,
+            "start": "2019-08-05",
+            "end": "2019-09-30",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24916931,
+            "from_actor": 18736,
+            "to_actor": 18932,
+            "start": "2020-09-02",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 24916932,
+            "from_actor": 18736,
+            "to_actor": 18878,
+            "start": "2020-09-15",
+            "end": "2020-10-06",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153620,
+            "from_actor": 18736,
+            "to_actor": 19386,
+            "start": "2020-10-07",
+            "end": "2021-04-05",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28153746,
+            "from_actor": 18736,
+            "to_actor": 19408,
+            "start": "2020-10-22",
+            "end": "2021-04-07",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Klima-, Energi- og Forsyningsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154012,
+            "from_actor": 18736,
+            "to_actor": 19438,
+            "start": "2020-12-09",
+            "end": "2021-04-05",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154013,
+            "from_actor": 18736,
+            "to_actor": 19438,
+            "start": "2020-12-04",
+            "end": "2020-12-07",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154017,
+            "from_actor": 18736,
+            "to_actor": 19438,
+            "start": "2020-11-18",
+            "end": "2020-12-01",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154019,
+            "from_actor": 18736,
+            "to_actor": 19438,
+            "start": "2020-10-20",
+            "end": "2020-11-15",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28154020,
+            "from_actor": 18736,
+            "to_actor": 19438,
+            "start": "2020-10-07",
+            "end": "2020-10-18",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Miljø- og Fødevareudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 28155873,
+            "from_actor": 18736,
+            "to_actor": 19359,
+            "start": "2020-10-06",
+            "end": "2021-03-28",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Det Konservative Folkeparti",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 31259593,
+            "from_actor": 18736,
+            "to_actor": 19392,
+            "start": "2020-10-07",
+            "end": "2021-03-29",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Transportudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32071570,
+            "from_actor": 18736,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-03-28",
+            "role": "medlem",
+            "from_actor_name": "Egil Hulgaard",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}

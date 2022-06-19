@@ -1,0 +1,158 @@
+{
+    "20144": [
+        {
+            "id": 32372291,
+            "from_actor": 20144,
+            "to_actor": 19937,
+            "start": "2022-05-12",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 32475727,
+            "from_actor": 20144,
+            "to_actor": 19900,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475937,
+            "from_actor": 20144,
+            "to_actor": 19889,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Beskæftigelsesudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32475980,
+            "from_actor": 20144,
+            "to_actor": 19902,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476341,
+            "from_actor": 20144,
+            "to_actor": 19921,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Sundhedsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525333,
+            "from_actor": 20144,
+            "to_actor": 19855,
+            "start": "2022-05-10",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Socialdemokratiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32525537,
+            "from_actor": 20144,
+            "to_actor": 19854,
+            "start": "2022-05-10",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32599728,
+            "from_actor": 20144,
+            "to_actor": 19829,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Europaudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32599837,
+            "from_actor": 20144,
+            "to_actor": 19891,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Nordisk Råd",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32673551,
+            "from_actor": 20144,
+            "to_actor": 20168,
+            "start": "2022-10-05",
+            "end": "2022-10-06",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722694,
+            "from_actor": 20144,
+            "to_actor": 20169,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32722726,
+            "from_actor": 20144,
+            "to_actor": 20170,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "fejloprettet",
+            "type": "Anden gruppe"
+        },
+        {
+            "id": 32829505,
+            "from_actor": 20144,
+            "to_actor": 19909,
+            "start": "2022-05-17",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Indenrigs- og Boligudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829709,
+            "from_actor": 20144,
+            "to_actor": 19916,
+            "start": "2022-05-18",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Maria Gudme",
+            "to_actor_name": "Uddannelses- og Forskningsudvalget",
+            "type": "Udvalg"
+        }
+    ]
+}

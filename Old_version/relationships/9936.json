@@ -1,0 +1,158 @@
+{
+    "9936": [
+        {
+            "id": 70838,
+            "from_actor": 14338,
+            "to_actor": 9936,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Blæsbjerg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 71707,
+            "from_actor": 14387,
+            "to_actor": 9936,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Blæsbjerg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 72754,
+            "from_actor": 14457,
+            "to_actor": 9936,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Folketinget",
+            "to_actor_name": "Svend Blæsbjerg",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18714802,
+            "from_actor": 9936,
+            "to_actor": 14601,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714803,
+            "from_actor": 9936,
+            "to_actor": 14469,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "medlem",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714804,
+            "from_actor": 9936,
+            "to_actor": 14447,
+            "start": "1979-10-23",
+            "end": "1980-10-07",
+            "role": "medlem",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714805,
+            "from_actor": 9936,
+            "to_actor": 14358,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "medlem",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714806,
+            "from_actor": 9936,
+            "to_actor": 14322,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "medlem",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714807,
+            "from_actor": 9936,
+            "to_actor": 14393,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Fremskridtspartiet",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 18714808,
+            "from_actor": 9936,
+            "to_actor": 14290,
+            "start": "1977-02-15",
+            "end": "1977-10-04",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18714809,
+            "from_actor": 9936,
+            "to_actor": 14596,
+            "start": "1985-10-01",
+            "end": "1986-10-07",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18714810,
+            "from_actor": 9936,
+            "to_actor": 14457,
+            "start": "1980-10-07",
+            "end": "1981-10-06",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 18714811,
+            "from_actor": 9936,
+            "to_actor": 14387,
+            "start": "1978-10-03",
+            "end": "1979-10-02",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32451112,
+            "from_actor": 9936,
+            "to_actor": 14338,
+            "start": "1977-10-04",
+            "end": "1978-10-03",
+            "role": "stedfortræder",
+            "from_actor_name": "Svend Blæsbjerg",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        }
+    ]
+}
