@@ -111,7 +111,7 @@ def create_folders_and_files(data):
                                                                 basic_info_dict["last-name"]))
     picture_url = re.sub("^.+?ft.dk:443", "https://www.ft.dk",
                          str(data.find("picturemires").text))
-    picture_name = "{}_{}_profile.jpg".format(basic_info_dict["first-name"], basic_info_dict["last-name"])
+    picture_name = "{}_{}_profile.jpg".format(basic_info_dict["party-short"],basic_info_dict["first-name"], basic_info_dict["last-name"])
     if not os.path.isfile("./party_{}/{}'".format(  basic_info_dict["party-short"],
                                                     picture_name)):
         os.system("wget -q --no-check-certificate --output-document='./party_{}/{}' {}".format(basic_info_dict["party-short"],

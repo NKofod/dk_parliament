@@ -163,6 +163,8 @@
 \definecolor{SP-colour}{HTML}{0C6889}
 \definecolor{UFG-colour}{HTML}{999999}
 \definecolor{V-colour}{HTML}{002883}
+\definecolor{KD-colour}{HTML}{F05123}
+\definecolor{M-colour}{HTML}{842990}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
