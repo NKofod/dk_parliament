@@ -8,7 +8,9 @@ Currently the main script, dk_parliament.py, can fetch the basic info and pictur
 Currently the main priority is adding the personal election results of each member of parliament to the basic info sheet output by the script.
 
 ## Example
-<embed src="/pdfs/Nick_Hækkerup.pdf" type="application/pdf">
+![Example](./ex/ex1.png "Example")
+![Example](./ex/ex23.png "Example")
+
 
 ## Future work 
 There are several more things in the pipeline for this project. Amongst the most important can be mentioned: 
