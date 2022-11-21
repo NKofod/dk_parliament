@@ -4022,5 +4022,21 @@
         "start": "2021-10-05",
         "end": "2022-10-04",
         "periodid": 155
+    },
+    "20131": {
+        "id": 20131,
+        "name": "Landsskatteretten",
+        "short_name": "Landsskatteretten",
+        "start": "2022-06-01",
+        "end": "2028-05-31",
+        "periodid": null
+    },
+    "20158": {
+        "id": 20158,
+        "name": "Statsrevisorerne",
+        "short_name": "Statsrevisorerne",
+        "start": "2022-10-01",
+        "end": "2026-09-30",
+        "periodid": null
     }
 }

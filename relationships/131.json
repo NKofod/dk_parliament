@@ -1288,17 +1288,6 @@
             "type": "Ministertitel"
         },
         {
-            "id": 22651314,
-            "from_actor": 131,
-            "to_actor": 45,
-            "start": "2001-11-27",
-            "end": "2008-09-10",
-            "role": "Minister",
-            "from_actor_name": "Lene Espersen",
-            "to_actor_name": "justitsministeren",
-            "type": "Ministertitel"
-        },
-        {
             "id": 22651315,
             "from_actor": 131,
             "to_actor": 793,
@@ -1484,6 +1473,17 @@
             "from_actor_name": "Lene Espersen",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32153115,
+            "from_actor": 131,
+            "to_actor": 45,
+            "start": "2001-11-27",
+            "end": "2008-09-10",
+            "role": "Minister",
+            "from_actor_name": "Lene Espersen",
+            "to_actor_name": "justitsministeren",
+            "type": "Ministertitel"
         }
     ]
 }

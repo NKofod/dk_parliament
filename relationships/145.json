@@ -1,7 +1,7 @@
 {
     "145": [
         {
-            "id": 31735752,
+            "id": 32952071,
             "from_actor": 145,
             "to_actor": 729,
             "start": "2004-10-05",
@@ -12,7 +12,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735753,
+            "id": 32952072,
             "from_actor": 145,
             "to_actor": 423,
             "start": "2004-10-05",
@@ -23,7 +23,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735754,
+            "id": 32952073,
             "from_actor": 145,
             "to_actor": 424,
             "start": "2005-02-08",
@@ -34,7 +34,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735755,
+            "id": 32952074,
             "from_actor": 145,
             "to_actor": 549,
             "start": "2005-02-08",
@@ -45,7 +45,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735756,
+            "id": 32952075,
             "from_actor": 145,
             "to_actor": 550,
             "start": "2005-10-04",
@@ -56,7 +56,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735757,
+            "id": 32952076,
             "from_actor": 145,
             "to_actor": 551,
             "start": "2006-10-03",
@@ -67,7 +67,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735758,
+            "id": 32952077,
             "from_actor": 145,
             "to_actor": 552,
             "start": "2007-10-02",
@@ -78,7 +78,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735759,
+            "id": 32952078,
             "from_actor": 145,
             "to_actor": 553,
             "start": "2007-11-13",
@@ -89,7 +89,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735760,
+            "id": 32952079,
             "from_actor": 145,
             "to_actor": 554,
             "start": "2008-10-07",
@@ -100,7 +100,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735761,
+            "id": 32952080,
             "from_actor": 145,
             "to_actor": 555,
             "start": "2009-10-06",
@@ -111,7 +111,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735762,
+            "id": 32952081,
             "from_actor": 145,
             "to_actor": 556,
             "start": "2010-10-05",
@@ -122,7 +122,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735763,
+            "id": 32952082,
             "from_actor": 145,
             "to_actor": 557,
             "start": "2011-09-15",
@@ -133,7 +133,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735764,
+            "id": 32952083,
             "from_actor": 145,
             "to_actor": 558,
             "start": "2011-10-04",
@@ -144,7 +144,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735765,
+            "id": 32952084,
             "from_actor": 145,
             "to_actor": 19552,
             "start": "2021-01-01",
@@ -155,18 +155,29 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735766,
+            "id": 32952085,
             "from_actor": 145,
             "to_actor": 19933,
             "start": "2021-10-05",
-            "end": "2022-10-04",
+            "end": "2022-05-18",
             "role": "medlem",
             "from_actor_name": "Lars Løkke Rasmussen",
             "to_actor_name": "Uden for folketingsgrupperne - Lars Løkke Rasmussen",
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735767,
+            "id": 32952086,
+            "from_actor": 145,
+            "to_actor": 20163,
+            "start": "2022-05-19",
+            "end": "2023-10-03",
+            "role": "medlem",
+            "from_actor_name": "Lars Løkke Rasmussen",
+            "to_actor_name": "Moderaterne",
+            "type": "Folketingsgruppe"
+        },
+        {
+            "id": 32952087,
             "from_actor": 145,
             "to_actor": 13670,
             "start": "2011-11-22",
@@ -177,7 +188,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735768,
+            "id": 32952088,
             "from_actor": 145,
             "to_actor": 255,
             "start": "2011-11-22",
@@ -188,7 +199,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735769,
+            "id": 32952089,
             "from_actor": 145,
             "to_actor": 15749,
             "start": "2015-06-18",
@@ -199,7 +210,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735770,
+            "id": 32952090,
             "from_actor": 145,
             "to_actor": 561,
             "start": "2012-10-02",
@@ -210,7 +221,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735771,
+            "id": 32952091,
             "from_actor": 145,
             "to_actor": 560,
             "start": "2013-10-01",
@@ -221,7 +232,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735772,
+            "id": 32952092,
             "from_actor": 145,
             "to_actor": 18676,
             "start": "2019-06-05",
@@ -232,7 +243,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735773,
+            "id": 32952093,
             "from_actor": 145,
             "to_actor": 13638,
             "start": "2014-10-07",
@@ -243,7 +254,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735774,
+            "id": 32952094,
             "from_actor": 145,
             "to_actor": 18321,
             "start": "2018-10-02",
@@ -254,7 +265,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735775,
+            "id": 32952095,
             "from_actor": 145,
             "to_actor": 1075,
             "start": "2011-11-22",
@@ -265,7 +276,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735776,
+            "id": 32952096,
             "from_actor": 145,
             "to_actor": 16884,
             "start": "2016-10-04",
@@ -276,7 +287,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735777,
+            "id": 32952097,
             "from_actor": 145,
             "to_actor": 17608,
             "start": "2017-10-03",
@@ -287,7 +298,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735778,
+            "id": 32952098,
             "from_actor": 145,
             "to_actor": 18737,
             "start": "2019-09-27",
@@ -298,7 +309,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735779,
+            "id": 32952099,
             "from_actor": 145,
             "to_actor": 16049,
             "start": "2015-10-06",
@@ -309,7 +320,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735780,
+            "id": 32952100,
             "from_actor": 145,
             "to_actor": 19354,
             "start": "2020-10-06",
@@ -320,7 +331,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735781,
+            "id": 32952101,
             "from_actor": 145,
             "to_actor": 1076,
             "start": "2011-11-22",
@@ -331,7 +342,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735782,
+            "id": 32952102,
             "from_actor": 145,
             "to_actor": 15870,
             "start": "2011-11-22",
@@ -342,7 +353,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735783,
+            "id": 32952103,
             "from_actor": 145,
             "to_actor": 18889,
             "start": "2019-10-01",
@@ -353,7 +364,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735784,
+            "id": 32952104,
             "from_actor": 145,
             "to_actor": 5156,
             "start": "2014-10-08",
@@ -364,7 +375,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735785,
+            "id": 32952105,
             "from_actor": 145,
             "to_actor": 499,
             "start": "2011-10-07",
@@ -375,7 +386,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735786,
+            "id": 32952106,
             "from_actor": 145,
             "to_actor": 336,
             "start": "2012-10-03",
@@ -386,7 +397,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735787,
+            "id": 32952107,
             "from_actor": 145,
             "to_actor": 18853,
             "start": "2019-10-02",
@@ -397,7 +408,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735788,
+            "id": 32952108,
             "from_actor": 145,
             "to_actor": 14943,
             "start": "2002-10-01",
@@ -408,7 +419,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735789,
+            "id": 32952109,
             "from_actor": 145,
             "to_actor": 14957,
             "start": "2003-10-07",
@@ -419,18 +430,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735790,
-            "from_actor": 145,
-            "to_actor": 19845,
-            "start": "2021-10-07",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Lars Løkke Rasmussen",
-            "to_actor_name": "Det Udenrigspolitiske Nævn",
-            "type": "Kommission"
-        },
-        {
-            "id": 31735791,
+            "id": 32952110,
             "from_actor": 145,
             "to_actor": 14926,
             "start": "2001-11-20",
@@ -441,7 +441,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735792,
+            "id": 32952111,
             "from_actor": 145,
             "to_actor": 15746,
             "start": "2015-06-18",
@@ -452,7 +452,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735793,
+            "id": 32952112,
             "from_actor": 145,
             "to_actor": 18674,
             "start": "2019-06-05",
@@ -463,7 +463,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735794,
+            "id": 32952113,
+            "from_actor": 145,
+            "to_actor": 19845,
+            "start": "2021-10-07",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Lars Løkke Rasmussen",
+            "to_actor_name": "Det Udenrigspolitiske Nævn",
+            "type": "Kommission"
+        },
+        {
+            "id": 32952114,
             "from_actor": 145,
             "to_actor": 19349,
             "start": "2020-10-07",
@@ -474,7 +485,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735795,
+            "id": 32952115,
             "from_actor": 145,
             "to_actor": 14889,
             "start": "2000-10-03",
@@ -485,7 +496,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735796,
+            "id": 32952116,
             "from_actor": 145,
             "to_actor": 14915,
             "start": "2001-10-02",
@@ -496,7 +507,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735797,
+            "id": 32952117,
             "from_actor": 145,
             "to_actor": 14852,
             "start": "1998-10-06",
@@ -507,7 +518,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735798,
+            "id": 32952118,
             "from_actor": 145,
             "to_actor": 14866,
             "start": "1999-10-05",
@@ -518,7 +529,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735799,
+            "id": 32952119,
             "from_actor": 145,
             "to_actor": 31,
             "start": "2013-10-03",
@@ -529,7 +540,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735800,
+            "id": 32952120,
             "from_actor": 145,
             "to_actor": 420,
             "start": "2011-09-15",
@@ -540,7 +551,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735801,
+            "id": 32952121,
             "from_actor": 145,
             "to_actor": 18737,
             "start": "2019-08-13",
@@ -551,7 +562,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735802,
+            "id": 32952122,
             "from_actor": 145,
             "to_actor": 16886,
             "start": "2016-10-04",
@@ -562,7 +573,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735803,
+            "id": 32952123,
             "from_actor": 145,
             "to_actor": 14824,
             "start": "1997-10-07",
@@ -573,7 +584,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735804,
+            "id": 32952124,
             "from_actor": 145,
             "to_actor": 14773,
             "start": "1994-09-21",
@@ -584,7 +595,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735805,
+            "id": 32952125,
             "from_actor": 145,
             "to_actor": 14787,
             "start": "1994-10-04",
@@ -595,7 +606,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735806,
+            "id": 32952126,
             "from_actor": 145,
             "to_actor": 14798,
             "start": "1995-10-03",
@@ -606,7 +617,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735807,
+            "id": 32952127,
             "from_actor": 145,
             "to_actor": 14810,
             "start": "1996-10-01",
@@ -617,7 +628,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735808,
+            "id": 32952128,
             "from_actor": 145,
             "to_actor": 14838,
             "start": "1998-03-11",
@@ -628,7 +639,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31735809,
+            "id": 32952129,
             "from_actor": 145,
             "to_actor": 545,
             "start": "2011-12-13",
@@ -639,7 +650,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 31735810,
+            "id": 32952130,
             "from_actor": 145,
             "to_actor": 19854,
             "start": "2021-10-05",
@@ -650,7 +661,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735811,
+            "id": 32952131,
             "from_actor": 145,
             "to_actor": 14931,
             "start": "2002-10-01",
@@ -661,7 +672,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735812,
+            "id": 32952132,
             "from_actor": 145,
             "to_actor": 18303,
             "start": "2018-10-02",
@@ -672,7 +683,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735813,
+            "id": 32952133,
             "from_actor": 145,
             "to_actor": 427,
             "start": "2007-10-02",
@@ -683,7 +694,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735814,
+            "id": 32952134,
             "from_actor": 145,
             "to_actor": 14917,
             "start": "2001-11-20",
@@ -694,7 +705,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735815,
+            "id": 32952135,
             "from_actor": 145,
             "to_actor": 6,
             "start": "2013-10-01",
@@ -705,7 +716,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735816,
+            "id": 32952136,
             "from_actor": 145,
             "to_actor": 18856,
             "start": "2019-10-01",
@@ -716,7 +727,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735817,
+            "id": 32952137,
             "from_actor": 145,
             "to_actor": 13635,
             "start": "2014-10-07",
@@ -727,7 +738,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735818,
+            "id": 32952138,
             "from_actor": 145,
             "to_actor": 19352,
             "start": "2020-10-06",
@@ -738,7 +749,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735819,
+            "id": 32952139,
             "from_actor": 145,
             "to_actor": 17605,
             "start": "2017-10-03",
@@ -749,7 +760,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735820,
+            "id": 32952140,
             "from_actor": 145,
             "to_actor": 336,
             "start": "2013-05-24",
@@ -760,7 +771,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735822,
+            "id": 32952142,
             "from_actor": 145,
             "to_actor": 426,
             "start": "2006-10-03",
@@ -771,7 +782,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735823,
+            "id": 32952143,
             "from_actor": 145,
             "to_actor": 425,
             "start": "2005-10-04",
@@ -782,7 +793,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735824,
+            "id": 32952144,
             "from_actor": 145,
             "to_actor": 342,
             "start": "2012-10-02",
@@ -793,7 +804,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735825,
+            "id": 32952145,
             "from_actor": 145,
             "to_actor": 14872,
             "start": "2000-10-03",
@@ -804,7 +815,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735826,
+            "id": 32952146,
             "from_actor": 145,
             "to_actor": 14897,
             "start": "2001-10-02",
@@ -815,7 +826,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735827,
+            "id": 32952147,
             "from_actor": 145,
             "to_actor": 14855,
             "start": "1999-10-05",
@@ -826,7 +837,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735828,
+            "id": 32952148,
             "from_actor": 145,
             "to_actor": 14841,
             "start": "1998-10-06",
@@ -837,7 +848,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735829,
+            "id": 32952149,
             "from_actor": 145,
             "to_actor": 14825,
             "start": "1998-03-11",
@@ -848,7 +859,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735830,
+            "id": 32952150,
             "from_actor": 145,
             "to_actor": 429,
             "start": "2009-10-06",
@@ -859,7 +870,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735831,
+            "id": 32952151,
             "from_actor": 145,
             "to_actor": 232,
             "start": "2008-10-07",
@@ -870,7 +881,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735832,
+            "id": 32952152,
             "from_actor": 145,
             "to_actor": 14811,
             "start": "1997-10-07",
@@ -881,7 +892,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735833,
+            "id": 32952153,
             "from_actor": 145,
             "to_actor": 14800,
             "start": "1996-10-01",
@@ -892,7 +903,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735834,
+            "id": 32952154,
             "from_actor": 145,
             "to_actor": 345,
             "start": "2011-10-04",
@@ -903,7 +914,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735835,
+            "id": 32952155,
             "from_actor": 145,
             "to_actor": 14789,
             "start": "1995-10-03",
@@ -914,7 +925,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735836,
+            "id": 32952156,
             "from_actor": 145,
             "to_actor": 14778,
             "start": "1994-10-04",
@@ -925,7 +936,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735837,
+            "id": 32952157,
             "from_actor": 145,
             "to_actor": 14764,
             "start": "1994-09-21",
@@ -936,7 +947,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735838,
+            "id": 32952158,
             "from_actor": 145,
             "to_actor": 14259,
             "start": "2003-10-07",
@@ -947,7 +958,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735839,
+            "id": 32952159,
             "from_actor": 145,
             "to_actor": 428,
             "start": "2007-11-13",
@@ -958,7 +969,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735840,
+            "id": 32952160,
             "from_actor": 145,
             "to_actor": 368,
             "start": "2010-10-05",
@@ -969,7 +980,7 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31735841,
+            "id": 32952161,
             "from_actor": 145,
             "to_actor": 18737,
             "start": "2019-06-21",
@@ -980,7 +991,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31735842,
+            "id": 32952162,
             "from_actor": 145,
             "to_actor": 3,
             "start": "2007-11-23",
@@ -991,7 +1002,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 31735843,
+            "id": 32952163,
             "from_actor": 145,
             "to_actor": 722,
             "start": "2001-11-27",
@@ -1002,7 +1013,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 31735844,
+            "id": 32952164,
             "from_actor": 145,
             "to_actor": 142,
             "start": "2009-04-05",
@@ -1013,7 +1024,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 31735845,
+            "id": 32952165,
             "from_actor": 145,
             "to_actor": 142,
             "start": "2015-06-28",
@@ -1024,7 +1035,7 @@
             "type": "Ministertitel"
         },
         {
-            "id": 31735846,
+            "id": 32952166,
             "from_actor": 145,
             "to_actor": 336,
             "start": "2013-05-23",
@@ -1035,7 +1046,7 @@
             "type": "Kommission"
         },
         {
-            "id": 31743514,
+            "id": 32961113,
             "from_actor": 145,
             "to_actor": 16060,
             "start": "2015-10-06",

@@ -1431,50 +1431,6 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 28639754,
-            "from_actor": 110,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
-            "id": 30171983,
-            "from_actor": 110,
-            "to_actor": 19937,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
-            "type": "Tværpolitisk netværk"
-        },
-        {
-            "id": 30552180,
-            "from_actor": 110,
-            "to_actor": 19879,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 30795325,
-            "from_actor": 110,
-            "to_actor": 19910,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Kirkeudvalget",
-            "type": "Udvalg"
-        },
-        {
             "id": 30822405,
             "from_actor": 110,
             "to_actor": 19860,
@@ -1484,94 +1440,6 @@
             "from_actor_name": "Rosa Lund",
             "to_actor_name": "Enhedslisten",
             "type": "Folketingsgruppe"
-        },
-        {
-            "id": 30989337,
-            "from_actor": 110,
-            "to_actor": 19906,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31259656,
-            "from_actor": 110,
-            "to_actor": 19902,
-            "start": "2022-03-02",
-            "end": "2022-03-02",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31259660,
-            "from_actor": 110,
-            "to_actor": 19902,
-            "start": "2022-01-04",
-            "end": "2022-01-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31394985,
-            "from_actor": 110,
-            "to_actor": 19900,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Ligestillingsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31449406,
-            "from_actor": 110,
-            "to_actor": 19877,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Udvalget til Valgs Prøvelse",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31503532,
-            "from_actor": 110,
-            "to_actor": 19903,
-            "start": "2022-03-25",
-            "end": "2022-03-25",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31503536,
-            "from_actor": 110,
-            "to_actor": 19903,
-            "start": "2021-11-29",
-            "end": "2021-11-29",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31503537,
-            "from_actor": 110,
-            "to_actor": 19903,
-            "start": "2022-01-26",
-            "end": "2022-01-26",
-            "role": "medlem",
-            "from_actor_name": "Rosa Lund",
-            "to_actor_name": "Udenrigsudvalget",
-            "type": "Udvalg"
         },
         {
             "id": 31639003,
@@ -1585,7 +1453,73 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31666618,
+            "id": 32071695,
+            "from_actor": 110,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32208048,
+            "from_actor": 110,
+            "to_actor": 19879,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Underudvalget under Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32372277,
+            "from_actor": 110,
+            "to_actor": 19937,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Folketingets Tværpolitiske netværk for seksuel og reproduktiv sundhed og rettigheder ",
+            "type": "Tværpolitisk netværk"
+        },
+        {
+            "id": 32475745,
+            "from_actor": 110,
+            "to_actor": 19900,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Ligestillingsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476004,
+            "from_actor": 110,
+            "to_actor": 19902,
+            "start": "2022-03-02",
+            "end": "2022-03-02",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32476008,
+            "from_actor": 110,
+            "to_actor": 19902,
+            "start": "2022-01-04",
+            "end": "2022-01-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Social- og Ældreudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32525472,
             "from_actor": 110,
             "to_actor": 19854,
             "start": "2021-10-05",
@@ -1596,7 +1530,73 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31694058,
+            "id": 32774991,
+            "from_actor": 110,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829660,
+            "from_actor": 110,
+            "to_actor": 19903,
+            "start": "2022-04-21",
+            "end": "2022-04-21",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829665,
+            "from_actor": 110,
+            "to_actor": 19903,
+            "start": "2022-03-25",
+            "end": "2022-03-25",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829669,
+            "from_actor": 110,
+            "to_actor": 19903,
+            "start": "2021-11-29",
+            "end": "2021-11-29",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829670,
+            "from_actor": 110,
+            "to_actor": 19903,
+            "start": "2022-01-26",
+            "end": "2022-01-26",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829798,
+            "from_actor": 110,
+            "to_actor": 19877,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Udvalget til Valgs Prøvelse",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32856928,
             "from_actor": 110,
             "to_actor": 19904,
             "start": "2021-10-06",
@@ -1604,6 +1604,17 @@
             "role": "medlem",
             "from_actor_name": "Rosa Lund",
             "to_actor_name": "Udlændinge- og Integrationsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857276,
+            "from_actor": 110,
+            "to_actor": 19910,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Rosa Lund",
+            "to_actor_name": "Kirkeudvalget",
             "type": "Udvalg"
         }
     ]

@@ -1442,28 +1442,6 @@
             "type": "Tværpolitisk netværk"
         },
         {
-            "id": 28318731,
-            "from_actor": 192,
-            "to_actor": 19893,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "næstformand",
-            "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
-            "type": "Kommission"
-        },
-        {
-            "id": 28639795,
-            "from_actor": 192,
-            "to_actor": 19352,
-            "start": "2020-10-06",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 28747260,
             "from_actor": 192,
             "to_actor": 19121,
@@ -1508,17 +1486,6 @@
             "type": "Kommission"
         },
         {
-            "id": 30497661,
-            "from_actor": 192,
-            "to_actor": 19927,
-            "start": "2022-02-03",
-            "end": "2022-10-04",
-            "role": "stedfortræder",
-            "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
-            "type": "Kommission"
-        },
-        {
             "id": 31259555,
             "from_actor": 192,
             "to_actor": 19392,
@@ -1530,18 +1497,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 31259662,
+            "id": 31990434,
             "from_actor": 192,
-            "to_actor": 19902,
-            "start": "2021-10-06",
-            "end": "2022-03-15",
+            "to_actor": 19927,
+            "start": "2022-04-21",
+            "end": "2022-10-04",
             "role": "medlem",
             "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Social- og Ældreudvalget",
-            "type": "Udvalg"
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
         },
         {
-            "id": 31394987,
+            "id": 31990449,
+            "from_actor": 192,
+            "to_actor": 19927,
+            "start": "2022-02-03",
+            "end": "2022-04-20",
+            "role": "stedfortræder",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Udvalget vedrørende Det Etiske Råd",
+            "type": "Kommission"
+        },
+        {
+            "id": 32071736,
+            "from_actor": 192,
+            "to_actor": 19352,
+            "start": "2020-10-06",
+            "end": "2021-10-05",
+            "role": "medlem",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32475747,
             "from_actor": 192,
             "to_actor": 19900,
             "start": "2021-10-06",
@@ -1552,7 +1541,7 @@
             "type": "Udvalg"
         },
         {
-            "id": 31421867,
+            "id": 32475962,
             "from_actor": 192,
             "to_actor": 19889,
             "start": "2021-12-16",
@@ -1563,40 +1552,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 31503551,
+            "id": 32476012,
             "from_actor": 192,
-            "to_actor": 19903,
+            "to_actor": 19902,
             "start": "2021-10-06",
-            "end": "2022-10-04",
+            "end": "2022-03-15",
             "role": "medlem",
             "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Udenrigsudvalget",
+            "to_actor_name": "Social- og Ældreudvalget",
             "type": "Udvalg"
         },
         {
-            "id": 31584901,
-            "from_actor": 192,
-            "to_actor": 19912,
-            "start": "2021-10-06",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Kulturudvalget ",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31612004,
-            "from_actor": 192,
-            "to_actor": 19917,
-            "start": "2022-03-16",
-            "end": "2022-10-04",
-            "role": "medlem",
-            "from_actor_name": "Fatma Øktem",
-            "to_actor_name": "Udvalget for Landdistrikter og Øer",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31666654,
+            "id": 32525508,
             "from_actor": 192,
             "to_actor": 19854,
             "start": "2021-10-05",
@@ -1607,7 +1574,51 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31743490,
+            "id": 32829361,
+            "from_actor": 192,
+            "to_actor": 19893,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "næstformand",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Dansk Interparlamentarisk Gruppes bestyrelse",
+            "type": "Kommission"
+        },
+        {
+            "id": 32829685,
+            "from_actor": 192,
+            "to_actor": 19903,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Udenrigsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857130,
+            "from_actor": 192,
+            "to_actor": 19912,
+            "start": "2021-10-06",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Kulturudvalget ",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857547,
+            "from_actor": 192,
+            "to_actor": 19917,
+            "start": "2022-03-16",
+            "end": "2022-10-04",
+            "role": "medlem",
+            "from_actor_name": "Fatma Øktem",
+            "to_actor_name": "Udvalget for Landdistrikter og Øer",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32961089,
             "from_actor": 192,
             "to_actor": 16060,
             "start": "2015-10-22",

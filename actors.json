@@ -21691,6 +21691,10 @@
         "name": "Jens Kasper Rasmussen",
         "type": 5
     },
+    "5873": {
+        "name": "Marianne Søltoft Buhl, Rungsted Kyst",
+        "type": 12
+    },
     "5874": {
         "name": "Danske Officerer",
         "type": 10
@@ -57635,10 +57639,6 @@
         "name": "Ole Thamsen",
         "type": 5
     },
-    "15696": {
-        "name": "Oluf Simonsen",
-        "type": 5
-    },
     "15697": {
         "name": "Helge Bro",
         "type": 5
@@ -69237,6 +69237,130 @@
     },
     "20118": {
         "name": "Jacob Hald",
+        "type": 12
+    },
+    "20121": {
+        "name": "Caroline Termandsen",
+        "type": 12
+    },
+    "20122": {
+        "name": "Bent Thodsen",
+        "type": 12
+    },
+    "20125": {
+        "name": "Jørgen Rasmussen",
+        "type": 12
+    },
+    "20128": {
+        "name": "Ida Holmgaard",
+        "type": 5
+    },
+    "20129": {
+        "name": "Thomas Larsen",
+        "type": 12
+    },
+    "20130": {
+        "name": "Nina Merete Bille",
+        "type": 5
+    },
+    "20131": {
+        "name": "Landsskatteretten",
+        "type": 9
+    },
+    "20132": {
+        "name": "Rasmus Beltofte (udpeget af RV)",
+        "type": 5
+    },
+    "20133": {
+        "name": "Jesper Roulund (udpeget af KF)",
+        "type": 5
+    },
+    "20135": {
+        "name": "Lisbeth Torfing (udpeget af EL)",
+        "type": 5
+    },
+    "20136": {
+        "name": "Morten Via Larsen",
+        "type": 12
+    },
+    "20140": {
+        "name": "Lise Grønlund Nielsen",
+        "type": 12
+    },
+    "20141": {
+        "name": "Esben Christensen, Rødekro",
+        "type": 12
+    },
+    "20142": {
+        "name": "Inger Belling Olsen",
+        "type": 12
+    },
+    "20144": {
+        "name": "Maria Gudme",
+        "type": 5
+    },
+    "20145": {
+        "name": "Hans Jacob Jensen, Kerteminde",
+        "type": 12
+    },
+    "20148": {
+        "name": "Henning Steen Kristensen, Ribe",
+        "type": 12
+    },
+    "20151": {
+        "name": "Lis Ravnsted-Larsen, Askeby",
+        "type": 12
+    },
+    "20158": {
+        "name": "Statsrevisorerne",
+        "type": 9
+    },
+    "20159": {
+        "name": "Mikkel Irminger Sarbo (udpeget af RV)",
+        "type": 5
+    },
+    "20160": {
+        "name": "Jens Peter Heesche Hansen",
+        "type": 12
+    },
+    "20161": {
+        "name": "Europaudvalget",
+        "type": 3
+    },
+    "20162": {
+        "name": "Eva Zukunft",
+        "type": 12
+    },
+    "20163": {
+        "name": "Moderaterne",
+        "type": 4
+    },
+    "20164": {
+        "name": "August Gammelgaard Hjørnet",
+        "type": 5
+    },
+    "20166": {
+        "name": "Tue Magnussen",
+        "type": 12
+    },
+    "20168": {
+        "name": "Fejloprettet",
+        "type": 7
+    },
+    "20169": {
+        "name": "fejloprettet",
+        "type": 7
+    },
+    "20170": {
+        "name": "fejloprettet",
+        "type": 7
+    },
+    "20171": {
+        "name": "Stig Voldbjerg Sørensen, Lyngby",
+        "type": 12
+    },
+    "20173": {
+        "name": "Else og Erik Mølgaard",
         "type": 12
     }
 }

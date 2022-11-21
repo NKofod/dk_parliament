@@ -46,5 +46,29 @@
         "start": "1971-09-21",
         "end": "1971-10-05",
         "periodid": null
+    },
+    "20168": {
+        "id": 20168,
+        "name": "Fejloprettet",
+        "short_name": "FejloprettetFejl",
+        "start": "2022-10-05",
+        "end": "2022-10-06",
+        "periodid": null
+    },
+    "20169": {
+        "id": 20169,
+        "name": "fejloprettet",
+        "short_name": null,
+        "start": "2021-10-06",
+        "end": "2022-10-04",
+        "periodid": null
+    },
+    "20170": {
+        "id": 20170,
+        "name": "fejloprettet",
+        "short_name": null,
+        "start": "2021-10-06",
+        "end": "2022-10-04",
+        "periodid": null
     }
 }

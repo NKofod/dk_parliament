@@ -1178,17 +1178,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22652354,
-            "from_actor": 149,
-            "to_actor": 45,
-            "start": "2010-02-23",
-            "end": "2011-10-03",
-            "role": "Minister",
-            "from_actor_name": "Lars Barfoed",
-            "to_actor_name": "justitsministeren",
-            "type": "Ministertitel"
-        },
-        {
             "id": 22652355,
             "from_actor": 149,
             "to_actor": 1784,
@@ -1506,6 +1495,17 @@
             "from_actor_name": "Lars Barfoed",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32153116,
+            "from_actor": 149,
+            "to_actor": 45,
+            "start": "2010-02-23",
+            "end": "2011-10-03",
+            "role": "Minister",
+            "from_actor_name": "Lars Barfoed",
+            "to_actor_name": "justitsministeren",
+            "type": "Ministertitel"
         }
     ]
 }

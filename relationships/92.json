@@ -463,17 +463,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22649929,
-            "from_actor": 92,
-            "to_actor": 16742,
-            "start": "2016-06-01",
-            "end": "2022-05-31",
-            "role": "medlem",
-            "from_actor_name": "Carsten Hansen",
-            "to_actor_name": "Landsskatteretten",
-            "type": "Kommission"
-        },
-        {
             "id": 22649930,
             "from_actor": 92,
             "to_actor": 831,
@@ -1506,6 +1495,28 @@
             "from_actor_name": "Carsten Hansen",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 31990060,
+            "from_actor": 92,
+            "to_actor": 20131,
+            "start": "2022-06-01",
+            "end": "2028-05-31",
+            "role": "medlem",
+            "from_actor_name": "Carsten Hansen",
+            "to_actor_name": "Landsskatteretten",
+            "type": "Kommission"
+        },
+        {
+            "id": 32722686,
+            "from_actor": 92,
+            "to_actor": 16742,
+            "start": "2016-06-01",
+            "end": "2022-05-31",
+            "role": "medlem",
+            "from_actor_name": "Carsten Hansen",
+            "to_actor_name": "Landsskatteretten",
+            "type": "Kommission"
         }
     ]
 }

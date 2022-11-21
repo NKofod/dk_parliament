@@ -10014,5 +10014,13 @@
         "start": "2021-10-05",
         "end": "2022-10-04",
         "periodid": 155
+    },
+    "20161": {
+        "id": 20161,
+        "name": "Europaudvalget",
+        "short_name": "EUU",
+        "start": "2022-10-04",
+        "end": "2023-10-03",
+        "periodid": 157
     }
 }

@@ -3,8 +3,8 @@
         "id": 5,
         "name": "Frank Aaen",
         "short_name": null,
-        "start": "2018-10-01",
-        "end": null,
+        "start": "2016-06-01",
+        "end": "2019-02-18",
         "periodid": null
     },
     "12": {
@@ -115,8 +115,8 @@
         "id": 47,
         "name": "Karen Hækkerup",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "2013-12-12",
+        "end": "2014-10-10",
         "periodid": null
     },
     "48": {
@@ -355,15 +355,15 @@
         "id": 88,
         "name": "Martin Geertsen",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": "2022-02-02",
+        "start": "2022-03-29",
+        "end": "2022-03-29",
         "periodid": null
     },
     "92": {
         "id": 92,
         "name": "Carsten Hansen",
         "short_name": null,
-        "start": null,
+        "start": "2016-06-01",
         "end": null,
         "periodid": null
     },
@@ -387,8 +387,8 @@
         "id": 95,
         "name": "Steen Gade",
         "short_name": null,
-        "start": "2005-12-17",
-        "end": "2005-12-07",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "96": {
@@ -555,8 +555,8 @@
         "id": 121,
         "name": "Karina Lorentzen Dehnhardt",
         "short_name": null,
-        "start": "2021-09-23",
-        "end": "2021-09-23",
+        "start": "2021-10-06",
+        "end": null,
         "periodid": null
     },
     "122": {
@@ -627,8 +627,8 @@
         "id": 131,
         "name": "Lene Espersen",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "2001-11-27",
+        "end": "2008-09-10",
         "periodid": null
     },
     "132": {
@@ -723,8 +723,8 @@
         "id": 149,
         "name": "Lars Barfoed",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "2010-02-23",
+        "end": "2011-10-03",
         "periodid": null
     },
     "152": {
@@ -739,8 +739,8 @@
         "id": 153,
         "name": "Per Stig Møller",
         "short_name": null,
-        "start": "2010-02-23",
-        "end": "2011-10-03",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "154": {
@@ -1235,8 +1235,8 @@
         "id": 234,
         "name": "Anders Fogh Rasmussen",
         "short_name": null,
-        "start": "1987-09-10",
-        "end": "1992-11-19",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "235": {
@@ -1251,8 +1251,8 @@
         "id": 238,
         "name": "Morten Messerschmidt",
         "short_name": null,
-        "start": "2022-01-20",
-        "end": "2022-01-20",
+        "start": "2021-10-06",
+        "end": "2022-02-19",
         "periodid": null
     },
     "239": {
@@ -1315,8 +1315,8 @@
         "id": 247,
         "name": "Edmund Joensen",
         "short_name": null,
-        "start": "2021-12-07",
-        "end": "2021-12-14",
+        "start": "2021-10-06",
+        "end": "2021-12-06",
         "periodid": null
     },
     "249": {
@@ -1459,7 +1459,7 @@
         "id": 274,
         "name": "Mette Hansen",
         "short_name": null,
-        "start": "2021-10-06",
+        "start": "2021-10-15",
         "end": null,
         "periodid": null
     },
@@ -1555,8 +1555,8 @@
         "id": 296,
         "name": "Ulla Tørnæs",
         "short_name": null,
-        "start": "2020-10-08",
-        "end": null,
+        "start": "2021-10-06",
+        "end": "2021-12-20",
         "periodid": null
     },
     "297": {
@@ -1675,7 +1675,7 @@
         "id": 361,
         "name": "Klaus Frandsen (udpeget af RV)",
         "short_name": null,
-        "start": "2018-10-01",
+        "start": "2022-10-01",
         "end": null,
         "periodid": null
     },
@@ -1699,7 +1699,7 @@
         "id": 364,
         "name": "Birthe Rønn Hornbech",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -1787,7 +1787,7 @@
         "id": 385,
         "name": "Henrik Thorup (udpeget af DF)",
         "short_name": null,
-        "start": "2018-10-01",
+        "start": "2022-10-01",
         "end": null,
         "periodid": null
     },
@@ -1891,7 +1891,7 @@
         "id": 632,
         "name": "Nadia Elmhøj Pedersen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -1923,7 +1923,7 @@
         "id": 637,
         "name": "Lotte Rickers Olesen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -1939,7 +1939,7 @@
         "id": 639,
         "name": "Niels Yde",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -1947,7 +1947,7 @@
         "id": 640,
         "name": "Mette Nielsen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -1963,7 +1963,7 @@
         "id": 642,
         "name": "Maria Louise Bjørn Bøtker",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -1979,7 +1979,7 @@
         "id": 644,
         "name": "Pernille Deleuran",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -2003,7 +2003,7 @@
         "id": 647,
         "name": "Charlotte Antonsen (udpeget af V)",
         "short_name": null,
-        "start": null,
+        "start": "2016-06-01",
         "end": null,
         "periodid": null
     },
@@ -2059,7 +2059,7 @@
         "id": 654,
         "name": "Lone Dybkjær",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -2107,7 +2107,7 @@
         "id": 660,
         "name": "Svend Erik Hovmand",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2115,8 +2115,8 @@
         "id": 661,
         "name": "Jens Rohde",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": null,
+        "start": "2021-10-13",
+        "end": "2021-10-13",
         "periodid": null
     },
     "662": {
@@ -2147,8 +2147,8 @@
         "id": 665,
         "name": "Helge Adam Møller",
         "short_name": null,
-        "start": "2006-05-30",
-        "end": "2006-05-14",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "666": {
@@ -2179,8 +2179,8 @@
         "id": 669,
         "name": "Frank Jensen",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "1996-12-30",
+        "end": "2001-11-27",
         "periodid": null
     },
     "670": {
@@ -2195,8 +2195,8 @@
         "id": 671,
         "name": "Niels Helveg Petersen",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "1973-12-04",
+        "end": "1974-09-30",
         "periodid": null
     },
     "672": {
@@ -2227,8 +2227,8 @@
         "id": 675,
         "name": "Hanne Severinsen",
         "short_name": null,
-        "start": "2006-06-06",
-        "end": "2006-05-28",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "676": {
@@ -2251,7 +2251,7 @@
         "id": 678,
         "name": "Klaus Hækkerup (udpeget af S)",
         "short_name": null,
-        "start": null,
+        "start": "2016-06-01",
         "end": null,
         "periodid": null
     },
@@ -2299,7 +2299,7 @@
         "id": 721,
         "name": "Laurits Tørnæs",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2315,7 +2315,7 @@
         "id": 727,
         "name": "Leif Hermann",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2419,7 +2419,7 @@
         "id": 911,
         "name": "Lis Aaltonen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2467,7 +2467,7 @@
         "id": 917,
         "name": "Leif Glensgård",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -2539,7 +2539,7 @@
         "id": 927,
         "name": "Kamilla Kjelgaard",
         "short_name": null,
-        "start": "2021-10-06",
+        "start": "2021-06-29",
         "end": null,
         "periodid": null
     },
@@ -2571,7 +2571,7 @@
         "id": 951,
         "name": "Lissa Mathiasen (udpeget af S)",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2595,7 +2595,7 @@
         "id": 988,
         "name": "Lizzie Lichtenberg",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2795,7 +2795,7 @@
         "id": 1095,
         "name": "Margrete Auken",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2843,7 +2843,7 @@
         "id": 1118,
         "name": "Jakob Willum Slot",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -2939,7 +2939,7 @@
         "id": 1160,
         "name": "Merete Aarup",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2963,7 +2963,7 @@
         "id": 1168,
         "name": "Mette Groes",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -2971,7 +2971,7 @@
         "id": 1171,
         "name": "Mette Madsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -3043,7 +3043,7 @@
         "id": 1192,
         "name": "Mikael Lennart Waldorff",
         "short_name": null,
-        "start": "1982-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -3051,7 +3051,7 @@
         "id": 1198,
         "name": "Mimi Jakobsen",
         "short_name": null,
-        "start": "1998-03-11",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3075,7 +3075,7 @@
         "id": 1201,
         "name": "Mogens Camre",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -3115,7 +3115,7 @@
         "id": 1226,
         "name": "Mogens Voigt",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -3131,7 +3131,7 @@
         "id": 1230,
         "name": "Morten Knudsen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -3219,8 +3219,8 @@
         "id": 1256,
         "name": "Pia Gjellerup (udpeget af S)",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "1993-01-25",
+        "end": "1993-03-29",
         "periodid": null
     },
     "1257": {
@@ -3243,7 +3243,7 @@
         "id": 1267,
         "name": "Niels Ahlmann-Ohlsen",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3275,8 +3275,8 @@
         "id": 1272,
         "name": "Niels Kallesøe",
         "short_name": null,
-        "start": "1981-10-08",
-        "end": "1981-10-30",
+        "start": "1978-08-02",
+        "end": null,
         "periodid": null
     },
     "1273": {
@@ -3363,7 +3363,7 @@
         "id": 1283,
         "name": "Niels Anker Kofoed",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3459,7 +3459,7 @@
         "id": 1309,
         "name": "Ole Espersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -3483,7 +3483,7 @@
         "id": 1312,
         "name": "Ole Henriksen",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3507,8 +3507,8 @@
         "id": 1319,
         "name": "Ole Stavad (udpeget af S)",
         "short_name": null,
-        "start": "1998-03-23",
-        "end": "2000-12-21",
+        "start": "2016-06-01",
+        "end": null,
         "periodid": null
     },
     "1320": {
@@ -3523,7 +3523,7 @@
         "id": 1321,
         "name": "Ole Maisted",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3539,7 +3539,7 @@
         "id": 1323,
         "name": "Ole Pilgaard Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -3555,7 +3555,7 @@
         "id": 1325,
         "name": "Ole Vagn Christensen",
         "short_name": null,
-        "start": "2006-05-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3563,8 +3563,8 @@
         "id": 1326,
         "name": "Ole Vig Jensen",
         "short_name": null,
-        "start": "1988-06-03",
-        "end": "1990-12-18",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "1328": {
@@ -3603,7 +3603,7 @@
         "id": 1335,
         "name": "Óli Breckmann",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3627,7 +3627,7 @@
         "id": 1338,
         "name": "Oluf von Lowzow",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -3635,7 +3635,7 @@
         "id": 1339,
         "name": "Otto Steenholdt",
         "short_name": null,
-        "start": "1991-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3651,7 +3651,7 @@
         "id": 1343,
         "name": "Ove Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -3691,7 +3691,7 @@
         "id": 1350,
         "name": "Palle Simonsen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -3699,7 +3699,7 @@
         "id": 1351,
         "name": "Paul Elmholt",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -3715,7 +3715,7 @@
         "id": 1357,
         "name": "Helge Sander",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3731,7 +3731,7 @@
         "id": 1359,
         "name": "Peder Sønderby",
         "short_name": null,
-        "start": "1991-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3739,7 +3739,7 @@
         "id": 1360,
         "name": "Pelle Voigt",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3747,7 +3747,7 @@
         "id": 1361,
         "name": "Per Bendix",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -3859,7 +3859,7 @@
         "id": 1398,
         "name": "Peter Brixtofte",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -3883,7 +3883,7 @@
         "id": 1409,
         "name": "Peter Holst",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -3987,7 +3987,7 @@
         "id": 1434,
         "name": "Poul Nielson",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -3995,7 +3995,7 @@
         "id": 1436,
         "name": "Poul Schlüter",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -4003,7 +4003,7 @@
         "id": 1437,
         "name": "Poul Søgaard",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -4067,7 +4067,7 @@
         "id": 1445,
         "name": "Poul Henrik Houe",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4083,7 +4083,7 @@
         "id": 1447,
         "name": "Poul Qvist Jørgensen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4091,7 +4091,7 @@
         "id": 1448,
         "name": "Povl Brøndsted",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -4115,7 +4115,7 @@
         "id": 1451,
         "name": "Preben Wilhjelm",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -4123,7 +4123,7 @@
         "id": 1452,
         "name": "Preben Steen Nielsen",
         "short_name": null,
-        "start": null,
+        "start": "1978-02-02",
         "end": null,
         "periodid": null
     },
@@ -4171,7 +4171,7 @@
         "id": 1463,
         "name": "Ritt Bjerregaard",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -4203,7 +4203,7 @@
         "id": 1468,
         "name": "Ruth Olsen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4283,7 +4283,7 @@
         "id": 1487,
         "name": "Sonja Albrink",
         "short_name": null,
-        "start": "1998-03-11",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -4403,7 +4403,7 @@
         "id": 1546,
         "name": "Martin Jørgensen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -4475,7 +4475,7 @@
         "id": 1616,
         "name": "Viggo Fischer",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4507,7 +4507,7 @@
         "id": 1621,
         "name": "Yvonne Herløv Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -4523,7 +4523,7 @@
         "id": 1623,
         "name": "Aage Frandsen",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -4531,7 +4531,7 @@
         "id": 1635,
         "name": "Aase Olesen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4555,7 +4555,7 @@
         "id": 1641,
         "name": "Addi Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4859,7 +4859,7 @@
         "id": 1718,
         "name": "Svend Heiselberg",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4883,7 +4883,7 @@
         "id": 1731,
         "name": "Flemming Hansen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -4939,8 +4939,8 @@
         "id": 1748,
         "name": "Frode Sørensen",
         "short_name": null,
-        "start": "2000-12-21",
-        "end": "2001-11-27",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "1749": {
@@ -4995,7 +4995,7 @@
         "id": 1759,
         "name": "Kaj Ikast",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5115,7 +5115,7 @@
         "id": 1778,
         "name": "Svend Auken",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -5155,7 +5155,7 @@
         "id": 1793,
         "name": "Keld Albrechtsen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5259,7 +5259,7 @@
         "id": 1823,
         "name": "Knud Erik Kirkegaard",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5275,7 +5275,7 @@
         "id": 1829,
         "name": "Thor Pedersen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5283,7 +5283,7 @@
         "id": 1830,
         "name": "Helge Mortensen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5347,7 +5347,7 @@
         "id": 1874,
         "name": "Jytte Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5387,8 +5387,8 @@
         "id": 1883,
         "name": "Anne Grete Holmsgaard",
         "short_name": null,
-        "start": "2005-11-09",
-        "end": "2005-10-26",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "1884": {
@@ -5419,7 +5419,7 @@
         "id": 1887,
         "name": "Connie Hedegaard",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -5747,8 +5747,8 @@
         "id": 1947,
         "name": "Søren Hansen",
         "short_name": null,
-        "start": "2005-01-11",
-        "end": "2005-01-20",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "1948": {
@@ -5891,7 +5891,7 @@
         "id": 1970,
         "name": "Bjørn Rømer Westh",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -6027,7 +6027,7 @@
         "id": 1997,
         "name": "Rasmus Baastrup",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -6259,7 +6259,7 @@
         "id": 2103,
         "name": "Britta Schall Holberg",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -6587,7 +6587,7 @@
         "id": 2144,
         "name": "Steffen Kjærulff-Schmidt (udpeget af DF)",
         "short_name": null,
-        "start": "2014-05-18",
+        "start": "2016-06-01",
         "end": null,
         "periodid": null
     },
@@ -8915,7 +8915,7 @@
         "id": 6138,
         "name": "Tomas Heron",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -9843,7 +9843,7 @@
         "id": 9655,
         "name": "Søren Nørgård-Sørensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -9963,7 +9963,7 @@
         "id": 9745,
         "name": "Erling Olsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -9971,7 +9971,7 @@
         "id": 9746,
         "name": "Bent Olsen",
         "short_name": null,
-        "start": "1979-10-02",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -9979,7 +9979,7 @@
         "id": 9747,
         "name": "Asbjørn Agerschou",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10011,7 +10011,7 @@
         "id": 9751,
         "name": "Arne Christiansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10051,7 +10051,7 @@
         "id": 9756,
         "name": "Henning Christophersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10091,7 +10091,7 @@
         "id": 9761,
         "name": "Jens Kampmann",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10139,7 +10139,7 @@
         "id": 9767,
         "name": "Erik Haunstrup Clemmensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10147,7 +10147,7 @@
         "id": 9768,
         "name": "Hans Hækkerup",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10163,8 +10163,8 @@
         "id": 9770,
         "name": "Bernt Johan Collet",
         "short_name": null,
-        "start": "1987-09-10",
-        "end": "1988-06-03",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "9771": {
@@ -10203,7 +10203,7 @@
         "id": 9776,
         "name": "Helle Degn",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10243,7 +10243,7 @@
         "id": 9781,
         "name": "Thorkild Pedersen",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10275,7 +10275,7 @@
         "id": 9785,
         "name": "Tommy Dinesen",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10283,7 +10283,7 @@
         "id": 9786,
         "name": "Kirsten Jacobsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10355,7 +10355,7 @@
         "id": 9795,
         "name": "Kurt M. Ipsen",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10395,7 +10395,7 @@
         "id": 9800,
         "name": "Kent Sand Kirk",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10451,7 +10451,7 @@
         "id": 9807,
         "name": "Inger Stilling Pedersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10499,7 +10499,7 @@
         "id": 9813,
         "name": "Henning Andersen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10507,7 +10507,7 @@
         "id": 9814,
         "name": "Børge Halvgaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10531,7 +10531,7 @@
         "id": 9817,
         "name": "Joen Pauli Ellefsen",
         "short_name": null,
-        "start": "1989-10-03",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10555,7 +10555,7 @@
         "id": 9821,
         "name": "Elisabeth Bruun Olesen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10571,7 +10571,7 @@
         "id": 9823,
         "name": "Erik Holst",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10587,7 +10587,7 @@
         "id": 9825,
         "name": "Bjørn Elmquist",
         "short_name": null,
-        "start": "1997-10-07",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10595,7 +10595,7 @@
         "id": 9826,
         "name": "Steffen Kjærulff-Schmidt",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -10611,7 +10611,7 @@
         "id": 9828,
         "name": "Uffe Ellemann-Jensen",
         "short_name": null,
-        "start": "2000-10-03",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10635,7 +10635,7 @@
         "id": 9831,
         "name": "Jens Peter Lerke",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10715,15 +10715,15 @@
         "id": 9841,
         "name": "Hans Engell",
         "short_name": null,
-        "start": "1982-09-10",
-        "end": "1987-09-10",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "9842": {
         "id": 9842,
         "name": "H. Buchart Petersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10771,7 +10771,7 @@
         "id": 9849,
         "name": "Knud Enggaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10779,7 +10779,7 @@
         "id": 9850,
         "name": "Svend Åge Petersen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10787,7 +10787,7 @@
         "id": 9851,
         "name": "Birthe Hansen",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10811,7 +10811,7 @@
         "id": 9854,
         "name": "Hans Erenbjerg",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10819,7 +10819,7 @@
         "id": 9855,
         "name": "Grethe Philip",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -10827,7 +10827,7 @@
         "id": 9856,
         "name": "John Arentoft",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10835,7 +10835,7 @@
         "id": 9857,
         "name": "Dagmar Kirstine Mørk Jensen",
         "short_name": null,
-        "start": "1987-10-06",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10843,7 +10843,7 @@
         "id": 9858,
         "name": "Ingerlise Koefoed",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -10891,15 +10891,15 @@
         "id": 9864,
         "name": "Flemming Kofod-Svendsen",
         "short_name": null,
-        "start": "1993-01-25",
-        "end": "1994-09-27",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "9865": {
         "id": 9865,
         "name": "Hans Jørgen Jensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -10931,7 +10931,7 @@
         "id": 9869,
         "name": "Holger Hansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1974-02-13",
         "end": null,
         "periodid": null
     },
@@ -10939,7 +10939,7 @@
         "id": 9870,
         "name": "Jens Skrumsager Skau",
         "short_name": null,
-        "start": "1989-10-03",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11003,7 +11003,7 @@
         "id": 9878,
         "name": "Jørgen Estrup",
         "short_name": null,
-        "start": "1998-03-11",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11011,7 +11011,7 @@
         "id": 9879,
         "name": "Jens Kristian Hansen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11019,7 +11019,7 @@
         "id": 9880,
         "name": "Henning Jensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11043,7 +11043,7 @@
         "id": 9883,
         "name": "Ib Bjørn Poulsen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -11051,7 +11051,7 @@
         "id": 9884,
         "name": "Jes Lunde",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11067,7 +11067,7 @@
         "id": 9886,
         "name": "Kaj Poulsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11083,7 +11083,7 @@
         "id": 9888,
         "name": "Karen Thurøe Hansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11115,7 +11115,7 @@
         "id": 9892,
         "name": "Kristen Poulsgaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11179,7 +11179,7 @@
         "id": 9900,
         "name": "Karen Højte Jensen",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11203,7 +11203,7 @@
         "id": 9903,
         "name": "Dorte Bennedsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11299,7 +11299,7 @@
         "id": 9915,
         "name": "Jens Bilgrav-Nielsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11307,7 +11307,7 @@
         "id": 9916,
         "name": "Birgit Fogh-Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11363,7 +11363,7 @@
         "id": 9923,
         "name": "Jimmy Stahr",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11371,7 +11371,7 @@
         "id": 9924,
         "name": "Svend Karlskov Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11443,7 +11443,7 @@
         "id": 9933,
         "name": "Inger Harms",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11499,7 +11499,7 @@
         "id": 9940,
         "name": "Poul Boeg",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11531,7 +11531,7 @@
         "id": 9944,
         "name": "Jens Kristian Steffensen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11539,7 +11539,7 @@
         "id": 9945,
         "name": "Thomas Erik Have",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11555,7 +11555,7 @@
         "id": 9947,
         "name": "Søren Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11587,7 +11587,7 @@
         "id": 9951,
         "name": "Alice Holst Brask",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11611,7 +11611,7 @@
         "id": 9954,
         "name": "Christian Valdemar Gede",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11627,7 +11627,7 @@
         "id": 9956,
         "name": "Knud Heinesen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11659,7 +11659,7 @@
         "id": 9960,
         "name": "René Brusvang",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11675,7 +11675,7 @@
         "id": 9962,
         "name": "Arne Melchior",
         "short_name": null,
-        "start": "1998-03-11",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -11747,7 +11747,7 @@
         "id": 9971,
         "name": "Bente Juncker",
         "short_name": null,
-        "start": "1991-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11763,7 +11763,7 @@
         "id": 9973,
         "name": "Annelise Gotfredsen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11787,7 +11787,7 @@
         "id": 9976,
         "name": "Jette Gottlieb",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -11835,7 +11835,7 @@
         "id": 9982,
         "name": "Anker Jørgensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -11859,7 +11859,7 @@
         "id": 9985,
         "name": "Henning Grove",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -11979,7 +11979,7 @@
         "id": 10001,
         "name": "Kaj Stillinger",
         "short_name": null,
-        "start": "1986-01-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12115,15 +12115,15 @@
         "id": 10018,
         "name": "Jytte Hilden",
         "short_name": null,
-        "start": "1993-01-25",
-        "end": "1996-12-30",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "10019": {
         "id": 10019,
         "name": "Frode Nør Christensen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12131,7 +12131,7 @@
         "id": 10020,
         "name": "Ebba Strange",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -12203,7 +12203,7 @@
         "id": 10029,
         "name": "Søren Riishøj",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12259,7 +12259,7 @@
         "id": 10036,
         "name": "Ib Larsen",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -12331,7 +12331,7 @@
         "id": 10045,
         "name": "Steen Tinning",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12347,7 +12347,7 @@
         "id": 10047,
         "name": "Karl Hjortnæs",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12355,7 +12355,7 @@
         "id": 10048,
         "name": "Henrik Toft",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -12451,7 +12451,7 @@
         "id": 10060,
         "name": "Eva Bente Møller",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12475,7 +12475,7 @@
         "id": 10063,
         "name": "Svend Taanquist",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12483,7 +12483,7 @@
         "id": 10064,
         "name": "Grethe Fenger Møller",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12507,7 +12507,7 @@
         "id": 10067,
         "name": "Kjeld Rahbæk Møller",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12531,7 +12531,7 @@
         "id": 10070,
         "name": "Tove Lindbo Larsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12563,7 +12563,7 @@
         "id": 10074,
         "name": "Jens Peter Rønholt",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12571,7 +12571,7 @@
         "id": 10075,
         "name": "Otto Mørch",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -12579,7 +12579,7 @@
         "id": 10076,
         "name": "Hans Larsen-Ledet",
         "short_name": null,
-        "start": "1988-05-10",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12619,7 +12619,7 @@
         "id": 10081,
         "name": "Hans Jørgen Holm",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -12635,7 +12635,7 @@
         "id": 10083,
         "name": "Lennart Larsson",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -12699,7 +12699,7 @@
         "id": 10091,
         "name": "Bent Wissing",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -12787,7 +12787,7 @@
         "id": 10102,
         "name": "Bente Mousten Nielsen Hansen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12843,7 +12843,7 @@
         "id": 10109,
         "name": "Kristen Østergaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -12867,7 +12867,7 @@
         "id": 10112,
         "name": "Birte Weiss",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -12899,7 +12899,7 @@
         "id": 10116,
         "name": "Christian Overdal Aagaard",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12915,7 +12915,7 @@
         "id": 10118,
         "name": "Jørgen Lenger",
         "short_name": null,
-        "start": "1986-09-12",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -12971,7 +12971,7 @@
         "id": 10125,
         "name": "Knud Nielsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -13019,7 +13019,7 @@
         "id": 10131,
         "name": "Ivar Nørgaard",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -13027,7 +13027,7 @@
         "id": 10133,
         "name": "Kai Nyborg",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -13035,7 +13035,7 @@
         "id": 10134,
         "name": "Erik Ninn-Hansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -13051,7 +13051,7 @@
         "id": 10166,
         "name": "Jens Thoft",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -13059,7 +13059,7 @@
         "id": 10172,
         "name": "Jette Thomsen",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -13795,7 +13795,7 @@
         "id": 10331,
         "name": "Kirsten Sparre Andersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -13819,7 +13819,7 @@
         "id": 10338,
         "name": "Karen Dahlerup Andersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -13867,7 +13867,7 @@
         "id": 10345,
         "name": "Alfred Andersen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -13891,7 +13891,7 @@
         "id": 10350,
         "name": "Keld Andersen",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -13899,7 +13899,7 @@
         "id": 10352,
         "name": "Enrico Møller Andersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -13963,15 +13963,15 @@
         "id": 10366,
         "name": "John H. Winther",
         "short_name": null,
-        "start": "1970-12-02",
-        "end": null,
+        "start": "1977-10-04",
+        "end": "1978-08-01",
         "periodid": null
     },
     "10367": {
         "id": 10367,
         "name": "Janne Normann",
         "short_name": null,
-        "start": "1982-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -13987,8 +13987,8 @@
         "id": 10369,
         "name": "Hanne Reintoft",
         "short_name": null,
-        "start": "1976-10-05",
-        "end": "1976-10-07",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "10370": {
@@ -14003,7 +14003,7 @@
         "id": 10372,
         "name": "Hans Christian Hansen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14035,7 +14035,7 @@
         "id": 10377,
         "name": "Anker Tang Sørensen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14059,7 +14059,7 @@
         "id": 10380,
         "name": "Knud Nauerby",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14067,7 +14067,7 @@
         "id": 10381,
         "name": "Bent Honoré",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -14091,7 +14091,7 @@
         "id": 10384,
         "name": "Karl Nielsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14099,7 +14099,7 @@
         "id": 10385,
         "name": "Jens Møller",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -14107,7 +14107,7 @@
         "id": 10386,
         "name": "Hans Bjergegaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -14139,7 +14139,7 @@
         "id": 10391,
         "name": "Jens Jørgen Bolvig",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14155,7 +14155,7 @@
         "id": 10393,
         "name": "Børge Møller",
         "short_name": null,
-        "start": "1978-10-03",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14171,7 +14171,7 @@
         "id": 10395,
         "name": "Jørgen Frederiksen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14187,8 +14187,8 @@
         "id": 10397,
         "name": "Tove Jørgensen",
         "short_name": null,
-        "start": "1976-10-07",
-        "end": "1977-01-22",
+        "start": "1977-10-04",
+        "end": null,
         "periodid": null
     },
     "10398": {
@@ -14219,7 +14219,7 @@
         "id": 10401,
         "name": "Jens Maigaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -14243,7 +14243,7 @@
         "id": 10406,
         "name": "Knud Raunkjær",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -14251,15 +14251,15 @@
         "id": 10407,
         "name": "Thure Barsøe-Carnfeldt",
         "short_name": null,
-        "start": "1982-10-05",
-        "end": null,
+        "start": "1981-12-08",
+        "end": "1982-09-20",
         "periodid": null
     },
     "10408": {
         "id": 10408,
         "name": "Svend Andersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -14267,7 +14267,7 @@
         "id": 10410,
         "name": "Jørgen Junior",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14275,7 +14275,7 @@
         "id": 10411,
         "name": "Uwe Jensen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14283,7 +14283,7 @@
         "id": 10416,
         "name": "Hans Toft",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -14307,7 +14307,7 @@
         "id": 10420,
         "name": "Erling Askjær Jørgensen",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14315,7 +14315,7 @@
         "id": 10421,
         "name": "Uffe Thorndahl",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14323,7 +14323,7 @@
         "id": 10422,
         "name": "Kurt Eilif Hansen",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14331,7 +14331,7 @@
         "id": 10423,
         "name": "Karl Kjelgaard",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14571,7 +14571,7 @@
         "id": 11069,
         "name": "Steen Folke",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -14915,8 +14915,8 @@
         "id": 11702,
         "name": "Per Larsen",
         "short_name": null,
-        "start": "2021-06-24",
-        "end": "2021-06-24",
+        "start": "2021-10-06",
+        "end": null,
         "periodid": null
     },
     "11703": {
@@ -14971,7 +14971,7 @@
         "id": 11912,
         "name": "Carl Thio Tyroll",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -15923,7 +15923,7 @@
         "id": 14113,
         "name": "Winnie Russell",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -15931,7 +15931,7 @@
         "id": 14114,
         "name": "Sigurd Ømann",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -15939,7 +15939,7 @@
         "id": 14115,
         "name": "Ib Nørlund",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -15955,7 +15955,7 @@
         "id": 14117,
         "name": "Lasse Budtz",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -15971,7 +15971,7 @@
         "id": 14120,
         "name": "Kurt Brauer",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -15979,7 +15979,7 @@
         "id": 14121,
         "name": "Knud Jespersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -15995,7 +15995,7 @@
         "id": 14123,
         "name": "Kaj V. Andersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16011,7 +16011,7 @@
         "id": 14125,
         "name": "Kr. Albertsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16019,7 +16019,7 @@
         "id": 14126,
         "name": "Hagen Hagensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16035,7 +16035,7 @@
         "id": 14129,
         "name": "Kjeld Olesen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16043,7 +16043,7 @@
         "id": 14131,
         "name": "Svend Jakobsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16051,7 +16051,7 @@
         "id": 14132,
         "name": "Niels Matthiasen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16059,15 +16059,15 @@
         "id": 14133,
         "name": "Ejler Koch",
         "short_name": null,
-        "start": "1977-02-15",
-        "end": "1977-04-18",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "14134": {
         "id": 14134,
         "name": "Ole Olsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16075,7 +16075,7 @@
         "id": 14135,
         "name": "Poul Dam",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16083,7 +16083,7 @@
         "id": 14136,
         "name": "Erhard Jakobsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16091,7 +16091,7 @@
         "id": 14137,
         "name": "Poul Nyboe Andersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16107,7 +16107,7 @@
         "id": 14139,
         "name": "Mogens Glistrup",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16115,7 +16115,7 @@
         "id": 14140,
         "name": "Kjeld Wamberg",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16123,7 +16123,7 @@
         "id": 14141,
         "name": "Erling Jensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16131,7 +16131,7 @@
         "id": 14142,
         "name": "Inge Fischer Møller",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16139,7 +16139,7 @@
         "id": 14143,
         "name": "Hans Jørgen Lembourn",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16147,7 +16147,7 @@
         "id": 14144,
         "name": "Kristine Heltberg",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16155,7 +16155,7 @@
         "id": 14145,
         "name": "Jørgen Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16163,7 +16163,7 @@
         "id": 14147,
         "name": "Knud Damgaard",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16179,7 +16179,7 @@
         "id": 14149,
         "name": "Edele Kruchow",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16187,7 +16187,7 @@
         "id": 14150,
         "name": "Egon Jensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16195,7 +16195,7 @@
         "id": 14152,
         "name": "Karl Skytte",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16211,7 +16211,7 @@
         "id": 14155,
         "name": "Ove Guldberg",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16219,7 +16219,7 @@
         "id": 14157,
         "name": "Grete Hækkerup",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16227,7 +16227,7 @@
         "id": 14158,
         "name": "R. Lysholt Hansen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16235,7 +16235,7 @@
         "id": 14159,
         "name": "Arne Stinus",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16243,7 +16243,7 @@
         "id": 14160,
         "name": "Gerda Møller",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16251,7 +16251,7 @@
         "id": 14161,
         "name": "Elsebeth Kock-Petersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -16259,7 +16259,7 @@
         "id": 14162,
         "name": "Svend Andersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1974-06-21",
         "end": null,
         "periodid": null
     },
@@ -16267,7 +16267,7 @@
         "id": 14163,
         "name": "Erling Dinesen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16275,7 +16275,7 @@
         "id": 14164,
         "name": "Jørgen Peder Hansen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16283,7 +16283,7 @@
         "id": 14165,
         "name": "Hilmar Baunsgaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16291,7 +16291,7 @@
         "id": 14167,
         "name": "Gert Petersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16299,7 +16299,7 @@
         "id": 14168,
         "name": "Kaj Hansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16307,7 +16307,7 @@
         "id": 14169,
         "name": "Inge Krogh",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16315,7 +16315,7 @@
         "id": 14170,
         "name": "Jens Peter Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16323,7 +16323,7 @@
         "id": 14173,
         "name": "Erik Andersen (Sønderjyllands amt)",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16331,7 +16331,7 @@
         "id": 14174,
         "name": "Ingomar Petersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16339,7 +16339,7 @@
         "id": 14175,
         "name": "Johannes Burgdorf",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16347,7 +16347,7 @@
         "id": 14176,
         "name": "Jes Schmidt",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16355,7 +16355,7 @@
         "id": 14177,
         "name": "Johan Philipsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16363,7 +16363,7 @@
         "id": 14178,
         "name": "Helge Dohrmann",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16371,7 +16371,7 @@
         "id": 14179,
         "name": "Per Hækkerup",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16379,7 +16379,7 @@
         "id": 14180,
         "name": "Søren Jensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16387,7 +16387,7 @@
         "id": 14181,
         "name": "Nathalie Lind",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16395,7 +16395,7 @@
         "id": 14182,
         "name": "Ivar Hansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16411,7 +16411,7 @@
         "id": 14184,
         "name": "Svend Bay",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16419,7 +16419,7 @@
         "id": 14185,
         "name": "Karl Johan Mortensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16427,7 +16427,7 @@
         "id": 14186,
         "name": "Bernhardt Tastesen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16435,7 +16435,7 @@
         "id": 14187,
         "name": "Poul Hartling",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16443,7 +16443,7 @@
         "id": 14188,
         "name": "Jeppe Kristensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1978-01-11",
         "end": null,
         "periodid": null
     },
@@ -16451,7 +16451,7 @@
         "id": 14189,
         "name": "Normann Andersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16459,7 +16459,7 @@
         "id": 14190,
         "name": "Robert Pedersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16467,7 +16467,7 @@
         "id": 14191,
         "name": "Gunner Baunsgaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16475,7 +16475,7 @@
         "id": 14192,
         "name": "Christian Christensen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16483,8 +16483,8 @@
         "id": 14193,
         "name": "J. E. Foged",
         "short_name": null,
-        "start": "1975-10-07",
-        "end": "1976-05-30",
+        "start": "1973-12-04",
+        "end": null,
         "periodid": null
     },
     "14194": {
@@ -16499,7 +16499,7 @@
         "id": 14195,
         "name": "Henry Grünbaum",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16507,7 +16507,7 @@
         "id": 14196,
         "name": "Søren B. Jørgensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16515,7 +16515,7 @@
         "id": 14197,
         "name": "Bernhard Baunsgaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16523,7 +16523,7 @@
         "id": 14199,
         "name": "Freddy Madsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16531,7 +16531,7 @@
         "id": 14200,
         "name": "Christian Arnfast",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16539,7 +16539,7 @@
         "id": 14201,
         "name": "Anders Andersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16555,7 +16555,7 @@
         "id": 14203,
         "name": "K. B. Andersen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16563,7 +16563,7 @@
         "id": 14204,
         "name": "Svend Haugaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16571,7 +16571,7 @@
         "id": 14205,
         "name": "Gustav Holmberg",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16579,7 +16579,7 @@
         "id": 14206,
         "name": "Aksel Pedersen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16595,7 +16595,7 @@
         "id": 14208,
         "name": "Orla Møller",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16603,7 +16603,7 @@
         "id": 14209,
         "name": "Jens Risgaard Knudsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16611,7 +16611,7 @@
         "id": 14210,
         "name": "Poul Dalsager",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16627,7 +16627,7 @@
         "id": 14212,
         "name": "Per Gudme",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16635,7 +16635,7 @@
         "id": 14213,
         "name": "Ib Stetter",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16643,7 +16643,7 @@
         "id": 14214,
         "name": "Henning Philipsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16651,7 +16651,7 @@
         "id": 14215,
         "name": "Villy Fuglsang",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16659,7 +16659,7 @@
         "id": 14216,
         "name": "Arne Bjerregaard",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16667,7 +16667,7 @@
         "id": 14218,
         "name": "Jørgen Brøndlund Nielsen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16683,7 +16683,7 @@
         "id": 14220,
         "name": "Finnur Erlendsson",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16691,7 +16691,7 @@
         "id": 14221,
         "name": "Mogens Tange",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16699,7 +16699,7 @@
         "id": 14222,
         "name": "Johan Nielsen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16707,7 +16707,7 @@
         "id": 14223,
         "name": "Erlendur Patursson",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16715,7 +16715,7 @@
         "id": 14224,
         "name": "Lars Emil Johansen",
         "short_name": null,
-        "start": "1976-10-05",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16723,7 +16723,7 @@
         "id": 14225,
         "name": "Nikolaj Rosing",
         "short_name": null,
-        "start": "1970-10-06",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -16731,7 +16731,7 @@
         "id": 14231,
         "name": "Eva Gredal",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16843,7 +16843,7 @@
         "id": 14254,
         "name": "Morten Lange",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -16923,7 +16923,7 @@
         "id": 14292,
         "name": "Børge Bakholt",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -16931,8 +16931,8 @@
         "id": 14293,
         "name": "Niels Bollmann",
         "short_name": null,
-        "start": "1982-09-10",
-        "end": "1986-03-12",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "14294": {
@@ -16947,7 +16947,7 @@
         "id": 14295,
         "name": "Tove Frederiksen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16955,7 +16955,7 @@
         "id": 14296,
         "name": "Lilli Gyldenkilde",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -16963,7 +16963,7 @@
         "id": 14297,
         "name": "Alice Hedegaard",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16971,15 +16971,15 @@
         "id": 14298,
         "name": "Ingolf Knudsen",
         "short_name": null,
-        "start": "1978-10-03",
-        "end": "1979-01-10",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "14299": {
         "id": 14299,
         "name": "Ib Langsted",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16987,7 +16987,7 @@
         "id": 14300,
         "name": "John Lawaetz",
         "short_name": null,
-        "start": "1982-10-05",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -16995,7 +16995,7 @@
         "id": 14301,
         "name": "Asger Lindinger",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -17003,7 +17003,7 @@
         "id": 14302,
         "name": "Niels Mølgaard",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -17011,7 +17011,7 @@
         "id": 14303,
         "name": "Ernst Prehn",
         "short_name": null,
-        "start": null,
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -17019,7 +17019,7 @@
         "id": 14304,
         "name": "Ernst B. Schmidt",
         "short_name": null,
-        "start": "1991-10-01",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -17027,7 +17027,7 @@
         "id": 14305,
         "name": "Lis Starcke",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -17035,7 +17035,7 @@
         "id": 14306,
         "name": "Marinus Sørensen",
         "short_name": null,
-        "start": "1977-02-15",
+        "start": "1977-10-04",
         "end": null,
         "periodid": null
     },
@@ -17139,7 +17139,7 @@
         "id": 14342,
         "name": "Ole Bernt Henriksen",
         "short_name": null,
-        "start": "1994-02-12",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17195,7 +17195,7 @@
         "id": 14350,
         "name": "Finn Kledal",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -17219,7 +17219,7 @@
         "id": 14353,
         "name": "Eigil Schytt",
         "short_name": null,
-        "start": "1967-10-03",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -17259,7 +17259,7 @@
         "id": 14390,
         "name": "Ole Flygaard",
         "short_name": null,
-        "start": "1981-10-06",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -17283,7 +17283,7 @@
         "id": 14408,
         "name": "Birgith Mogensen",
         "short_name": null,
-        "start": "1982-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17347,8 +17347,8 @@
         "id": 14437,
         "name": "Lars P. Gammelgaard",
         "short_name": null,
-        "start": "1993-10-05",
-        "end": "1994-02-11",
+        "start": "1986-10-07",
+        "end": null,
         "periodid": null
     },
     "14438": {
@@ -17371,7 +17371,7 @@
         "id": 14440,
         "name": "Agnete Laustsen",
         "short_name": null,
-        "start": "1993-10-05",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17547,7 +17547,7 @@
         "id": 14505,
         "name": "Knud Østergaard",
         "short_name": null,
-        "start": null,
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17611,7 +17611,7 @@
         "id": 14567,
         "name": "Carsten Andersen",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17627,7 +17627,7 @@
         "id": 14570,
         "name": "Hanne Thanning Jacobsen",
         "short_name": null,
-        "start": "1985-10-01",
+        "start": "1986-10-07",
         "end": null,
         "periodid": null
     },
@@ -17667,8 +17667,8 @@
         "id": 14635,
         "name": "H. P. Clausen",
         "short_name": null,
-        "start": "1993-10-05",
-        "end": null,
+        "start": "1989-01-10",
+        "end": "1989-10-05",
         "periodid": null
     },
     "14643": {
@@ -18563,8 +18563,8 @@
         "id": 15058,
         "name": "K. Axel Nielsen",
         "short_name": null,
-        "start": "1971-09-21",
-        "end": null,
+        "start": "1971-10-11",
+        "end": "1973-09-27",
         "periodid": null
     },
     "15059": {
@@ -18587,7 +18587,7 @@
         "id": 15061,
         "name": "Evald Kristensen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -18931,8 +18931,8 @@
         "id": 15106,
         "name": "K. Thestrup",
         "short_name": null,
-        "start": "1971-09-21",
-        "end": null,
+        "start": "1968-02-02",
+        "end": "1971-10-11",
         "periodid": null
     },
     "15107": {
@@ -19347,7 +19347,7 @@
         "id": 15203,
         "name": "H. C. Toft",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -19539,7 +19539,7 @@
         "id": 15250,
         "name": "Adam Møller",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -19699,7 +19699,7 @@
         "id": 15310,
         "name": "Arne Larsen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -19707,7 +19707,7 @@
         "id": 15311,
         "name": "Knud Thomsen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -19931,7 +19931,7 @@
         "id": 15348,
         "name": "E. Juul-Madsen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -19987,7 +19987,7 @@
         "id": 15368,
         "name": "Erik Hansen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20187,7 +20187,7 @@
         "id": 15420,
         "name": "K. Helveg Petersen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20211,7 +20211,7 @@
         "id": 15423,
         "name": "Jens Frandsen",
         "short_name": null,
-        "start": "1970-10-06",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20411,8 +20411,8 @@
         "id": 15504,
         "name": "Carl Bertel Pedersen",
         "short_name": null,
-        "start": "1971-09-21",
-        "end": null,
+        "start": "1973-12-04",
+        "end": "1974-06-20",
         "periodid": null
     },
     "15505": {
@@ -20443,7 +20443,7 @@
         "id": 15508,
         "name": "Poul Antonsen",
         "short_name": null,
-        "start": "1967-10-03",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20563,7 +20563,7 @@
         "id": 15542,
         "name": "Dagmar Andreasen",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20603,7 +20603,7 @@
         "id": 15547,
         "name": "Meta Ditzel",
         "short_name": null,
-        "start": "1971-09-21",
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20707,7 +20707,7 @@
         "id": 15610,
         "name": "Poul Overgaard Nielsen",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20739,7 +20739,7 @@
         "id": 15614,
         "name": "Grete Westergaard",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20755,7 +20755,7 @@
         "id": 15616,
         "name": "Lauge Dahlgaard",
         "short_name": null,
-        "start": null,
+        "start": "1973-12-04",
         "end": null,
         "periodid": null
     },
@@ -20867,7 +20867,7 @@
         "id": 15663,
         "name": "Egon Højland",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20875,7 +20875,7 @@
         "id": 15664,
         "name": "Palle Tillisch",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20891,7 +20891,7 @@
         "id": 15666,
         "name": "Holger Lindholt",
         "short_name": null,
-        "start": "1974-12-24",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20899,7 +20899,7 @@
         "id": 15667,
         "name": "Hans Jørgen Holten",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20923,7 +20923,7 @@
         "id": 15670,
         "name": "Børge Pedersen",
         "short_name": null,
-        "start": "1974-10-01",
+        "start": null,
         "end": null,
         "periodid": null
     },
@@ -20931,16 +20931,16 @@
         "id": 15671,
         "name": "Ingeborg Gjerding",
         "short_name": null,
-        "start": "1974-10-01",
-        "end": "1974-12-13",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "15672": {
         "id": 15672,
         "name": "Hans Jørgen Iversen",
         "short_name": null,
-        "start": "1974-11-20",
-        "end": "1974-11-28",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "15673": {
@@ -21018,14 +21018,6 @@
     "15695": {
         "id": 15695,
         "name": "Ole Thamsen",
-        "short_name": null,
-        "start": null,
-        "end": null,
-        "periodid": null
-    },
-    "15696": {
-        "id": 15696,
-        "name": "Oluf Simonsen",
         "short_name": null,
         "start": null,
         "end": null,
@@ -21572,7 +21564,7 @@
         "name": "Mads Fallesen",
         "short_name": null,
         "start": "2021-10-06",
-        "end": "2022-03-27",
+        "end": null,
         "periodid": null
     },
     "15970": {
@@ -22187,7 +22179,7 @@
         "id": 17140,
         "name": "Orla Østerby",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -22195,8 +22187,8 @@
         "id": 17141,
         "name": "Brigitte Klintskov Jerkel",
         "short_name": null,
-        "start": "2022-04-07",
-        "end": "2022-04-07",
+        "start": "2021-10-06",
+        "end": null,
         "periodid": null
     },
     "17153": {
@@ -22315,7 +22307,7 @@
         "id": 17322,
         "name": "Bodil Marsden",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -22331,8 +22323,8 @@
         "id": 17360,
         "name": "Merete Scheelsbeck",
         "short_name": null,
-        "start": "2018-10-02",
-        "end": "2019-06-05",
+        "start": "2021-02-01",
+        "end": "2021-04-30",
         "periodid": null
     },
     "17378": {
@@ -22411,8 +22403,8 @@
         "id": 17547,
         "name": "Adam Hyllested",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": null,
+        "start": "2021-10-06",
+        "end": "2022-05-01",
         "periodid": null
     },
     "17548": {
@@ -22459,7 +22451,7 @@
         "id": 17568,
         "name": "Svend Thorhauge (udpeget af RV)",
         "short_name": null,
-        "start": "2018-10-01",
+        "start": "2022-10-01",
         "end": null,
         "periodid": null
     },
@@ -22492,15 +22484,15 @@
         "name": "Carl Valentin",
         "short_name": null,
         "start": "2021-10-06",
-        "end": "2021-12-19",
+        "end": null,
         "periodid": null
     },
     "17629": {
         "id": 17629,
         "name": "Mads Fuglede",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": null,
+        "start": "2022-02-01",
+        "end": "2022-03-22",
         "periodid": null
     },
     "17656": {
@@ -22707,8 +22699,8 @@
         "id": 17990,
         "name": "Tommy Ahlers",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": "2021-08-10",
+        "start": "2020-10-06",
+        "end": "2021-08-11",
         "periodid": null
     },
     "18133": {
@@ -22859,7 +22851,7 @@
         "id": 18386,
         "name": "Stine Sofie Mathisen",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23019,7 +23011,7 @@
         "id": 18565,
         "name": "Thomas Pedersen",
         "short_name": null,
-        "start": "2022-03-28",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23059,7 +23051,7 @@
         "id": 18623,
         "name": "Kirstine Chege",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23083,7 +23075,7 @@
         "id": 18688,
         "name": "Aki-Matilda Høegh-Dam",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23099,8 +23091,8 @@
         "id": 18692,
         "name": "Susanne Zimmer",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": "2022-02-28",
+        "start": "2022-05-03",
+        "end": null,
         "periodid": null
     },
     "18693": {
@@ -23115,24 +23107,24 @@
         "id": 18694,
         "name": "Victoria Velasquez",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": "2021-03-02",
+        "start": null,
+        "end": null,
         "periodid": null
     },
     "18695": {
         "id": 18695,
         "name": "Kim Valentin",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": null,
+        "start": "2022-02-01",
+        "end": "2022-03-23",
         "periodid": null
     },
     "18696": {
         "id": 18696,
         "name": "Morten Dahlin",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": null,
+        "start": "2022-05-25",
+        "end": "2022-05-25",
         "periodid": null
     },
     "18697": {
@@ -23155,16 +23147,16 @@
         "id": 18699,
         "name": "Christoffer Aagaard Melson",
         "short_name": null,
-        "start": "2022-02-03",
-        "end": "2022-02-03",
+        "start": "2022-04-28",
+        "end": "2022-04-28",
         "periodid": null
     },
     "18700": {
         "id": 18700,
         "name": "Heidi Bank",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": "2021-11-02",
+        "start": "2022-05-04",
+        "end": "2022-05-04",
         "periodid": null
     },
     "18701": {
@@ -23179,7 +23171,7 @@
         "id": 18702,
         "name": "Anne Honoré Østergaard",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23187,7 +23179,7 @@
         "id": 18703,
         "name": "Alex Vanopslagh",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-11-09",
         "end": null,
         "periodid": null
     },
@@ -23204,15 +23196,15 @@
         "name": "Ina Strøjer-Schmidt",
         "short_name": null,
         "start": "2021-10-06",
-        "end": null,
+        "end": "2022-06-07",
         "periodid": null
     },
     "18706": {
         "id": 18706,
         "name": "Anne Valentina Berthelsen",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": "2021-04-21",
+        "start": "2021-10-06",
+        "end": null,
         "periodid": null
     },
     "18707": {
@@ -23235,8 +23227,8 @@
         "id": 18709,
         "name": "Signe Munk",
         "short_name": null,
-        "start": "2021-04-22",
-        "end": "2021-04-22",
+        "start": "2021-10-06",
+        "end": "2021-10-06",
         "periodid": null
     },
     "18710": {
@@ -23251,8 +23243,8 @@
         "id": 18711,
         "name": "Birgitte Bergman",
         "short_name": null,
-        "start": "2022-03-22",
-        "end": "2022-03-22",
+        "start": "2021-10-06",
+        "end": null,
         "periodid": null
     },
     "18712": {
@@ -23267,7 +23259,7 @@
         "id": 18713,
         "name": "Mona Juul",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23275,15 +23267,15 @@
         "id": 18714,
         "name": "Kasper Sand Kjær",
         "short_name": null,
-        "start": "2021-10-06",
-        "end": "2021-11-09",
+        "start": "2022-02-08",
+        "end": null,
         "periodid": null
     },
     "18715": {
         "id": 18715,
         "name": "Henrik Møller",
         "short_name": null,
-        "start": "2020-11-04",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23292,7 +23284,7 @@
         "name": "Rasmus Stoklund",
         "short_name": null,
         "start": "2021-10-06",
-        "end": null,
+        "end": "2022-05-02",
         "periodid": null
     },
     "18717": {
@@ -23323,7 +23315,7 @@
         "id": 18720,
         "name": "Camilla Fabricius",
         "short_name": null,
-        "start": "2022-03-15",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23339,8 +23331,8 @@
         "id": 18722,
         "name": "Peter Seier Christensen",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": null,
+        "start": "2021-10-06",
+        "end": "2022-02-22",
         "periodid": null
     },
     "18723": {
@@ -23355,7 +23347,7 @@
         "id": 18724,
         "name": "Lars Boje Mathiesen",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23363,16 +23355,16 @@
         "id": 18725,
         "name": "Samira Nawa",
         "short_name": null,
-        "start": "2020-10-20",
-        "end": "2021-02-01",
+        "start": "2021-11-24",
+        "end": "2021-11-24",
         "periodid": null
     },
     "18726": {
         "id": 18726,
         "name": "Stinus Lindgreen",
         "short_name": null,
-        "start": "2021-12-06",
-        "end": "2022-02-06",
+        "start": "2021-10-06",
+        "end": "2021-10-11",
         "periodid": null
     },
     "18727": {
@@ -23395,7 +23387,7 @@
         "id": 18729,
         "name": "Katrine Robsøe",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23403,8 +23395,8 @@
         "id": 18736,
         "name": "Egil Hulgaard",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": "2021-03-29",
+        "start": "2020-10-06",
+        "end": "2021-03-28",
         "periodid": null
     },
     "18741": {
@@ -23499,7 +23491,7 @@
         "id": 18946,
         "name": "Mathias Grønbek Lydholm",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23507,7 +23499,7 @@
         "id": 18947,
         "name": "Sofie Hvid Bang",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23540,7 +23532,7 @@
         "name": "Theresa Berg Andersen",
         "short_name": null,
         "start": "2020-12-15",
-        "end": "2021-08-15",
+        "end": "2021-08-01",
         "periodid": null
     },
     "19002": {
@@ -23548,7 +23540,7 @@
         "name": "Gitte Willumsen",
         "short_name": null,
         "start": "2022-01-12",
-        "end": null,
+        "end": "2022-05-24",
         "periodid": null
     },
     "19016": {
@@ -23683,7 +23675,7 @@
         "id": 19196,
         "name": "Ruben Kidde",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2020-10-06",
         "end": "2021-02-02",
         "periodid": null
     },
@@ -23939,7 +23931,7 @@
         "id": 19422,
         "name": "Sebastian Sommer",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -23947,8 +23939,8 @@
         "id": 19424,
         "name": "Hans Erling Hækkerup",
         "short_name": null,
-        "start": "1970-10-06",
-        "end": null,
+        "start": "1953-09-30",
+        "end": "1964-09-26",
         "periodid": null
     },
     "19435": {
@@ -23971,8 +23963,8 @@
         "id": 19443,
         "name": "Mette Buskjær Rasmussen",
         "short_name": null,
-        "start": "2020-10-07",
-        "end": null,
+        "start": "2021-10-06",
+        "end": "2022-05-23",
         "periodid": null
     },
     "19453": {
@@ -23987,8 +23979,8 @@
         "id": 19461,
         "name": "Magnus Rasmussen",
         "short_name": null,
-        "start": null,
-        "end": null,
+        "start": "2020-11-03",
+        "end": "2020-11-10",
         "periodid": null
     },
     "19473": {
@@ -24003,7 +23995,7 @@
         "id": 19475,
         "name": "Susan Kronborg",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -24011,7 +24003,7 @@
         "id": 19480,
         "name": "Henrik Vinther",
         "short_name": null,
-        "start": "2021-02-02",
+        "start": "2020-11-17",
         "end": "2021-06-04",
         "periodid": null
     },
@@ -24091,7 +24083,7 @@
         "id": 19543,
         "name": "Daniel Enslev",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -24115,7 +24107,7 @@
         "id": 19548,
         "name": "Andreas Sommer Møller",
         "short_name": null,
-        "start": "2020-10-07",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -24156,7 +24148,7 @@
         "name": "Mads Andersen",
         "short_name": null,
         "start": "2021-04-13",
-        "end": "2021-05-25",
+        "end": "2021-08-16",
         "periodid": null
     },
     "19701": {
@@ -24187,8 +24179,8 @@
         "id": 19748,
         "name": "Stine Pilt Olsen",
         "short_name": null,
-        "start": "2021-06-08",
-        "end": "2021-06-08",
+        "start": "2021-05-20",
+        "end": "2021-07-31",
         "periodid": null
     },
     "19749": {
@@ -24267,7 +24259,7 @@
         "id": 19809,
         "name": "Christina Thorholm",
         "short_name": null,
-        "start": "2021-10-05",
+        "start": "2021-10-06",
         "end": null,
         "periodid": null
     },
@@ -24291,7 +24283,7 @@
         "id": 19826,
         "name": "Dennis Barndorph Sichlau",
         "short_name": null,
-        "start": null,
+        "start": "2021-11-25",
         "end": null,
         "periodid": null
     },
@@ -24331,8 +24323,8 @@
         "id": 19919,
         "name": "Brian Bressendorff",
         "short_name": null,
-        "start": "2022-01-25",
-        "end": null,
+        "start": "2022-05-03",
+        "end": "2022-05-31",
         "periodid": null
     },
     "19920": {
@@ -24340,7 +24332,7 @@
         "name": "Karsten Filsø",
         "short_name": null,
         "start": "2021-10-07",
-        "end": "2021-12-31",
+        "end": "2022-01-03",
         "periodid": null
     },
     "19928": {
@@ -24356,7 +24348,7 @@
         "name": "Mark Grossmann",
         "short_name": null,
         "start": "2021-10-14",
-        "end": "2021-12-13",
+        "end": "2021-11-14",
         "periodid": null
     },
     "19950": {
@@ -24404,7 +24396,7 @@
         "name": "Jan Bjergskov Larsen",
         "short_name": null,
         "start": "2022-04-07",
-        "end": null,
+        "end": "2022-05-09",
         "periodid": null
     },
     "19996": {
@@ -24412,7 +24404,7 @@
         "name": "Helgi Abrahamsen",
         "short_name": null,
         "start": "2021-12-07",
-        "end": "2021-12-14",
+        "end": "2021-12-15",
         "periodid": null
     },
     "19997": {
@@ -24460,7 +24452,7 @@
         "name": "Theis Kylling Hommeltoft",
         "short_name": null,
         "start": "2022-01-20",
-        "end": null,
+        "end": "2022-04-24",
         "periodid": null
     },
     "20056": {
@@ -24500,6 +24492,70 @@
         "name": "Kirsten Hermansen",
         "short_name": null,
         "start": "2022-03-28",
+        "end": null,
+        "periodid": null
+    },
+    "20128": {
+        "id": 20128,
+        "name": "Ida Holmgaard",
+        "short_name": null,
+        "start": "2022-05-16",
+        "end": null,
+        "periodid": null
+    },
+    "20130": {
+        "id": 20130,
+        "name": "Nina Merete Bille",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20132": {
+        "id": 20132,
+        "name": "Rasmus Beltofte (udpeget af RV)",
+        "short_name": null,
+        "start": "2022-06-01",
+        "end": null,
+        "periodid": null
+    },
+    "20133": {
+        "id": 20133,
+        "name": "Jesper Roulund (udpeget af KF)",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20135": {
+        "id": 20135,
+        "name": "Lisbeth Torfing (udpeget af EL)",
+        "short_name": null,
+        "start": null,
+        "end": null,
+        "periodid": null
+    },
+    "20144": {
+        "id": 20144,
+        "name": "Maria Gudme",
+        "short_name": null,
+        "start": "2022-05-18",
+        "end": null,
+        "periodid": null
+    },
+    "20159": {
+        "id": 20159,
+        "name": "Mikkel Irminger Sarbo (udpeget af RV)",
+        "short_name": null,
+        "start": "2022-10-01",
+        "end": null,
+        "periodid": null
+    },
+    "20164": {
+        "id": 20164,
+        "name": "August Gammelgaard Hjørnet",
+        "short_name": null,
+        "start": null,
         "end": null,
         "periodid": null
     }

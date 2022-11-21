@@ -3576,17 +3576,6 @@
             "type": "Udvalg"
         },
         {
-            "id": 22740515,
-            "from_actor": 5,
-            "to_actor": 16742,
-            "start": "2016-06-01",
-            "end": "2019-02-18",
-            "role": "medlem",
-            "from_actor_name": "Frank Aaen",
-            "to_actor_name": "Landsskatteretten",
-            "type": "Kommission"
-        },
-        {
             "id": 22740516,
             "from_actor": 5,
             "to_actor": 21,
@@ -5949,6 +5938,17 @@
             "role": "næstformand",
             "from_actor_name": "Frank Aaen",
             "to_actor_name": "Statsrevisorerne",
+            "type": "Kommission"
+        },
+        {
+            "id": 32722688,
+            "from_actor": 5,
+            "to_actor": 16742,
+            "start": "2016-06-01",
+            "end": "2019-02-18",
+            "role": "medlem",
+            "from_actor_name": "Frank Aaen",
+            "to_actor_name": "Landsskatteretten",
             "type": "Kommission"
         }
     ]

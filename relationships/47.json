@@ -1299,17 +1299,6 @@
             "type": "Ministertitel"
         },
         {
-            "id": 22769820,
-            "from_actor": 47,
-            "to_actor": 45,
-            "start": "2013-12-12",
-            "end": "2014-10-10",
-            "role": "Minister",
-            "from_actor_name": "Karen Hækkerup",
-            "to_actor_name": "justitsministeren",
-            "type": "Ministertitel"
-        },
-        {
             "id": 22769821,
             "from_actor": 47,
             "to_actor": 346,
@@ -1836,6 +1825,17 @@
             "from_actor_name": "Karen Hækkerup",
             "to_actor_name": "Folketinget",
             "type": "Parlamentarisk Forsamling"
+        },
+        {
+            "id": 32153123,
+            "from_actor": 47,
+            "to_actor": 45,
+            "start": "2013-12-12",
+            "end": "2014-10-10",
+            "role": "Minister",
+            "from_actor_name": "Karen Hækkerup",
+            "to_actor_name": "justitsministeren",
+            "type": "Ministertitel"
         }
     ]
 }

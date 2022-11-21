@@ -1167,17 +1167,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 22649579,
-            "from_actor": 153,
-            "to_actor": 14617,
-            "start": "1986-10-07",
-            "end": "1987-09-08",
-            "role": "medlem",
-            "from_actor_name": "Per Stig Møller",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 22649580,
             "from_actor": 153,
             "to_actor": 14583,
@@ -1473,6 +1462,17 @@
             "from_actor_name": "Per Stig Møller",
             "to_actor_name": "kulturministeren",
             "type": "Ministertitel"
+        },
+        {
+            "id": 32574953,
+            "from_actor": 153,
+            "to_actor": 14617,
+            "start": "1986-10-07",
+            "end": "1987-09-08",
+            "role": "medlem",
+            "from_actor_name": "Per Stig Møller",
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         }
     ]
 }

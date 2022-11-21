@@ -1,6 +1,7 @@
 from json.decoder import JSONDecodeError
 import multiprocessing
 
+from bs4.element import AttributeValueWithCharsetSubstitution
 from joblib.parallel import Parallel
 
 

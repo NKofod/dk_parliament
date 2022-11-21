@@ -419,17 +419,6 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 28907901,
-            "from_actor": 103,
-            "to_actor": 19352,
-            "start": "2021-09-19",
-            "end": "2021-10-05",
-            "role": "medlem",
-            "from_actor_name": "Anne Sina",
-            "to_actor_name": "Folketinget",
-            "type": "Parlamentarisk Forsamling"
-        },
-        {
             "id": 28907902,
             "from_actor": 103,
             "to_actor": 19353,
@@ -958,17 +947,6 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 30989327,
-            "from_actor": 103,
-            "to_actor": 19906,
-            "start": "2021-10-06",
-            "end": "2021-11-15",
-            "role": "medlem",
-            "from_actor_name": "Anne Sina",
-            "to_actor_name": "Retsudvalget",
-            "type": "Udvalg"
-        },
-        {
             "id": 31259477,
             "from_actor": 103,
             "to_actor": 19392,
@@ -980,40 +958,18 @@
             "type": "Udvalg"
         },
         {
-            "id": 31503574,
+            "id": 32071551,
             "from_actor": 103,
-            "to_actor": 19897,
-            "start": "2021-10-06",
-            "end": "2021-11-15",
+            "to_actor": 19352,
+            "start": "2021-09-19",
+            "end": "2021-10-05",
             "role": "medlem",
             "from_actor_name": "Anne Sina",
-            "to_actor_name": "Finansudvalget",
-            "type": "Udvalg"
+            "to_actor_name": "Folketinget",
+            "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31557883,
-            "from_actor": 103,
-            "to_actor": 19896,
-            "start": "2021-10-06",
-            "end": "2021-11-15",
-            "role": "medlem",
-            "from_actor_name": "Anne Sina",
-            "to_actor_name": "Epidemiudvalget",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31666244,
-            "from_actor": 103,
-            "to_actor": 19878,
-            "start": "2021-10-06",
-            "end": "2021-11-15",
-            "role": "medlem",
-            "from_actor_name": "Anne Sina",
-            "to_actor_name": "Udvalget for Forretningsordenen",
-            "type": "Udvalg"
-        },
-        {
-            "id": 31666426,
+            "id": 32525278,
             "from_actor": 103,
             "to_actor": 19855,
             "start": "2021-10-05",
@@ -1024,7 +980,7 @@
             "type": "Folketingsgruppe"
         },
         {
-            "id": 31666487,
+            "id": 32525341,
             "from_actor": 103,
             "to_actor": 19854,
             "start": "2021-10-05",
@@ -1035,7 +991,18 @@
             "type": "Parlamentarisk Forsamling"
         },
         {
-            "id": 31693770,
+            "id": 32774981,
+            "from_actor": 103,
+            "to_actor": 19906,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Retsudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32829281,
             "from_actor": 103,
             "to_actor": 19915,
             "start": "2021-10-06",
@@ -1046,7 +1013,40 @@
             "type": "Udvalg"
         },
         {
-            "id": 31743470,
+            "id": 32829444,
+            "from_actor": 103,
+            "to_actor": 19896,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Epidemiudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32857222,
+            "from_actor": 103,
+            "to_actor": 19878,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Udvalget for Forretningsordenen",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32938499,
+            "from_actor": 103,
+            "to_actor": 19897,
+            "start": "2021-10-06",
+            "end": "2021-11-15",
+            "role": "medlem",
+            "from_actor_name": "Anne Sina",
+            "to_actor_name": "Finansudvalget",
+            "type": "Udvalg"
+        },
+        {
+            "id": 32961069,
             "from_actor": 103,
             "to_actor": 16060,
             "start": "2016-02-09",
